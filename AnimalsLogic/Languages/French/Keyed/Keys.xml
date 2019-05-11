@@ -1,0 +1,41 @@
+<LanguageData>
+
+	<!-- Settings -->
+	<ALConfigCuriosityEatingLabel>Empêcher les animaux de manger n'importe quoi</ALConfigCuriosityEatingLabel>
+	<ALConfigCuriosityEatingTooltip>Ce paramètre empêche les animaux de manger les drogues ou les aliments qui ne sont pas dans la zone qui leur est allouée. Ils continueront néanmoins à manger votre nourriture si elle se trouve dans leur zone.</ALConfigCuriosityEatingTooltip>
+
+	<ALConfigHostilePredatorsLabel>Les prédateurs qui prennent en chasse sont considérés comme hostiles par votre faction</ALConfigHostilePredatorsLabel>
+	<ALConfigHostilePredatorsTooltip>Cela ne change pas la réponse des membres de votre faction aux menaces, mais cela leur permet de reconnaître une menace.</ALConfigHostilePredatorsTooltip>
+
+	<ALConfigEggConversionLabel>Convertir les oeufs gâtés en oeufs non fécondés</ALConfigEggConversionLabel>
+	<ALConfigEggConversionTooltip>Cela n'affecte pas les oeufs déjà gâtés.</ALConfigEggConversionTooltip>
+
+	<ALConfigMeatConversionLabel>Couvertir n'importe quel viande animale issue d'un atelier de boucher en viande de poulet</ALConfigMeatConversionLabel>
+	<ALConfigMeatConversionTooltip>Cela n'affecte pas la viande déjà hachée.</ALConfigMeatConversionTooltip>
+
+	<ALConfigMedicalAlertsLabel>Alertes médicales pour les animaux</ALConfigMedicalAlertsLabel>
+	<ALConfigMedicalAlertsTolltip>Affiche une alerte quand un animal domestique est blessé, a besoin d'aide ou si son état de santé est critique.</ALConfigMedicalAlertsTolltip>
+
+	<ALConfigTamenessDecayThresholdLabel>Perte de domestication {0}%. De base: 10.1%.</ALConfigTamenessDecayThresholdLabel>
+	<ALConfigTamenessDecayThresholdTooltip>Définir 100% pour empêcher un animal domestique de retourner à l'état sauvage.</ALConfigTamenessDecayThresholdTooltip>
+
+	<ALConfigTrainingDecaySpeedFactorLabel>Perte d'entrainement {0}. De base: 100%.</ALConfigTrainingDecaySpeedFactorLabel><!-- No % after wildcard is intentional. -->
+	<ALConfigTrainingDecaySpeedFactorTooltip>Multiplicateur appliqué à la perte d'entrainement. Définir 1% pour qu'elle soit la plus lentre possible.</ALConfigTrainingDecaySpeedFactorTooltip>
+
+	<ALConfigHaulingMTBLabel>TME du transport {0}h. De base: 1.5h.</ALConfigHaulingMTBLabel>
+	<ALConfigHaulingMTBTooltip>'TME' signifie 'Temps Moyen Entre'. Définir 0 pour augmenter significativement la productivité, mais cela peut affecter les performances en cas de nombreux animaux domestiques.</ALConfigHaulingMTBTooltip>
+
+	<!-- Medical Alerts for Animals -->
+	<AnimalNeedsTreatment>Un animal a besoin de soins</AnimalNeedsTreatment>
+	<AnimalsNeedTreatment>Des animaux ont besoin de soins</AnimalsNeedTreatment>
+	<AnimalNeedsTreatmentDesc>Ces animaux ont besoin de soins médicaux. Sans cela, ils risquent de mourir ou d'être handicapés à vie:\n\n{0}</AnimalNeedsTreatmentDesc>
+
+	<AnimalNeedsRescue>Un animal a besoin d'aide</AnimalNeedsRescue>
+	<AnimalsNeedRescue>Des animaux ont besoin d'aide</AnimalsNeedRescue>
+	<AnimalsNeedRescueDesc>Ces animaux sont inconscients:\n\n{0}\nEnvoyer un colon les secourir.\n\n(Pour ce faire, sélectionner un colon, cliquer sur la victime à l'aide du bouton droit de la souris et sélectionner Secourir)</AnimalsNeedRescueDesc>
+
+	<AnimalsWithLifeThreateningDisease>Urgence médicale (animaux)</AnimalsWithLifeThreateningDisease>
+	<AnimalsWithLifeThreateningDiseaseAmputationDesc>Des animaux sont en péril en raison de maladies grâves:\n\n{0}\nSi possible, procéder à des amputations des membres infectés ou les remplacer.</AnimalsWithLifeThreateningDiseaseAmputationDesc>
+	<AnimalsWithLifeThreateningDiseaseDesc>Des animaux sont en péril en raison de maladies grâves:\n\n{0}\nVous assurer qu'ils reçoivent la meilleure aide médicale possible.</AnimalsWithLifeThreateningDiseaseDesc>
+
+</LanguageData>
