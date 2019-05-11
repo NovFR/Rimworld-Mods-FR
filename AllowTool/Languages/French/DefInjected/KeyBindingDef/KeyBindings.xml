@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DesignatorAllow.label>Désignation: Autoriser</DesignatorAllow.label>
+	<DesignatorForbid.label>Désignation: Interdire</DesignatorForbid.label>
+	<DesignatorAllowAll.label>Désignation: Tout autoriser</DesignatorAllowAll.label>
+	<DesignatorSelectSimilar.label>Désignation: Sélectionner similaire</DesignatorSelectSimilar.label>
+	<DesignatorHaulUrgently.label>Désignation: Transporter en urgence</DesignatorHaulUrgently.label>
+	<DesignatorFinishOff.label>Désignation: Coup de grâce</DesignatorFinishOff.label>
+	<ToolContextMenuAction.label>Outil en cours: Action contextuelle</ToolContextMenuAction.label>
+
+</LanguageData>
