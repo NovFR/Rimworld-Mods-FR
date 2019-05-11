@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HaulUrgently.label>transporter des objets en urgence</HaulUrgently.label>
+	<HaulUrgently.verb>transporter en urgence</HaulUrgently.verb>
+	<HaulUrgently.gerund>transporte en urgence</HaulUrgently.gerund>
+
+	<FinishOff.label>achèver une créature</FinishOff.label>
+	<FinishOff.verb>achever une créature</FinishOff.verb>
+	<FinishOff.gerund>achève une créature</FinishOff.gerund>
+
+</LanguageData>
