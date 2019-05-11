@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HaulingUrgent.labelShort>Transport+</HaulingUrgent.labelShort>
+	<HaulingUrgent.pawnLabel>transporteur d'urgence</HaulingUrgent.pawnLabel>
+	<HaulingUrgent.gerundLabel>transport d'urgence</HaulingUrgent.gerundLabel>
+	<HaulingUrgent.verb>transporter</HaulingUrgent.verb>
+	<HaulingUrgent.description>Fonctionne comme le transport normal mais uniquement pour les objets marqués pour être transportés en urgence. Utiliser &lt;b&gt;Architecte &gt; Ordres &gt; Transporter en urgence&lt;/b&gt; pour marquer les objets.</HaulingUrgent.description>
+
+	<FinishingOff.labelShort>Coup de grâce</FinishingOff.labelShort>
+	<FinishingOff.pawnLabel>exécuteur</FinishingOff.pawnLabel>
+	<FinishingOff.gerundLabel>coup de grâce</FinishingOff.gerundLabel>
+	<FinishingOff.verb>achever</FinishingOff.verb>
+	<FinishingOff.description>Achève rapidement les créatures inconscientes.</FinishingOff.description>
+
+</LanguageData>
