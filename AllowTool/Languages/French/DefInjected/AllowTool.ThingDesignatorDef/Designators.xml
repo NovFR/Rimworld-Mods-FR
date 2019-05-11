@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AllowDesignator.label>Autoriser</AllowDesignator.label>
+	<AllowDesignator.description>Autoriser tous les objets de la zone définie.\n\nCliquer, maintenir et glisser pour délimiter la zone.</AllowDesignator.description>
+
+	<ForbidDesignator.label>Interdire</ForbidDesignator.label>
+	<ForbidDesignator.description>Interdire tous les objets de la zone définie.\n\nCliquer, maintenir et glisser pour délimiter la zone.</ForbidDesignator.description>
+
+	<AllowAllDesignator.label>Tout autoriser</AllowAllDesignator.label>
+	<AllowAllDesignator.description>Autoriser tous les objets interdits de la zone.\n\nCliquer pour activer.\n\n&lt;b&gt;Maintenir Ctrl/Option&lt;/b&gt; pour inclure les bâtiments.\n&lt;b&gt;Maintenir Maj&lt;/b&gt; pour inclure les squelettes et les cadavres en décomposition.</AllowAllDesignator.description>
+
+	<SelectSimilarDesignator.label>Sélectionner similaire</SelectSimilarDesignator.label>
+	<SelectSimilarDesignator.description>Sélectionner uniquement ce qui est similaire à la sélection.\n\n&lt;b&gt;Maintenir Maj&lt;/b&gt; pour choisir des objets supplémentaires.\n&lt;b&gt;Maintenir Alt&lt;/b&gt; pour ignorer la limite de sélection.</SelectSimilarDesignator.description>
+
+	<HaulUrgentlyDesignator.label>Transporter en urgence</HaulUrgentlyDesignator.label>
+	<HaulUrgentlyDesignator.description>Marquer les objets afin qu'ils soit transportés en priorité. Les colons metteront leurs autres activités de côté le temps du transport.\nPeut être configuré dans l'onglet Travail.\n\n&lt;b&gt;Maintenir Maj&lt;/b&gt; pour interrompre l'occupation actuelle des colons.</HaulUrgentlyDesignator.description>
+
+	<FinishOffDesignator.label>Coup de grâce</FinishOffDesignator.label>
+	<FinishOffDesignator.description>Achèver rapidement les créatures inconscientes.\n\n&lt;b&gt;Maintenir Maj&lt;/b&gt; pour inclure les colons et alliés.</FinishOffDesignator.description>
+
+</LanguageData>
