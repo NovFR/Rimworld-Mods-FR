@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<QC_Research_QuantumCooler_I.label>Prototypes quantiques</QC_Research_QuantumCooler_I.label>
+	<QC_Research_QuantumCooler_I.description>Requis pour débloquer le refroidisseur quantique. Est-ce seulement possible?</QC_Research_QuantumCooler_I.description>
+
+	<QC_Research_QuantumCooler_II.label>Refroidisseur quantique</QC_Research_QuantumCooler_II.label>
+	<QC_Research_QuantumCooler_II.description>Requis pour débloquer le refroidisseur quantique. Les recherches sur la mécanique quantique peuvent nous permettre de trouver un moyen de réduire l'entropie sans la déplacer.</QC_Research_QuantumCooler_II.description>
+
+	<QC_Research_QuantumHeater_II.label>Chauffage quantique</QC_Research_QuantumHeater_II.label>
+	<QC_Research_QuantumHeater_II.description>Requis pour débloquer le chauffage quantique. Les recherches sur la mécanique quantique peuvent nous permettre d'obtenir une source de chaleur compacte.</QC_Research_QuantumHeater_II.description>
+
+</LanguageData>

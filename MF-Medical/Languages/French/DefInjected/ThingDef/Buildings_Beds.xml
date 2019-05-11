@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bed_OperatingTable.label>table d'opération</Bed_OperatingTable.label>
+	<Bed_OperatingTable.description>Une table jonchée d'instruments chirurgicaux permettant, théoriquement, d'accélérer les opérations. La proprété de la table laisse toutefois à désirer. Améliore légèrement les soins prodigués par rapport aux lits normaux.</Bed_OperatingTable.description>
+
+	<Bed_CryptoBed.label>lit cryogénique</Bed_CryptoBed.label>
+	<Bed_CryptoBed.description>Place le patient dans un léger sommeil cryogénique afin de faciliter la guérison. Provoque néanmoins des effets secondaires semblables, bien que moins sévères, à ceux observés lors d'un passage en caisson d'hypersommeil.</Bed_CryptoBed.description>
+
+</LanguageData>

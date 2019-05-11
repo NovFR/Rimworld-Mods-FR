@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bed_Ergonomic.label>lit ergonomique</Bed_Ergonomic.label>
+	<Bed_Ergonomic.description>Un lit spécialement étudié pour épouser la forme du dos. Améliore la qualité du sommeil.</Bed_Ergonomic.description>
+
+	<Bed_DoubleErgonomic.label>lit double ergonomique</Bed_DoubleErgonomic.label>
+	<Bed_DoubleErgonomic.description>Un lit double spécialement étudié pour épouser la forme du dos. Améliore la qualité du sommeil.</Bed_DoubleErgonomic.description>
+
+	<Table_Wardrobe.label>garde-robe</Table_Wardrobe.label>
+	<Table_Wardrobe.description>Un meuble pour ranger les vêtements et autres affaires. Procure un bonus de confort à tous les lits à proximité. Placer plus d'une garde-robe pour un même lit n'a aucun effet.</Table_Wardrobe.description>
+
+	<Seat_ModernChair.label>chaise ergonomique</Seat_ModernChair.label>
+	<Seat_ModernChair.description>Une chaise conçue pour épouser la forme du corps humain. Procure un bonus de confort.</Seat_ModernChair.description>
+
+	<Light_ModernLamp.label>lampe moderne</Light_ModernLamp.label>
+	<Light_ModernLamp.description>Une lampe économique qui transforme l'électricité en lumière, utile pour éclairer les pièces. Provoque des court-circuits si elle est placée sous la pluie.</Light_ModernLamp.description>
+
+</LanguageData>

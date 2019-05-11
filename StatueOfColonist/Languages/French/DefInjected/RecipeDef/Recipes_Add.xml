@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Make_TMB_StatueOfColonistK.label>faire une petite statue de colon</Make_TMB_StatueOfColonistK.label>
+    <Make_TMB_StatueOfColonistK.description>Faire une petite statue à l'effigie d'un de vos colon.</Make_TMB_StatueOfColonistK.description>
+    <Make_TMB_StatueOfColonistK.jobString>Fait une petite statue de colon.</Make_TMB_StatueOfColonistK.jobString>
+
+    <Make_TMB_StatueOfColonistKLarge.label>faire une grande statue de colon</Make_TMB_StatueOfColonistKLarge.label>
+    <Make_TMB_StatueOfColonistKLarge.description>Faire une grande statue à l'effigie d'un de vos colon.</Make_TMB_StatueOfColonistKLarge.description>
+    <Make_TMB_StatueOfColonistKLarge.jobString>Fait une grande statue de colon.</Make_TMB_StatueOfColonistKLarge.jobString>
+
+    <Make_TMB_StatueOfColonistKGrand.label>faire une statue monumentale de colon</Make_TMB_StatueOfColonistKGrand.label>
+    <Make_TMB_StatueOfColonistKGrand.description>Faire une statue monumentale à l'effigie d'un de vos colon.</Make_TMB_StatueOfColonistKGrand.description>
+    <Make_TMB_StatueOfColonistKGrand.jobString>Fait une statue monumentale de colon.</Make_TMB_StatueOfColonistKGrand.jobString>
+
+</LanguageData>

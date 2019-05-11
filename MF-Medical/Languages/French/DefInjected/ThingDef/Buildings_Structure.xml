@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Wall_SterileRed.label>mur stérile à bordures rouges</Wall_SterileRed.label>
+	<Wall_SterileRed.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileRed.description>
+
+	<Wall_SterileGreen.label>mur stérile à bordures vertes</Wall_SterileGreen.label>
+	<Wall_SterileGreen.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileGreen.description>
+
+	<Wall_SterileBlue.label>mur stérile à bordures bleues</Wall_SterileBlue.label>
+	<Wall_SterileBlue.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileBlue.description>
+
+	<Wall_SterileCream.label>mur stérile à bordures crèmes</Wall_SterileCream.label>
+	<Wall_SterileCream.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileCream.description>
+
+	<Wall_SterileDark.label>mur stérile à bordures sombres</Wall_SterileDark.label>
+	<Wall_SterileDark.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileDark.description>
+
+	<Wall_SterileGold.label>mur stérile à bordures dorées</Wall_SterileGold.label>
+	<Wall_SterileGold.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileGold.description>
+
+	<Wall_SterileTeal.label>mur stérile à bordures sarcelle</Wall_SterileTeal.label>
+	<Wall_SterileTeal.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileTeal.description>
+
+	<Wall_SterileBrown.label>mur stérile à bordures marrons</Wall_SterileBrown.label>
+	<Wall_SterileBrown.description>Un mur plein capable de soutenir un plafond. Traité avec des produits spéciaux afin de créer un environnement stérile.</Wall_SterileBrown.description>
+
+</LanguageData>

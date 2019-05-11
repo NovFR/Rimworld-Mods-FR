@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<EnergyWeapons1.label>Effecter des recherches sur les armes à énergie</EnergyWeapons1.label>
+	<EnergyWeapons1.description>Un chercheur qualifié est nécessaire pour étudier le fonctionnement des armes à énergie Rimatomics.</EnergyWeapons1.description>
+	<ConstructWeaponBenchStep.label>Construire un poste de recherche d'armement</ConstructWeaponBenchStep.label>
+	<ConstructWeaponBenchStep.description>Le poste de recherche d'armement Rimatomics dispose de tout l'équipement nécessaire au prototypage et au test de diverses armes à énergie. C'est une structure requise pour la plupart des tests et des recherches sur les armes à énergie, les colons doivent donc pouvoir y accéder afin d'effectuer leurs expériences. Il est conseillé de le placer dans une pièce à l'épreuve du feu.</ConstructWeaponBenchStep.description>
+	<EnergyWeapExperiments.label>Procéder à des expériences sur les armes à énergie</EnergyWeapExperiments.label>
+	<EnergyWeapExperiments.description>Un chercheur doit expérimenter sur un poste de recherche d'armement et poser les bases pour de futurs projets. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</EnergyWeapExperiments.description>
+	<EnergyWeapons5.label>Construire une Station de Commande Semi Automatique (SCSA)</EnergyWeapons5.label>
+	<EnergyWeapons5.description>Cette console est un ordinateur d'acquisition de cibles requise pour toutes les armes à énergie. Il connecte toutes les armes à énergie Rimatomics partageant le même réseau, et leur attribue des cibles à l'aide de capteurs embarqués, combiné avec le SCAC.\n\nL'écran principal affiche les cibles au sol et les projectiles en temp réel. Une jauge affiche la quantité totale d'énergie pulsée stockée sur le réseau.\nCertaines armes requièrent que la console soit utilisée par un colon pour être fonctionnelles.</EnergyWeapons5.description>
+	<EnergyWeapons6.label>Construire un Système de Communication et d'Acquisition de Cibles (SCAC)</EnergyWeapons6.label>
+	<EnergyWeapons6.description>Le SCAC utilise un ensemble de technologies pour suivre les cibles terrestres et aériennes, ce qui inclue les cibles vivantes ou robotiques, les projectiles tels que les obus de mortier ou les sabots des canons électriques, ou les missiles balistiques.</EnergyWeapons6.description>
+	<EnergyWeapons7.label>Construire un Condensateur de Puissance Pulsée (CPP)</EnergyWeapons7.label>
+	<EnergyWeapons7.description>Construire un CPP et le connecter au même réseau qu'un SCSA.\n\nLes ultra-condensateurs sont bien plus efficaces que de simples batteries et sont conçus pour délivrer la puissance nécessaire aux armes à énergie Rimatomics. Ils sont logés dans des conteneurs étanches et emmagasinent l'excédant de puissance comme des batteries standards. Il est toutefois recommandé de les isoler des batteries standards pour un fonctionnement optimal.</EnergyWeapons7.description>
+
+	<ADS1.label>Effectuer des recherches sur l'ADS</ADS1.label>
+	<ADS1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement de l'ADS avant que nous puissions en fabriquer un nous-même.</ADS1.description>
+	<ADS2.label>Faire des expériences sur les armes à énergie</ADS2.label>
+	<ADS2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</ADS2.description>
+	<ADS4.label>Construire un prototype d'ADS</ADS4.label>
+	<ADS4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</ADS4.description>
+	<ADS5.label>Collecter des données</ADS5.label>
+	<ADS5.description>Effecter un tir sur n'importe quelle cible vivante avec l'ADS afin de collecter des données sur l'arme.</ADS5.description>
+
+	<TeslaCoil1.label>Effectuer des recherches sur les bobines Tesla</TeslaCoil1.label>
+	<TeslaCoil1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement de la bobine Tesla avant que nous puissions en fabriquer une nous-même.</TeslaCoil1.description>
+	<TeslaCoil2.label>Faire des expériences sur les armes à énergie</TeslaCoil2.label>
+	<TeslaCoil2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</TeslaCoil2.description>
+	<TeslaCoil4.label>Construire un prototype de bobine Tesla</TeslaCoil4.label>
+	<TeslaCoil4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</TeslaCoil4.description>
+	<TeslaCoil5.label>Collecter des données</TeslaCoil5.label>
+	<TeslaCoil5.description>Effecter un tir sur n'importe quelle cible avec la bobine Tesla afin de collecter des données sur l'arme.</TeslaCoil5.description>
+
+	<HEL1.label>Effectuer des recherches sur le LHE</HEL1.label>
+	<HEL1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement du LHE avant que nous puissions en fabriquer un nous-même.</HEL1.description>
+	<HEL2.label>Faire des expériences sur les armes à énergie</HEL2.label>
+	<HEL2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</HEL2.description>
+	<HEL4.label>Construire un prototype de LHE</HEL4.label>
+	<HEL4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</HEL4.description>
+	<HEL5.label>Collecter des données</HEL5.label>
+	<HEL5.description>Effecter un tir sur une cible d'artillerie avec le LHE afin de collecter des données sur l'arme.</HEL5.description>
+
+	<Railgun1.label>Effectuer des recherches sur le Punisseur</Railgun1.label>
+	<Railgun1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement de la bobine Tesla avant que nous puissions en fabriquer un nous-même.</Railgun1.description>
+	<Railgun2.label>Faire des expériences sur les armes à énergie</Railgun2.label>
+	<Railgun2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</Railgun2.description>
+	<Railgun4.label>Construire un prototype de Punisseur</Railgun4.label>
+	<Railgun4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</Railgun4.description>
+	<Railgun5.label>Collecter des données</Railgun5.label>
+	<Railgun5.description>Effecter un tir sur n'importe quelle cible avec le Punisseur afin de collecter des données sur l'arme.</Railgun5.description>
+	<Railgun6.label>Collecter d'autres données</Railgun6.label>
+	<Railgun6.description>Tester la fonctionnalité "Mission de tir" du Punisseur. Envoyer une équipe sur une autre carte, sélectionner ensuite le Punisseur et cliquer sur le bouton "Mission de tir".</Railgun6.description>
+
+	<Obelisk1.label>Effectuer des recherches sur l'Obélisque</Obelisk1.label>
+	<Obelisk1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement de l'Obélisque avant que nous puissions en fabriquer un nous-même.</Obelisk1.description>
+	<Obelisk2.label>Faire des expériences sur les armes à énergie</Obelisk2.label>
+	<Obelisk2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</Obelisk2.description>
+	<Obelisk4.label>Construire un prototype d'Obélisque</Obelisk4.label>
+	<Obelisk4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</Obelisk4.description>
+	<Obelisk5.label>Collecter des données</Obelisk5.label>
+	<Obelisk5.description>Effecter un tir sur n'importe quelle cible avec l'Obélisque afin de collecter des données sur l'arme.</Obelisk5.description>
+
+	<Marauder1.label>Effectuer des recherches sur le Maraudeur</Marauder1.label>
+	<Marauder1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement du Maraudeur avant que nous puissions en fabriquer un nous-même.</Marauder1.description>
+	<Marauder2.label>Faire des expériences sur les armes à énergie</Marauder2.label>
+	<Marauder2.description>Nos chercheurs doivent procéder à des expérience sur le poste de cherche en armement afin de poser les fondations des projets futurs. Les armes à énergie Rimatomics ne sont pas aisément manipulables, la technologie doit donc être testée et comprise.\nLes experimentations peuvent s'avérer dangereuses.</Marauder2.description>
+	<Marauder4.label>Construire un prototype de Maraudeur</Marauder4.label>
+	<Marauder4.description>Les armes prototypes sont hautement instables et sont sujettes à de nombreuses défaillances. Il est recommandé de procéder aux expériences à l'écart, dans une installation à l'épreuve du feu, et d'utiliser un réseau électrique séparé.</Marauder4.description>
+	<Marauder5.label>Collecter des données</Marauder5.label>
+	<Marauder5.description>Effecter un tir avec le Maraudeur afin de collecter des données sur l'arme.</Marauder5.description>
+
+</LanguageData>

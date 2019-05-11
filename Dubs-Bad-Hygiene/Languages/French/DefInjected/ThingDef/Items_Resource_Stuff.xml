@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BedPan.label>bassin</BedPan.label>
+	<BedPan.description>Un receptacle permettant aux patients cloués au lit de faire leurs besoins.</BedPan.description>
+
+	<Biosolids.label>fertilisant</Biosolids.label>
+	<Biosolids.description>Un fertilisant issu de boues d'épuration.</Biosolids.description>
+
+	<FecalSludge.label>boues d'épuration</FecalSludge.label>
+	<FecalSludge.description>Un baril rempli de boues d'épuration, peut être déplacé, renversé au sol, ou recyclé en fertilisant.</FecalSludge.description>
+
+</LanguageData>

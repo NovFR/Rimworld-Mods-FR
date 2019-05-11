@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIRobot.label>robot</AIRobot.label>
+
+	<AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>capteur de visée gauche</AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+	<AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>capteur de visée droit</AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+	<AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>capteur sonore gauche</AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+	<AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>capteur sonore droit</AIRobot.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+
+	<AIRobot.corePart.parts.left_shoulder.customLabel>épaule gauche</AIRobot.corePart.parts.left_shoulder.customLabel>
+	<AIRobot.corePart.parts.left_shoulder.parts.left_arm.customLabel>bras gauche</AIRobot.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+	<AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>main gauche</AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+	<AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>majeur gauche</AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+	<AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>index gauche</AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+	<AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>pouce gauche</AIRobot.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+
+	<AIRobot.corePart.parts.right_mechanical_shoulder.customLabel>épaule droite</AIRobot.corePart.parts.right_mechanical_shoulder.customLabel>
+	<AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>bras droit</AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+	<AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>main droite</AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+	<AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>majeur droit</AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+	<AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>index droit</AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+	<AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>pouce droit</AIRobot.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+
+	<AIRobot.corePart.parts.left_leg.customLabel>jambe gauche</AIRobot.corePart.parts.left_leg.customLabel>
+	<AIRobot.corePart.parts.left_leg.parts.left_foot.customLabel>pied gauche</AIRobot.corePart.parts.left_leg.parts.left_foot.customLabel>
+
+	<AIRobot.corePart.parts.right_leg.customLabel>jambe droite</AIRobot.corePart.parts.right_leg.customLabel>
+	<AIRobot.corePart.parts.right_leg.parts.right_foot.customLabel>pied droit</AIRobot.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+</LanguageData>

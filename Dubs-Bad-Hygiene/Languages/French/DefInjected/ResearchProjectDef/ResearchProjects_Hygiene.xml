@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Plumbing.label>plomberie</Plumbing.label>
+	<Plumbing.description>Vous apprend à construire des tuyaux, des accessoires de plomberie, des chateaux d'eau, des puits, et d'autres appareils permettant d'obtenir de l'eau et de l'évacuer.</Plumbing.description>
+
+	<ElectricPumps.label>pompes électriques</ElectricPumps.label>
+	<ElectricPumps.description>Vous apprend à construire des pompes à eau qui fonctionnent à l'électricité afin de vous permettre de pomper l'eau plus efficacement.</ElectricPumps.description>
+
+	<DeepWells.label>puits profonds</DeepWells.label>
+	<DeepWells.description>Vous permet de creuser plus profondément afin d'accéder à une plus grande étendue d'eaux souterraines.</DeepWells.description>
+
+	<LargeWaterPumps.label>grandes pompes</LargeWaterPumps.label>
+	<LargeWaterPumps.description>Vous apprend à construire des pompes et des chateaux d'eau industriels.</LargeWaterPumps.description>
+
+	<AdvancedShowers.label>douches électriques</AdvancedShowers.label>
+	<AdvancedShowers.description>Vous apprend à fabriquer des douches électriques qui diminuent de moitié le temps nécessaire pour une douche et qui améliore le confort.</AdvancedShowers.description>
+
+	<AdvancedToilets.label>toilettes intelligentes</AdvancedToilets.label>
+	<AdvancedToilets.description>Vous apprend à fabriquer des toilettes qui consomment deux fois moins d'eau que les toilettes normales et qui améliorent le confort.</AdvancedToilets.description>
+
+	<HotTubs.label>jacuzzi</HotTubs.label>
+	<HotTubs.description>Vous apprend à fabriquer des jacuzzis pour l'hydrothérapie, la détente et le plaisir.</HotTubs.description>
+
+	<SepticTanks.label>fosses sceptiques</SepticTanks.label>
+	<SepticTanks.description>Vous apprend à construire des fosses sceptiques qui permettent un traitement modéré des eaux usées.</SepticTanks.description>
+
+	<SewageSludgeComposting.label>compost</SewageSludgeComposting.label>
+	<SewageSludgeComposting.description>Vous apprend à traiter les boues d'épuration afin qu'elles deviennent riches en nutriments, utiles en tant qu'engrais.</SewageSludgeComposting.description>
+
+	<WaterFiltration.label>filtration de l'eau</WaterFiltration.label>
+	<WaterFiltration.description>Vous apprend à construire des systèmes de filtration de l'eau qui permettent de traiter l'eau afin d'éviter les maladies.</WaterFiltration.description>
+
+	<SewageTreatment.label>traitement des eaux usées</SewageTreatment.label>
+	<SewageTreatment.description>Vous apprend à construire des stations d'épuration qui accueillent et traitent plus rapidement une grande quantité d'eaux usées.</SewageTreatment.description>
+
+	<WashingMachines.label>machines à laver</WashingMachines.label>
+	<WashingMachines.description>Vous apprend à fabriquer des machines qui lavent si bien le linge que personne ne pourrait croire qu'il appartenait auparavant à un cadavre.</WashingMachines.description>
+
+	<CentralHeating.label>chauffage central</CentralHeating.label>
+	<CentralHeating.description>Vous apprend à fabriquer des chauffe-eaux au bois ou au gaz, des ballons d'eau chaude et des radiateurs.</CentralHeating.description>
+
+	<PoweredHeating.label>chauffage électrique</PoweredHeating.label>
+	<PoweredHeating.description>Vous apprend à fabriquer des chauffe-eaux électriques et des thermostats qui permettent un meilleur contrôle des températures.</PoweredHeating.description>
+
+	<MultiSplitAirCon.label>air conditionnée</MultiSplitAirCon.label>
+	<MultiSplitAirCon.description>Vous apprend à fabriquer des systèmes de climatisation dotés d'unités extérieures raccordées à des unités intérieures et des congélateurs.</MultiSplitAirCon.description>
+
+	<Irrigation.label>irrigation</Irrigation.label>
+	<Irrigation.description>Vous apprend à fabriquer des arroseurs qui peuvent irriguer le sol pour améliorer la fertilité.</Irrigation.description>
+
+	<FireSuppression.label>lutte anti-incendie</FireSuppression.label>
+	<FireSuppression.description>Vous apprend à fabriquer des arroseurs capables d'éteindre des feux lorsqu'ils sont activés.</FireSuppression.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FloorStraw.label>sol de paille</FloorStraw.label>
+	<FloorStraw.description>Un revêtement de sol simple à base de foin séché. Hautement inflammable !</FloorStraw.description>
+
+	<BurnedStrawFloor.label>sol de paille brûlé</BurnedStrawFloor.label>
+	<BurnedStrawFloor.description>Un sol de paille victime des flammes.</BurnedStrawFloor.description>
+
+	<FloorJade.label>carrelage en jade</FloorJade.label>
+	<FloorJade.description>Un carrelage impressionnant fait de jade polie. On voit à peine la jointure entre les dalles ! Extrêmement beau mais très long à construire.</FloorJade.description>
+
+</LanguageData>

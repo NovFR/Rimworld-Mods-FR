@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RimatomicsRTG.label>G.T.R.</RimatomicsRTG.label>
+	<RimatomicsRTG.description>Un générateur électrique nucléaire de conception simple, produisant de l'électricité à partir de la chaleur résultant de la désintégration radioactive de matériaux riches en un ou plusieurs radioisotopes.</RimatomicsRTG.description>
+
+	<ReactorCoreA.label>réacteur Type A</ReactorCoreA.label>
+	<ReactorCoreA.description>Un coeur thermique de réacteur Rimatomics capable de délivrer une puissance de 250kW. Le coeur est la partie du réacteur qui contient le combustible et où la réaction nucléaire à lieu. Ce processus dégage beaucoup de chaleur.</ReactorCoreA.description>
+
+	<ReactorCoreB.label>réacteur Type X</ReactorCoreB.label>
+	<ReactorCoreB.description>Un surgénérateur qui génère plus d'isotopes fissibles qu'il n'en consomme.</ReactorCoreB.description>
+
+	<ReactorCoreC.label>réacteur Type V</ReactorCoreC.label>
+	<ReactorCoreC.description>Un surgénérateur massif qui génère plus d'isotopes fissibles qu'il n'en consomme.</ReactorCoreC.description>
+
+	<Turbine.label>turbine THOR</Turbine.label>
+	<Turbine.description>Une turbine entraînée par vapeur qui fait tourner un générateur pour produire de l'éléctricté. La turbine THOR a une capacité maximale de 100kW.</Turbine.description>
+
+	<BigTurbine.label>turbine Zeus</BigTurbine.label>
+	<BigTurbine.description>Une turbine entraînée par vapeur qui fait tourner un générateur pour produire de l'éléctricté. La turbine Zeus a une capacité maximale de 1000kW.</BigTurbine.description>
+
+	<CoolingRadiator.label>climatiseur</CoolingRadiator.label>
+	<CoolingRadiator.description>Un refroidisseur d'air conçu pour refroidir les petits réacteurs nucléaires lorsque les ressources ou l'espace sont limités.</CoolingRadiator.description>
+
+	<CoolingWater.label>système de refroissement par eau</CoolingWater.label>
+	<CoolingWater.description>Procure un refroidissement important aux réacteurs nucléaires grâce à l'eau des rivières, des lacs, ou des océans.</CoolingWater.description>
+
+	<CoolingTower.label>tour de refroidissement</CoolingTower.label>
+	<CoolingTower.description>Un grand système de refroidissement conçu pour refroidir les réacteurs nucléaires lorsqu'il n'y a pas d'eau disponible.</CoolingTower.description>
+
+	<Transformer.label>transformateur haute tension</Transformer.label>
+	<Transformer.description>Ultime étape lors de la production d'électricité nucléaire, il transforme le courrant des lignes haute tension des turbines afin qu'il puisse être acheminé par des cables électriques standards.</Transformer.description>
+
+	<ReactorControl.label>console du réacteur</ReactorControl.label>
+	<ReactorControl.description>Un système de contrôle conçu pour les réacteurs nucléaires. Envoyer un colon utiliser la station pour accéder aux contrôles. Plusieurs contrôles peuvent ouverts en même temps.</ReactorControl.description>
+
+	<storagePool.label>piscine de stockage</storagePool.label>
+	<storagePool.description>Une piscine servant à stocker les barres de combustible en tout sécurité. Selectionner un colon et utiliser le clic droit pour désigner le combustible à retirer.</storagePool.description>
+
+	<RadiationDetector.label>détecteur de radiations</RadiationDetector.label>
+	<RadiationDetector.description>Permet de détecter les radiations.</RadiationDetector.description>
+
+</LanguageData>

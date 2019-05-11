@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<DesignatorPaintTools>Peindre</DesignatorPaintTools>
+	<DesignatorPaintToolsDesc>Permet de modifier la couleur des objets, du terrain ou des vêtements.</DesignatorPaintToolsDesc>
+	<PaintApparel>Peindre seulement les vetements</PaintApparel>
+	<PaintWalls>Peindre seulement les murs</PaintWalls>
+	<PaintBuildings>Peindre seulement les objets</PaintBuildings>
+	<PaintDoors>Peindre seulement les portes</PaintDoors>
+	<EraserTool>Gomme</EraserTool>
+	<EyedropperObject>Pipette (objets)</EyedropperObject>
+	<EyedropperPixel>Pipette (pixels)</EyedropperPixel>
+	<PaintTerrain>Peindre le terrain</PaintTerrain>
+	<EraseTerrain>Gommer le terrain</EraseTerrain>
+	<PaintAll>Peindre</PaintAll>
+	<ZoneColourTool>Peindre une zone</ZoneColourTool>
+	<CopyPalette>Copier la palette</CopyPalette>
+	<EditPalette>Éditer la palette</EditPalette>
+	<DeletePalette>Supprimer la palette</DeletePalette>
+	<ClearDesTool>Supprimer l'indicateur de coloriage</ClearDesTool>
+
+</LanguageData>

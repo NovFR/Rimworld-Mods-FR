@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<QRY_Quarry.label>carrière</QRY_Quarry.label>
+	<QRY_Quarry.description>Un grand trou creusé dans le sol afin de miner des ressources.</QRY_Quarry.description>
+
+	<QRY_MiniQuarry.label>petite carrière</QRY_MiniQuarry.label>
+	<QRY_MiniQuarry.description>Un trou creusé dans le sol afin de miner des ressources.</QRY_MiniQuarry.description>
+
+	<QRY_Platform.label>plateforme de carrière</QRY_Platform.label>
+	<QRY_Platform.description>Une plateforme sur laquelle les mineurs entreposent les ressources trouvées. Doit être placée à proximité d'une carrière, de préférence à côté de l'échelle. Une même carrière ne peut pas posséder plus de deux plateformes.</QRY_Platform.description>
+
+</LanguageData>

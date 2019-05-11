@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Computer_LearningBoost.label>bonus de connaissance</Computer_LearningBoost.label>
+	<Computer_LearningBoost.stages.Minor.label>faible</Computer_LearningBoost.stages.Minor.label>
+	<Computer_LearningBoost.stages.Major.label>important</Computer_LearningBoost.stages.Major.label>
+	<Computer_LearningBoost.stages.Max.label>maximal</Computer_LearningBoost.stages.Max.label>
+
+</LanguageData>

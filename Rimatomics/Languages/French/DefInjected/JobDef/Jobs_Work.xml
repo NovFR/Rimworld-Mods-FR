@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RimatomicsResearch.reportString>utilise TargetA.</RimatomicsResearch.reportString>
+	<SuperviseConstruction.reportString>construit TargetA.</SuperviseConstruction.reportString>
+	<SuperviseResearch.reportString>utilise TargetA.</SuperviseResearch.reportString>
+	<UpgradeBuilding.reportString>améliore TargetA.</UpgradeBuilding.reportString>
+	<FleeADS.reportString>fuis TargetA.</FleeADS.reportString>
+	<LoadRailgunMagazine.reportString>recharge un canon électrique.</LoadRailgunMagazine.reportString>
+	<LoadSilo.reportString>recharge un silo.</LoadSilo.reportString>
+	<UseReactorConsole.reportString>utilise la console du réacteur.</UseReactorConsole.reportString>
+	<HaulModuletoCore.reportString>transporte TargetB vers TargetA.</HaulModuletoCore.reportString>
+	<RemoveFuelModule.reportString>retire un assemblage de combustible de TargetA.</RemoveFuelModule.reportString>
+	<LoadSpentFuel.reportString>transporte TargetB vers TargetA.</LoadSpentFuel.reportString>
+	<UnloadPlutonium.reportString>retire du plutonium de TargetA.</UnloadPlutonium.reportString>
+
+</LanguageData>

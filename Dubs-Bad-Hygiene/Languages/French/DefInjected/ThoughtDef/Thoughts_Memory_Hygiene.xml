@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DrankUrine.stages.Drank_Urine.label>a bu sa propre urine</DrankUrine.stages.Drank_Urine.label>
+	<DrankUrine.stages.Drank_Urine.description>J'ai du boire ma propre urine.</DrankUrine.stages.Drank_Urine.description>
+
+	<WashPrivacy.stages.embarrassed.label>a été embarrassé(e)</WashPrivacy.stages.embarrassed.label>
+	<WashPrivacy.stages.embarrassed.description>Avoir un peu d'intimité quand on se lave, ça semble trop demander ici.</WashPrivacy.stages.embarrassed.description>
+
+	<ToiletPrivacy.stages.embarrassed.label>a été gêné(e)</ToiletPrivacy.stages.embarrassed.label>
+	<ToiletPrivacy.stages.embarrassed.description>Quelqu'un m'a vu(e) pendant que j'utilisais des toilettes.</ToiletPrivacy.stages.embarrassed.description>
+
+	<SoiledSelf.stages.soiled_myself.label>s'est fait dessus</SoiledSelf.stages.soiled_myself.label>
+	<SoiledSelf.stages.soiled_myself.description>Je n'ai pas pu me retenir plus longtemps...</SoiledSelf.stages.soiled_myself.description>
+
+	<HotShower.stages.Hot_Shower.label>a pris une douche chaude</HotShower.stages.Hot_Shower.label>
+	<HotShower.stages.Hot_Shower.description>Rien de tel qu'une bonne douche chaude.</HotShower.stages.Hot_Shower.description>
+
+	<HotBath.stages.Hot_Bath.label>a pris un bain chaud</HotBath.stages.Hot_Bath.label>
+	<HotBath.stages.Hot_Bath.description>J'ai pu prendre un bon bain chaud.</HotBath.stages.Hot_Bath.description>
+
+	<ColdBath.stages.Cold_Bath.label>a pris un bain rafraichissant</ColdBath.stages.Cold_Bath.label>
+	<ColdBath.stages.Cold_Bath.description>J'ai pu prendre un bain rafraichissant.</ColdBath.stages.Cold_Bath.description>
+
+	<ColdShower.stages.Cold_Shower.label>a pris une douche rafraichissante</ColdShower.stages.Cold_Shower.label>
+	<ColdShower.stages.Cold_Shower.description>J'ai pu prendre une bonne douche rafraichissante.</ColdShower.stages.Cold_Shower.description>
+
+	<ColdWater.stages.Cold_Water.label>eau froide</ColdWater.stages.Cold_Water.label>
+	<ColdWater.stages.Cold_Water.description>C'est trop froid !</ColdWater.stages.Cold_Water.description>
+
+	<tookDump.stages.Relieved_myself.label>s'est soulagé(e)</tookDump.stages.Relieved_myself.label>
+	<tookDump.stages.Relieved_myself.description>Ca fait du bien !</tookDump.stages.Relieved_myself.description>
+
+	<openDefecation.stages.Open_defecation.label>a du faire dehors</openDefecation.stages.Open_defecation.label>
+	<openDefecation.stages.Open_defecation.description>J'ai du me soulager dehors...</openDefecation.stages.Open_defecation.description>
+
+	<UsedPrivateBathroom.stages.awful_bathroom.label>salle de bain affreuse</UsedPrivateBathroom.stages.awful_bathroom.label>
+	<UsedPrivateBathroom.stages.awful_bathroom.description>La salle de bain est vraiment affreuse !</UsedPrivateBathroom.stages.awful_bathroom.description>
+	<UsedPrivateBathroom.stages.decent_bathroom.label>salle de bain décente</UsedPrivateBathroom.stages.decent_bathroom.label>
+	<UsedPrivateBathroom.stages.decent_bathroom.description>La salle de bain est intéressante. J'aime bien.</UsedPrivateBathroom.stages.decent_bathroom.description>
+	<UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>salle de bain assez impressionnante</UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>La salle de bain est assez impressionnante. J'aime bien.</UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>
+	<UsedPrivateBathroom.stages.impressive_bathroom.label>salle de bain impressionnante</UsedPrivateBathroom.stages.impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.impressive_bathroom.description>La salle de bain est vraiment impressionnante. J'adore !</UsedPrivateBathroom.stages.impressive_bathroom.description>
+	<UsedPrivateBathroom.stages.very_impressive_bathroom.label>salle de bain très impressionnante</UsedPrivateBathroom.stages.very_impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.very_impressive_bathroom.description>La salle de bain est très impressionnante. C'est le plus bel endroit que j'ai vu !</UsedPrivateBathroom.stages.very_impressive_bathroom.description>
+	<UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>salle de bain extrêmement impressionnante</UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>La salle de bain est extrêmement impressionnante. C'est le plus bel endroit que j'ai vu !</UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>
+	<UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>salle de bain incroyablement impressionnante</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>La salle de bain est incroyablement impressionnante. C'est le plus bel endroit que j'ai vu !</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>
+	<UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>salle de bain merveilleusement impressionnante</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>
+	<UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>La salle de bain est merveilleusement impressionnante. C'est... merveilleux !</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>
+
+</LanguageData>

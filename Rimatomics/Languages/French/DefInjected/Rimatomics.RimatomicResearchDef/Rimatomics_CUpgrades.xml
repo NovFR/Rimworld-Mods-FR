@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ResearchControlRodActuators.ResearchLabel>Actionneur</ResearchControlRodActuators.ResearchLabel>
+	<ResearchControlRodActuators.ProjTypeLabel>Amélioration</ResearchControlRodActuators.ProjTypeLabel>
+	<ResearchControlRodActuators.ResearchDesc>Augmente la vitesse des barres de contrôles, ce qui améliore le niveau d'échange des flux et la vitesse d'extinction.</ResearchControlRodActuators.ResearchDesc>
+	<ResearchControlRodActuators.ResearchDescDisc>Vous pouvez désormais produire des actionneurs de barres de contrôle dans l'atelier Rimatomics. Pour les installer sur un réacteur, sélectionner le coeur et cliquer sur le bouton Actionneur. Le réacteur doit être éteint.</ResearchControlRodActuators.ResearchDescDisc>
+	<ResearchControlRodActuators.stats.0>Améliore le temps de réponse des barres de contrôle.</ResearchControlRodActuators.stats.0>
+
+	<ATOMProject.ResearchLabel>MDMA</ATOMProject.ResearchLabel>
+	<ATOMProject.ProjTypeLabel>Amélioration</ATOMProject.ProjTypeLabel>
+	<ATOMProject.ResearchDesc>Le Module de Détection des Menaces Avancé (MDMA) est une amélioration du SCAC. Une fois installé, il augmente significativement la consommation du système, la portée et la puissance de scanners, ce qui permet de détecter les menaces à une plus grande distance. Bien qu'il soit difficile de détecter les petits groupes et que les attaques aériennes laissent peu de temps pour réagir, les larges groupes seront toutefois faciles à détecter. Des détections erronnées sont possibles.</ATOMProject.ResearchDesc>
+	<ATOMProject.ResearchDescDisc>Vous pouvez désormais produire des MDMA dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un SCAC et cliquez sur le bouton MDMA.\n\nLe MDMA sera installé sur tous les SCAC existants.</ATOMProject.ResearchDescDisc>
+
+	<ResearchGuidenceSystem.ResearchLabel>Système de guidage</ResearchGuidenceSystem.ResearchLabel>
+	<ResearchGuidenceSystem.ProjTypeLabel>Amélioration</ResearchGuidenceSystem.ProjTypeLabel>
+	<ResearchGuidenceSystem.ResearchDesc>Augmente la portée et la sensibilité des missiles stratégiques. Testez le système en envoyant un missile de test sur n'importe quelle cible et collectez des données.</ResearchGuidenceSystem.ResearchDesc>
+	<ResearchGuidenceSystem.ResearchDescDisc>L'amélioration du système de guidage est terminée, tous les missiles stratégiques en seront équippés et leur portée maximum devient illimitée.</ResearchGuidenceSystem.ResearchDescDisc>
+
+	<ResearchMEPS.ResearchLabel>SMAE</ResearchMEPS.ResearchLabel>
+	<ResearchMEPS.ProjTypeLabel>Amélioration</ResearchMEPS.ProjTypeLabel>
+	<ResearchMEPS.ResearchDesc>Le Système Modulaire d'Alimentation Électrique (SMAE) est un ultra-condensateur pouvant s'interfacer avec n'importelle quelle arme à énergie Rimatomics afin d'en augmenter sa puissance. Ce surplus de puissance est utilisé différemment selon l'arme.</ResearchMEPS.ResearchDesc>
+	<ResearchMEPS.ResearchDescDisc>Vous pouvez désormais produire des modules SMAE dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une arme et cliquer sur le bouton SMAE.\n\nLe SMAE doit être installé manuellement sur chaque nouveau produit.</ResearchMEPS.ResearchDescDisc>
+
+	<ResearchALC.ResearchLabel>RLA</ResearchALC.ResearchLabel>
+	<ResearchALC.ProjTypeLabel>Amélioration</ResearchALC.ProjTypeLabel>
+	<ResearchALC.ResearchDesc>Le Refoidisseur Liquide Avancé (RLA) est un système de refroidissement universel qui fonctionne sur toutes les armes à énergie Rimatomics. Il améliore la capacité de refroidissement et la puissance d'une arme, le temps de recharge peut aussi être réduit.</ResearchALC.ResearchDesc>
+	<ResearchALC.ResearchDescDisc>Vous pouvez désormais produire des modules RLA dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une arme et cliquer sur le bouton RLA.</ResearchALC.ResearchDescDisc>
+	<ResearchALC.stats.0>Temps de recharge -15%.</ResearchALC.stats.0>
+
+	<ResearchERS.ResearchLabel>SRE</ResearchERS.ResearchLabel>
+	<ResearchERS.ProjTypeLabel>Amélioration</ResearchERS.ProjTypeLabel>
+	<ResearchERS.ResearchDesc>Le Système de Récupération d'Énergie (SRE) utilise une série de techniques de récupération d'énergie pour collecter la chaleur et l'énergie cinétique dégagée par une arme et les retourner au CPP.</ResearchERS.ResearchDesc>
+	<ResearchERS.ResearchDescDisc>Vous pouvez désormais produire des modules SRE dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une arme et cliquer sur le bouton SRE.</ResearchERS.ResearchDescDisc>
+	<ResearchERS.stats.0>Consommation d'énergie -15%.</ResearchERS.stats.0>
+
+	<ResearchSCAD.ResearchLabel>SDAS</ResearchSCAD.ResearchLabel>
+	<ResearchSCAD.ProjTypeLabel>Amélioration</ResearchSCAD.ProjTypeLabel>
+	<ResearchSCAD.ResearchDesc>Le Système de Défense Arc à SuperCapacité (SDAS) est une couche d'armure appliquée aux armes à énergie Rimatomics. Composée de supercondensateurs composites structurels, cette armure protège l'arme en libérant une décharge d'arc électromagnétique qui dévie ou vaporise les projectiles entrants, réduisant ainsi de 90% le montant total des dégâts reçus. Le SDAS se détériore à l'usage et doit être régulièrement remplacé.</ResearchSCAD.ResearchDesc>
+	<ResearchSCAD.ResearchDescDisc>Vous pouvez désormais produire des modules SDAS dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une arme et cliquer sur le bouton SDAS.</ResearchSCAD.ResearchDescDisc>
+	<ResearchSCAD.stats.0>Dégâts reçus -90%.</ResearchSCAD.stats.0>
+
+	<ResearchDriveActuator.ResearchLabel>Moteurs améliorés</ResearchDriveActuator.ResearchLabel>
+	<ResearchDriveActuator.ProjTypeLabel>Amélioration</ResearchDriveActuator.ProjTypeLabel>
+	<ResearchDriveActuator.ResearchDesc>Améliore la stabilité et la vitesse de rotation des tourelles à énergie Rimatomics. Le couple de ce moteur amélioré élimine la nécessite d'une boîte de vitesse et offre ainsi une faible inertie de mouvement pour des performances et une stabilité supérieure.</ResearchDriveActuator.ResearchDesc>
+	<ResearchDriveActuator.ResearchDescDisc>Vous pouvez désormais produire des moteurs améliorés dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une tourelle Rimatomics et cliquer sur le bouton Améliorer le moteur.</ResearchDriveActuator.ResearchDescDisc>
+	<ResearchDriveActuator.stats.0>Vitesse +200%.</ResearchDriveActuator.stats.0>
+
+	<ResearchRailgun_TargetingChip.ResearchLabel>Puce de ciblage</ResearchRailgun_TargetingChip.ResearchLabel>
+	<ResearchRailgun_TargetingChip.ProjTypeLabel>Amélioration</ResearchRailgun_TargetingChip.ProjTypeLabel>
+	<ResearchRailgun_TargetingChip.ResearchDesc>Améliore la précision et la portée d'un canon électrique. Testez le système sur n'importe quelle cible et collectez des données.</ResearchRailgun_TargetingChip.ResearchDesc>
+	<ResearchRailgun_TargetingChip.ResearchDescDisc>Vous pouvez désormais produire des puces de ciblage dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un canon électrique et cliquer sur le bouton Installer une puce de ciblage.</ResearchRailgun_TargetingChip.ResearchDescDisc>
+	<ResearchRailgun_TargetingChip.stats.0>Propagation des tirs -50%.</ResearchRailgun_TargetingChip.stats.0>
+	<ResearchRailgun_TargetingChip.stats.1>Portée +10.</ResearchRailgun_TargetingChip.stats.1>
+
+	<ResearchObelisk_LenseModule.ResearchLabel>Module d'objectif</ResearchObelisk_LenseModule.ResearchLabel>
+	<ResearchObelisk_LenseModule.ProjTypeLabel>Amélioration</ResearchObelisk_LenseModule.ProjTypeLabel>
+	<ResearchObelisk_LenseModule.ResearchDesc>Augmente la portée effective de l'obélisque en améliorant la focalisation et la collimation du faisceau principal.</ResearchObelisk_LenseModule.ResearchDesc>
+	<ResearchObelisk_LenseModule.ResearchDescDisc>Vous pouvez désormais produire des modules d'objectif dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Installer un module.</ResearchObelisk_LenseModule.ResearchDescDisc>
+	<ResearchObelisk_LenseModule.stats.0>Portée maximale +10.</ResearchObelisk_LenseModule.stats.0>
+	<ResearchObelisk_LenseModule.stats.1>Portée minimale +10.</ResearchObelisk_LenseModule.stats.1>
+
+	<ResearchObelisk_BeamSplitter.ResearchLabel>Séparateur de faisceau</ResearchObelisk_BeamSplitter.ResearchLabel>
+	<ResearchObelisk_BeamSplitter.ProjTypeLabel>Amélioration</ResearchObelisk_BeamSplitter.ProjTypeLabel>
+	<ResearchObelisk_BeamSplitter.ResearchDesc>Divise le faisceau de l'obélisque. Le faisceau secondaire sera réglé sur une fréquence permettant de désactiver les boucliers ennemis, tantis que le rayon principal sera retardé puis envoyé sur la cible avec une puissance maximale.</ResearchObelisk_BeamSplitter.ResearchDesc>
+	<ResearchObelisk_BeamSplitter.ResearchDescDisc>Vous pouvez désormais produire des séparateurs de faisceau pour obélisque. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Installer un séparateur.</ResearchObelisk_BeamSplitter.ResearchDescDisc>
+	<ResearchObelisk_BeamSplitter.stats.0>Détruit les boucliers et augmente les dégâts.</ResearchObelisk_BeamSplitter.stats.0>
+
+</LanguageData>

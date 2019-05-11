@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GuestAngered.stages.angered_by_seeing_recruitment.label>en colère à cause d'un recrutement</GuestAngered.stages.angered_by_seeing_recruitment.label>
+	<GuestAngered.stages.angered_by_seeing_recruitment.labelSocial>Ce recrutement m'a énervé(e)</GuestAngered.stages.angered_by_seeing_recruitment.labelSocial>
+	<GuestAngered.stages.angered_by_seeing_recruitment.description>Cette colonie essaye de voler nos membres !</GuestAngered.stages.angered_by_seeing_recruitment.description>
+
+	<GuestRecruitmentForced.stages.involuntarily_recruited.label>recruté(e) de force</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+	<GuestRecruitmentForced.stages.involuntarily_recruited.description>Je ne sais pas trop si je fais bien d'être ici.</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+
+	<GuestOffendedRelationship.stages.insulted_by_colonist.label>insulté(e) par un colon</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+	<GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>On m'a insulté(e)</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+	<GuestOffendedRelationship.stages.insulted_by_colonist.description>Ce sont des perdants !</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+
+	<GuestPleasedRelationship.stages.charmed_by_colonist.label>Sous le charme</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+	<GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>On m'a charmé(e)</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+	<GuestPleasedRelationship.stages.charmed_by_colonist.description>Ce sont des gens tellement agréables !</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.label>Recommandé(e) par un recruteur</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>J'ai été recommandé(e)</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+	<EndorsedByRecruiter.stages.endorsed_by_recruiter.description>Cette personne m'a été recommandée.</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+
+	<GuestDismissiveAttitude.stages.tired_of_talking.label>Fatigué(e) de parler</GuestDismissiveAttitude.stages.tired_of_talking.label>
+	<GuestDismissiveAttitude.stages.tired_of_talking.description>J'ai assez parlé pour le moment. Qu'on me laisse tranquille.</GuestDismissiveAttitude.stages.tired_of_talking.description>
+
+</LanguageData>

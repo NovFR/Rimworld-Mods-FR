@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MUR_SubsurfaceConduit_SteelCostName>Coût en acier</MUR_SubsurfaceConduit_SteelCostName>
+	<MUR_SubsurfaceConduit_SteelCostDesc>Nombre d'acier nécessaire pour fabriquer un câble. Par défaut: 3</MUR_SubsurfaceConduit_SteelCostDesc>
+	<MUR_SubsurfaceConduit_WorkCostName>Coût en travail</MUR_SubsurfaceConduit_WorkCostName>
+	<MUR_SubsurfaceConduit_WorkCostDesc>Quantité de travail nécessaire pour fabriquer un câble. Par défaut: 15</MUR_SubsurfaceConduit_WorkCostDesc>
+</LanguageData>

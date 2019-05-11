@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- AIRobotGenerator -->
+	<AIRobot_Basename_first>Robot</AIRobot_Basename_first>
+	<AIRobot_Basename_last>...</AIRobot_Basename_last>
+	<AIRobot_Basename_nick></AIRobot_Basename_nick>
+
+	<!-- AIRobotRechargeStation -->
+	<AIRobot_NoOwner>Pas de propriétaire assigné</AIRobot_NoOwner>
+	<AIRobot_RobotIs>Robot:</AIRobot_RobotIs>
+	<AIRobot_Label_SpawnRobot>Activer</AIRobot_Label_SpawnRobot>
+	<AIRobot_SpawnRobot>Activer le robot</AIRobot_SpawnRobot>
+	<AIRobot_Label_SendOwnerToRecharge>Désactiver</AIRobot_Label_SendOwnerToRecharge>
+	<AIRobot_SendOwnerToRecharge>Rappeler et désactiver le robot.</AIRobot_SendOwnerToRecharge>
+	<AIRobot_Start>Activer</AIRobot_Start>
+	<AIRobot_NoPower>Pas de courrant!</AIRobot_NoPower>
+	<AIRobot_Label_RecallAllRobots>Tout rappeler</AIRobot_Label_RecallAllRobots>
+	<AIRobot_RecallAllRobots>Rappeler et désactiver tous les robots actifs.</AIRobot_RecallAllRobots>
+	<AIRobot_Label_ActivateAllRobots>Tout activer</AIRobot_Label_ActivateAllRobots>
+	<AIRobot_ActivateAllRobots>Activer tous les robots disponibles.</AIRobot_ActivateAllRobots>
+	<AIRobot_RobotIsDestroyed>Un robot a été détruit!</AIRobot_RobotIsDestroyed>
+	<AIRobot_Label_FindRobot>Trouver le robot</AIRobot_Label_FindRobot>
+	<AIRobot_FindRobot>Indique la position du robot.</AIRobot_FindRobot>
+	<AIRobot_Disabled_OnlyStartOnHomeMap>Doit être démarré sur la carte de votre base. Le mod affichera des erreurs si vous partez d'ici alors qu'un robot y est actif !</AIRobot_Disabled_OnlyStartOnHomeMap>
+
+	<!-- AIRobot_MainButton -->
+	<AIRobot_MainTab_SendRobotToRecharge>Cliquer pour recharger ce robot.</AIRobot_MainTab_SendRobotToRecharge>
+
+	<AIRobot_MessageRechargeStationOutsideAreaRestriction>La zone d'assignation du robot ne contient aucune station de recharge ! Réinitialisation...</AIRobot_MessageRechargeStationOutsideAreaRestriction>
+
+	<AIRobot_RenameRobot>Cliquer pour renommer ce robot.</AIRobot_RenameRobot>
+	<AIRobot_RobotIsRenamed>Votre robot s'appelle désormais {0}</AIRobot_RobotIsRenamed>
+	<AIRobot_ShutDownRobot>Cliquer pour que le robot retourne à sa base et se désactive.</AIRobot_ShutDownRobot>
+	<AIRobot_ShutDownAllRobots>Cliquer pour que tous les robots retournent à leurs bases et se désactivent.</AIRobot_ShutDownAllRobots>
+	<AIRobot_RobotIsRecharging>Le robot se recharge.</AIRobot_RobotIsRecharging>
+
+	<!-- AIRobot_destroyed -->
+	<AIRobot_RepairRobot>Réparer le robot</AIRobot_RepairRobot>
+	<AIRobot_RepairRobot_hint>Votre robot est endommagé. Le coût des réparations s'élève à </AIRobot_RepairRobot_hint>
+	<AIRobot_RepairRobotInProgress>Réparation en cours..</AIRobot_RepairRobotInProgress>
+	<AIRobot_DismantleRobot>Démanteler le robot et la station</AIRobot_DismantleRobot>
+
+	<AIRobot_CannotRepairRobotIsActive>Le robot est actif -> Veuillez le désactiver avant de le réparer.</AIRobot_CannotRepairRobotIsActive>
+
+</LanguageData>

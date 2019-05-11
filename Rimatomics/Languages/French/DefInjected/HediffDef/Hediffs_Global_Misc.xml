@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FlashBlindness.label>aveuglement éclair</FlashBlindness.label>
+	<FlashBlindness.labelNoun>un aveuglement éclair</FlashBlindness.labelNoun>
+	<FlashBlindness.battleStateLabel>aveuglement</FlashBlindness.battleStateLabel>
+
+	<RectalCoring.label>fièvre</RectalCoring.label>
+	<RectalCoring.stages.extreme.label>extrême</RectalCoring.stages.extreme.label>
+
+	<Exsanguination.label>exsanguination</Exsanguination.label>
+	<Exsanguination.stages.extreme.label>extrême</Exsanguination.stages.extreme.label>
+
+	<FatalRad.label>exposition aux radiations</FatalRad.label>
+	<FatalRad.stages.initial.label>initiale</FatalRad.stages.initial.label>
+	<FatalRad.stages.advanced.label>avancée</FatalRad.stages.advanced.label>
+	<FatalRad.stages.near_death.label>dangereuse</FatalRad.stages.near_death.label>
+	<FatalRad.stages.dead.label>mortelle</FatalRad.stages.dead.label>
+
+	<RimatomicsRadiation.label>mal des radiations</RimatomicsRadiation.label>
+	<RimatomicsRadiation.stages.initial.label>initial</RimatomicsRadiation.stages.initial.label>
+	<RimatomicsRadiation.stages.minor.label>mineur</RimatomicsRadiation.stages.minor.label>
+	<RimatomicsRadiation.stages.moderate.label>modéré</RimatomicsRadiation.stages.moderate.label>
+	<RimatomicsRadiation.stages.serious.label>sérieux</RimatomicsRadiation.stages.serious.label>
+	<RimatomicsRadiation.stages.extreme.label>extrême</RimatomicsRadiation.stages.extreme.label>
+
+	<RadiationIncurable.label>accumulation de radiations</RadiationIncurable.label>
+	<RadiationIncurable.stages.initial.label>initiale</RadiationIncurable.stages.initial.label>
+	<RadiationIncurable.stages.minor.label>mineure</RadiationIncurable.stages.minor.label>
+	<RadiationIncurable.stages.moderate.label>modérée</RadiationIncurable.stages.moderate.label>
+	<RadiationIncurable.stages.serious.label>sérieuse</RadiationIncurable.stages.serious.label>
+	<RadiationIncurable.stages.extreme.label>extrême</RadiationIncurable.stages.extreme.label>
+
+	<RadiationMechanoid.label>dégâts radioactifs</RadiationMechanoid.label>
+	<RadiationMechanoid.stages.initial.label>initiaux</RadiationMechanoid.stages.initial.label>
+	<RadiationMechanoid.stages.minor.label>mineurs</RadiationMechanoid.stages.minor.label>
+	<RadiationMechanoid.stages.moderate.label>modérés</RadiationMechanoid.stages.moderate.label>
+	<RadiationMechanoid.stages.serious.label>sérieux</RadiationMechanoid.stages.serious.label>
+	<RadiationMechanoid.stages.extreme.label>extrêmes</RadiationMechanoid.stages.extreme.label>
+
+</LanguageData>

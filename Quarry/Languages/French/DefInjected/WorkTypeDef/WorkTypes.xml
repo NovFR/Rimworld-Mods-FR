@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<QuarryMining.labelShort>Carrière</QuarryMining.labelShort>
+	<QuarryMining.pawnLabel>Mineur</QuarryMining.pawnLabel>
+	<QuarryMining.gerundLabel>mine</QuarryMining.gerundLabel>
+	<QuarryMining.description>Travailler dans une carrière.</QuarryMining.description>
+	<QuarryMining.verb>miner</QuarryMining.verb>
+
+</LanguageData>

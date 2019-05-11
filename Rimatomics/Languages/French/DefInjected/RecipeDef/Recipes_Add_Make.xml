@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Make_Apparel_RadiationMask.label>fabriquer un masque anti-radiations</Make_Apparel_RadiationMask.label>
+	<Make_Apparel_RadiationMask.description>Fabriquer un masque anti-radiations.</Make_Apparel_RadiationMask.description>
+	<Make_Apparel_RadiationMask.jobString>Fabrique un masque anti-radiations.</Make_Apparel_RadiationMask.jobString>
+
+	<Make_Apparel_MoppMaskDesert.label>fabriquer un masque MOPP (désert)</Make_Apparel_MoppMaskDesert.label>
+	<Make_Apparel_MoppMaskDesert.description>Fabriquer un masque MOPP (désert).</Make_Apparel_MoppMaskDesert.description>
+	<Make_Apparel_MoppMaskDesert.jobString>Fabrique un masque MOPP (désert).</Make_Apparel_MoppMaskDesert.jobString>
+
+	<Make_Apparel_MoppMaskWoodland.label>fabriquer un masque MOPP (forêt)</Make_Apparel_MoppMaskWoodland.label>
+	<Make_Apparel_MoppMaskWoodland.description>Fabriquer un masque MOPP (forêt).</Make_Apparel_MoppMaskWoodland.description>
+	<Make_Apparel_MoppMaskWoodland.jobString>Fabrique un masque MOPP (forêt).</Make_Apparel_MoppMaskWoodland.jobString>
+
+	<Make_Apparel_MoppMaskSnow.label>fabriquer un masque MOPP (neige)</Make_Apparel_MoppMaskSnow.label>
+	<Make_Apparel_MoppMaskSnow.description>fabriquer un masque MOPP (neige)</Make_Apparel_MoppMaskSnow.description>
+	<Make_Apparel_MoppMaskSnow.jobString>Fabrique un masque MOPP (neige)</Make_Apparel_MoppMaskSnow.jobString>
+
+	<Make_Apparel_RadiationSuit.label>fabriquer une tenue anti-radiations</Make_Apparel_RadiationSuit.label>
+	<Make_Apparel_RadiationSuit.description>Fabriquer une tenue anti-radiations.</Make_Apparel_RadiationSuit.description>
+	<Make_Apparel_RadiationSuit.jobString>Fabrique une tenue anti-radiations.</Make_Apparel_RadiationSuit.jobString>
+
+	<Make_Apparel_MoppSuitDesert.label>fabriquer une tenue MOPP (désert)</Make_Apparel_MoppSuitDesert.label>
+	<Make_Apparel_MoppSuitDesert.description>Fabriquer une tenue MOPP (désert).</Make_Apparel_MoppSuitDesert.description>
+	<Make_Apparel_MoppSuitDesert.jobString>Fabrique une tenue MOPP (désert).</Make_Apparel_MoppSuitDesert.jobString>
+
+	<Make_Apparel_MoppSuitWoodland.label>fabriquer une tenue MOPP (forêt)</Make_Apparel_MoppSuitWoodland.label>
+	<Make_Apparel_MoppSuitWoodland.description>Fabriquer une tenue MOPP (forêt).</Make_Apparel_MoppSuitWoodland.description>
+	<Make_Apparel_MoppSuitWoodland.jobString>Fabrique une tenue MOPP (forêt).</Make_Apparel_MoppSuitWoodland.jobString>
+
+	<Make_Apparel_MoppSuitSnow.label>fabriquer une tenue MOPP (neige)</Make_Apparel_MoppSuitSnow.label>
+	<Make_Apparel_MoppSuitSnow.description>Fabriquer une tenue MOPP (neige).</Make_Apparel_MoppSuitSnow.description>
+	<Make_Apparel_MoppSuitSnow.jobString>Fabrique une tenue MOPP (neige).</Make_Apparel_MoppSuitSnow.jobString>
+
+	<Make_PotassiumIodide.label>fabriquer du iodure de potassium</Make_PotassiumIodide.label>
+	<Make_PotassiumIodide.description>Fabriquer du iodure de potassium.</Make_PotassiumIodide.description>
+	<Make_PotassiumIodide.jobString>Fabrique du iodure de potassium.</Make_PotassiumIodide.jobString>
+
+	<Make_turbineBlade.label>fabriquer 10 aubes de turbine</Make_turbineBlade.label>
+	<Make_turbineBlade.description>Fabriquer 10 aubes pour une turbine de réacteur nucléaire.</Make_turbineBlade.description>
+	<Make_turbineBlade.jobString>Fabrique 10 aubes de turbine.</Make_turbineBlade.jobString>
+
+	<Make_UraniumPellets.label>fabriquer 30 granulés d'uranium</Make_UraniumPellets.label>
+	<Make_UraniumPellets.description>Fabriquer 30 granulés d'uranium.</Make_UraniumPellets.description>
+	<Make_UraniumPellets.jobString>Fabrique 30 granulés d'uranium.</Make_UraniumPellets.jobString>
+
+	<Make_RocketEngine.label>fabriquer un moteur de fusée</Make_RocketEngine.label>
+	<Make_RocketEngine.description>Fabriquer un moteur de fusée pour un missile balistique.</Make_RocketEngine.description>
+	<Make_RocketEngine.jobString>Fabrique un moteur de fusée.</Make_RocketEngine.jobString>
+
+	<Make_MissileFuselage.label>fabriquer un fuselage de fusée</Make_MissileFuselage.label>
+	<Make_MissileFuselage.description>Fabriquer un fuselage de fusée pour un missile balistique.</Make_MissileFuselage.description>
+	<Make_MissileFuselage.jobString>Fabrique un fuselage de fusée.</Make_MissileFuselage.jobString>
+
+	<Make_FissionWarhead.label>fabriquer une tête nucléaire</Make_FissionWarhead.label>
+	<Make_FissionWarhead.description>Fabriquer une tête nucléaire pour un missile balistique.</Make_FissionWarhead.description>
+	<Make_FissionWarhead.jobString>Fabrique une tête nucléaire.</Make_FissionWarhead.jobString>
+
+	<Make_ControlRodActuator.label>fabriquer un actionneur de barres de contrôle</Make_ControlRodActuator.label>
+	<Make_ControlRodActuator.description>Fabriquer un actionneur de barres de contrôle.</Make_ControlRodActuator.description>
+	<Make_ControlRodActuator.jobString>Fabrique un actionneur de barres de contrôle.</Make_ControlRodActuator.jobString>
+
+	<Make_ATOM.label>fabriquer un MDMA</Make_ATOM.label>
+	<Make_ATOM.description>Fabriquer un Module de Détection des Menaces Avancé (MDMA) pour améliorer une Station de Commande Semi Automatique (SCSA).</Make_ATOM.description>
+	<Make_ATOM.jobString>Fabrique un MDMA.</Make_ATOM.jobString>
+
+	<Make_SCAD.label>fabriquer un SDAS</Make_SCAD.label>
+	<Make_SCAD.description>Fabriquer un Système de Défense Arc à SuperCapacité (SDAS) pour améliorer une arme à énergie Rimatomics.</Make_SCAD.description>
+	<Make_SCAD.jobString>Fabrique un SDAS.</Make_SCAD.jobString>
+
+	<Make_MEPS.label>fabriquer un SMAE</Make_MEPS.label>
+	<Make_MEPS.description>Fabriquer un Système Modulaire d'Alimentation Électrique (SMAE) pour améliorer une arme à énergie Rimatomics.</Make_MEPS.description>
+	<Make_MEPS.jobString>Fabrique un SMAE.</Make_MEPS.jobString>
+
+	<Make_ALC.label>fabriquer un RLA</Make_ALC.label>
+	<Make_ALC.description>Fabriquer un Refroidisseur Liquide Avancé (RLA) pour améliorer une arme à énergie Rimatomics.</Make_ALC.description>
+	<Make_ALC.jobString>Fabrique un RLA.</Make_ALC.jobString>
+
+	<Make_ERS.label>fabriquer un SRE</Make_ERS.label>
+	<Make_ERS.description>Fabriquer un Système de Récupération d'Énergie (SRE) pour améliorer une arme à énergie Rimatomics.</Make_ERS.description>
+	<Make_ERS.jobString>Fabrique un SRE.</Make_ERS.jobString>
+
+	<Make_DriveActuator.label>fabriquer un moteur amélioré</Make_DriveActuator.label>
+	<Make_DriveActuator.description>Fabriquer un moteur amélioré pour une arme à énergie Rimatomics.</Make_DriveActuator.description>
+	<Make_DriveActuator.jobString>Fabrique un moteur amélioré.</Make_DriveActuator.jobString>
+
+	<Make_TargetingChip.label>fabriquer une puce de ciblage</Make_TargetingChip.label>
+	<Make_TargetingChip.description>Fabriquer une puce de ciblage pour améliorer un canon électrique Rimatomics.</Make_TargetingChip.description>
+	<Make_TargetingChip.jobString>Fabrique une puce de ciblage.</Make_TargetingChip.jobString>
+
+	<Make_BeamSplitter.label>fabriquer un séparateur de faisceau</Make_BeamSplitter.label>
+	<Make_BeamSplitter.description>Fabriquer un séparateur de faisceau pour améliorer un Obélisque Rimatomics.</Make_BeamSplitter.description>
+	<Make_BeamSplitter.jobString>Fabrique un séparateur de faisceau.</Make_BeamSplitter.jobString>
+
+	<Make_LenseModule.label>fabriquer un module d'objectif</Make_LenseModule.label>
+	<Make_LenseModule.description>Fabriquer un module d'objectif pour améliorer un Obélisque Rimatomics.</Make_LenseModule.description>
+	<Make_LenseModule.jobString>Fabrique un module d'objectif.</Make_LenseModule.jobString>
+
+	<Make_RailgunSabot.label>fabriquer une munition sabot</Make_RailgunSabot.label>
+	<Make_RailgunSabot.description>Fabriquer une munition sabot pour un canon électrique Rimatomics.</Make_RailgunSabot.description>
+	<Make_RailgunSabot.jobString>Fabrique une munition sabot.</Make_RailgunSabot.jobString>
+
+	<Make_RailgunSabotDU.label>fabriquer une munition sabot à l'uranium appauvri</Make_RailgunSabotDU.label>
+	<Make_RailgunSabotDU.description>Fabriquer une munition sabot à l'uranium appauvri pour un canon électrique Rimatomics.</Make_RailgunSabotDU.description>
+	<Make_RailgunSabotDU.jobString>Fabrique une munition sabot à l'uranium appauvri.</Make_RailgunSabotDU.jobString>
+	
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HotTub.label>jaccuzi</HotTub.label>
+	<HotTub.description>Pour l'hydrothérapie, la détente et le plaisir. Remplis par l'eau d'un chateau d'eau lors de la première utilisation. Ne requiert pas de sortie des eaux usées.</HotTub.description>
+
+	<WashingMachine.label>machine à laver</WashingMachine.label>
+	<WashingMachine.description>Lave si bien le linge que personne ne pourrait croire qu'il appartenait auparavant à un cadavre.</WashingMachine.description>
+
+</LanguageData>

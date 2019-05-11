@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WoodFence.label>clôture</WoodFence.label>
+	<WoodFence.description>Une bonne vieille clôture en bois.</WoodFence.description>
+	<WoodFenceGate.label>porte de clôture</WoodFenceGate.label>
+	<WoodFenceGate.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</WoodFenceGate.description>
+	<WoodFenceGateB.label>porte de clôture latérale</WoodFenceGateB.label>
+	<WoodFenceGateB.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</WoodFenceGateB.description>
+
+	<ChainFence.label>clôture</ChainFence.label>
+	<ChainFence.description>Une clôture robuste formée par des fils d'acier entrelacés.</ChainFence.description>
+	<ChainFenceGate.label>porte de clôture</ChainFenceGate.label>
+	<ChainFenceGate.description>Une porte robuste formée par des fils d'acier entrelacés.</ChainFenceGate.description>
+	<ChainFenceGateB.label>porte de clôture latérale</ChainFenceGateB.label>
+	<ChainFenceGateB.description>Une porte robuste formée par des fils d'acier entrelacés.</ChainFenceGateB.description>
+
+	<TechFence.label>clôture de sécurité</TechFence.label>
+	<TechFence.description>Une grande clôture métallique surmontée par des fils barbelés coupant comme des rasoirs.</TechFence.description>
+	<TechFenceGate.label>porte de clôture de sécurité</TechFenceGate.label>
+	<TechFenceGate.description>Une grande porte métallique de haute-sécurité.</TechFenceGate.description>
+	<TechFenceGateB.label>porte de sécurité latérale</TechFenceGateB.label>
+	<TechFenceGateB.description>Une grande porte métallique de haute-sécurité.</TechFenceGateB.description>
+
+	<SecurityBarrier.label>couverture de sécurité</SecurityBarrier.label>
+	<SecurityBarrier.description>Une barrière de sécurité qui offre une couverture d'urgence dans les situations de combat.</SecurityBarrier.description>
+
+</LanguageData>

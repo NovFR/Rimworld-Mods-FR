@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<sewagePipeStuff.label>canalisation</sewagePipeStuff.label>
+	<sewagePipeStuff.description>Un tuyau pour connecter des appareils de plomberie.</sewagePipeStuff.description>
+
+	<airPipe.label>conduit d'air conditionnée</airPipe.label>
+	<airPipe.description>Un tuyau pour connecter des appareils d'air conditionnée.</airPipe.description>
+
+</LanguageData>

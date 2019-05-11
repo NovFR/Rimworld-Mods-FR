@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <MedicalTab>Médecine</MedicalTab>
+
+    <!-- sources -->
+    <Colonists>Colons</Colonists>
+    <Animals>Animaux</Animals>
+    <Prisoners>Prisionniers</Prisoners>
+    <Visitors>Visiteurs</Visitors>
+    <Hostiles>Ennemis</Hostiles>
+
+    <!-- x-click -->
+    <MedicalTab.Shift>maj</MedicalTab.Shift>
+    <MedicalTab.Alt>alt</MedicalTab.Alt>
+    <MedicalTab.Ctrl>ctrl</MedicalTab.Ctrl>
+    <MedicalTab.Left>gauche</MedicalTab.Left>
+    <MedicalTab.Right>droite</MedicalTab.Right>
+
+    <MedicalTab.XClickToY>{0} clic: {1}</MedicalTab.XClickToY>
+
+    <!-- medical care -->
+    <MedicalTab.MassAssignMedicalCare>déterminer la qualité de soin pour tous</MedicalTab.MassAssignMedicalCare>
+    <MedicalTab.SetDefaultMedicalCare>déterminer la qualité de soin par défaut</MedicalTab.SetDefaultMedicalCare>
+
+    <!-- self-tend -->
+    <MedicalTab.PawnIsIncapableOfX>{0} est incapable de {1}</MedicalTab.PawnIsIncapableOfX>
+    <MedicalTab.PawnIsNotAX>{0} n'est pas {1}</MedicalTab.PawnIsNotAX>
+    <MedicalTab.ToggleSelfTend>Auto-soin: {0}</MedicalTab.ToggleSelfTend>
+
+    <!-- surgeries -->
+    <MedicalTab.Reduce>réduire</MedicalTab.Reduce>
+    <MedicalTab.Increase>augmenter</MedicalTab.Increase>
+    <MedicalTab.ShowSurgeryOptionsThat>montrer l'opération qui {0} {1}</MedicalTab.ShowSurgeryOptionsThat>
+    <MedicalTab.ScheduledProcedures>Opérations prévues:</MedicalTab.ScheduledProcedures>
+
+    <!-- filter  -->
+    <MedicalTab.FilterHealthyOn>N'affiche que ceux qui ne sont pas en bonne santé\n\nCliquer pour tout afficher.</MedicalTab.FilterHealthyOn>
+    <MedicalTab.FilterHealthyOff>Tout afficher\n\nCliquer pour n'afficher que ceux qui ne sont pas en bonne santé.</MedicalTab.FilterHealthyOff>
+
+    <!-- settings -->
+    <MedicalTab.SuggestDrugs>Suggérer les drogues</MedicalTab.SuggestDrugs>
+    <MedicalTab.SuggestDrugsTip>Les drogues doivent-elles apparaître dans la liste des opérations suggérées?</MedicalTab.SuggestDrugsTip>
+    <MedicalTab.ShowAllHostiles>Afficher tous les ennemis</MedicalTab.ShowAllHostiles>
+    <MedicalTab.ShowAllHostilesTip>Par défaut, seuls les ennemis à terre sont affichés dans la catégorie "Ennemis". En activant cette option, tous les ennemis visibles seront affichés indépendamment de leur état de santé.</MedicalTab.ShowAllHostilesTip>
+
+</LanguageData>

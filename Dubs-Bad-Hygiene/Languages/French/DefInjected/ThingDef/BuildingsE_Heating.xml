@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Thermostat.label>thermostat</Thermostat.label>
+	<Thermostat.description>Utilisé pour contrôler les chauffe-eaux à gaz et à électricité. Il est possible d'en placer plusieurs. Se connecte en utilisant les canalisations standards.</Thermostat.description>
+
+	<LogBoiler.label>chauffe-eau à bois</LogBoiler.label>
+	<LogBoiler.description>Produit 2000 unité de chaleur pour les radiateurs et ballons d'eau chaude. Doit être alimenté avec du bois.</LogBoiler.description>
+
+	<GasBoiler.label>chauffe-eau au gaz</GasBoiler.label>
+	<GasBoiler.description>Produit 2000 unité de chaleur pour les radiateurs et ballons d'eau chaude. Doit être alimenté avec du chemfuel. Peut être contrôlé par thermostat.</GasBoiler.description>
+
+	<ElectricBoiler.label>chauffe-eau électrique</ElectricBoiler.label>
+	<ElectricBoiler.description>Produit un nombre d'unité de chaleur variable pour les radiateurs et ballons d'eau chaude. Dispose d'un contrôle de puissance manuel. Peut être contrôlé par thermostat.</ElectricBoiler.description>
+
+	<SolarHeater.label>chauffe-eau solaire</SolarHeater.label>
+	<SolarHeater.description>Produit entre 0 et 2000 unité de chaleur en fonction de la luminosité et de la températeure ambiante pour les radiateurs et ballons d'eau chaude.</SolarHeater.description>
+
+	<HotWaterTank.label>ballon d'eau chaude</HotWaterTank.label>
+	<HotWaterTank.description>Stocke l'eau chaude pour les douches et les bains. Connecter à un chauffe-eau pour bénéficier de l'eau chaude.</HotWaterTank.description>
+
+	<Radiator.label>radiateur</Radiator.label>
+	<Radiator.description>Chauffe une pièce en utilisant de l'eau chaude. Requiert au moins 100 unités de chaleur.</Radiator.description>
+
+	<RadiatorStuffed.label>radiateur</RadiatorStuffed.label>
+	<RadiatorStuffed.description>Chauffe une pièce en utilisant de l'eau chaude. Requiert au moins 100 unités de chaleur.</RadiatorStuffed.description>
+
+	<RadiatorLarge.label>grand radiateur</RadiatorLarge.label>
+	<RadiatorLarge.description>3 fois plus efficace qu'un radiateur normal, idéal pour les grandes pièces. Requiert au moins 300 unités de chaleur.</RadiatorLarge.description>
+
+	<CeilingFan.label>ventilateur de plafond 2x2</CeilingFan.label>
+	<CeilingFan.description>Refroidit une pièce en faisant circuler l'air. Permet également d'éclairer la pièce grâce à sa lampe intégrée.</CeilingFan.description>
+
+	<CeilingFanS.label>ventilateur de plafond 1x1</CeilingFanS.label>
+	<CeilingFanS.description>Refroidit une pièce en faisant circuler l'air. Permet également d'éclairer la pièce grâce à sa lampe intégrée.</CeilingFanS.description>
+
+	<AirConOutdoorUnit.label>unité extérieure d'air conditionnée</AirConOutdoorUnit.label>
+	<AirConOutdoorUnit.description>Une unité d'air conditionnée à placer en dehors et à relier à des unités intérieures grâce à des conduits. Peut produire entre 100 et 1000 unités de refroidissement.</AirConOutdoorUnit.description>
+
+	<AirconIndoorUnit.label>unité intérieure d'air conditionnée</AirconIndoorUnit.label>
+	<AirconIndoorUnit.description>Une unité d'air conditionnée à placer à l'intérieur des pièces et à connecter à une unité extérieure à l'aide de conduits. Requiert au moins 100 unités de refroidissement.</AirconIndoorUnit.description>
+
+	<FreezerUnit.label>unité de congélateur</FreezerUnit.label>
+	<FreezerUnit.description>Une unité d'air conditionnée servant pour les congélateurs. Doit être connectée à une unité extérieure à l'aide de conduits. Requiert au moins 300 unités de refroidissement.</FreezerUnit.description>
+
+</LanguageData>

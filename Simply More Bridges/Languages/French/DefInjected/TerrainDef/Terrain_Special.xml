@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!--======================== Deep water bridge ========================-->
+
+	<DeepWaterBridgeSteel.label>grand pont en métal</DeepWaterBridgeSteel.label>
+	<DeepWaterBridgeSteel.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeSteel.description>
+
+	<DeepWaterBridgePlasteel.label>grand pont en plastacier</DeepWaterBridgePlasteel.label>
+	<DeepWaterBridgePlasteel.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgePlasteel.description>
+
+	<DeepWaterBridgeSandstone.label>grand pont en grès</DeepWaterBridgeSandstone.label>
+	<DeepWaterBridgeSandstone.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeSandstone.description>
+
+	<DeepWaterBridgeGranite.label>grand pont en granite</DeepWaterBridgeGranite.label>
+	<DeepWaterBridgeGranite.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeGranite.description>
+
+	<DeepWaterBridgeLimestone.label>grand pont en calcaire</DeepWaterBridgeLimestone.label>
+	<DeepWaterBridgeLimestone.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeLimestone.description>
+
+	<DeepWaterBridgeSlate.label>grand pont en ardoise</DeepWaterBridgeSlate.label>
+	<DeepWaterBridgeSlate.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeSlate.description>
+
+	<DeepWaterBridgeMarble.label>grand pont en marbre</DeepWaterBridgeMarble.label>
+	<DeepWaterBridgeMarble.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeMarble.description>
+
+	<!--======================== Heavy bridge ========================-->
+
+	<HeavyBridgeSteel.label>pont solide en métal</HeavyBridgeSteel.label>
+	<HeavyBridgeSteel.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeSteel.description>
+
+	<HeavyBridgePlasteel.label>pont solide en plastacier</HeavyBridgePlasteel.label>
+	<HeavyBridgePlasteel.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgePlasteel.description>
+
+	<HeavyBridgeSandstone.label>pont solide en grès</HeavyBridgeSandstone.label>
+	<HeavyBridgeSandstone.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeSandstone.description>
+
+	<HeavyBridgeGranite.label>pont solide en granite</HeavyBridgeGranite.label>
+	<HeavyBridgeGranite.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeGranite.description>
+
+	<HeavyBridgeLimestone.label>pont solide en calcaire</HeavyBridgeLimestone.label>
+	<HeavyBridgeLimestone.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeLimestone.description>
+
+	<HeavyBridgeSlate.label>pont solide en ardoise</HeavyBridgeSlate.label>
+	<HeavyBridgeSlate.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeSlate.description>
+
+	<HeavyBridgeMarble.label>pont solide en marbre</HeavyBridgeMarble.label>
+	<HeavyBridgeMarble.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeMarble.description>
+
+</LanguageData>

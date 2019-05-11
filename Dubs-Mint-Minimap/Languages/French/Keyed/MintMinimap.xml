@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimatomicsMinimap>Si activé, la carte nécessite le SACC (Système d'Acquisition de Cible et de Communication) du mod Rimatomics pour fonctionner.</RimatomicsMinimap>
+  <CommsConsoleMap>Si activé, la carte nécessite une console de communication pour fonctionner.</CommsConsoleMap>
+  <FreeMinimap>Si activé, la carte est disponible sans condition.</FreeMinimap>
+</LanguageData>

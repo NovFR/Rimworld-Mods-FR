@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<EdB.PC.AddParentChild.Header.AddParent>Ajouter un parent</EdB.PC.AddParentChild.Header.AddParent>
+	<EdB.PC.AddParentChild.Error.ParentRequired>Vous devez sélectionner un parent</EdB.PC.AddParentChild.Error.ParentRequired>
+	<EdB.PC.AddParentChild.Header.AddChild>Ajouter un enfant</EdB.PC.AddParentChild.Header.AddChild>
+	<EdB.PC.AddParentChild.Error.ChildRequired>Vous devez sélectionner un enfant</EdB.PC.AddParentChild.Error.ChildRequired>
+	<EdB.PC.AddParentChild.Header.SelectColonist>Sélectionner un colon</EdB.PC.AddParentChild.Header.SelectColonist>
+	<EdB.PC.AddParentChild.Header.SelectWorldPawn>Sélectionner un autre personnage dans le monde</EdB.PC.AddParentChild.Header.SelectWorldPawn>
+	<EdB.PC.AddParentChild.Header.CreateTemporaryPawn>Création d'un personnage temporaire pour le lier à un autre</EdB.PC.AddParentChild.Header.CreateTemporaryPawn>
+	<EdB.PC.AddParentChild.NewHiddenCharacter>Nouveau personnage temporaire</EdB.PC.AddParentChild.NewHiddenCharacter>
+	<EdB.PC.AddParentChild.Temporary>Temporaire</EdB.PC.AddParentChild.Temporary>
+	<EdB.PC.AddParentChild.Colony>Colonie</EdB.PC.AddParentChild.Colony>
+	<EdB.PC.AddParentChild.World>Monde</EdB.PC.AddParentChild.World>
+
+	<EdB.PC.AddRelationship.Header.Relationship>Sélectionnez la relation</EdB.PC.AddRelationship.Header.Relationship>
+	<EdB.PC.AddRelationship.Header.Source>Sélectionnez un personnage</EdB.PC.AddRelationship.Header.Source>
+	<EdB.PC.AddRelationship.Header.Target>Sélectionnez le personnage cible</EdB.PC.AddRelationship.Header.Target>
+	<EdB.PC.AddRelationship.Error.RelationshipRequired>Vous devez sélectionner une relation</EdB.PC.AddRelationship.Error.RelationshipRequired>
+	<EdB.PC.AddRelationship.Error.SourceRequired>Vous devez sélectionner un personnage</EdB.PC.AddRelationship.Error.SourceRequired>
+	<EdB.PC.AddRelationship.Error.TargetRequired>Vous devez sélectionner un personnage</EdB.PC.AddRelationship.Error.TargetRequired>
+
+	<EdB.PC.Animals.LabelWithGender>{0}, {1}</EdB.PC.Animals.LabelWithGender>
+	<EdB.PC.Animals.LabelWithoutGender>{0}</EdB.PC.Animals.LabelWithoutGender>
+
+	<EdB.PC.BodyParts.WholeBody>Tout le corps</EdB.PC.BodyParts.WholeBody>
+
+	<EdB.PC.Common.Add>Ajouter</EdB.PC.Common.Add>
+	<EdB.PC.Common.Next>Suivant</EdB.PC.Common.Next>
+	<EdB.PC.Common.NoOptionSelected>Rien</EdB.PC.Common.NoOptionSelected>
+	<EdB.PC.Common.NoOptionAvailable>-</EdB.PC.Common.NoOptionAvailable>
+	<EdB.PC.Common.Cancel>Annuler</EdB.PC.Common.Cancel>
+	<EdB.PC.Common.Close>Fermer</EdB.PC.Common.Close>
+	<EdB.PC.Common.Confirm>Confirmer</EdB.PC.Common.Confirm>
+	<EdB.PC.Common.Default>Par défaut</EdB.PC.Common.Default>
+	<EdB.PC.Common.Select>Sélectionner</EdB.PC.Common.Select>
+
+	<EdB.PC.Dialog.Backstory.Filter.Add>Ajouter un filtre</EdB.PC.Dialog.Backstory.Filter.Add>
+	<EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>Sans incapacité</EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>
+	<EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Sans pénalité de compétence</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
+	<EdB.PC.Dialog.Backstory.Filter.SkillBonus>Bonus: {0} +{1}</EdB.PC.Dialog.Backstory.Filter.SkillBonus>
+	<EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Bonus: {0}, +{1} ou mieux</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
+	<EdB.PC.Dialog.Backstory.Filter.MatchesFaction>Histoires de faction uniquement</EdB.PC.Dialog.Backstory.Filter.MatchesFaction>
+
+	<EdB.PC.Dialog.BodyPart.Header>Sélectionnez un emplacement</EdB.PC.Dialog.BodyPart.Header>
+	<EdB.PC.Dialog.BodyPart.Error.Required>Vous devez sélectionner un emplacement</EdB.PC.Dialog.BodyPart.Error.Required>
+
+	<EdB.PC.Dialog.Faction.ChooseFaction>Sélectionnez une faction</EdB.PC.Dialog.Faction.ChooseFaction>
+	<EdB.PC.Dialog.Faction.LeaderFaction>Chef: {0}</EdB.PC.Dialog.Faction.LeaderFaction>
+	<EdB.PC.Dialog.Faction.NumberedFaction>{1}: {0}</EdB.PC.Dialog.Faction.NumberedFaction>
+	<EdB.PC.Dialog.Faction.Random>Aléatoire</EdB.PC.Dialog.Faction.Random>
+	<EdB.PC.Dialog.Faction.RandomFaction>Aléatoire: {0}</EdB.PC.Dialog.Faction.RandomFaction>
+	<EdB.PC.Dialog.Faction.SelectLeaderFaction>Faire de ce personnage le chef d'une faction spécifique</EdB.PC.Dialog.Faction.SelectLeaderFaction>
+	<EdB.PC.Dialog.Faction.SelectRandomFaction>Place ce personnage dans une faction aléatoire</EdB.PC.Dialog.Faction.SelectRandomFaction>
+	<EdB.PC.Dialog.Faction.SelectSpecificFaction>Choisir une faction spécifique pour ce personnage</EdB.PC.Dialog.Faction.SelectSpecificFaction>
+
+	<EdB.PC.Dialog.Implant.Alert>Au moins un implant ne sera pas installé car il y a un conflit avec une autre sélection:\n{0}</EdB.PC.Dialog.Implant.Alert>
+	<EdB.PC.Dialog.Implant.Alert.Item>- {0}, {1}</EdB.PC.Dialog.Implant.Alert.Item>
+	<EdB.PC.Dialog.Implant.Button.Confirm>Appliquer</EdB.PC.Dialog.Implant.Button.Confirm>
+	<EdB.PC.Dialog.Implant.Conflict>Cet implant ne peut être installé car il est en conflit avec:\n\n- {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
+	<EdB.PC.Dialog.Implant.Header>Sélectionner les implants</EdB.PC.Dialog.Implant.Header>
+
+	<EdB.PC.Dialog.Injury.Header>Sélectionnez un état</EdB.PC.Dialog.Injury.Header>
+	<EdB.PC.Dialog.Injury.Error.Required>Vous devez sélectionner un état</EdB.PC.Dialog.Injury.Error.Required>
+	<EdB.PC.Dialog.Injury.OldInjury.Label>{0} ({1})</EdB.PC.Dialog.Injury.OldInjury.Label>
+
+	<EdB.PC.Dialog.PawnPreset.Button.Load>Charger</EdB.PC.Dialog.PawnPreset.Button.Load>
+	<EdB.PC.Dialog.PawnPreset.Button.Save>Sauver</EdB.PC.Dialog.PawnPreset.Button.Save>
+	<EdB.PC.Dialog.PawnPreset.DeleteTooltip>Supprimer ce colon</EdB.PC.Dialog.PawnPreset.DeleteTooltip>
+	<EdB.PC.Dialog.PawnPreset.ConfirmDelete>Désirez-vous réellement supprimer ce colon?</EdB.PC.Dialog.PawnPreset.ConfirmDelete>
+	<EdB.PC.Dialog.PawnPreset.Loaded>Colon chargé: {0}</EdB.PC.Dialog.PawnPreset.Loaded>
+	<EdB.PC.Dialog.PawnPreset.Error.Failed>Impossible de charger le colon. Vérifiez que tous les mods requis sont bien activés.</EdB.PC.Dialog.PawnPreset.Error.Failed>
+	<EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>Les colons des version antérieures à l'alpha 13 ne sont pas pris en charge.</EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>
+
+	<EdB.PC.Dialog.Preset.Button.Load>Charger</EdB.PC.Dialog.Preset.Button.Load>
+	<EdB.PC.Dialog.Preset.Button.Save>Sauver</EdB.PC.Dialog.Preset.Button.Save>
+	<EdB.PC.Dialog.Preset.ConfirmDelete>Désirez-vous réellement supprimer cette préseléction?</EdB.PC.Dialog.Preset.ConfirmDelete>
+	<EdB.PC.Dialog.Preset.DeleteTooltip>Supprimer cette préselection</EdB.PC.Dialog.Preset.DeleteTooltip>
+	<EdB.PC.Dialog.Preset.Error.EquipmentFailed>L'équipement de cette présélection ne peut être chargé.</EdB.PC.Dialog.Preset.Error.EquipmentFailed>
+	<EdB.PC.Dialog.Preset.Error.Failed>Impossible de charger les colons de cette présélection. Vérifiez que les mods requis sont bien activés.</EdB.PC.Dialog.Preset.Error.Failed>
+	<EdB.PC.Dialog.Preset.Error.PartialSaveFailure>Des problèmes sont survenus lors de la sauvegarde de la présélection. Certaines personnalisations ne seront pas incluses.</EdB.PC.Dialog.Preset.Error.PartialSaveFailure>
+	<EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Les versions antérieures à l'alpha 13 ne sont pas prises en charge.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
+	<EdB.PC.Dialog.Preset.Error.RelationshipFailed>Impossible de charger une relation de cette présélection.</EdB.PC.Dialog.Preset.Error.RelationshipFailed>
+	<EdB.PC.Dialog.Preset.Error.SaveFailed>Un problème est survenu lors de la sauvegarde. Il est possible que cette présélection ne puisse pas être chargée.</EdB.PC.Dialog.Preset.Error.SaveFailed>
+	<EdB.PC.Dialog.Preset.Error.ThingDefFailed>La présélection n'a pas pu être totalement chargée. Vérifiez que tous les mods requis sont bien activés.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
+	<EdB.PC.Dialog.Preset.Error.NoCharacter>Impossible de charger le personnage sauvegardé. Vérifiez que tous les mods requis sont bien activés.</EdB.PC.Dialog.Preset.Error.NoCharacter>
+	<EdB.PC.Dialog.Preset.Loaded>Présélection {0} chargée</EdB.PC.Dialog.Preset.Loaded>
+
+	<EdB.PC.Dialog.Severity.Header>Sélectionnez la sévérité</EdB.PC.Dialog.Severity.Header>
+	<EdB.PC.Dialog.Severity.Error.Required>Vous devez sélectionner une sévérité</EdB.PC.Dialog.Severity.Error.Required>
+	<EdB.PC.Dialog.Severity.OldInjury.Label.2>2 dégâts</EdB.PC.Dialog.Severity.OldInjury.Label.2>
+	<EdB.PC.Dialog.Severity.OldInjury.Label.3>3 dégâts</EdB.PC.Dialog.Severity.OldInjury.Label.3>
+	<EdB.PC.Dialog.Severity.OldInjury.Label.4>4 dégâts</EdB.PC.Dialog.Severity.OldInjury.Label.4>
+	<EdB.PC.Dialog.Severity.OldInjury.Label.5>5 dégâts</EdB.PC.Dialog.Severity.OldInjury.Label.5>
+	<EdB.PC.Dialog.Severity.OldInjury.Label.6>6 dégâts</EdB.PC.Dialog.Severity.OldInjury.Label.6>
+	<EdB.PC.Dialog.Severity.Stage.Label.>{0} {1}</EdB.PC.Dialog.Severity.Stage.Label.>
+
+	<EdB.PC.Dialog.UnrecoverableError.Header>Erreur fatale</EdB.PC.Dialog.UnrecoverableError.Header>
+	<EdB.PC.Dialog.UnrecoverableError.Message>Quelque chose est allé de travers et le mod n'a pas été en mesure de passer outre.  Le message d'erreur suivant pourrait aider à identifier le problème:
+
+"{0}"</EdB.PC.Dialog.UnrecoverableError.Message>
+
+	<EdB.PC.Equipment.AnimalLabel>{0} {1}</EdB.PC.Equipment.AnimalLabel>
+	<EdB.PC.Equipment.Type.Animals>Animaux</EdB.PC.Equipment.Type.Animals>
+	<EdB.PC.Equipment.Type.Apparel>Apparences</EdB.PC.Equipment.Type.Apparel>
+	<EdB.PC.Equipment.Type.Buildings>Fournitures</EdB.PC.Equipment.Type.Buildings>
+	<EdB.PC.Equipment.Type.Food>Nourriture</EdB.PC.Equipment.Type.Food>
+	<EdB.PC.Equipment.Type.Medical>Médicaments</EdB.PC.Equipment.Type.Medical>
+	<EdB.PC.Equipment.Type.Resources>Ressources</EdB.PC.Equipment.Type.Resources>
+	<EdB.PC.Equipment.Type.Weapons>Armes</EdB.PC.Equipment.Type.Weapons>
+
+	<EdB.PC.Error.NotEnoughPoints>Vous avez dépensé trop de points.</EdB.PC.Error.NotEnoughPoints>
+	<EdB.PC.Error.NotEnoughColonists1>Vous devez au moins avoir 1 colon.</EdB.PC.Error.NotEnoughColonists1>
+	<EdB.PC.Error.NotEnoughColonists>Vous devez au moins avoir {0} colons.</EdB.PC.Error.NotEnoughColonists>
+	<EdB.PC.Error.Initialization>Échec lors de l'initialisation.
+
+Ceci est généralement dû à un autre mod. Les mods peuvent parfois avoir des comportements inattendus, et il peut arriver que des conflits se produisent lors du chargement des objets, des factions, etc.
+
+Essayez de désactivez les mods un par un jusqu'à trouver celui qui est responsable du problème.</EdB.PC.Error.Initialization>
+
+	<EdB.PC.Pawn.AgeWithChronological>{0} ({1})</EdB.PC.Pawn.AgeWithChronological>
+	<EdB.PC.Pawn.AgeWithoutChronological>{0}</EdB.PC.Pawn.AgeWithoutChronological>
+	<EdB.PC.Pawn.BodyType.Average>Moyen</EdB.PC.Pawn.BodyType.Average>
+	<EdB.PC.Pawn.BodyType.Heavyset>Gros</EdB.PC.Pawn.BodyType.Heavyset>
+	<EdB.PC.Pawn.BodyType.Hulking>Musclé</EdB.PC.Pawn.BodyType.Hulking>
+	<EdB.PC.Pawn.BodyType.Thin>Mince</EdB.PC.Pawn.BodyType.Thin>
+	<EdB.PC.Pawn.BodyType.Unnamed>Sans nom</EdB.PC.Pawn.BodyType.Unnamed>
+	<EdB.PC.Pawn.HiddenPawnDescriptionWithGender>{0}, {1}</EdB.PC.Pawn.HiddenPawnDescriptionWithGender>
+	<EdB.PC.Pawn.HiddenPawnDescriptionNoGender>{0}</EdB.PC.Pawn.HiddenPawnDescriptionNoGender>
+	<EdB.PC.Pawn.HiddenPawnNameFull>Caché {0}</EdB.PC.Pawn.HiddenPawnNameFull>
+	<EdB.PC.Pawn.HiddenPawnNameShort>Cachée {0}</EdB.PC.Pawn.HiddenPawnNameShort>
+	<EdB.PC.Pawn.HiddenPawnProfession>Inconnue</EdB.PC.Pawn.HiddenPawnProfession>
+	<EdB.PC.Pawn.PawnDescriptionWithGender>{0}, {1}, age {2}</EdB.PC.Pawn.PawnDescriptionWithGender>
+	<EdB.PC.Pawn.PawnDescriptionNoGender>{0}, age {1}</EdB.PC.Pawn.PawnDescriptionNoGender>
+	<EdB.PC.Pawn.PawnLayer.Accessory>Accessoire</EdB.PC.Pawn.PawnLayer.Accessory>
+	<EdB.PC.Pawn.PawnLayer.AlienAddonOption>Option {0}</EdB.PC.Pawn.PawnLayer.AlienAddonOption>
+	<EdB.PC.Pawn.PawnLayer.BodyType>Type de corps</EdB.PC.Pawn.PawnLayer.BodyType>
+	<EdB.PC.Pawn.PawnLayer.BottomClothingLayer>Couche inférieure</EdB.PC.Pawn.PawnLayer.BottomClothingLayer>
+	<EdB.PC.Pawn.PawnLayer.Hair>Cheveux</EdB.PC.Pawn.PawnLayer.Hair>
+	<EdB.PC.Pawn.PawnLayer.Hat>Chapeau</EdB.PC.Pawn.PawnLayer.Hat>
+	<EdB.PC.Pawn.PawnLayer.HeadType>Type de tête</EdB.PC.Pawn.PawnLayer.HeadType>
+	<EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>Couche intermédiaire</EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>
+	<EdB.PC.Pawn.PawnLayer.Pants>Pantalon</EdB.PC.Pawn.PawnLayer.Pants>
+	<EdB.PC.Pawn.PawnLayer.TopClothingLayer>Couche supérieure</EdB.PC.Pawn.PawnLayer.TopClothingLayer>
+	<EdB.PC.Pawn.TemporaryPawnNameFull>Temporaire {0}</EdB.PC.Pawn.TemporaryPawnNameFull>
+	<EdB.PC.Pawn.TemporaryPawnNameShort>Temp. {0}</EdB.PC.Pawn.TemporaryPawnNameShort>
+
+	<EdB.PC.Page.Button.LoadPreset>Charger présélection</EdB.PC.Page.Button.LoadPreset>
+	<EdB.PC.Page.Button.PrepareCarefully>Personnaliser</EdB.PC.Page.Button.PrepareCarefully>
+	<EdB.PC.Page.Button.SavePreset>Sauver présélection</EdB.PC.Page.Button.SavePreset>
+	<EdB.PC.Page.ConfirmExit>Désirez-vous réellement quitter la préparation ? Tous les changements effectués seront perdus.</EdB.PC.Page.ConfirmExit>
+	<EdB.PC.Page.ConfirmStart>Vous avez terminé vos personnalisations ? Confirmez que vous êtes prêt(e) à démarrer !</EdB.PC.Page.ConfirmStart>
+	<EdB.PC.Page.Points.CostSummary.Total>Dépense totale: {0}</EdB.PC.Page.Points.CostSummary.Total>
+	<EdB.PC.Page.Points.CostSummary.Equipment>Équipment: {0}</EdB.PC.Page.Points.CostSummary.Equipment>
+	<EdB.PC.Page.Points.CostSummary.Apparel>Apparence: {0}</EdB.PC.Page.Points.CostSummary.Apparel>
+	<EdB.PC.Page.Points.CostSummary.Colonist>{0}: {1}</EdB.PC.Page.Points.CostSummary.Colonist>
+	<EdB.PC.Page.Points.CostSummary.Implants>Implants: {0}</EdB.PC.Page.Points.CostSummary.Implants>
+	<EdB.PC.Page.Points.NotEnoughPoints>Vous avez dépensé trop de points.</EdB.PC.Page.Points.NotEnoughPoints>
+	<EdB.PC.Page.Points.Remaining>Restants: {0}</EdB.PC.Page.Points.Remaining>
+	<EdB.PC.Page.Points.ScenarioPoints>Les colons et les ressources générés pour ce scénario valent {0} points.</EdB.PC.Page.Points.ScenarioPoints>
+	<EdB.PC.Page.Points.Spent>Dépensés: {0}</EdB.PC.Page.Points.Spent>
+	<EdB.PC.Page.Points.Unlimited>Infini</EdB.PC.Page.Points.Unlimited>
+	<EdB.PC.Page.Points.UsePoints>Utiliser la limite de points</EdB.PC.Page.Points.UsePoints>
+	<EdB.PC.Page.Points.UsePoints.Tip>
+    Activez la limite de points si vous voulez un départ équilibré. Vous devrez alors payer les compétences, les colons additionnels et l'équipement à partir d'un budget fixe. Vos points de départs dépendent du coût des personnages et des ressources générés par le scénario sélectionné.
+
+    Désactivez la limite pour définir vos colons de départ sans la moindre contrainte.
+	</EdB.PC.Page.Points.UsePoints.Tip>
+	<EdB.PC.Page.Title>Personnalisation (Prepare Carefully)</EdB.PC.Page.Title>
+
+	<EdB.PC.Panel.Age.Biological>Âge biologique</EdB.PC.Panel.Age.Biological>
+	<EdB.PC.Panel.Age.Chronological>Âge chronologique</EdB.PC.Panel.Age.Chronological>
+
+	<EdB.PC.Panel.Appearance.ApparelConflict.Description>Votre colon ne peut pas porter « {0} » avec l'apparence suivante:</EdB.PC.Panel.Appearance.ApparelConflict.Description>
+	<EdB.PC.Panel.Appearance.ApparelConflict.LineItem> - {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
+	<EdB.PC.Panel.Appearance.NoneSelected>-</EdB.PC.Panel.Appearance.NoneSelected>
+	<EdB.PC.Panel.Appearance.WorldPawnAlert>Le jeu habille régulièrement les personnages du monde, leur occtroyant une nouvelle apparence et un nouvel équipement avant qu'ils apparaissent sur la carte. Si vous sélectionnez une apparence personnalisée, il y a de fortes chances pour que celle-ci soit perdue lorsque vous rencontrerez le personnage.
+
+Ce n'est toutefois pas le cas pour les chefs. Si vous définissez ce personnage comme chef de faction, vos personnalisations seront préservées.</EdB.PC.Panel.Appearance.WorldPawnAlert>
+
+	<EdB.PC.Panel.AvailableEquipment.Add>Ajouter équipement</EdB.PC.Panel.AvailableEquipment.Add>
+	<EdB.PC.Panel.AvailableEquipment.Materials.All>Tous les matériaux</EdB.PC.Panel.AvailableEquipment.Materials.All>
+	<EdB.PC.Panel.AvailableEquipment.Materials.None>Aucun matériau</EdB.PC.Panel.AvailableEquipment.Materials.None>
+
+	<EdB.PC.Panel.ColonyPawnList.Title>Colonie</EdB.PC.Panel.ColonyPawnList.Title>
+
+	<EdB.PC.Panel.Health.Error.MustSelectBodyPart>Vous devez sélectionner un emplacement</EdB.PC.Panel.Health.Error.MustSelectBodyPart>
+	<EdB.PC.Panel.Health.Error.MustSelectImplant>Vous devez sélectionner une procédure d'implantation</EdB.PC.Panel.Health.Error.MustSelectImplant>
+	<EdB.PC.Panel.Health.Error.MustSelectOption>Vous devez sélectionner une option</EdB.PC.Panel.Health.Error.MustSelectOption>
+	<EdB.PC.Panel.Health.Error.MustSelectSeverity>Vous devez sélectionner un niveau de sévérité</EdB.PC.Panel.Health.Error.MustSelectSeverity>
+	<EdB.PC.Panel.Health.HediffTypeInjury>Ajouter une blessure ou un état de santé</EdB.PC.Panel.Health.HediffTypeInjury>
+	<EdB.PC.Panel.Health.HediffTypeImplant>Gérer les implants</EdB.PC.Panel.Health.HediffTypeImplant>
+	<EdB.PC.Panel.Health.InjuryLabel.Stage>{0}, {1}</EdB.PC.Panel.Health.InjuryLabel.Stage>
+	<EdB.PC.Panel.Health.InjuryLabel.Severity>{0}</EdB.PC.Panel.Health.InjuryLabel.Severity>
+	<EdB.PC.Panel.Health.None>Pas de blessure, d'état particulier ou d'implant</EdB.PC.Panel.Health.None>
+	<EdB.PC.Panel.Health.SelectBodyPart>Sélectionnez un emplacement</EdB.PC.Panel.Health.SelectBodyPart>
+	<EdB.PC.Panel.Health.SelectSeverity>Sélectionnez une sévérité</EdB.PC.Panel.Health.SelectSeverity>
+	<EdB.PC.Panel.Health.PartWithInjury>{0}: &lt;color={2}&gt;{1}&lt;/color&gt;</EdB.PC.Panel.Health.PartWithInjury>
+
+	<EdB.PC.Panel.Incapable.None>Aucun</EdB.PC.Panel.Incapable.None>
+	<EdB.PC.Panel.Incapable.Warning>Vos colons ne peuvent pas effectuer au moins une des tâches essentielles à l'établissement de votre colonie.
+
+{0}
+
+Vous pouvez jouer avec vos colons tels qu'ils sont, mais vous devrez confirmer votre choix avant de démarrer le scénario.</EdB.PC.Panel.Incapable.Warning>
+	<EdB.PC.Panel.Incapable.WarningItem> - {0}</EdB.PC.Panel.Incapable.WarningItem>
+
+	<EdB.PC.Panel.LoadSave.Load>Charger perso.</EdB.PC.Panel.LoadSave.Load>
+	<EdB.PC.Panel.LoadSave.Save>Sauver perso.</EdB.PC.Panel.LoadSave.Save>
+
+	<EdB.PC.Panel.PawnList.Delete.Confirm>Désirez-vous réellement supprimer ce personnage ?</EdB.PC.Panel.PawnList.Delete.Confirm>
+	<EdB.PC.Panel.PawnList.Error.MustSelectFaction>Vous devez sélectionner une faction</EdB.PC.Panel.PawnList.Error.MustSelectFaction>
+	<EdB.PC.Panel.PawnList.SelectFaction>Sélectionner depuis un modèle</EdB.PC.Panel.PawnList.SelectFaction>
+	<EdB.PC.Panel.PawnList.Error.FactionPawnFailed>Une erreur inattendue s'est produite lors de la création du nouveau personnage</EdB.PC.Panel.PawnList.Error.FactionPawnFailed>
+	<EdB.PC.Panel.PawnList.PawnCount>({0})</EdB.PC.Panel.PawnList.PawnCount>
+
+	<EdB.PC.Panel.RelationshipsOther.Title>Autres relations</EdB.PC.Panel.RelationshipsOther.Title>
+
+	<EdB.PC.Panel.RelationshipsParentChild.Title>Relations familiales</EdB.PC.Panel.RelationshipsParentChild.Title>
+
+	<EdB.PC.Panel.SelectedEquipment.Remove>Retirer l'équipement</EdB.PC.Panel.SelectedEquipment.Remove>
+
+	<EdB.PC.Panel.Skills.ResetTip>Réinitialiser toutes les compétences et passions à leurs valeurs d'origine</EdB.PC.Panel.Skills.ResetTip>
+	<EdB.PC.Panel.Skills.ClearTip>Effacer toutes les compétences et passions en leur attribuant la plus petite valeur possible</EdB.PC.Panel.Skills.ClearTip>
+
+	<EdB.PC.Panel.Traits.None>Pas d'élement</EdB.PC.Panel.Traits.None>
+	<EdB.PC.Panel.Traits.Warning.TooManyTraits>Normalement, un maximum de trois éléments est autorisé par personnages. Vous pouvez en ajouter davantage ici, mais il est possible qu'ils ne s'affichent pas correctement dans toutes les fenêtres d'informations du jeu.</EdB.PC.Panel.Traits.Warning.TooManyTraits>
+	<EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nConflit avec:\n{1}</EdB.PC.Panel.Traits.Tip.Conflict>
+	<EdB.PC.Panel.Traits.Tip.Conflict.List.1> - {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
+	<EdB.PC.Panel.Traits.Tip.Conflict.List.2> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
+	<EdB.PC.Panel.Traits.Tip.Conflict.List.Many> - {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
+	<EdB.PC.Panel.Traits.Tip.Conflict.List.Last> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
+
+	<EdB.PC.TabView.Animals.Title>Animaux</EdB.PC.TabView.Animals.Title>
+	<EdB.PC.TabView.Equipment.Title>Équipment</EdB.PC.TabView.Equipment.Title>
+	<EdB.PC.TabView.Pawns.Title>Personnages</EdB.PC.TabView.Pawns.Title>
+	<EdB.PC.TabView.Relationships.Title>Relations</EdB.PC.TabView.Relationships.Title>
+
+	<EdB.PC.Panel.WorldPawnList.Title>Monde</EdB.PC.Panel.WorldPawnList.Title>
+
+
+</LanguageData>

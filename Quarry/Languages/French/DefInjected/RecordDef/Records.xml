@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<QRY_CellsMined.label>m³ minés dans la carrière</QRY_CellsMined.label>
+	<QRY_CellsMined.description>Le volume que j'ai miné dans la carrière.</QRY_CellsMined.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bladder.label>besoins naturels</Bladder.label>
+	<Bladder.description>Il s'agit de la satisfaction des besoins naturels nécessitants des toilettes.</Bladder.description>
+
+	<Hygiene.label>hygiène</Hygiene.label>
+	<Hygiene.description>Une bonne hygiène personnelle est importante pour réduire les risques de maladie et garder les colons heureux et en bonne santé.</Hygiene.description>
+
+	<DBHThirst.label>hydratation</DBHThirst.label>
+	<DBHThirst.description>L'eau est requise dans de nombreux processus physiologiques. Un être vivant dont l'hydratation tombe à 0 va lentement dépérir et finir par mourir de déshydratation..</DBHThirst.description>
+
+</LanguageData>

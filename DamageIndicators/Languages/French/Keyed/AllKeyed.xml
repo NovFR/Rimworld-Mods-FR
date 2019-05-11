@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<PERSONALSHIELD_BROKEN>BOUCLIER DÉTRUIT</PERSONALSHIELD_BROKEN>
+	<DM_MISS>Raté</DM_MISS>
+	<EnableIndicatorNeutralFactions>Toujours afficher les dégâts</EnableIndicatorNeutralFactions>
+	<EnableIndicatorNeutralFactions_Desc>Les dégâts seront affichés indépendamment de la faction.</EnableIndicatorNeutralFactions_Desc>
+	<DisplayPawnsOnly>Afficher uniquement pour les êtres vivants</DisplayPawnsOnly>
+	<DisplayPawnsOnly_Desc>Les dégâts ne seront pas affichés sur les objets qui ne sont pas vivants.</DisplayPawnsOnly_Desc>
+</LanguageData>

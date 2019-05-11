@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FilthUrine.label>urine</FilthUrine.label>
+	<FilthUrine.description>De l'urine répandue au sol.</FilthUrine.description>
+
+	<FilthFaeces.label>selles</FilthFaeces.label>
+
+	<RawSewage.label>eaux usées</RawSewage.label>
+
+</LanguageData>

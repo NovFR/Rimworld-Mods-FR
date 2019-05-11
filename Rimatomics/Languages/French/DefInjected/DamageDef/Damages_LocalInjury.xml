@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CoreBlast.label>explosion du coeur</CoreBlast.label>
+	<CoreBlast.deathMessage>{0} est mort(e) dans l'explosion.</CoreBlast.deathMessage>
+
+	<ArcDischarge.label>décharge d'arc électrique</ArcDischarge.label>
+	<ArcDischarge.deathMessage>{0} a été grillé(e).</ArcDischarge.deathMessage>
+
+	<LaserDischarge.label>décharge laser</LaserDischarge.label>
+	<LaserDischarge.deathMessage>{0} a été grillé(e).</LaserDischarge.deathMessage>
+
+	<!-- -->
+
+	<Bomb_PlasmaToroid.label>explosion</Bomb_PlasmaToroid.label>
+	<Bomb_PlasmaToroid.deathMessage>{0} est mort(e) dans l'explosion.</Bomb_PlasmaToroid.deathMessage>
+
+	<Bomb_Sabot.label>explosion</Bomb_Sabot.label>
+	<Bomb_Sabot.deathMessage>{0} est mort(e) dans l'explosion.</Bomb_Sabot.deathMessage>
+
+	<Bomb_DUSabot.label>explosion</Bomb_DUSabot.label>
+	<Bomb_DUSabot.deathMessage>{0} est mort(e) dans l'explosion.</Bomb_DUSabot.deathMessage>
+
+</LanguageData>

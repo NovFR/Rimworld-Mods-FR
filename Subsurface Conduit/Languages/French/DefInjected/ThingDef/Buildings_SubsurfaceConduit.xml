@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MUR_SubsurfaceConduit.label>câble électrique souterrain</MUR_SubsurfaceConduit.label>
+	<MUR_SubsurfaceConduit.description>Un câble électrique renforcé placé sous terre.</MUR_SubsurfaceConduit.description>
+
+	<MUR_SubsurfaceConduitBuried.label>câble électrique souterrain détruit</MUR_SubsurfaceConduitBuried.label>
+	<MUR_SubsurfaceConduitBuried.description>(inutile)</MUR_SubsurfaceConduitBuried.description>
+
+</LanguageData>

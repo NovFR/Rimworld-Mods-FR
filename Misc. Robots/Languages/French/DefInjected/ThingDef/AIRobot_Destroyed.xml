@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIRobot_Hauler_disabled.label>robot de transport (détruit)</AIRobot_Hauler_disabled.label>
+	<AIRobot_Hauler_disabled.description>Une triste fin pour ce robot domestique. Il ne peut plus servir et peut seulement être démantelé.</AIRobot_Hauler_disabled.description>
+
+	<AIRobot_Cleaner_disabled.label>robot de nettoyage (détruit)</AIRobot_Cleaner_disabled.label>
+	<AIRobot_Cleaner_disabled.description>Une triste fin pour ce robot domestique. Il ne peut plus servir et peut seulement être démantelé.</AIRobot_Cleaner_disabled.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIRobot_BaseTrait.degreeDatas.Robot.label>robot</AIRobot_BaseTrait.degreeDatas.Robot.label>
+	<AIRobot_BaseTrait.degreeDatas.Robot.description>{PAWN_nameDef} est un robot. En tant que tel {PAWN_pronoun} est plus rapide qu'un humain et insensible aux phénomènes psychiques.</AIRobot_BaseTrait.degreeDatas.Robot.description>
+
+</LanguageData>

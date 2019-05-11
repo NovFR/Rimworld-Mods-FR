@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Placement Restrictors -->
+	<ZEN_MustPlaceHeadOnUnrakedGravel>Doit être placé sur du gravier ratissé.</ZEN_MustPlaceHeadOnUnrakedGravel>
+
+	<!-- Plants -->
+	<ZEN_CannotGrowBadSeason>hors de l'intervalle idéale de température (ne pousse pas).</ZEN_CannotGrowBadSeason>
+	<ZEN_DesignatorHarvestSecondary>Récolter la ressource secondaire</ZEN_DesignatorHarvestSecondary>
+	<ZEN_DesignatorHarvestSecondaryDesc>Indiquer aux colons de récolter les ressources secondaires.</ZEN_DesignatorHarvestSecondaryDesc>
+	<ZEN_MustDesignatePlantsWithSecondary>Doit désigner une plantation disposant d'une ressource secondaire.</ZEN_MustDesignatePlantsWithSecondary>
+	<ZEN_MustDesignateHarvestableSecondary>Doit désigner une plantation disposant d'une ressource secondaire récoltable.</ZEN_MustDesignateHarvestableSecondary>
+
+	<!-- Orchard Stuff -->
+	<ZEN_OrchardZone>Zone de verger</ZEN_OrchardZone>
+	<ZEN_DesignatorOrchardZoneDesc>Créer une zone agricole dans laquelle vos colons vont faire pousser des plantations qui produisent des ressources secondaires. Les colons vont récolter les ressources sans couper les plantations, à moins que cela soit spécifiquement indiqué.</ZEN_DesignatorOrchardZoneDesc>
+	<ZEN_DisplayStat_LimitedGrowSeasons>Saison des récoltes</ZEN_DisplayStat_LimitedGrowSeasons>
+	<ZEN_DisplayStat_GrowsInAllSeasons>Toutes les saisons</ZEN_DisplayStat_GrowsInAllSeasons>
+	<ZEN_DisplayStat_MinPlantGrowth>maturité min. de la plantation</ZEN_DisplayStat_MinPlantGrowth>
+	<ZEN_DisplayStat_MinGrowthReport>Cette ressource ne peut être récoltée qu'une fois arrivée à la maturité indiquée.</ZEN_DisplayStat_MinGrowthReport>
+
+</LanguageData>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Geigercounter1.label>Effectuer des recherches sur les détecteurs de radiations</Geigercounter1.label>
+	<Geigercounter1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement des détecteurs.</Geigercounter1.description>
+	<Geigercounter2.label>Évaluer les composants</Geigercounter2.label>
+	<Geigercounter2.description>Un artisan qualifié est nécessaire pour comprendre comment construire et entretenir les détecteurs de radiations pour tous les colons, et ce en utilisant les ressources et les outils à notre disposition.</Geigercounter2.description>
+
+	<RadiationSuits1.label>Effectuer des recherches sur les tenues anti-radiations</RadiationSuits1.label>
+	<RadiationSuits1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre comment les combinaisons anti-radiations fonctionnent avant que l'on soit capables de produire les nôtres.</RadiationSuits1.description>
+	<RadiationSuits2.label>Évaluer les composants</RadiationSuits2.label>
+	<RadiationSuits2.description>Un artisan qualifié est nécessaire pour élaborer les plans et adapter les combinaisons anti-radiations en utilisant les ressources et les outils à notre disposition.</RadiationSuits2.description>
+
+	<NuclearResearch1.label>Effectuer des recherches sur la technologie du réacteur expérimental</NuclearResearch1.label>
+	<NuclearResearch1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre le fonctionnement du réacteur expérimental avant que nous puissions en construire un pour nous-même.</NuclearResearch1.description>
+	<NuclearResearchConstruct.label>Construire un réacteur expérimental</NuclearResearchConstruct.label>
+	<NuclearResearchConstruct.description>Les colons vont avoir besoin d'un réacteur expérimental pour faire des expériences. Il est conseillé de le construire dans un laboratoire à l'épreuve du feu.</NuclearResearchConstruct.description>
+	<NuclearResearchPractical.label>Rechercher et s'exercer</NuclearResearchPractical.label>
+	<NuclearResearchPractical.description>Un chercheur qualifié est nécessaire pour effectuer des exercices de formation tout en testant les capacités du réacteur.</NuclearResearchPractical.description>
+
+	<NuclearReactorResearchPhase.label>Effecter des recherches sur les réacteurs nucléaires</NuclearReactorResearchPhase.label>
+	<NuclearReactorResearchPhase.description>Un chercheur qualifié est nécessaire pour étudier la conception des réacteurs Rimatomics et nous préparer à la construction de notre premier réacteur nucléaire.</NuclearReactorResearchPhase.description>
+	<NuclearReactorExperiments.label>Effecter des tests sur le réacteur expérimental (Très Risqué)</NuclearReactorExperiments.label>
+	<NuclearReactorExperiments.description>Un chercheur qualifié est nécessaire pour effecter des tests sur le réacteur expérimental. Cette étape comporte des risques.</NuclearReactorExperiments.description>
+
+	<BuildReactorCore.label>Fabriquer un coeur de réacteur nucléaire</BuildReactorCore.label>
+	<BuildReactorCore.description>Il est fortement recommandé de construire le coeur dans une salle de confinement afin de protéger les colons lors du transfert de combustible. L'épaisseur de la paroi et la résistance des matériaux utilisés détermineront la quantité de rayonnement absorbée. Nous conseillons également de laisser de l'espace autour du coeur, car le rayonnement diminue avec la distance.</BuildReactorCore.description>
+	<BuildReactorTurbine.label>Fabriquer un générateur de turbine</BuildReactorTurbine.label>
+	<BuildReactorTurbine.description>La turbine nécessite une grande quantité d'aubes qui pouvent être fabriquées dans l'atelier Rimatomics. Les turbines ne sont pas dangereuses et peuvent être construites en dehors des salles de confinement blindées, mais elles doivent être dans une salle couverte.</BuildReactorTurbine.description>
+
+	<TestForCore.label>Connecter le réacteur à la turbine</TestForCore.label>
+	<TestForCore.description>Connecter le coeur du réacteur à la turbine à l'aide de &lt;b&gt;tuyaux à vapeur&lt;/b&gt; et de &lt;b&gt;tuyaux d'eau froide&lt;/b&gt;.</TestForCore.description>
+
+	<BuildReactorCooling.label>Fabriquer un système de refroidissement</BuildReactorCooling.label>
+	<BuildReactorCooling.description>Construire l'un des systèmes de refroidissement disponibles et le connecter à une turbine grâce au &lt;b&gt;tuyau de liquide de refroidissement&lt;/b&gt;. Le refroidissement par eau nécessite des rivières ou de grandes étendues d'eau, les tours de refroidissement nécessitent beaucoup d'énergie et d'espace et doivent être placées à l'extérieur, les climatiseurs ont la plus faible capacité de refroidissement mais sont plus petits et moins coûteux à construire et peuvent être placés à l'intérieur.</BuildReactorCooling.description>
+	<BuildTransformer.label>Construire un transformateur</BuildTransformer.label>
+	<BuildTransformer.description>Construire un transformateur et le connecter à une turbine à l'aide de câbles haute tension. Les transformateurs peuvent convertir jusqu'à 200 kW de l'énergie d'une turbine en électricité utilisable, plusieurs transformateurs peuvent être utilisés pour alimenter différents réseaux d'alimentation. Les paramètres de limite de puissance permettent de redistribuer la sortie d'énergie entre les réseaux d'alimentation.</BuildTransformer.description>
+	<BuildControlComputer.label>Construire une console de contrôle pour le réacteur</BuildControlComputer.label>
+	<BuildControlComputer.description>Construire une console de contrôle et la connecter au coeur du réacteur nucléaire. Cette console sera utilisée pour contrôler le réacteur. Chaque console peut être associée à des coeurs spécifiques en leur attribuant des identifiants, cela vous permettra de lier les connexions d'un coeur à l'autre. Envoyer un colon à la console pour accéder aux contrôles, plusieurs contrôles peuvent être ouverts en même temps.</BuildControlComputer.description>
+
+	<TestReactor.label>Tester le réacteur nucléaire</TestReactor.label>
+	<TestReactor.description>Construire ou acheter des barres de combustible nucléaire, les charger dans le coeur du réacteur en désignant les emplacements de chargement à l'aide de la console. Charger au moins deux barres de combustible côte-à-côte afin de créer une chaîne et utilisez la console du réacteur pour démarrer le coeur. Élever les barres de commande à 8% ou plus pour collecter des données.</TestReactor.description>
+
+	<Plutonium1.label>Traitement du plutonium</Plutonium1.label>
+	<Plutonium1.description>Un chercheur qualifié est nécessaire pour étudier les processus de traitement du plutonium, et finaliser les plans d'un prototype d'installation.</Plutonium1.description>
+	<Plutonium2.label>Construire une installation de traitement de plutonium</Plutonium2.label>
+	<Plutonium2.description>Construire une installation de traitement du plutonium, si possible à proximité d'un réacteur afin de réduire la durée d'exposition aux radiations. Une tenue anti-radiation est requise pour les travailleurs.</Plutonium2.description>
+	<Plutonium3.label>Tester l'installation de traitement de plutonium (Très Risqué)</Plutonium3.label>
+	<Plutonium3.description>Procéder à des expérimentations sur l'installation de traitement du plutonium, et vous assurer qu'il fonctionne correctement.</Plutonium3.description>
+
+	<AdvReactor1.label>Faire des recherches avec le réacteur experimental (Très Risqué)</AdvReactor1.label>
+	<AdvReactor1.description>Un chercheur qualifié est nécessaire pour procéder aux experimentations sur le réacteur experimental. Cette étape comporte des risques.</AdvReactor1.description>
+	<AdvReactor2.label>Faire des recherches sur la surgénération</AdvReactor2.label>
+	<AdvReactor2.description>Un chercheur qualifié est nécessaire pour finaliser les plans d'un surgénérateur.</AdvReactor2.description>
+	<AdvReactor3.label>Construire un surgénérateur</AdvReactor3.label>
+	<AdvReactor3.description>Il est hautement recommandé de construire le coeur dans une salle de confinement blindée afin de protéger les colons lors du transert de combustible.</AdvReactor3.description>
+	<AdvReactor4.label>Tester le surgénérateur</AdvReactor4.label>
+	<AdvReactor4.description>Allumer le réacteur et produire de l'énergie pour collecter des données.</AdvReactor4.description>
+
+	<RTG1.label>Faire des recherches sur le GTR</RTG1.label>
+	<RTG1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre comment fonctionne le générateur thermoélectrique à radioisotope avant que l'on soit capable d'en produire un nous-même.</RTG1.description>
+	<RTG2.label>Créer du plutonium</RTG2.label>
+	<RTG2.description>Créer un peu de plutonium nécessaire au GTR. Pour ce faire, le combustible nucléaire usé doit être traité dans une installation de traitement de plutonium.</RTG2.description>
+	<RTG3.label>Évaluer les composants</RTG3.label>
+	<RTG3.description>Un artisan qualifié est nécessaire pour comprendre comment construire et entretenir un générateur thermoélectrique à radioisotope, et ce en utilisant les ressources et les outils à notre disposition.</RTG3.description>
+
+	<ICBM1.label>Faire des recherches sur les armes nucléaires</ICBM1.label>
+	<ICBM1.description>Un chercheur qualifié est nécessaire pour étudier les concepts et comprendre comment fonctionnent les armes nucléaires avant que nous puissions en fabriquer nous-même.</ICBM1.description>
+	<ICBM2.label>Créer du plutonium</ICBM2.label>
+	<ICBM2.description>Créer le plutonium nécessaire à la fabrication d'une bombe. Pour ce faire, des assemblages de combustible usés doivent être traités dans une installation de traitement du plutonium.</ICBM2.description>
+	<ICBM3.label>Effectuer des recherches avec le réacteur expérimental</ICBM3.label>
+	<ICBM3.description>Avant de pouvoir produire une arme, il est nécessaire de procéder à des expérimentations sur le réacteur expérimental afin d'approfondir nos connaissances en matière de physique nucléaire.</ICBM3.description>
+	<ICBM4.label>Construire une Station de Commande Semi Automatique (SCSA)</ICBM4.label>
+	<ICBM4.description>Cette console est un ordinateur d'acquisition requis pour toutes les armes à énergie. Il connecte toutes les armes partageant le même réseau électrique, il détecte et assigne les cibles grâce aux capteurs embarqués de ces armes et grâce au Système de Communication et d'Acquisition de Cibles (SCAC). L'affichage principal offre un suivi en temps réel des cibles terrestres et aériennes, et une jauge indique la capacité énergétique totale des CPP connectés au réseau.</ICBM4.description>
+	<ICBM5.label>Construire un Système de Communication et d'Acquisition de Cibles (SCAC)</ICBM5.label>
+	<ICBM5.description>Le SCAC utilise un ensemble de technologies pour suivre les cibles terrestres et aériennes, ce qui inclue les cibles vivantes ou robotiques, les projectiles tels que les obus de mortier ou les sabots des canons électriques, ou les missiles balistiques.</ICBM5.description>
+	<ICBM6.label>Construire un Libérateur</ICBM6.label>
+	<ICBM6.description>Le Libérateur doit être connecté au même réseau électrique que la console d'armement afin de pouvoir contrôler les systèmes de lancement.</ICBM6.description>
+	<ICBM7.label>Collecter des données</ICBM7.label>
+	<ICBM7.description>Lancer un missile stratégique sur n'importe quelle cible afin de collecter des données. La quantité de données dépend du succès du lancement et de la détonation sur une cible.</ICBM7.description>
+
+</LanguageData>

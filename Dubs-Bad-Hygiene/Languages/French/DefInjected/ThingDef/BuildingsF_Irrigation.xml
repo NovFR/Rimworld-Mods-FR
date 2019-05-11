@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<IrrigationSprinkler.label>arroseur d'irrigation</IrrigationSprinkler.label>
+	<IrrigationSprinkler.description>Arrose la zone avoisinante chaque matin afin d'améliorer la fertilité du sol au cours de la journée. Lors de son fonctionnement, il requiert une grande quantité d'eau stockée dans un chateau d'eau.</IrrigationSprinkler.description>
+
+	<FireSprinkler.label>arroseur anti-incendie</FireSprinkler.label>
+	<FireSprinkler.description>Déclenché par le feu ou de hautes températures. Eteint les flammes avec un jet d'eau.</FireSprinkler.description>
+
+	<plumbingValve.label>valve</plumbingValve.label>
+	<plumbingValve.description>Ouvre et ferme les connexions entre des canalisations ou des conduits.</plumbingValve.description>
+
+	<BiosolidsComposter.label>composteur</BiosolidsComposter.label>
+	<BiosolidsComposter.description>Un composteur pour recycler les boues d'épuration en fertilisant qui améliore la fertilité des sols cultivables.</BiosolidsComposter.description>
+
+	<BiosolidFertilizer.label>fertilisant</BiosolidFertilizer.label>
+	<BiosolidFertilizer.description>Un fertilisant utilisé pour améliorer la fertilité d'un sol cultivable. Dure 1 an.</BiosolidFertilizer.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<GlassworkTable.label>atelier de travail du verre</GlassworkTable.label>
+	<GlassworkTable.description>Un atelier avec tout ce qu'il faut pour travailler le verre.</GlassworkTable.description>
+	<Blueprint_GlassworkTable.label>atelier de travail du verre (plan)</Blueprint_GlassworkTable.label>
+	<Frame_GlassworkTable.label>atelier de travail du verre (construction)</Frame_GlassworkTable.label>
+	<Frame_GlassworkTable.description>Un atelier avec tout ce qu'il faut pour travailler le verre.</Frame_GlassworkTable.description>
+
+	<FueledGlassworkTable.label>atelier de travail du verre (bois)</FueledGlassworkTable.label>
+	<FueledGlassworkTable.description>Un atelier avec tout ce qu'il faut pour travailler le verre. Alimenté au feu bois.</FueledGlassworkTable.description>
+	<Blueprint_FueledGlassworkTable.label>atelier de travail du verre (bois) (plan)</Blueprint_FueledGlassworkTable.label>
+	<Frame_FueledGlassworkTable.label>atelier de travail du verre alimenté (bois) (construction)</Frame_FueledGlassworkTable.label>
+	<Frame_FueledGlassworkTable.description>Un atelier avec tout ce qu'il faut pour travailler le verre. Alimenté au feu de bois.</Frame_FueledGlassworkTable.description>
+
+	<ReinforcedGlassworkTable.label>atelier de renforcement du verre</ReinforcedGlassworkTable.label>
+	<ReinforcedGlassworkTable.description>Un atelier qui permet de rendre le verre plus solide.</ReinforcedGlassworkTable.description>
+	<Blueprint_ReinforcedGlassworkTable.label>atelier de renforcement du verre (plan)</Blueprint_ReinforcedGlassworkTable.label>
+	<Frame_ReinforcedGlassworkTable.label>atelier de renforcement du verre (construction)</Frame_ReinforcedGlassworkTable.label>
+	<Frame_ReinforcedGlassworkTable.description>Un atelier qui permet de rendre le verre plus solide.</Frame_ReinforcedGlassworkTable.description>
+</LanguageData>

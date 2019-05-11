@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<TriggerFireSprinkler.reportString>active TargetA.</TriggerFireSprinkler.reportString>
+	<emptySeptictank.reportString>vide TargetA.</emptySeptictank.reportString>
+	<emptyLatrine.reportString>vide TargetA.</emptyLatrine.reportString>
+	<LoadFridge.reportString>remplit TargetA.</LoadFridge.reportString>
+	<LoadWashing.reportString>charge TargetA.</LoadWashing.reportString>
+	<UnloadWashing.reportString>décharge TargetA.</UnloadWashing.reportString>
+	<LoadComposter.reportString>remplit TargetA.</LoadComposter.reportString>
+	<UnloadComposter.reportString>récolte le composte dans TargetA.</UnloadComposter.reportString>
+	<RemoveSewage.reportString>retire les eaux usées.</RemoveSewage.reportString>
+	<WatchWashingMachine.reportString>regarde la machine à laver.</WatchWashingMachine.reportString>
+	<UseHotTub.reportString>se détend.</UseHotTub.reportString>
+	<DBHDrinkFromGround.reportString>bois de l'eau.</DBHDrinkFromGround.reportString>
+	<DBHDrinkFromBasin.reportString>bois de l'eau dans TargetA.</DBHDrinkFromBasin.reportString>
+	<UseToilet.reportString>utilise TargetA.</UseToilet.reportString>
+	<haveWildPoo.reportString>fait ses besoins dehors.</haveWildPoo.reportString>
+	<useWashBucket.reportString>se lave avec TargetA.</useWashBucket.reportString>
+	<washAtCell.reportString>se lave.</washAtCell.reportString>
+	<takeShower.reportString>prend une douche dans TargetA</takeShower.reportString>
+	<takeBath.reportString>prend un bain.</takeBath.reportString>
+	<washHands.reportString>se lave les mains.</washHands.reportString>
+	<washPatient.reportString>lave TargetA.</washPatient.reportString>
+	<DBHAdministerFluids.reportString>administre un fluide à TargetA.</DBHAdministerFluids.reportString>
+	<RefillTub.reportString>remplit le bassin.</RefillTub.reportString>
+	<cleanBedpan.reportString>nettoie le bassin.</cleanBedpan.reportString>
+	<clearBlockage.reportString>débouche TargetA.</clearBlockage.reportString>
+	<TipOverSewage.reportString>renverse TargetA.</TipOverSewage.reportString>
+
+</LanguageData>

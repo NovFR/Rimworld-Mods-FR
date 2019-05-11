@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<coolingPipe.label>tuyau de liquide de refroidissement</coolingPipe.label>
+	<coolingPipe.description>Un tuyan servant à acheminer le liquide vers les systèmes de refroidissement des turbines. Peut être placé sous les murs ou les autres structures.</coolingPipe.description>
+
+	<coolantValve.label>vanne de refroidissement</coolantValve.label>
+	<coolantValve.description>Ouvre et ferme les connexions entre les tuyaux de liquide de refroidissement.</coolantValve.description>
+
+	<steamPipe.label>tuyau à vapeur</steamPipe.label>
+	<steamPipe.description>Un tuyau servant à acheminer la vapeur à haute pression émise par le réacteur vers les turbines. Peut être placé sous les murs ou les autres structures.</steamPipe.description>
+
+	<steamValve.label>vanne à vapeur</steamValve.label>
+	<steamValve.description>Ouvre et ferme les connexions entre les tuyaux à vapeur.</steamValve.description>
+
+	<waterPipe.label>tuyau d'eau froide</waterPipe.label>
+	<waterPipe.description>Un tuyau servant à acheminer l'eau froide de la turbine ou de l'échangeur thermique vers le coeur. Peut être placé sous les murs ou les autres structures.</waterPipe.description>
+
+	<waterValve.label>vanne d'eau froide</waterValve.label>
+	<waterValve.description>Ouvre et ferme les connexions entre les tuyaux d'eau froide.</waterValve.description>
+
+	<HighVoltage.label>cable à haute tension</HighVoltage.label>
+	<HighVoltage.description>Un cable servant à acheminer l'électricté des turbines vers les transformateurs. Peut être placé sous les murs ou les autres structures.</HighVoltage.description>
+
+	<controllerLoom.label>cable de contrôleur</controllerLoom.label>
+	<controllerLoom.description>Un cable servant à acheminer le signal entre le coeur et la console de contrôle. Peut être placé sous les murs ou les autres structures.</controllerLoom.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RimatomicsActivate.label>Rimatomics</RimatomicsActivate.label>
+	<RimatomicsActivate.discoveredLetterTitle>Rimatomics déverrouillé !</RimatomicsActivate.discoveredLetterTitle>
+	<RimatomicsActivate.description>Une sonde a été détectée en orbite, elle semble envoyer des signaux vers la surface, nous pourrions peut-être déchiffrer le message.</RimatomicsActivate.description>
+	<RimatomicsActivate.discoveredLetterText>Vous établissez une connexion vers la sonde et vous entendez un message enregistré. Il s'agit apparemment d'un représentant de la faction commerciale connue sous le nom de Rimatomics.\n\nAlors que vous écoutez le message, une multitude de données parviennent sur la console. Il s'agit en réalité de plans pour la construction d'un atelier de recherche Rimatomics. Cet atelier peut être utilisé pour acheter les plans de certaines de leurs technologies, ou pour demander des vaisseaux commerciaux.\n\nConsultez l'onglet Rimatomics dans le menu Architecte pour de plus amples détails.</RimatomicsActivate.discoveredLetterText>
+
+</LanguageData>

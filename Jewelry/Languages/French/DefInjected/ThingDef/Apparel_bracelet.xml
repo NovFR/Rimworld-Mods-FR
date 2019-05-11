@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Jewelry_GoldBracelet.label>bracelet en or</Jewelry_GoldBracelet.label>
+	<Jewelry_GoldBracelet.description>Très luxueux. Donne un petit bonus de moral et de persuasion.</Jewelry_GoldBracelet.description>
+
+	<Jewelry_DiamondBracelet.label>bracelet en or orné d'un diamant</Jewelry_DiamondBracelet.label>
+	<Jewelry_DiamondBracelet.description>Très luxueux. Donne un petit bonus de moral et de persuasion.</Jewelry_DiamondBracelet.description>
+
+	<Jewelry_JadeBracelet.label>bracelet en or orné d'une pierre de jade</Jewelry_JadeBracelet.label>
+	<Jewelry_JadeBracelet.description>Très luxueux. Donne un petit bonus de moral et de persuasion.</Jewelry_JadeBracelet.description>
+
+	<Jewelry_RubyBracelet.label>bracelet en or orné d'un rubis</Jewelry_RubyBracelet.label>
+	<Jewelry_RubyBracelet.description>Très luxueux. Donne un petit bonus de moral et de persuasion.</Jewelry_RubyBracelet.description>
+
+	<Jewelry_SapphireBracelet.label>bracelet en or orné d'un saphir</Jewelry_SapphireBracelet.label>
+	<Jewelry_SapphireBracelet.description>Très luxueux. Donne un petit bonus de moral et de persuasion.</Jewelry_SapphireBracelet.description>
+
+</LanguageData>

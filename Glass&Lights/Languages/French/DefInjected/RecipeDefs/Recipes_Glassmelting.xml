@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MakeGlass.label>fabriquer du verre</MakeGlass.label>
+	<MakeGlass.description>Transforme des morceaux de roches en sable puis le fait fondre pour produire du verre.</MakeGlass.description>
+	<MakeGlass.jobString>fabrique du verre</MakeGlass.jobString>
+
+	<MakeCircularGlass.label>fabriquer du verre rond</MakeCircularGlass.label>
+	<MakeCircularGlass.description>Transforme des morceaux de roches en sable puis le fait fondre pour produire du verre de forme ronde.</MakeCircularGlass.description>
+	<MakeCircularGlass.jobString>fabrique du verre rond</MakeCircularGlass.jobString>
+
+	<MakeReinforcedGlass.label>fabriquer du verre renforcé</MakeReinforcedGlass.label>
+	<MakeReinforcedGlass.description>Renforce le verre.</MakeReinforcedGlass.description>
+	<MakeReinforcedGlass.jobString>renforce du verre</MakeReinforcedGlass.jobString>
+
+	<MakeMolotov.label>Cocktail molotov</MakeMolotov.label>
+	<MakeMolotov.description>Produit une arme capable de réduire les ennemis en cendres.</MakeMolotov.description>
+	<MakeMolotov.jobString>fabrique un cocktail molotov</MakeMolotov.jobString>
+
+</LanguageData>

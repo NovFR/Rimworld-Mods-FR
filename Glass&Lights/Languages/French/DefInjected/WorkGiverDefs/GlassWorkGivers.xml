@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<DoBillsMakeGlass.verb>fabriquer du verre</DoBillsMakeGlass.verb>
+	<DoBillsMakeGlass.gerund>fabrique du verre</DoBillsMakeGlass.gerund>
+	<DoBillsMakeLargeCircularGlass.verb>fabriquer du verre rond</DoBillsMakeLargeCircularGlass.verb>
+	<DoBillsMakeLargeCircularGlass.gerund>fabrique du verre rond</DoBillsMakeLargeCircularGlass.gerund>
+	<DoBillsMakeReinforcedGlass.verb>fabriquer du verre renforcé</DoBillsMakeReinforcedGlass.verb>
+	<DoBillsMakeReinforcedGlass.gerund>fabrique du verre renforcé</DoBillsMakeReinforcedGlass.gerund>
+	<DoBillsMakeMolotov.verb>fabriquer un cocktail molotov</DoBillsMakeMolotov.verb>
+	<DoBillsMakeMolotov.gerund>fabrique un cocktail molotov</DoBillsMakeMolotov.gerund>
+</LanguageData>

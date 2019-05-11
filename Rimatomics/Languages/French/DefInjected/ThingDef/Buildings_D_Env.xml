@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RadiationShielding.label>mur blindé</RadiationShielding.label>
+	<RadiationShielding.description>Un mur robuste renforcé à l'uranium appauvri. Protège des radiations.</RadiationShielding.description>
+
+	<ReactorSacrophagus.label>sarcophage Type A</ReactorSacrophagus.label>
+	<ReactorSacrophagus.description>Une structure en béton conçue pour entourer le coeur d'un réacteur nucléaire victime d'une fusion.</ReactorSacrophagus.description>
+
+	<ReactorSacrophagusB.label>sarcophage Type X</ReactorSacrophagusB.label>
+	<ReactorSacrophagusB.description>Une structure en béton conçue pour entourer le coeur d'un réacteur nucléaire victime d'une fusion.</ReactorSacrophagusB.description>
+
+	<ReactorSacrophagusC.label>sarcophage Type V</ReactorSacrophagusC.label>
+	<ReactorSacrophagusC.description>Une structure en béton conçue pour entourer le coeur d'un réacteur nucléaire victime d'une fusion.</ReactorSacrophagusC.description>
+
+	<PoppedReactorCoreA.label>coeur</PoppedReactorCoreA.label>
+	<PoppedReactorCoreA.description>Coeur de réacteur nucléaire.</PoppedReactorCoreA.description>
+
+	<PoppedReactorCoreB.label>coeur</PoppedReactorCoreB.label>
+	<PoppedReactorCoreB.description>Coeur de réacteur nucléaire.</PoppedReactorCoreB.description>
+
+	<PoppedReactorCoreC.label>coeur</PoppedReactorCoreC.label>
+	<PoppedReactorCoreC.description>Coeur de réacteur nucléaire.</PoppedReactorCoreC.description>
+
+	<DU_Blastdoor.label>porte blindée</DU_Blastdoor.label>
+	<DU_Blastdoor.description>Une porte robuste renforcée à l'uranium appauvri. Protège des radiations.</DU_Blastdoor.description>
+
+</LanguageData>

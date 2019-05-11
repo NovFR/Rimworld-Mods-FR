@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <playSong>Jouer</playSong>
+  <playSongDesc>Joue une musique.</playSongDesc>
+  <stopSong>Arrêter</stopSong>
+  <stopSongDesc>Arrête la musique en cours.</stopSongDesc>
+  <nextSong>Suivante</nextSong>
+  <nextSongDesc>Sélectionne la musique suivante aléatoirement.</nextSongDesc>
+  <Pause>Pause</Pause>
+  <synchronize>Sync</synchronize>
+  <synchronizeDesc>Synchronize le répertoire des musiques.</synchronizeDesc>
+
+  <WallAttachment_WarningNeedWall>Doit être placé sur un mur.</WallAttachment_WarningNeedWall>
+  <WallAttachment_WarningBlocked>Doit faire face à une case accessible.</WallAttachment_WarningBlocked>
+  <WallAttachment_Both>Doit être placé sur un mur et faire face à une case accessible.</WallAttachment_Both>
+
+  <WallLight_DestroyedBlocked>La lampe a été détruite lors de la construction.</WallLight_DestroyedBlocked>
+  <WallLight_DestroyedWall>La lampe a été détruite lors de la construction.</WallLight_DestroyedWall>
+
+  <DoorAttachment_WarningNeedWall>doit être placé sur un mur.</DoorAttachment_WarningNeedWall>
+  <DoorAttachment_WarningBlocked>Doit faire face à une case accessible.</DoorAttachment_WarningBlocked>
+  <DoorAttachment_Both>Doit être placé sur un mur et faire face à une case accessible.</DoorAttachment_Both>
+
+  <PassableObject_CantPass>Doit être placé sur un objet.</PassableObject_CantPass>
+
+  <StandableObject_CantPass>Doit être placé debout.</StandableObject_CantPass>
+
+</LanguageData>

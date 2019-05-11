@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DiamondCut.label>diamant taillé</DiamondCut.label>
+	<DiamondCut.description>Un diamant finement taillé. Très précieux.</DiamondCut.description>
+
+	<RubyCut.label>rubis taillé</RubyCut.label>
+	<RubyCut.description>Un rubis finement taillé. Très précieux.</RubyCut.description>
+
+	<JadeCut.label>jade taillée</JadeCut.label>
+	<JadeCut.description>Un morceau de jade finement taillée. Très précieux.</JadeCut.description>
+
+	<SapphireCut.label>saphir taillé</SapphireCut.label>
+	<SapphireCut.description>Un saphir finement taillé. Très précieux.</SapphireCut.description>
+
+</LanguageData>

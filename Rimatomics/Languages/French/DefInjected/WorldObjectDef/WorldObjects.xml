@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ICBMfission.label>missile balistique</ICBMfission.label>
+	<ICBMfission.description>Un missile balistique intercontinental est un missile guidé principalement conçu pour les frappes nucléaires, celui-ci est doté d'une tête de fission.</ICBMfission.description>
+
+	<Sabot.label>sabot</Sabot.label>
+	<Sabot.description>Sabot pour canon électrique.</Sabot.description>
+
+	<Fallout.label>retombée nucléaire</Fallout.label>
+	<Fallout.description>Les retombées nucléaires sont des matières radioactives résiduelles propulsée dans l'air lors des explosions nucléaires ou la fusion d'un réacteur.</Fallout.description>
+
+	<RimatomicsProbe.label>sonde Rimatomics</RimatomicsProbe.label>
+	<RimatomicsProbe.description>Une sonde commerciale Rimatomics.</RimatomicsProbe.description>
+
+</LanguageData>

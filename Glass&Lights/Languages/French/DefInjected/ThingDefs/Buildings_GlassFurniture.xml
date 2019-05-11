@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<GlassTableShort.label>petite table</GlassTableShort.label>
+	<GlassTableShort.description>Permet aux personnes de manger dessus, lorsque des chaises sont adjacentes.</GlassTableShort.description>
+
+	<Blueprint_GlassTableShort.label>petite table (plan)</Blueprint_GlassTableShort.label>
+	<Frame_GlassTableShort.label>petite table (construction)</Frame_GlassTableShort.label>
+	<Frame_GlassTableShort.description>Une petite table en verre.</Frame_GlassTableShort.description>
+</LanguageData>

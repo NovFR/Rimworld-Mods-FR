@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Doors -->
+
+	<AutoDoorGlass.label>porte automatique</AutoDoorGlass.label>
+	<AutoDoorGlass.description>Une porte automatique en verre. Elle permet de se déplacer sans ralentissement.</AutoDoorGlass.description>
+	<Blueprint_AutoDoorGlass.label>porte automatique (plan)</Blueprint_AutoDoorGlass.label>
+	<Frame_AutoDoorGlass.label>porte automatique (construction)</Frame_AutoDoorGlass.label>
+	<Frame_AutoDoorGlass.description>Une porte automatique en verre. Elle permet de se déplacer sans ralentissement.</Frame_AutoDoorGlass.description>
+
+	<DoorGlass.label>porte</DoorGlass.label>
+	<DoorGlass.description>Une porte en verre.</DoorGlass.description>
+	<Blueprint_DoorGlass.label>porte (plan)</Blueprint_DoorGlass.label>
+	<Frame_DoorGlass.label>porte (construction)</Frame_DoorGlass.label>
+	<Frame_DoorGlass.description>Une porte en verre.</Frame_DoorGlass.description>
+
+	<!-- Walls -->
+
+	<Window.label>fenêtre</Window.label>
+	<Window.description>Comme un mur, sauf qu'on peut voir à travers.</Window.description>
+	<Blueprint_Window.label>fenêtre (plan)</Blueprint_Window.label>
+	<Frame_Window.label>fenêtre (construction)</Frame_Window.label>
+	<Frame_Window.description>Comme un mur, sauf qu'on peut voir à travers.</Frame_Window.description>
+</LanguageData>

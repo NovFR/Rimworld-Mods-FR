@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_PlantTreeCherry.label>cerisier</ZEN_PlantTreeCherry.label>
+	<ZEN_PlantTreeCherry.description>Un arbre coloré très décoratif. Produit des cerises au printemps et en été. Peut également être coupé pour obtenir du bois de cerisier.</ZEN_PlantTreeCherry.description>
+
+	<ZEN_PlantTreePersimmon.label>kaki</ZEN_PlantTreePersimmon.label>
+	<ZEN_PlantTreePersimmon.description>Un arbre noir connu pour ses fruits délicieux. Produit des kakis en automne et en hiver. Peut également être coupé pour obtenir du bois d'ébène.</ZEN_PlantTreePersimmon.description>
+
+	<ZEN_PlantTreeCrabapple.label>pommetier</ZEN_PlantTreeCrabapple.label>
+	<ZEN_PlantTreeCrabapple.description>Un arbre coloré qui produit des pommes sauvages. Produit ses fruits en automne et en été. Peut également être coupé pour obtenir du bois.</ZEN_PlantTreeCrabapple.description>
+
+	<ZEN_DenseGrass.label>herbe dense</ZEN_DenseGrass.label>
+	<ZEN_DenseGrass.description>Une herbe dense pour les amateurs de pelouses. Elle nécessite plus d'effort et un sol décent pour être plantée.</ZEN_DenseGrass.description>
+
+	<ZEN_TallHedge.label>grande haie</ZEN_TallHedge.label>
+	<ZEN_TallHedge.description>Des grands arbustes pour décorer les chemins et les allées. N'empêche pas le mouvement.</ZEN_TallHedge.description>
+
+</LanguageData>

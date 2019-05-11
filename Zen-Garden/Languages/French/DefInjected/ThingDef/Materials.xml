@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_CherryWood.label>bois de cerisier</ZEN_CherryWood.label>
+	<ZEN_CherryWood.description>Du bois provenant d'un cerisier. Utile pour construire des objets, des armes, ou des prothèses basiques. Un morceau de bois peut aussi servir d'arme de fortune.</ZEN_CherryWood.description>
+	<ZEN_CherryWood.stuffProps.stuffAdjective>bois de cerisier</ZEN_CherryWood.stuffProps.stuffAdjective>
+
+	<ZEN_EbonyWood.label>bois d'ébène</ZEN_EbonyWood.label>
+	<ZEN_EbonyWood.description>Du bois provenant d'un kaki. Il est facile à polir et est donc régulièrement utilisé pour les sculptures. Un morceau de bois peut aussi servir d'arme de fortune.</ZEN_EbonyWood.description>
+	<ZEN_EbonyWood.stuffProps.stuffAdjective>bois d'ébène</ZEN_EbonyWood.stuffProps.stuffAdjective>
+
+</LanguageData>

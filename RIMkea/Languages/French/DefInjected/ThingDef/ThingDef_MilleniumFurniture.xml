@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BUMRESTStool.label>Tabouret BUMREST</BUMRESTStool.label>
+	<BUMRESTStool.description>Un lieu de confort idéal pour toute sorte de popotin.</BUMRESTStool.description>
+
+	<SITEGGArmchair.label>Fauteil SITEGG</SITEGGArmchair.label>
+	<SITEGGArmchair.description>Faites comme les poussins, installez-vous dans un oeuf.</SITEGGArmchair.description>
+
+	<CHILLEGGCouch.label>Canapé CHILLEGG</CHILLEGGCouch.label>
+	<CHILLEGGCouch.description>Remontez dans le temps et suivez l'ancienne coutume terrienne "Netflix et le froid".</CHILLEGGCouch.description>
+
+	<EATFLATTTable.label>Table EATFLATT</EATFLATTTable.label>
+	<EATFLATTTable.description>Il n'existe pas de meilleur endroit pour manger ou se rénir que cette surface parfaitement plane. La table EATFLATT, pour tout vos besoins en surface plane !</EATFLATTTable.description>
+
+	<SNOREGGSingle.label>Lit simple SNOREGGS</SNOREGGSingle.label>
+	<SNOREGGSingle.description>Victime de solitude ? Pas de problème ! Le lit SNOREGGS vous enlasse confortablement durant votre sommeil pour que vous ne vous sentiez plus aussi seul(e) !</SNOREGGSingle.description>
+
+	<SNOREGGDouble.label>Lit double SNOREGGS</SNOREGGDouble.label>
+	<SNOREGGDouble.description>Un lit confortable en forme d'oeuf pour dormir et se câliner.\n\n(Avertissement: les câlins ne sont possibles qu'avec un partenaire non fournis. -- RIMkea, Département légal)</SNOREGGDouble.description>
+
+	<PETSNORR.label>Lit pour animaux PETSNORR</PETSNORR.label>
+	<PETSNORR.description>Donnez à vous amis à fourrure le confort qu'ils méritent avec le lit pour animaux PETSNORR. Facile à nettoyer.</PETSNORR.description>
+
+	<SHAINBRAITLamp.label>Lampe SHAINBRAIT</SHAINBRAITLamp.label>
+	<SHAINBRAITLamp.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp.description>
+
+	<SHAINBRAITLamp_Red.label>Lampe SHAINBRAIT (rouge)</SHAINBRAITLamp_Red.label>
+	<SHAINBRAITLamp_Red.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp_Red.description>
+
+	<SHAINBRAITLamp_Green.label>Lampe SHAINBRAIT (vert)</SHAINBRAITLamp_Green.label>
+	<SHAINBRAITLamp_Green.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp_Green.description>
+
+	<SHAINBRAITLamp_Blue.label>Lampe SHAINBRAIT (bleu)</SHAINBRAITLamp_Blue.label>
+	<SHAINBRAITLamp_Blue.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp_Blue.description>
+
+	<SHAINBRAITLamp_Violet.label>Lampe SHAINBRAIT (violet)</SHAINBRAITLamp_Violet.label>
+	<SHAINBRAITLamp_Violet.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp_Violet.description>
+
+	<SHAINBRAITLamp_Yellow.label>Lampe SHAINBRAIT (jaune)</SHAINBRAITLamp_Yellow.label>
+	<SHAINBRAITLamp_Yellow.description>Illuminez les nuits les plus sombres grâce à la lampe SHAINBRAIT.</SHAINBRAITLamp_Yellow.description>
+
+	<POTBLUM.label>Pot de fleur POTBLUM</POTBLUM.label>
+	<POTBLUM.description>Les roses sont rouges, les violettes sont bleues. Nous aimons notre POTBLUM et vous allez l'aimer aussi !</POTBLUM.description>
+
+	<FUTSTENTRug.label>Tapis FUTSTENT</FUTSTENTRug.label>
+	<FUTSTENTRug.description>Sentez le confort et le luxe sous vos pieds.</FUTSTENTRug.description>
+
+	<STEPFUTRug.label>Tapis STEPFUT</STEPFUTRug.label>
+	<STEPFUTRug.description>Marcher sur un tapis STEPFUT c'est trouver la voie du luxe. Illumine les pièces les plus communes.</STEPFUTRug.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RimlaserCrystal.label>cristal</RimlaserCrystal.label>
+	<RimlaserCrystal.description>Cristal permettant de générer un laser à l'état solide. Nécessaire pour la création des prismes pour armes laser dans l'atelier de fabrication.</RimlaserCrystal.description>
+
+	<RimlaserPrism.label>prisme</RimlaserPrism.label>
+	<RimlaserPrism.description>Composant principal d'une arme laser. Il peut également être utilisé pour changer la couleur du faisceau (sans que cela n'affecte les caractéristiques de l'arme)</RimlaserPrism.description>
+
+	<UnfinishedRimlaserPrism.label>prisme inachevé</UnfinishedRimlaserPrism.label>
+	<UnfinishedLaserGun.label>arme laser inachevée</UnfinishedLaserGun.label>
+
+</LanguageData>

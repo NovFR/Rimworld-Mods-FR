@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<LoadRailgunMagazine.label>Approvisionner en munitions sabot</LoadRailgunMagazine.label>
+	<LoadRailgunMagazine.verb>approvisionner</LoadRailgunMagazine.verb>
+	<LoadRailgunMagazine.gerund>approvisionne</LoadRailgunMagazine.gerund>
+
+	<LoadSilo.label>Charger le silo</LoadSilo.label>
+	<LoadSilo.verb>charger</LoadSilo.verb>
+	<LoadSilo.gerund>charge</LoadSilo.gerund>
+
+	<LoadFuelModule.label>Alimenter en combusible</LoadFuelModule.label>
+	<LoadFuelModule.verb>alimenter en combustible</LoadFuelModule.verb>
+	<LoadFuelModule.gerund>alimente en combustible</LoadFuelModule.gerund>
+
+	<LoadSpentFuel.label>Alimenter en combustible usé</LoadSpentFuel.label>
+	<LoadSpentFuel.verb>alimenter en combustible usé</LoadSpentFuel.verb>
+	<LoadSpentFuel.gerund>alimente en combustible usé</LoadSpentFuel.gerund>
+
+	<LoadProcChemFuel.label>Alimenter en chemfuel</LoadProcChemFuel.label>
+	<LoadProcChemFuel.verb>alimenter en chemfuel</LoadProcChemFuel.verb>
+	<LoadProcChemFuel.gerund>alimente en chemfuel</LoadProcChemFuel.gerund>
+
+	<UnloadPlutonium.label>Retirer du plutonium</UnloadPlutonium.label>
+	<UnloadPlutonium.verb>retirer du plutonium</UnloadPlutonium.verb>
+	<UnloadPlutonium.gerund>retire du plutonium</UnloadPlutonium.gerund>
+
+	<RemoveFuelModule.label>Retirer du combustible</RemoveFuelModule.label>
+	<RemoveFuelModule.verb>retirer du combusible</RemoveFuelModule.verb>
+	<RemoveFuelModule.gerund>retire du combustible</RemoveFuelModule.gerund>
+
+	<UpgradeBuilding.label>Améliorer le bâtiment</UpgradeBuilding.label>
+	<UpgradeBuilding.verb>améliorer le bâtiment</UpgradeBuilding.verb>
+	<UpgradeBuilding.gerund>améliore le bâtiment</UpgradeBuilding.gerund>
+
+	<DoBillsTableNuclear.label>effectuer une tâche sur l'atelier Rimatomics</DoBillsTableNuclear.label>
+	<DoBillsTableNuclear.verb>effectuer une tâche</DoBillsTableNuclear.verb>
+	<DoBillsTableNuclear.gerund>effectue une tâche sur l'atelier Rimatomics</DoBillsTableNuclear.gerund>
+
+	<RimatomicsCrafting.label>effectuer des recherches</RimatomicsCrafting.label>
+	<RimatomicsCrafting.verb>effectuer des recherches</RimatomicsCrafting.verb>
+	<RimatomicsCrafting.gerund>effectue des recherches</RimatomicsCrafting.gerund>
+
+	<RimatomicsResearch.label>effectuer des recherches Rimatomics</RimatomicsResearch.label>
+	<RimatomicsResearch.verb>effectuer des recherches Rimatomics</RimatomicsResearch.verb>
+	<RimatomicsResearch.gerund>effectue des recherches Rimatomics</RimatomicsResearch.gerund>
+
+	<RimatomicsSuperviseResearch.label>superviser des recherches</RimatomicsSuperviseResearch.label>
+	<RimatomicsSuperviseResearch.verb>superviser des recherches</RimatomicsSuperviseResearch.verb>
+	<RimatomicsSuperviseResearch.gerund>supervise des recherches</RimatomicsSuperviseResearch.gerund>
+
+	<RimatomicsConstruction.label>construire</RimatomicsConstruction.label>
+	<RimatomicsConstruction.verb>construire</RimatomicsConstruction.verb>
+	<RimatomicsConstruction.gerund>construit</RimatomicsConstruction.gerund>
+
+</LanguageData>

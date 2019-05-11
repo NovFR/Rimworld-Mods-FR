@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SmeltBlades.label>recycler des aubes de turbine</SmeltBlades.label>
+	<SmeltBlades.description>Utilise la chaleur ainsi que de puissants aimants électromagnétiques pour transformer les aubes en ressources utiles.</SmeltBlades.description>
+	<SmeltBlades.jobString>Recycle des aubes.</SmeltBlades.jobString>
+
+	<MakeFuelRods.label>fabriquer un assemblage</MakeFuelRods.label>
+	<MakeFuelRods.description>Construction d'un assemblage de combustible pour alimenter un réacteur nucléaire.</MakeFuelRods.description>
+	<MakeFuelRods.jobString>Fabrique un assemblage de combustible.</MakeFuelRods.jobString>
+
+	<MakeMoxFuelRods.label>fabriquer un assemblage MOX</MakeMoxFuelRods.label>
+	<MakeMoxFuelRods.description>Construction d'unassemblage de combustible MOX pour alimenter un réacteur nucléaire.</MakeMoxFuelRods.description>
+	<MakeMoxFuelRods.jobString>Fabrique un assemblage de combustible MOX.</MakeMoxFuelRods.jobString>
+
+</LanguageData>

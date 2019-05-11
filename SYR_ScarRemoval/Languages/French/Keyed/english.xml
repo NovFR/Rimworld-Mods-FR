@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SyrScarRemovalHeal>Soigner</SyrScarRemovalHeal>
+	<SyrScarRemovalSuccessfullyHealed>{0} a soigné la {2} ({3}) de {1} avec succès.</SyrScarRemovalSuccessfullyHealed>
+	<ScarRemovalSettings>Paramètres de Scar Removal</ScarRemovalSettings>
+	<ScarRemovalSettingsHardMode>Activer le mode difficile</ScarRemovalSettingsHardMode>
+	<ScarRemovalSettingsHardModeTooltip>Si activé, les recettes seront bien plus coûteuses.</ScarRemovalSettingsHardModeTooltip>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bed_Kingsize.label>lit royal</Bed_Kingsize.label>
+	<Bed_Kingsize.description>Un lit digne d'un roi. Extrêmement confortable. Peut accueillir deux personnes.</Bed_Kingsize.description>
+
+	<Table_RoyalEndTable.label>table de nuit royale</Table_RoyalEndTable.label>
+	<Table_RoyalEndTable.description>Une table luxueuse finement décorée. Procure un bonus de confort si elle est placé à côté de la tête d'un lit. Placer plus d'une table basse à côté du même lit n'apporte aucun bonus supplémentaire.</Table_RoyalEndTable.description>
+
+	<Table_RoyalDresser.label>commode royale</Table_RoyalDresser.label>
+	<Table_RoyalDresser.description>Une commode luxueuse finement décorée. Procure un bonus de confort aux lits proches. Placer plus d'une commode à côté d'un même lit ne procure aucun bonus suuplémentaire.</Table_RoyalDresser.description>
+
+	<Seat_RoyalChair.label>chaise royale</Seat_RoyalChair.label>
+	<Seat_RoyalChair.description>Une chaise luxueuse finement décorée et très confortable. Peut être placée devant une table, un atelier, ou ailleurs.</Seat_RoyalChair.description>
+
+	<Seat_RoyalArmchair.label>fauteuil royal</Seat_RoyalArmchair.label>
+	<Seat_RoyalArmchair.description>Un fauteuil luxueux finement décoré et très confortable. Peut être placé devant une table, un atelier, ou ailleurs.</Seat_RoyalArmchair.description>
+
+	<Table_Royal1x1c.label>table royale (1x1)</Table_Royal1x1c.label>
+	<Table_Royal1x1c.description>Une table luxueuse finement décorée.</Table_Royal1x1c.description>
+
+	<Table_Royal2x2c.label>table royale (2x2)</Table_Royal2x2c.label>
+	<Table_Royal2x2c.description>Une table luxueuse finement décorée.</Table_Royal2x2c.description>
+
+	<Table_Royal1x2c.label>table royale (1x2)</Table_Royal1x2c.label>
+	<Table_Royal1x2c.description>Une table luxueuse finement décorée.</Table_Royal1x2c.description>
+
+	<Table_Royal3x3c.label>table royale (3x3)</Table_Royal3x3c.label>
+	<Table_Royal3x3c.description>Une table luxueuse finement décorée.</Table_Royal3x3c.description>
+
+	<Table_Royal2x4c.label>table royale (2x4)</Table_Royal2x4c.label>
+	<Table_Royal2x4c.description>Une table luxueuse finement décorée.</Table_Royal2x4c.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Lighting_MURWallLightVII.label>lampe murale</Lighting_MURWallLightVII.label>
+	<Lighting_MURWallLightVII.description>Une lampe conçue pour être accrochée à un mur.</Lighting_MURWallLightVII.description>
+	<Blueprint_Lighting_MURWallLightVII.label>lampe murale (plan)</Blueprint_Lighting_MURWallLightVII.label>
+	<Blueprint_Install_Lighting_MURWallLightVII.label>lampe murale (plan)</Blueprint_Install_Lighting_MURWallLightVII.label>
+	<Frame_Lighting_MURWallLightVII.label>lampe murale (construction)</Frame_Lighting_MURWallLightVII.label>
+	<Frame_Lighting_MURWallLightVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightVII.description>
+
+	<Lighting_MURWallLightRedVII.label>lampe murale (rouge)</Lighting_MURWallLightRedVII.label>
+	<Lighting_MURWallLightRedVII.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière rouge.</Lighting_MURWallLightRedVII.description>
+	<Blueprint_Lighting_MURWallLightRedVII.label>lampe murale (rouge) (plan)</Blueprint_Lighting_MURWallLightRedVII.label>
+	<Blueprint_Install_Lighting_MURWallLightRedVII.label>lampe murale (rouge) (plan)</Blueprint_Install_Lighting_MURWallLightRedVII.label>
+	<Frame_Lighting_MURWallLightRedVII.label>lampe murale (rouge) (construction)</Frame_Lighting_MURWallLightRedVII.label>
+	<Frame_Lighting_MURWallLightRedVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightRedVII.description>
+
+	<Lighting_MURWallLightGreenVII.label>lampe murale (verte)</Lighting_MURWallLightGreenVII.label>
+	<Lighting_MURWallLightGreenVII.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière verte.</Lighting_MURWallLightGreenVII.description>
+	<Blueprint_Lighting_MURWallLightGreenVII.label>lampe murale (verte) (plan)</Blueprint_Lighting_MURWallLightGreenVII.label>
+	<Blueprint_Install_Lighting_MURWallLightGreenVII.label>lampe murale (verte) (plan)</Blueprint_Install_Lighting_MURWallLightGreenVII.label>
+	<Frame_Lighting_MURWallLightGreenVII.label>lampe murale (verte) (construction)</Frame_Lighting_MURWallLightGreenVII.label>
+	<Frame_Lighting_MURWallLightGreenVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightGreenVII.description>
+
+	<Lighting_MURWallLightBlueVII.label>lampe murale (bleue)</Lighting_MURWallLightBlueVII.label>
+	<Lighting_MURWallLightBlueVII.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière bleue.</Lighting_MURWallLightBlueVII.description>
+	<Blueprint_Lighting_MURWallLightBlueVII.label>lampe murale (bleue) (plan)</Blueprint_Lighting_MURWallLightBlueVII.label>
+	<Blueprint_Install_Lighting_MURWallLightBlueVII.label>lampe murale (bleue) (plan)</Blueprint_Install_Lighting_MURWallLightBlueVII.label>
+	<Frame_Lighting_MURWallLightBlueVII.label>lampe murale (bleue) (construction)</Frame_Lighting_MURWallLightBlueVII.label>
+	<Frame_Lighting_MURWallLightBlueVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightBlueVII.description>
+
+</LanguageData>

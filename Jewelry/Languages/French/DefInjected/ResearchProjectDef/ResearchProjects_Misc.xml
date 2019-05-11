@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<LaserSculpting.label>atelier de découpage laser</LaserSculpting.label>
+	<LaserSculpting.description>Un atelier de découpage fonctionnant à l'électricité qui permet de travailler à 200% de la vitesse normale.</LaserSculpting.description>
+
+	<CuttingGems.label>découpage de pierres précieuses</CuttingGems.label>
+	<CuttingGems.description>Vous apprend à tailler des pierres précieuses.</CuttingGems.description>
+
+	<JewelryCrafting.label>joaillerie</JewelryCrafting.label>
+	<JewelryCrafting.description>Vous apprend à confectionner des bijoux.</JewelryCrafting.description>
+
+</LanguageData>

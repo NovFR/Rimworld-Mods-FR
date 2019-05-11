@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RailgunSabot.label>munition sabot</RailgunSabot.label>
+	<RailgunSabot.description>Un projectile à énergie cinétique tiré par un canon électrique.</RailgunSabot.description>
+	<Bullet_Sabot.label>munition sabot</Bullet_Sabot.label>
+
+	<RailgunSabotDU.label>munition sabot à l'uranium appauvri</RailgunSabotDU.label>
+	<RailgunSabotDU.description>Un projectile à énergie cinétique tiré par un canon électrique. Inerte, peut être stocké sans danger.</RailgunSabotDU.description>
+	<Bullet_Sabot_DU.label>munition sabot à l'uranium appauvri</Bullet_Sabot_DU.label>
+	<SabotRoundIncoming.label>munition sabot en approche</SabotRoundIncoming.label>
+	<DUSabotRoundIncoming.label>munition sabot à l'uranium appauvri en approche</DUSabotRoundIncoming.label>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Apparel_RadiationMask.label>masque anti-radiations</Apparel_RadiationMask.label>
+	<Apparel_RadiationMask.description>Protège contre les radiations et gaz toxiques et empêche leur inhalation.</Apparel_RadiationMask.description>
+
+	<Apparel_MoppMaskDesert.label>masque MOPP (désert)</Apparel_MoppMaskDesert.label>
+	<Apparel_MoppMaskDesert.description>Protège contre les radiations et gaz toxiques et empêche leur inhalation.</Apparel_MoppMaskDesert.description>
+
+	<Apparel_MoppMaskWoodland.label>masque MOPP (forêt)</Apparel_MoppMaskWoodland.label>
+	<Apparel_MoppMaskWoodland.description>Protège contre les radiations et gaz toxiques et empêche leur inhalation.</Apparel_MoppMaskWoodland.description>
+
+	<Apparel_MoppMaskSnow.label>masque MOPP (neige)</Apparel_MoppMaskSnow.label>
+	<Apparel_MoppMaskSnow.description>Protège contre les radiations et gaz toxiques et empêche leur inhalation.</Apparel_MoppMaskSnow.description>
+
+	<Apparel_MoppSuitDesert.label>tenue MOPP (désert)</Apparel_MoppSuitDesert.label>
+	<Apparel_MoppSuitDesert.description>Protège contre les radiations et gaz toxiques.</Apparel_MoppSuitDesert.description>
+
+	<Apparel_MoppSuitWoodland.label>tenue MOPP (forêt)</Apparel_MoppSuitWoodland.label>
+	<Apparel_MoppSuitWoodland.description>Protège contre les radiations et gaz toxiques.</Apparel_MoppSuitWoodland.description>
+
+	<Apparel_MoppSuitSnow.label>tenue MOPP (neige)</Apparel_MoppSuitSnow.label>
+	<Apparel_MoppSuitSnow.description>Protège contre les radiations et gaz toxiques.</Apparel_MoppSuitSnow.description>
+
+	<Apparel_RadiationSuit.label>tenue anti-radiations</Apparel_RadiationSuit.label>
+	<Apparel_RadiationSuit.description>Protège contre les radiations.</Apparel_RadiationSuit.description>
+
+</LanguageData>

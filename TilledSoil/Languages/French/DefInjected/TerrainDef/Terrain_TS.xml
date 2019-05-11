@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Dirt.label>terre</Dirt.label>
+	<Dirt.description>De la terre standard.</Dirt.description>
+
+	<GT_SoilTilled.label>terre cultivable</GT_SoilTilled.label>
+	<GT_SoilTilled.description>Une terre travaillée afin d'obtenir les meilleures cultures possibles.</GT_SoilTilled.description>
+
+</LanguageData>

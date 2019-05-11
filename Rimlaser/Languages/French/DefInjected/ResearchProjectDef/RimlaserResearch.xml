@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RimlaserLasers.label>lasers</RimlaserLasers.label>
+	<RimlaserLasers.description>Vous permet de fabriquer des armes qui utilisent l'amplification lumineuse grâce à l'émission stimulée de radiations. Concevoir ces armes demandera toutefois des composants avancés et des cristaux rares.</RimlaserLasers.description>
+
+	<RimlaserLaserTurrets.label>tourelles laser</RimlaserLaserTurrets.label>
+	<RimlaserLaserTurrets.description>Tourelle laser lourde montée sur un chassis de canon automatique.</RimlaserLaserTurrets.description>
+
+</LanguageData>

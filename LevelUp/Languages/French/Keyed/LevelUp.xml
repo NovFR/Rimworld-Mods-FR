@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--Level Up Options-->
+  <LevelUpLabel>Gain de niveau! {0} a atteint le niveau {1} en {2}.</LevelUpLabel>
+
+  <LevelUpSettingsLabel>Gain de niveau</LevelUpSettingsLabel>
+  <LevelUpTextMessageLabel>Message</LevelUpTextMessageLabel>
+  <LevelUpTextMessageLabelTooltip>Affiche un message lors d'un gain de niveau.</LevelUpTextMessageLabelTooltip>
+  <LevelUpSoundEffectLabel>Effet sonore</LevelUpSoundEffectLabel>
+  <LevelUpSoundEffectLabelTooltip>Joue un son lors d'un gain de niveau.</LevelUpSoundEffectLabelTooltip>
+  <LevelUpAnimationLabel>Animation</LevelUpAnimationLabel>
+  <LevelUpAnimationLabelTooltip>Joue une animation sur le personnage quand il gagne un niveau.</LevelUpAnimationLabelTooltip>
+
+  <!--Level Down Options-->
+  <LevelDownLabel>Perte de niveau! {0} est redescendu au niveau {1} en {2}.</LevelDownLabel>
+
+  <LevelDownSettingsLabel>Perte de niveau</LevelDownSettingsLabel>
+  <LevelDownTextMessageLabel>Message</LevelDownTextMessageLabel>
+  <LevelDownTextMessageLabelTooltip>Affiche un message lors d'une perte de niveau.</LevelDownTextMessageLabelTooltip>
+  <LevelDownSoundEffectLabel>Effet sonore</LevelDownSoundEffectLabel>
+  <LevelDownSoundEffectLabelTooltip>Joue un son lors de la perte d'un niveau.</LevelDownSoundEffectLabelTooltip>
+  <LevelDownAnimationLabel>Animation</LevelDownAnimationLabel>
+  <LevelDownAnimationLabelTooltip>Joue une animation sur le personnage lorsqu'il perd un niveau.</LevelDownAnimationLabelTooltip>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Faction.label>faction</Faction.label>
+
+	<Entertain.label>Divertir</Entertain.label>
+	<Entertain.headerTip>Divertir ce visiteur.</Entertain.headerTip>
+
+	<Recruit.label>Recruter</Recruit.label>
+	<Recruit.headerTip>Tenter de recruter ce visiteur.</Recruit.headerTip>
+
+	<AccommodationArea.label>zone d'hébergement</AccommodationArea.label>
+
+	<ShoppingArea.label>zone de commerce</ShoppingArea.label>
+
+	<!--<FriendsForRecruiting.label>amis pour recrutement</FriendsForRecruiting.label>-->
+	<!--<Hospitality.label>hospitalité</Hospitality.label>-->
+	<!--<More.label>Plus</More.label>-->
+
+</LanguageData>

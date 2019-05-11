@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BuildingsNuclear.label>nucléaire</BuildingsNuclear.label>
+	<NuclearWaste.label>déchets nucléaire</NuclearWaste.label>
+	<NuclearFuel.label>combustible nucléaire</NuclearFuel.label>
+	<RimatomicsProduct.label>produits Rimatomics</RimatomicsProduct.label>
+	<SabotRounds.label>minutions sabot</SabotRounds.label>
+	<Hazmat.label>hazmat</Hazmat.label>
+	<Mopp.label>mopp</Mopp.label>
+
+</LanguageData>

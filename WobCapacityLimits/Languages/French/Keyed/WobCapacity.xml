@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WobCapacityLimits.PawnMassCapacity.Title>Personnages: Multiplicateur de port</WobCapacityLimits.PawnMassCapacity.Title>
+	<WobCapacityLimits.PawnMassCapacity.Desc>Multiplicateur utilisé pour calculer le poids qu'un personage peut transporter.\nTaille du corps * multiplicateur = capacité en kg.\nPar défaut: 35.</WobCapacityLimits.PawnMassCapacity.Desc>
+
+	<WobCapacityLimits.PodMassCapacity.Title>Capsules de transport: Capacité de port</WobCapacityLimits.PodMassCapacity.Title>
+	<WobCapacityLimits.PodMassCapacity.Desc>Le poids maximal que chaque capsule peut transporter.\nPar défaut: 150.</WobCapacityLimits.PodMassCapacity.Desc>
+
+	<WobCapacityLimits.PodFuelPerTile.Title>Capsules de transport: Carburant par case</WobCapacityLimits.PodFuelPerTile.Title>
+	<WobCapacityLimits.PodFuelPerTile.Desc>Quantité de carburant nécessaire pour parcourir une case.\nPar défaut: 2.25.</WobCapacityLimits.PodFuelPerTile.Desc>
+
+	<WobCapacityLimits.DebugMode.Title>Mode débug</WobCapacityLimits.DebugMode.Title>
+	<WobCapacityLimits.DebugMode.Desc>Active la journalisation détaillée.</WobCapacityLimits.DebugMode.Desc>
+
+	<WobCapacityLimits.Stack.Meals.Title>Pile: Viandes</WobCapacityLimits.Stack.Meals.Title>
+	<WobCapacityLimits.Stack.Meals.Desc>N'importe quel type de viande.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Meals.Desc>
+
+	<WobCapacityLimits.Stack.Food.Title>Pile: Nourriture</WobCapacityLimits.Stack.Food.Title>
+	<WobCapacityLimits.Stack.Food.Desc>Viande crue, végéntaux, oeufs, lait, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Food.Desc>
+
+	<WobCapacityLimits.Stack.AnimalFeed.Title>Pile: Nourriture pour animaux</WobCapacityLimits.Stack.AnimalFeed.Title>
+	<WobCapacityLimits.Stack.AnimalFeed.Desc>Foin, croquettes, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.AnimalFeed.Desc>
+
+	<WobCapacityLimits.Stack.Textiles.Title>Pile: Textiles</WobCapacityLimits.Stack.Textiles.Title>
+	<WobCapacityLimits.Stack.Textiles.Desc>Vetements, laines, cuirs.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Textiles.Desc>
+
+	<WobCapacityLimits.Stack.Medicine.Title>Pile: Médicaments</WobCapacityLimits.Stack.Medicine.Title>
+	<WobCapacityLimits.Stack.Medicine.Desc>Médicaments et kits de soin.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Medicine.Desc>
+
+	<WobCapacityLimits.Stack.Drugs.Title>Pile: Drogues</WobCapacityLimits.Stack.Drugs.Title>
+	<WobCapacityLimits.Stack.Drugs.Desc>Drogues et bière.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Drugs.Desc>
+
+	<WobCapacityLimits.Stack.Manufactured.Title>Pile: Produits</WobCapacityLimits.Stack.Manufactured.Title>
+	<WobCapacityLimits.Stack.Manufactured.Desc>Composants, carapaces, chemfuel, Neutroamine, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Manufactured.Desc>
+
+	<WobCapacityLimits.Stack.Silver.Title>Pile: Argent</WobCapacityLimits.Stack.Silver.Title>
+	<WobCapacityLimits.Stack.Silver.Desc>Ressource basique, séparée parce qu'elle est utilisée comme monnaie.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Silver.Desc>
+
+	<WobCapacityLimits.Stack.Resources.Title>Pile: Ressources brutes</WobCapacityLimits.Stack.Resources.Title>
+	<WobCapacityLimits.Stack.Resources.Desc>Métaux, blocs de pierre, matières végétales non comestibles, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Resources.Desc>
+
+	<WobCapacityLimits.Stack.Chunks.Title>Pile: Morceaux</WobCapacityLimits.Stack.Chunks.Title>
+	<WobCapacityLimits.Stack.Chunks.Desc>Morceaux pierres ou de métal.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Chunks.Desc>
+
+	<WobCapacityLimits.Stack.Artifacts.Title>Pile: Artéfacts</WobCapacityLimits.Stack.Artifacts.Title>
+	<WobCapacityLimits.Stack.Artifacts.Desc>Lance psychique, calmant, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Artifacts.Desc>
+
+	<WobCapacityLimits.Stack.BodyParts.Title>Pile: Parties du corps</WobCapacityLimits.Stack.BodyParts.Title>
+	<WobCapacityLimits.Stack.BodyParts.Desc>Parties naturelles et bioniques, organes, et implants.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.BodyParts.Desc>
+
+	<WobCapacityLimits.Stack.Misc.Title>Pile: Divers</WobCapacityLimits.Stack.Misc.Title>
+	<WobCapacityLimits.Stack.Misc.Desc>Tout ce qui n'appartient aux autres catégories.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Misc.Desc>
+
+</LanguageData>

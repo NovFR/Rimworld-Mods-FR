@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ControlRodActuator.label>actionneur de barres de contrôle</ControlRodActuator.label>
+	<ControlRodActuator.description>Amélioration pour une réacteur nucléaire.</ControlRodActuator.description>
+
+	<ATOM.label>MDMA</ATOM.label>
+	<ATOM.description>Amélioration pour un SCAC.</ATOM.description>
+
+	<SCAD.label>SDAS</SCAD.label>
+	<SCAD.description>Amélioration pour une arme à énergie Rimatomics.</SCAD.description>
+
+	<MEPS.label>SMAE</MEPS.label>
+	<MEPS.description>Amélioration pour une arme à énergie Rimatomics.</MEPS.description>
+
+	<ALC.label>RLA</ALC.label>
+	<ALC.description>Amélioration pour une arme à énergie Rimatomics.</ALC.description>
+
+	<ERS.label>SRE</ERS.label>
+	<ERS.description>Amélioration pour une arme à énergie Rimatomics.</ERS.description>
+
+	<DriveActuator.label>moteur amélioré</DriveActuator.label>
+	<DriveActuator.description>Amélioration pour une arme à énergie Rimatomics.</DriveActuator.description>
+
+	<TargetingChip.label>puce de ciblage</TargetingChip.label>
+	<TargetingChip.description>Amélioration pour un canon électrique Rimatomics.</TargetingChip.description>
+
+	<BeamSplitter.label>séparateur de faisceau</BeamSplitter.label>
+	<BeamSplitter.description>Amélioration pour un Obélisque Rimatomics.</BeamSplitter.description>
+
+	<LenseModule.label>module d'objectif</LenseModule.label>
+	<LenseModule.description>Amélioration pour un Obélisque Rimatomics.</LenseModule.description>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RugA.label>tapis celtique</RugA.label>
+  <RugA.description>Un tapis avec des motifs celtiques.</RugA.description>
+  <RugA_Blueprint.label>tapis celtique (plan)</RugA_Blueprint.label>
+  <RugA_Blueprint_Install.label>tapis celtique (plan)</RugA_Blueprint_Install.label>
+  <RugA_Frame.label>tapis celtique (construction)</RugA_Frame.label>
+  <RugA_Frame.description>Un tapis avec des motifs celtiques.</RugA_Frame.description>
+
+  <RugB.label>tapis celtique</RugB.label>
+  <RugB.description>Un tapis avec des motifs celtiques.</RugB.description>
+  <RugB_Blueprint.label>tapis celtique (plan)</RugB_Blueprint.label>
+  <RugB_Blueprint_Install.label>tapis celtique (plan)</RugB_Blueprint_Install.label>
+  <RugB_Frame.label>tapis celtique (construction)</RugB_Frame.label>
+  <RugB_Frame.description>Un tapis avec des motifs celtiques.</RugB_Frame.description>
+
+  <RugC.label>tapis celtique</RugC.label>
+  <RugC.description>Un tapis avec des motifs celtiques.</RugC.description>
+  <RugC_Blueprint.label>tapis celtique (plan)</RugC_Blueprint.label>
+  <RugC_Blueprint_Install.label>tapis celtique (plan)</RugC_Blueprint_Install.label>
+  <RugC_Frame.label>tapis celtique (construction)</RugC_Frame.label>
+  <RugC_Frame.description>Un tapis avec des motifs celtiques.</RugC_Frame.description>
+
+
+</LanguageData>

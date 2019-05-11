@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Hygiene.label>Hygiène</Hygiene.label>
+	<Hygiene.description>Divers objets en rapport avec l'hygiène des colons.</Hygiene.description>
+
+	<HygieneMisc.label>Hygiène/etc.</HygieneMisc.label>
+	<HygieneMisc.description>Divers objets en rapport avec l'hygiène des colons.</HygieneMisc.description>
+
+</LanguageData>

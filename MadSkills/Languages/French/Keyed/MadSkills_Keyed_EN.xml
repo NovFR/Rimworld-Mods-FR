@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MadSkills_SettingsCategory>Mad Skills</MadSkills_SettingsCategory>
+	<MadSkills_DailyXPSaturationThresholdLabel>Limite journalière</MadSkills_DailyXPSaturationThresholdLabel>
+	<MadSkills_DailyXPSaturationThresholdTip>Valeur de RimWorld par défaut: &lt;b&gt;4000&lt;/b&gt;
+
+Après avoir accumulé ce montant d'expérience dans une compétence, tous les gains suivants seront multipliés par la valeur de &lt;b&gt;saturation&lt;/b&gt;, et ce jusqu'à minuit.</MadSkills_DailyXPSaturationThresholdTip>
+	<MadSkills_SaturatedXPMultiplierLabel>Saturation</MadSkills_SaturatedXPMultiplierLabel>
+	<MadSkills_SaturatedXPMultiplierTip>Valeur de RimWorld par défaut: &lt;b&gt;20%&lt;/b&gt;
+
+Multiplicateur appliqué à l'expérience acquise pour une compétence qui a dépassé sa &lt;b&gt;limite journalière&lt;/b&gt;.
+
+Définir 100% pour désactiver la limite journalière d'expérience.</MadSkills_SaturatedXPMultiplierTip>
+	<MadSkills_MultiplierLabel>Perte d'EXP</MadSkills_MultiplierLabel>
+	<MadSkills_MultiplierTip>Valeur de RimWorld par défaut: &lt;b&gt;100%&lt;/b&gt;
+
+Le taux de perte d'expérience sera multiplié par cette valeur.
+
+0% pour aucune perte, 50% pour la diminer de moitié, 200% pour la doubler, etc.</MadSkills_MultiplierTip>
+	<MadSkills_TieredLabel>Niveau sécurisé</MadSkills_TieredLabel>
+	<MadSkills_TieredTip>Valeur de RimWorld par défaut: &lt;b&gt;non&lt;/b&gt;
+
+Empêche une compétence de perdre un niveau; le gain d'expérience continue d'être affecté par les multiplicateurs.</MadSkills_TieredTip>
+	<MadSkills_AlternativeGreatMemoryDescription>{PAWN_nameDef} a une fantastique mémoire des détails. {PAWN_pronoun} augmentera ses compétences légèrement plus rapidement que les autres.</MadSkills_AlternativeGreatMemoryDescription>
+	<MadSkills_AlterGreatMemoryLabel>"bonne mémoire" alternative</MadSkills_AlterGreatMemoryLabel>
+	<MadSkills_AlterGreatMemoryTip>Valeur de RimWorld par défaut: &lt;b&gt;non&lt;/b&gt;
+
+Modifie le comportement de "bonne mémoire": au lieu d'atténuer la perte d'expérience, c'est le gain qui est augmenté de 25%.</MadSkills_AlterGreatMemoryTip>
+
+</LanguageData>

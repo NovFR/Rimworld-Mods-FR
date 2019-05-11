@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FAFWoodTile.label>sol en contre-plaqué</FAFWoodTile.label>
+	<FAFWoodTile.description>Des couches de contre-planqué compressées. Une option peu coûteuse de faire des planchers temporaires durant une construction.</FAFWoodTile.description>
+
+	<FAFMetalTileA.label>grille en acier</FAFMetalTileA.label>
+	<FAFMetalTileA.description>Une grille au revêtement en acier solide, très facile à nettoyer.</FAFMetalTileA.description>
+
+	<FAFMetalTileB.label>panneau métalique</FAFMetalTileB.label>
+	<FAFMetalTileB.description>Un panneau en métal semblable à ceux utilisés pour la construction des couloirs des vaisseaux spatiaux.</FAFMetalTileB.description>
+
+	<FAFTechTile.label>panneau de capteurs</FAFTechTile.label>
+	<FAFTechTile.description>Un panneau composé d'un ensemble de capteurs « intelligents » qui communiquent entre eux afin de s'adapter automatiquement à la pression exercée et d'offrir une surface optimale pour les déplacements.</FAFTechTile.description>
+
+</LanguageData>

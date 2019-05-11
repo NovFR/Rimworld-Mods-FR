@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RocketEngine.label>moteur de fusée</RocketEngine.label>
+	<RocketEngine.description>Moteur requis pour les missiles balistiques.</RocketEngine.description>
+
+	<MissileFuselage.label>fuselage de fusée</MissileFuselage.label>
+	<MissileFuselage.description>Fuselage requis pour les missiles balistiques.</MissileFuselage.description>
+
+	<FissionWarhead.label>tête nucléaire</FissionWarhead.label>
+	<FissionWarhead.description>Un engin explosif qui tire sa force destructrice des réactions nucléaires.</FissionWarhead.description>
+
+	<ICBM_Fission.label>missile balistique</ICBM_Fission.label>
+	<NuclearWarheadIncoming.label>tête nucléaire en approche</NuclearWarheadIncoming.label>
+	<SCUDIncoming.label>missile en approche</SCUDIncoming.label>
+	<CHEMSCUDIncoming.label>missile en approche</CHEMSCUDIncoming.label>
+	<ICBMStrike.label>tir de missile balistique</ICBMStrike.label>
+
+</LanguageData>

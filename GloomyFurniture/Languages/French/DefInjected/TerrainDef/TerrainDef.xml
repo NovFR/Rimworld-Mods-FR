@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- </TerrainDef> -->
+
+  <RGK_Terrain.label>plancher vertical en bois</RGK_Terrain.label>
+  <RGK_Terrain.description>Un joli plancher en bois, très chaleureux et très inflammable.</RGK_Terrain.description>
+
+  <GL_Terrain.label>plancher horizontal en bois</GL_Terrain.label>
+  <GL_Terrain.description>Un joli plancher en bois, très chaleureux et très inflammable.</GL_Terrain.description>
+
+  <PebbleSandstone.label>allée en grès</PebbleSandstone.label>
+  <PebbleSandstone.description>Une allée finement décorée.</PebbleSandstone.description>
+
+  <PebbleGranite.label>allée en granite</PebbleGranite.label>
+  <PebbleGranite.description>Une allée finement décorée.</PebbleGranite.description>
+
+  <PebbleLimestone.label>allée en calcaire</PebbleLimestone.label>
+  <PebbleLimestone.description>Une allée finement décorée.</PebbleLimestone.description>
+
+  <PebbleSlate.label>allée en ardoise</PebbleSlate.label>
+  <PebbleSlate.description>Une allée finement décorée.</PebbleSlate.description>
+
+  <PebbleMarble.label>allée en marbre</PebbleMarble.label>
+  <PebbleMarble.description>Une allée finement décorée.</PebbleMarble.description>
+
+
+</LanguageData>

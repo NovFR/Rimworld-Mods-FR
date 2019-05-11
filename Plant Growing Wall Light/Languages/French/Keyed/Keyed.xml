@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MURUVWallLight_LightRadName>Portée</MURUVWallLight_LightRadName>
+	<MURUVWallLight_LightRadDesc>Il s'agit du rayon dans lequel les plantes peuvent pousser. Peut prendre des valeurs 2 à 10 (5 par défaut)</MURUVWallLight_LightRadDesc>
+	<MURUVWallLight_SteelCostName>Coût en métal</MURUVWallLight_SteelCostName>
+	<MURUVWallLight_SteelCostDesc>Il s'agit du coût de fabrication d'une lampe (10 par défaut)</MURUVWallLight_SteelCostDesc>
+	<MURUVWallLight_PowerCostName>Coût en puissance</MURUVWallLight_PowerCostName>
+	<MURUVWallLight_PowerCostDesc>Il s'agit de la puissance électrique consommée par la lampe lorsqu'elle fonctionne (600 par défaut)</MURUVWallLight_PowerCostDesc>
+	<MURUVWallLight_DisableRestName>Désactiver la veille</MURUVWallLight_DisableRestName>
+	<MURUVWallLight_DisableRestDesc>Si coché, la lampe ne se désactivera pas pendant la période durant laquelle la plante ne pousse pas.</MURUVWallLight_DisableRestDesc>
+
+	<MURUVWallLight_WarningNeedWall>Doit être placée sur un mur.</MURUVWallLight_WarningNeedWall>
+	<MURUVWallLight_WarningBlocked>Doit être placée en face d'une case libre.</MURUVWallLight_WarningBlocked>
+	<MURUVWallLight_WarningBoth>Doit être placée sur un mur, en face d'une case libre.</MURUVWallLight_WarningBoth>
+
+	<MURUVWallLight_RadiusInvalidRange>Rayon non valide. La portée ne peut être inférieure à 2 et supérieure à 10. Elle a été modifiée pour prendre la valeur valide la plus proche de cette intervalle.</MURUVWallLight_RadiusInvalidRange>
+	<MURUVWallLight_AlertReload>Veuillez sauvegarder votre partie et la recharger pour que les changements soient pris en compte.</MURUVWallLight_AlertReload>
+
+	<MURUVWallLight_DestroyedBlocked>La lampe a été détruite par une construction.</MURUVWallLight_DestroyedBlocked>
+	<MURUVWallLight_DestroyedWall>La lampe a été détruite par la construction d'un mur.</MURUVWallLight_DestroyedWall>
+</LanguageData>

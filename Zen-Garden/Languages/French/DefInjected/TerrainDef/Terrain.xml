@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_GravelRoughSandstone.label>graviers rugueux en grès</ZEN_GravelRoughSandstone.label>
+	<ZEN_GravelRoughSandstone.description>Graviers rugueux utilisés pour créer un chemin. Les cailloux sont trop larges pour être ratissés.</ZEN_GravelRoughSandstone.description>
+	<ZEN_GravelRoughGranite.label>graviers rugueux en granite</ZEN_GravelRoughGranite.label>
+	<ZEN_GravelRoughGranite.description>Graviers rugueux utilisés pour créer un chemin. Les cailloux sont trop larges pour être ratissés.</ZEN_GravelRoughGranite.description>
+	<ZEN_GravelRoughLimestone.label>graviers rugueux en calcaire</ZEN_GravelRoughLimestone.label>
+	<ZEN_GravelRoughLimestone.description>Graviers rugueux utilisés pour créer un chemin. Les cailloux sont trop larges pour être ratissés.</ZEN_GravelRoughLimestone.description>
+	<ZEN_GravelRoughSlate.label>graviers rugueux en ardoise</ZEN_GravelRoughSlate.label>
+	<ZEN_GravelRoughSlate.description>Graviers rugueux utilisés pour créer un chemin. Les cailloux sont trop larges pour être ratissés.</ZEN_GravelRoughSlate.description>
+	<ZEN_GravelRoughMarble.label>graviers rugueux en marbre</ZEN_GravelRoughMarble.label>
+	<ZEN_GravelRoughMarble.description>Graviers rugueux utilisés pour créer un chemin. Les cailloux sont trop larges pour être ratissés.</ZEN_GravelRoughMarble.description>
+
+	<ZEN_GravelNormalSandstone.label>graviers ratissés en grès</ZEN_GravelNormalSandstone.label>
+	<ZEN_GravelNormalSandstone.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalSandstone.description>
+	<ZEN_GravelNormalGranite.label>graviers ratissés en granite</ZEN_GravelNormalGranite.label>
+	<ZEN_GravelNormalGranite.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalGranite.description>
+	<ZEN_GravelNormalLimestone.label>graviers ratissés en calcaire</ZEN_GravelNormalLimestone.label>
+	<ZEN_GravelNormalLimestone.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalLimestone.description>
+	<ZEN_GravelNormalSlate.label>graviers ratissés en ardoise</ZEN_GravelNormalSlate.label>
+	<ZEN_GravelNormalSlate.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalSlate.description>
+	<ZEN_GravelNormalMarble.label>graviers ratissés en marbre</ZEN_GravelNormalMarble.label>
+	<ZEN_GravelNormalMarble.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalMarble.description>
+	<ZEN_GravelNormalJade.label>graviers ratissés en jade</ZEN_GravelNormalJade.label>
+	<ZEN_GravelNormalJade.description>Un sol fait de petites pierres polies. Peut être ratissé pour former différents motifs. Lent à produire mais très agréable à regarder.</ZEN_GravelNormalJade.description>
+
+</LanguageData>

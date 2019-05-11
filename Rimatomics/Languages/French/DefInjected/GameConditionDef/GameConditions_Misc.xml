@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RadioactiveFallout.label>retombée radioactive</RadioactiveFallout.label>
+	<RadioactiveFallout.description>Un panache de fumée radioactive et de cendres a été rejeté dans l'air et va se déposer dans les environs.</RadioactiveFallout.description>
+	<RadioactiveFallout.endMessage>Le plus gros de la poussière radioactive s'est évaporé.</RadioactiveFallout.endMessage>
+
+	<NuclearFallout.label>retombée nucléaire</NuclearFallout.label>
+	<NuclearFallout.description>Un panache de fumée radioactive et de cendres provenant d'une explosion nucléaire a été rejeté dans l'atmosphère et va se déposer dans les environs.</NuclearFallout.description>
+	<NuclearFallout.endMessage>Le plus gros de la poussière radioactive s'est évaporé.</NuclearFallout.endMessage>
+
+</LanguageData>

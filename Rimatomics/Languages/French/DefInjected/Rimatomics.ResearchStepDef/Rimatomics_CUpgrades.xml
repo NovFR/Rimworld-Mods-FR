@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ControlRodActuators1.label>Effecter des recherches sur les réacteurs nucléaires</ControlRodActuators1.label>
+	<ControlRodActuators1.description>Procéder à des expériences sur le réacteur experimental et planifier des tests pouvant être réalisés sur un coeur fonctionnel.</ControlRodActuators1.description>
+	<ControlRodActuators2.label>Procéder à deux arrêts d'urgence sur un réacteur</ControlRodActuators2.label>
+	<ControlRodActuators2.description>Tester les barres de contrôle en réalisant deux arrêts d'urgence à l'aide du SCRAM d'un réacteur entièrement alimenté et à 100% de sa puissance.</ControlRodActuators2.description>
+	<ControlRodActuators3.label>Finaliser les recherches sur les réacteurs nucléaires</ControlRodActuators3.label>
+	<ControlRodActuators3.description>Analyser les données et finaliser les concepts du nouvel actionneur de barres de contrôle.</ControlRodActuators3.description>
+
+	<ThreatDetection1.label>Effecter des recherches sur la détection des menaces</ThreatDetection1.label>
+	<ThreatDetection1.description>Un chercheur qualifié est nécessaire pour effecter des tests sur un SCAC afin de collecter des données pour analyse.</ThreatDetection1.description>
+	<ThreatDetection2.label>Collecter des données lors des raids</ThreatDetection2.label>
+	<ThreatDetection2.description>Les données collectées lors des raids, telles que la taille des groupes ou les méthodes utilisées, seront analysées puis recoupées afin de créer un modèle de prédiction.</ThreatDetection2.description>
+	<ThreatDetection3.label>Finaliser les recherches sur la détection des menaces</ThreatDetection3.label>
+	<ThreatDetection3.description>Analyser les données et finaliser les concepts du MDMA.</ThreatDetection3.description>
+
+	<GuidenceSystem1.label>Effecter des recherches sur les réacteurs nucléaires</GuidenceSystem1.label>
+	<GuidenceSystem1.description>Un chercheur qualifié est nécessaire pour effecter des recherches sur les missiles statégiques afin de collecter des données pour analyse.</GuidenceSystem1.description>
+	<GuidenceSystem2.label>Collecter les données d'une arme</GuidenceSystem2.label>
+	<GuidenceSystem2.description>Lancer un missile stratégique sur n'importe quel cible afin de collecter des données. La quantité de données dépend du succès du lancement et de la détonation sur une cible.</GuidenceSystem2.description>
+	<GuidenceSystem3.label>Finaliser les recherches sur les réacteurs nucléaires</GuidenceSystem3.label>
+	<GuidenceSystem3.description>Analyser les données et finaliser les concepts du système de guidage.</GuidenceSystem3.description>
+
+	<MEPS1.label>Effectuer des recherches sur le SMAE</MEPS1.label>
+	<MEPS1.description>Un chercheur qualifié doit planifier une série de tests sur les armes à énergie Rimatomics afin de collecter des données pour analyse.</MEPS1.description>
+	<MEPS2.label>Collecter des données sur les armes</MEPS2.label>
+	<MEPS2.description>Faire feu à pleine puissance avec n'importe quelle arme à énergie Rimatomics afin de collecter des données.</MEPS2.description>
+	<MEPS3.label>Finaliser les recherches sur le SMAE</MEPS3.label>
+	<MEPS3.description>Analyser les données recueillies et finaliser les concepts du module SMAE.</MEPS3.description>
+
+	<ALC1.label>Effectuer des recherches sur le RLA</ALC1.label>
+	<ALC1.description>Un chercheur qualifié doit planifier une série de tests sur les armes à énergie Rimatomics afin de collecter des données pour analyse.</ALC1.description>
+	<ALC2.label>Collecter des données sur les armes</ALC2.label>
+	<ALC2.description>Faire feu à pleine puissance avec n'importe quelle arme à énergie Rimatomics afin de collecter des données.</ALC2.description>
+	<ALC3.label>Finaliser les recherches sur le RLA</ALC3.label>
+	<ALC3.description>Analyser les données recueillies et finaliser les concepts du module RLA.</ALC3.description>
+
+	<ERS1.label>Effectuer des recherches sur le SRE</ERS1.label>
+	<ERS1.description>Un chercheur qualifié doit planifier une série de tests sur les armes à énergie Rimatomics afin de collecter des données pour analyse.</ERS1.description>
+	<ERS2.label>Collecter des données sur les armes</ERS2.label>
+	<ERS2.description>Faire feu à pleine puissance avec n'importe quelle arme à énergie Rimatomics afin de collecter des données.</ERS2.description>
+	<ERS3.label>Finaliser les recherches sur le SRE</ERS3.label>
+	<ERS3.description>Analyser les données recueillies et finaliser les concepts du module SRE.</ERS3.description>
+
+	<SCAD1.label>Effectuer des recherches sur le SDAS</SCAD1.label>
+	<SCAD1.description>Un chercheur qualifié doit planifier une série de tests sur les armes à énergie Rimatomics afin de collecter des données pour analyse.</SCAD1.description>
+	<SCAD2.label>Collecter des données sur les armes</SCAD2.label>
+	<SCAD2.description>Faire feu à pleine puissance avec n'importe quelle arme à énergie Rimatomics afin de collecter des données.</SCAD2.description>
+	<SCAD3.label>Finaliser les recherches sur le SDAS</SCAD3.label>
+	<SCAD3.description>Analyser les données recueillies et finaliser les concepts du module SDAS.</SCAD3.description>
+
+	<DriveActuator1.label>Effectuer des recherches sur les moteurs avancés</DriveActuator1.label>
+	<DriveActuator1.description>Un chercheur qualifié doit procéder à des expérimentations sur le poste de recherche en armement.</DriveActuator1.description>
+	<DriveActuator2.label>Finaliser les recherches sur les moteurs avancés</DriveActuator2.label>
+	<DriveActuator2.description>Analyser les données recueillies et finaliser les concepts des moteurs avancés.</DriveActuator2.description>
+
+	<Railgun_TargetingChip1.label>Effectuer des recherches sur la puce de ciblage</Railgun_TargetingChip1.label>
+	<Railgun_TargetingChip1.description>Un chercheur qualifié doit planifier une série de tests sur un canon électrique afin de collecter des données pour analyse.</Railgun_TargetingChip1.description>
+	<Railgun_TargetingChip2.label>Collecter des données sur les armes</Railgun_TargetingChip2.label>
+	<Railgun_TargetingChip2.description>Faire feu à pleine puissance avec un canon électrique sur n'importe quelle cible afin de collecter des données.</Railgun_TargetingChip2.description>
+	<Railgun_TargetingChip3.label>Finaliser les recherches sur la puce de ciblage</Railgun_TargetingChip3.label>
+	<Railgun_TargetingChip3.description>Analyser les données recueillies et finaliser les concepts de la puce de ciblage.</Railgun_TargetingChip3.description>
+
+	<LenseModule1.label>Effectuer des recherches sur le module d'objectif</LenseModule1.label>
+	<LenseModule1.description>Un chercheur qualifié doit planifier une série de tests sur Obélisque afin de collecter des données pour analyse.</LenseModule1.description>
+	<LenseModule2.label>Collecter des données sur les armes</LenseModule2.label>
+	<LenseModule2.description>Utiliser l'Obélisque pour faire feu sur une cible vivante, la quantité de données recueillies dépend des dégâts infligés par chaque tir.</LenseModule2.description>
+	<LenseModule3.label>Finaliser les recherches sur le module d'objectif</LenseModule3.label>
+	<LenseModule3.description>Analyser les données recueillies et finaliser les concepts du module d'objectif.</LenseModule3.description>
+
+	<BeamSplitter1.label>Effectuer des recherches sur le séparateur de faisceau</BeamSplitter1.label>
+	<BeamSplitter1.description>Un chercheur qualifié doit planifier une série de tests sur Obélisque afin de collecter des données pour analyse.</BeamSplitter1.description>
+	<BeamSplitter2.label>Collecter des données sur les armes</BeamSplitter2.label>
+	<BeamSplitter2.description>Utiliser l'Obélisque pour faire feu sur une cible vivante, la quantité de données recueillies dépend des dégâts infligés par chaque tir.</BeamSplitter2.description>
+	<BeamSplitter3.label>Finaliser les recherches sur le séparateur de faisceau</BeamSplitter3.label>
+	<BeamSplitter3.description>Analyser les données recueillies et finaliser les concepts du séparateur de faisceau.</BeamSplitter3.description>
+
+</LanguageData>

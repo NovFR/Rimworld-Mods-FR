@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FollowMe.Cancel>Arrêt du suivi de {0}.</FollowMe.Cancel>
+	<FollowMe.Follow>Suivi de {0}.</FollowMe.Follow>
+
+	<FollowMe.RejectMultiple>Impossible de suivre une sélection multiple.</FollowMe.RejectMultiple>
+	<FollowMe.RejectNoSelection>Impossible de suivre, rien n'est sélectionné.</FollowMe.RejectNoSelection>
+	<FollowMe.RejectNotAThing>Impossible de suivre, la sélection n'est pas un objet.</FollowMe.RejectNotAThing>
+
+	<FollowMe.Notifications>Afficher les notifications</FollowMe.Notifications>
+	<FollowMe.Notifications.Tooltip>Les notifications doivent être affichées quand le suivi est modifié ?</FollowMe.Notifications.Tooltip>
+	<FollowMe.Sounds>Jouer un son</FollowMe.Sounds>
+	<FollowMe.Sounds.Tooltip>Un soit doit être joué lorsque le suivi est modifié ?</FollowMe.Sounds.Tooltip>
+	<FollowMe.EdgeDetection>Détecter des bords de l'écran</FollowMe.EdgeDetection>
+	<FollowMe.EdgeDetection.Tooltip>Le suivi doit être interrompu si la souris est proche d'un bord de l'écran ?</FollowMe.EdgeDetection.Tooltip>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NuclearFuelCracked.label>Autoriser fissuré</NuclearFuelCracked.label>
+	<NuclearFuelCracked.description>Autoriser les assemblages de combustible fissurés.</NuclearFuelCracked.description>
+
+	<NuclearFuelNotCracked.label>Autoriser non fissuré</NuclearFuelNotCracked.label>
+	<NuclearFuelNotCracked.description>Autoriser les assemblages de combustible non fissurés.</NuclearFuelNotCracked.description>
+
+	<NuclearFuelProcessable.label>Autoriser traitable</NuclearFuelProcessable.label>
+	<NuclearFuelProcessable.description>Autoriser les assemblages de combustible pouvant être traité.</NuclearFuelProcessable.description>
+
+	<NuclearFuelNotProcessable.label>Autoriser non traitable</NuclearFuelNotProcessable.label>
+	<NuclearFuelNotProcessable.description>Autoriser les assemblages de combustible ne pouvant pas être traité.</NuclearFuelNotProcessable.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <LaserTurretNotCharged>(Puissance stockée insuffisante pour faire feu)</LaserTurretNotCharged>
+  <RimlaserChangeBeamColor>Modifier la couleur: {0}</RimlaserChangeBeamColor>
+  
+  <RimlaserBeamBrown>marron</RimlaserBeamBrown>
+  <RimlaserBeamOrange>orange</RimlaserBeamOrange>
+  <RimlaserBeamRed>rouge</RimlaserBeamRed>
+  <RimlaserBeamPink>rose</RimlaserBeamPink>
+  <RimlaserBeamBlue>bleu</RimlaserBeamBlue>
+  <RimlaserBeamTeal>sarcelle</RimlaserBeamTeal>
+  <RimlaserBeamRedBlack>bleu-noir</RimlaserBeamRedBlack>
+</LanguageData>

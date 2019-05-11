@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MF_BasicFurniture.label>meubles de base</MF_BasicFurniture.label>
+	<MF_BasicFurniture.description>Construire des meubles simples tels que des lits, des tables, etc.</MF_BasicFurniture.description>
+
+	<MF_RoyalFurniture.label>meubles royaux</MF_RoyalFurniture.label>
+	<MF_RoyalFurniture.description>Construire des meubles davantage orientés sur l'esthétique que sur le confort. Généralement, on ne voit ce genre de meubles que chez les élites.</MF_RoyalFurniture.description>
+
+	<MF_ModernFurniture.label>meubles modernes</MF_ModernFurniture.label>
+	<MF_ModernFurniture.description>Construire des meubles davantage orientés sur le confort que sur l'esthétique tels que des lits ergonomiques, des tables de jeu, etc.</MF_ModernFurniture.description>
+
+	<MF_WasteDisposal.label>poubelles</MF_WasteDisposal.label>
+	<MF_WasteDisposal.description>Construire des poubelles qui permettront de maintenir les zones plus propres.</MF_WasteDisposal.description>
+
+</LanguageData>

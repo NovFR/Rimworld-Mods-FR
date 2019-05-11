@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>Masse portée</SandyMassCarried>
+  <SandyMassValue> {0} / {1} kg</SandyMassValue>
+  <Sandy_ViewList>Liste</Sandy_ViewList>
+  <Sandy_Head>Tête</Sandy_Head>
+  <Sandy_TorsoMiddle>Torse (couche intermédiaire)</Sandy_TorsoMiddle>
+  <Sandy_TorsoOnSkin>Torse (couche inférieure)</Sandy_TorsoOnSkin>
+  <Sandy_TorsoShell>Torse (couche supérieure)</Sandy_TorsoShell>
+  <Sandy_Belt>Ceinture</Sandy_Belt>
+  <Sandy_Pants>Pantalon</Sandy_Pants>
+
+</LanguageData>

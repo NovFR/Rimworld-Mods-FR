@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HygieneLevel.stages.Filthy.label>se sent crasseu(x/se)</HygieneLevel.stages.Filthy.label>
+	<HygieneLevel.stages.Filthy.description>J'ai l'impression d'avoir nagé dans la boue.</HygieneLevel.stages.Filthy.description>
+	<HygieneLevel.stages.grimy.label>se sent sale</HygieneLevel.stages.grimy.label>
+	<HygieneLevel.stages.grimy.description>Je me sens un peu sale.</HygieneLevel.stages.grimy.description>
+	<HygieneLevel.stages.Clean.label>se sent propre</HygieneLevel.stages.Clean.label>
+	<HygieneLevel.stages.Clean.description>Je me sens comme un sou neuf !</HygieneLevel.stages.Clean.description>
+	<HygieneLevel.stages.Squeaky_Clean.label>se sent vraiment propre</HygieneLevel.stages.Squeaky_Clean.label>
+	<HygieneLevel.stages.Squeaky_Clean.description>Je me sens vraiment propre !</HygieneLevel.stages.Squeaky_Clean.description>
+	<BowelLevel.stages.Bursting.label>a une envie pressante</BowelLevel.stages.Bursting.label>
+	<BowelLevel.stages.Bursting.description>J'ai vraiment besoin d'aller aux toilettes !</BowelLevel.stages.Bursting.description>
+	<BowelLevel.stages.need_the_bathroom.label>a besoin de la salle de bain</BowelLevel.stages.need_the_bathroom.label>
+	<BowelLevel.stages.need_the_bathroom.description>J'ai besoin de la salle de bain !</BowelLevel.stages.need_the_bathroom.description>
+
+</LanguageData>

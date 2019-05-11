@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+
+	<Fluffy.ResearchTree.AllowsBuildingX>Construction: {0}</Fluffy.ResearchTree.AllowsBuildingX>
+	<Fluffy.ResearchTree.AllowsCraftingX>Recette: {0}</Fluffy.ResearchTree.AllowsCraftingX>
+	<Fluffy.ResearchTree.AllowsSowingXinY>Semis: {0} dans {1}</Fluffy.ResearchTree.AllowsSowingXinY>
+	<Fluffy.ResearchTree.AllowsPlantingX>Plantation: {0}</Fluffy.ResearchTree.AllowsPlantingX>
+
+	<Fluffy.ResearchTree.LClickReplaceQueue>Clic-gauche pour rechercher</Fluffy.ResearchTree.LClickReplaceQueue>
+	<Fluffy.ResearchTree.LClickRemoveFromQueue>Clic-gauche pour ne plus rechercher</Fluffy.ResearchTree.LClickRemoveFromQueue>
+	<Fluffy.ResearchTree.SLClickAddToQueue>Maj + Clic-gauche pour ajouter aux recherches</Fluffy.ResearchTree.SLClickAddToQueue>
+	<!-- <Fluffy.ResearchTree.RClickForDetails>Right click for details</Fluffy.ResearchTree.RClickForDetails> -->
+	<Fluffy.ResearchTree.RClickInstaFinish>(DEBUG) Clic droit pour terminer immédiatement</Fluffy.ResearchTree.RClickInstaFinish>
+
+	<Fluffy.ResearchTree.Requires>Requiert</Fluffy.ResearchTree.Requires>
+	<Fluffy.ResearchTree.LeadsTo>Conduit à</Fluffy.ResearchTree.LeadsTo>
+
+	<Fluffy.ResearchTree.QueuedNode>Recherche déjà en cours</Fluffy.ResearchTree.QueuedNode>
+	<Fluffy.ResearchTree.MissingFacilities>Manque {0}</Fluffy.ResearchTree.MissingFacilities>
+
+	<Fluffy.ResearchTree.NoResearchFound>aucune recherche trouvée</Fluffy.ResearchTree.NoResearchFound>
+	<Fluffy.ResearchTree.NothingQueued>aucune recherche en cours</Fluffy.ResearchTree.NothingQueued>
+	<Fluffy.ResearchTree.NextInQueue>Prochaine recherche: {0}</Fluffy.ResearchTree.NextInQueue>
+
+	<Fluffy.ResearchTree.PreparingTree.Setup>Préparation</Fluffy.ResearchTree.PreparingTree.Setup>
+	<Fluffy.ResearchTree.PreparingTree.CrossingReduction>Réduction des intersections</Fluffy.ResearchTree.PreparingTree.CrossingReduction>
+	<Fluffy.ResearchTree.PreparingTree.Layout>Finalisation du rendu</Fluffy.ResearchTree.PreparingTree.Layout>
+	<Fluffy.ResearchTree.RestoreQueue>Rétablissement de la liste</Fluffy.ResearchTree.RestoreQueue>
+
+</LanguageData>

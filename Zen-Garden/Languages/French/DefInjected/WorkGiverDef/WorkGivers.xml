@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_GrowerHarvestSecondary.label>récolte les ressources secondaires d'une plantation.</ZEN_GrowerHarvestSecondary.label>
+	<ZEN_GrowerHarvestSecondary.verb>récolter</ZEN_GrowerHarvestSecondary.verb>
+	<ZEN_GrowerHarvestSecondary.gerund>récolte</ZEN_GrowerHarvestSecondary.gerund>
+
+	<ZEN_GrowerSowSecondary.label>sème un verger.</ZEN_GrowerSowSecondary.label>
+	<ZEN_GrowerSowSecondary.verb>semer</ZEN_GrowerSowSecondary.verb>
+	<ZEN_GrowerSowSecondary.gerund>sème</ZEN_GrowerSowSecondary.gerund>
+
+</LanguageData>

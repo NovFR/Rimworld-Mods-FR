@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<EnergyWeapons.ResearchLabel>Armes à énergie</EnergyWeapons.ResearchLabel>
+	<EnergyWeapons.ProjTypeLabel>Installation de recherche</EnergyWeapons.ProjTypeLabel>
+	<EnergyWeapons.ResearchDesc>Rimatomics définit l'avenir des systèmes d'armes à haute énergie. Bénéficiez d'un avantage décisif sur le champ de bataille grâce à nos armes à énergie et à nos traqueurs de cibles qui disposent d'une conception modulaire et évolutive, avec une couverture à 360 dégrés qui identifie, traque, et protège des troupes, missiles, mortiers et armes à longues portées ennemies.</EnergyWeapons.ResearchDesc>
+	<EnergyWeapons.ResearchDescDisc>Les technologies requises pour utiliser les armes à énergie Rimatomics sont désormais disponibles. Vous pouvez également acheter des systèmes d'armes au poste de recherche.</EnergyWeapons.ResearchDescDisc>
+
+	<ADS.ResearchLabel>ADS</ADS.ResearchLabel>
+	<ADS.ProjTypeLabel>Arme à énergie</ADS.ProjTypeLabel>
+	<ADS.ResearchDescDisc>Vous pouvez désormais produire plusieurs ADS et les prototypes existants sont prêts au combat.</ADS.ResearchDescDisc>
+
+	<TeslaCoil.ResearchLabel>Bobine Tesla</TeslaCoil.ResearchLabel>
+	<TeslaCoil.ProjTypeLabel>Arme à énergie</TeslaCoil.ProjTypeLabel>
+	<TeslaCoil.ResearchDescDisc>Vous pouvez désormais produire plusieurs bobines Tesla et les prototypes existants sont prêts au combat.</TeslaCoil.ResearchDescDisc>
+
+	<HEL.ResearchLabel>LHE</HEL.ResearchLabel>
+	<HEL.ProjTypeLabel>Arme à énergie</HEL.ProjTypeLabel>
+	<HEL.ResearchDescDisc>Vous pouvez désormais produire plusieurs LHE et les prototypes existants sont prêts au combat.</HEL.ResearchDescDisc>
+
+	<Railgun.ResearchLabel>Punisseur</Railgun.ResearchLabel>
+	<Railgun.ProjTypeLabel>Arme à énergie</Railgun.ProjTypeLabel>
+	<Railgun.ResearchDescDisc>Vous pouvez désormais produire plusieurs Punisseurs et les prototypes existants sont prêts au combat.</Railgun.ResearchDescDisc>
+
+	<Obelisk.ResearchLabel>Obélisque</Obelisk.ResearchLabel>
+	<Obelisk.ProjTypeLabel>Arme à énergie</Obelisk.ProjTypeLabel>
+	<Obelisk.ResearchDescDisc>Vous pouvez désormais produire plusieurs obélisques et les prototypes existants sont prêts au combat.</Obelisk.ResearchDescDisc>
+
+	<Marauder.ResearchLabel>Maraudeur</Marauder.ResearchLabel>
+	<Marauder.ProjTypeLabel>Arme à énergie</Marauder.ProjTypeLabel>
+	<Marauder.ResearchDescDisc>Vous pouvez désormais produire plusieurs maraudeurs et les prototypes existants sont prêts au combat.</Marauder.ResearchDescDisc>
+
+</LanguageData>

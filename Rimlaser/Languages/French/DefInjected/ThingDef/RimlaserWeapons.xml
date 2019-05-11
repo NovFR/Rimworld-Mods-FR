@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_LaserRifle.label>faisceau laser</Bullet_LaserRifle.label>
+	<Rimlaser_LaserRifle.label>fusil laser</Rimlaser_LaserRifle.label>
+	<Rimlaser_LaserRifle.description>Un fusil laser de conception futuriste. Inflige presque autant de dégâts qu'un pistolet laser à chaque tir, mais deux fois plus rapide et dispose d'une plus grande portée.</Rimlaser_LaserRifle.description>
+
+	<Rimlaser_LaserRifleMounted.label>canon d'une tourelle laser</Rimlaser_LaserRifleMounted.label>
+	<Rimlaser_LaserRifleMounted.description>Un canon récupéré sur une tourelle laser. Aussi efficace qu'un fusil laser mais difficile à transporter.</Rimlaser_LaserRifleMounted.description>
+
+	<Bullet_LaserPistol.label>faisceau laser</Bullet_LaserPistol.label>
+	<Rimlaser_LaserPistol.label>pistolet laser</Rimlaser_LaserPistol.label>
+	<Rimlaser_LaserPistol.description>Un pistolet laser de conception futuriste. Plutôt puissant, dispose d'une portée décente et permet de tirer rapidement.</Rimlaser_LaserPistol.description>
+
+	<Bullet_LaserHeavy.label>faisceau laser</Bullet_LaserHeavy.label>
+	<Rimlaser_LaserHeavy.label>pistolet laser lourd</Rimlaser_LaserHeavy.label>
+	<Rimlaser_LaserHeavy.description>Inflige de lourds dégâts, mais très coûteux à produire et difficile à utiliser à courte portée.</Rimlaser_LaserHeavy.description>
+
+	<Bullet_LaserIncendiary.label>faisceau laser</Bullet_LaserIncendiary.label>
+	<Rimlaser_LaserIncendiary.label>fusil laser incendiaire</Rimlaser_LaserIncendiary.label>
+	<Rimlaser_LaserIncendiary.description>Une arme au concept ingénieux qui infligent de faibles dégâts pour sa taille mais qui a tendance à enflammer la cible.</Rimlaser_LaserIncendiary.description>
+
+	<Bullet_LaserSniper.label>faisceau laser</Bullet_LaserSniper.label>
+	<Rimlaser_LaserSniper.label>fusil sniper laser</Rimlaser_LaserSniper.label>
+	<Rimlaser_LaserSniper.description>Un fusil laser dédié aux tirs à longue distance. Inflige de bons dégâts et a une portée élevée, mais il est volumineux et difficile à manier à courte distance.</Rimlaser_LaserSniper.description>
+
+	<Bullet_LaserMinigun.label>faisceau laser</Bullet_LaserMinigun.label>
+	<Rimlaser_LaserMinigun.label>minigun laser</Rimlaser_LaserMinigun.label>
+	<Rimlaser_LaserMinigun.description>Un fusil laser doté de trois canons entraînés par un moteur électrique. En raison de la fragilité des pièces rotatives, il faut un certain temps avant de pouvoir faire feu, mais la cadence de tir est rapide et la précision de cette arme est meilleure que celle de son homologue à poudre.</Rimlaser_LaserMinigun.description>
+
+	<LaserHeavyMinigunMounted.label>minigun laser lourd</LaserHeavyMinigunMounted.label>
+	<LaserHeavyMinigunMounted.description>Un minigun laser monté.</LaserHeavyMinigunMounted.description>
+
+	<Bullet_DeathRay.label>rayon de la mort</Bullet_DeathRay.label>
+	<Rimlaser_DeathRay.label>hyperboloïde de Garin</Rimlaser_DeathRay.label>
+	<Rimlaser_DeathRay.description>Un engin monstrueux qui viole les première, seconde et troisième lois de la thermodynamique afin de concentrer un rayon de la mort sur quiconque ose se mettre en travers du chemin de son propriétaire.</Rimlaser_DeathRay.description>
+
+	<Bullet_Tesla.label>éclair</Bullet_Tesla.label>
+	<Rimlaser_TeslaGun.label>fusil électrique</Rimlaser_TeslaGun.label>
+	<Rimlaser_TeslaGun.description>Un fusil qui emet un arc électrique. Effectif uniquement à courte distance, mais dispose d'une puissance d'arrêt conséquente.</Rimlaser_TeslaGun.description>
+
+</LanguageData>

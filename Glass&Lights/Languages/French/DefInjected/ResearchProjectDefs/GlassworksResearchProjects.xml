@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<GlassworksResearch.label>Travail du verre</GlassworksResearch.label>
+	<GlassworksResearch.description>Produire du verre est plus difficile qu'il n'y parraît, mais en cherchant bien, vous pouvez trouver la bonne formule</GlassworksResearch.description>
+	<ReinforcedGlassResearch.label>Verre renforcé</ReinforcedGlassResearch.label>
+	<ReinforcedGlassResearch.description>Le verre est fragile, mais avec les bons outils il peut être renforcé</ReinforcedGlassResearch.description>
+	<DecorativeGlassResearch.label>Verre décoratif</DecorativeGlassResearch.label>
+	<DecorativeGlassResearch.description>Le verre peut être utilisé pour autre chose que les lumières et les vitres</DecorativeGlassResearch.description>
+</LanguageData>

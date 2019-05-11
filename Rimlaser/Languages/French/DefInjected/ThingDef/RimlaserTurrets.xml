@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MiniTurret_Laser.label>mini-tourelle laser</MiniTurret_Laser.label>
+	<MiniTurret_Laser.description>Une tourelle dotée de l'équivalent d'un fusil laser. Ne requiert pas de maintenance mais consomme 5Wj de l'énergie stockée dans des batteries à chaque tir.</MiniTurret_Laser.description>
+
+	<Turret_Laser.label>tourelle laser lourde</Turret_Laser.label>
+	<Turret_Laser.description>Une tourelle laser lourde. Ne requiert pas de maintenance mais consomme 30Wj de l'énergie stockée dans des batteries à chaque tir.</Turret_Laser.description>
+
+	<TurretLaserHeavyMinigun.label>tourelle minigun laser</TurretLaserHeavyMinigun.label>
+	<TurretLaserHeavyMinigun.description>Une tourelle laser massive dotée de 3 canons entrainés par un moteur électrique. Ne requiert pas de maintenance mais consomme 30Wj de l'énergie stockée dans des batteries à chaque tir.</TurretLaserHeavyMinigun.description>
+
+</LanguageData>

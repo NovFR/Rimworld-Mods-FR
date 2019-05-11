@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PipeVisibility.label>Visibilité des tuyaux</PipeVisibility.label>
+	<PipeVisibility.options.0.label>Cachés</PipeVisibility.options.0.label>
+	<PipeVisibility.options.1.label>Cachés sous les planchers</PipeVisibility.options.1.label>
+	<PipeVisibility.options.2.label>Toujours visibles</PipeVisibility.options.2.label>
+	<PipeVisibility.tip>Détermine le rendu des tuyaux.</PipeVisibility.tip>
+
+	<FlushSize.label>Polution des chasses</FlushSize.label>
+	<FlushSize.options.0.label>-Désactivé-</FlushSize.options.0.label>
+	<FlushSize.tip>Multiplicateur appliqué à la quantité d'eaux usées produites par les chasses d'eau.</FlushSize.tip>
+
+	<HygieneRate.label>Besoin en hygiène</HygieneRate.label>
+	<HygieneRate.options.0.label>-Désactivé-</HygieneRate.options.0.label>
+	<HygieneRate.tip>Détermine la vitesse à laquelle l'hygiène se dégrade.</HygieneRate.tip>
+
+	<BladderRateB.label>Besoins naturels</BladderRateB.label>
+	<BladderRateB.options.0.label>-Désactivé-</BladderRateB.options.0.label>
+	<BladderRateB.tip>Détermine la vitesse à laquelle la satisfaction des besoins naturels se dégradent.</BladderRateB.tip>
+
+	<ThirstRate.label>Hydratation</ThirstRate.label>
+	<ThirstRate.options.0.label>-Désactivé-</ThirstRate.options.0.label>
+	<ThirstRate.tip>Détermine la vitesse à laquelle l'hydratation se dégrade.</ThirstRate.tip>
+
+	<ContaminationChance.label>Contamination</ContaminationChance.label>
+	<ContaminationChance.options.0.label>-Désactivé-</ContaminationChance.options.0.label>
+	<ContaminationChance.tip>Multiplicateur appliqué au risque qu'un colon soit contaminé en buvant de l'eau non traitée.</ContaminationChance.tip>
+
+	<WaterPumpCapacity.label>Capacité des pompes à eau</WaterPumpCapacity.label>
+	<WaterPumpCapacity.options.0.label>-Désactivé-</WaterPumpCapacity.options.0.label>
+	<WaterPumpCapacity.tip>Multiplicateur appliqué à la capacité des pompes à eau.</WaterPumpCapacity.tip>
+
+	<WaterHeatingRate.label>Consommation d'eau chaude</WaterHeatingRate.label>
+	<WaterHeatingRate.options.0.label>-Désactivé-</WaterHeatingRate.options.0.label>
+	<WaterHeatingRate.tip>Multiplicateur appliqué à la quantité d'eau chaude utilisée.</WaterHeatingRate.tip>
+
+	<SewageGridCapacity.label>Eaux usées par cellule</SewageGridCapacity.label>
+	<SewageGridCapacity.options.0.label>-Désactivé-</SewageGridCapacity.options.0.label>
+	<SewageGridCapacity.tip>Détermine la quantité d'eaux usées qu'une case peut accueillir.</SewageGridCapacity.tip>
+
+	<SewageCleanupRateB.label>Évacuation des eaux usées</SewageCleanupRateB.label>
+	<SewageCleanupRateB.options.0.label>-Désactivé-</SewageCleanupRateB.options.0.label>
+	<SewageCleanupRateB.tip>Détermine la vitesse à laquelle les eaux usées sont éliminées naturellement.</SewageCleanupRateB.tip>
+
+	<SewageProcRate.label>Taux de traitement des eaux usées</SewageProcRate.label>
+	<SewageProcRate.options.0.label>-Désactivé-</SewageProcRate.options.0.label>
+	<SewageProcRate.tip>Multiplicateur appliqué à la vitesse de traitement des eaux usées dans les fosses sceptiques et les stations d'épuration.</SewageProcRate.tip>
+
+	<IrrigationGridStrength.label>Impact de l'irrigation</IrrigationGridStrength.label>
+	<IrrigationGridStrength.options.0.label>-Désactivé-</IrrigationGridStrength.options.0.label>
+	<IrrigationGridStrength.tip>Multiplicateur appliqué à l'impact de l'irrigation sur la fertilité des cultures.</IrrigationGridStrength.tip>
+
+	<FertilizerGridStrength.label>Impact des engrais</FertilizerGridStrength.label>
+	<FertilizerGridStrength.options.0.label>-Désactivé-</FertilizerGridStrength.options.0.label>
+	<FertilizerGridStrength.tip>Multiplicateur appliqué à l'impact des engrais sur la fertilité des cultures.</FertilizerGridStrength.tip>
+
+	<TerrainFertilityFactor.label>Fertilité du sol</TerrainFertilityFactor.label>
+	<TerrainFertilityFactor.options.0.label>-Désactivé-</TerrainFertilityFactor.options.0.label>
+	<TerrainFertilityFactor.tip>Détermine la fertilité de base d'une culture.</TerrainFertilityFactor.tip>
+
+</LanguageData>

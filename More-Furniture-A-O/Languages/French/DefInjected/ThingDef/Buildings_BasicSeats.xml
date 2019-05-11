@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Seat_Cushion.label>coussin</Seat_Cushion.label>
+	<Seat_Cushion.description>Un simple coussin pour s'asseoir, populaire auprès des tribus. Peut être placé devant une table, un atelier, ou ailleurs.</Seat_Cushion.description>
+
+	<Seat_Bench.label>banc</Seat_Bench.label>
+	<Seat_Bench.description>Une simple planche en bois pouvant être utilisée par plusieurs personnes, pas très confortable, mais c'est mieux que rien. Peut être placé devant une table, un atelier, ou ailleurs.</Seat_Bench.description>
+
+	<Seat_SquareChair.label>chaise carrée</Seat_SquareChair.label>
+	<Seat_SquareChair.description>Une chaise élégante et confortable. Peut être placé devant une table, un atelier, ou ailleurs.</Seat_SquareChair.description>
+
+</LanguageData>

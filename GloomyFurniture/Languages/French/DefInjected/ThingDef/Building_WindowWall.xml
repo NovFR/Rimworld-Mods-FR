@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 벽 -->
+
+  <RGK_Wall.label>mur</RGK_Wall.label>
+  <RGK_Wall.description>Un mur plat capable de soutnir un plafond.</RGK_Wall.description>
+  <RGK_Wall_Blueprint.label>mur (plan)</RGK_Wall_Blueprint.label>
+  <RGK_Wall_Frame.label>mur (construction)</RGK_Wall_Frame.label>
+  <RGK_Wall_Frame.description>Un mur plat capable de soutnir un plafond.</RGK_Wall_Frame.description>
+
+
+  <!-- 신규 벽 -->
+
+  <GL_Wall.label>mur</GL_Wall.label>
+  <GL_Wall.description>Un mur plat capable de soutnir un plafond.</GL_Wall.description>
+  <GL_Wall_Blueprint.label>mur (plan)</GL_Wall_Blueprint.label>
+  <GL_Wall_Frame.label>mur (construction)</GL_Wall_Frame.label>
+  <GL_Wall_Frame.description>Un mur plat capable de soutnir un plafond.</GL_Wall_Frame.description>
+
+
+  <!-- 환풍벽 -->
+
+  <RGK_VentWall.label>mur ventilé</RGK_VentWall.label>
+  <RGK_VentWall.description>Un mur laissant entrer et sortir l'air.</RGK_VentWall.description>
+  <RGK_VentWall_Blueprint.label>mur ventilé (plan)</RGK_VentWall_Blueprint.label>
+  <RGK_VentWall_Frame.label>mur ventilé (construction)</RGK_VentWall_Frame.label>
+  <RGK_VentWall_Frame.description>Un mur laissant entrer et sortir l'air.</RGK_VentWall_Frame.description>
+
+
+  <!-- 신규 환풍벽 -->
+
+  <GL_VentWall.label>mur ventilé</GL_VentWall.label>
+  <GL_VentWall.description>Un mur laissant entrer et sortir l'air.</GL_VentWall.description>
+  <GL_VentWall_Blueprint.label>mur ventilé (plan)</GL_VentWall_Blueprint.label>
+  <GL_VentWall_Frame.label>mur ventilé (construction)</GL_VentWall_Frame.label>
+  <GL_VentWall_Frame.description>Un mur laissant entrer et sortir l'air.</GL_VentWall_Frame.description>
+
+
+  <!-- 창문 -->
+
+  <RGK_window.label>fenêtre</RGK_window.label>
+  <RGK_window.description>On peut voir à l'extérieur !</RGK_window.description>
+  <RGK_window_Blueprint_Install.label>fenêtre (plan)</RGK_window_Blueprint_Install.label>
+
+  <RGK_WindowWall.label>mur avec fenêtre</RGK_WindowWall.label>
+  <RGK_WindowWall.description>Un mur avec une fenêtre laissant filtrer la lumière extérieure.</RGK_WindowWall.description>
+  <RGK_WindowWall_Blueprint.label>mur avec fenêtre (plan)</RGK_WindowWall_Blueprint.label>
+  <RGK_WindowWall_Frame.label>mur avec fenêtres (construction)</RGK_WindowWall_Frame.label>
+  <RGK_WindowWall_Frame.description>Un mur avec une fenêtre laissant filtrer la lumière extérieure.</RGK_WindowWall_Frame.description>
+
+
+  <!-- 신규 창문 -->
+
+  <GL_WindowWall.label>mur avec fenêtre</GL_WindowWall.label>
+  <GL_WindowWall.description>Un mur avec une fenêtre laissant filtrer la lumière extérieure.</GL_WindowWall.description>
+  <GL_WindowWall_Blueprint.label>mur avec fenêtre(plan)</GL_WindowWall_Blueprint.label>
+  <GL_WindowWall_Frame.label>mur avec fenêtre (construction)</GL_WindowWall_Frame.label>
+  <GL_WindowWall_Frame.description>Un mur avec une fenêtre laissant filtrer la lumière extérieure.</GL_WindowWall_Frame.description>
+
+
+  <!-- 울타리 -->
+
+  <RGK_WoodFence.label>clôture</RGK_WoodFence.label>
+  <RGK_WoodFence.description>Fonctionne comme un mur.</RGK_WoodFence.description>
+  <RGK_WoodFence_Blueprint.label>clôture (plan)</RGK_WoodFence_Blueprint.label>
+  <RGK_WoodFence_Frame.label>clôture (construction)</RGK_WoodFence_Frame.label>
+  <RGK_WoodFence_Frame.description>Fonctionne comme un mur.</RGK_WoodFence_Frame.description>
+
+
+  <!-- 꽃벽 -->
+
+  <GL_FlowerWall.label>mur fleuri</GL_FlowerWall.label>
+  <GL_FlowerWall.description>Un mur décoré avec des fleurs.</GL_FlowerWall.description>
+  <GL_FlowerWall_Blueprint.label>mur fleuri (plan)</GL_FlowerWall_Blueprint.label>
+  <GL_FlowerWall_Frame.label>mur fleuri (construction)</GL_FlowerWall_Frame.label>
+  <GL_FlowerWall_Frame.description>Un mur décoré avec des fleurs.</GL_FlowerWall_Frame.description>
+
+
+  <!-- 올드스타일 문 -->
+
+  <RGK_DoorOld.label>porte antique</RGK_DoorOld.label>
+  <RGK_DoorOld.description>Sépare les pièces. Doit être actionné manuellement, ce qui ralenti les personnes.</RGK_DoorOld.description>
+  <RGK_DoorOld_Blueprint.label>porte antique (plan)</RGK_DoorOld_Blueprint.label>
+  <RGK_DoorOld_Frame.label>porte antique (construction)</RGK_DoorOld_Frame.label>
+  <RGK_DoorOld_Frame.description>Sépare les pièces. Doit être actionné manuellement, ce qui ralenti les personnes.</RGK_DoorOld_Frame.description>
+
+
+  <!-- 울타리문 -->
+
+  <RGK_Door.label>porte de clôture</RGK_Door.label>
+  <RGK_Door.description>Sépare les pièces. Doit être actionné manuellement, ce qui ralenti les personnes.</RGK_Door.description>
+  <RGK_Door_Blueprint.label>porte de clôture (plan)</RGK_Door_Blueprint.label>
+  <RGK_Door_Frame.label>porte de clôture (construction)</RGK_Door_Frame.label>
+  <RGK_Door_Frame.description>Sépare les pièces. Doit être actionné manuellement, ce qui ralenti les personnes.</RGK_Door_Frame.description>
+
+
+  <!-- 문틀 -->
+
+  <GL_DoorFrame.label>cadre de porte</GL_DoorFrame.label>
+  <GL_DoorFrame.description>Un cadre pour décorer une porte.</GL_DoorFrame.description>
+  <GL_DoorFrame_Blueprint.label>cadre de porte (plan)</GL_DoorFrame_Blueprint.label>
+  <GL_DoorFrame_Frame.label>cadre de porte (construction)</GL_DoorFrame_Frame.label>
+  <GL_DoorFrame_Frame.description>Un cadre pour décorer une porte.</GL_DoorFrame_Frame.description>
+
+
+  <!-- 19.03.17 바닥 경계석 -->
+
+  <GL_BoundaryWood.label>séparation (bois)</GL_BoundaryWood.label>
+  <GL_BoundaryWood.description>Une petite structure en bois pour délimiter une zone.</GL_BoundaryWood.description>
+  <GL_BoundaryWood_Blueprint.label>séparation (bois) (plan)</GL_BoundaryWood_Blueprint.label>
+  <GL_BoundaryWood_Frame.label>séparation (bois) (construction)</GL_BoundaryWood_Frame.label>
+  <GL_BoundaryWood_Frame.description>Une petite structure en bois pour délimiter une zone.</GL_BoundaryWood_Frame.description>
+
+  <GL_BoundaryStone.label>séparation (pierre)</GL_BoundaryStone.label>
+  <GL_BoundaryStone.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryStone.description>
+  <GL_BoundaryStone_Blueprint.label>séparation (pierre) (plan)</GL_BoundaryStone_Blueprint.label>
+  <GL_BoundaryStone_Frame.label>séparation (pierre) (construction)</GL_BoundaryStone_Frame.label>
+  <GL_BoundaryStone_Frame.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryStone_Frame.description>
+
+  <GL_BoundaryWoodCorner.label>séparation (bois) (angle)</GL_BoundaryWoodCorner.label>
+  <GL_BoundaryWoodCorner.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryWoodCorner.description>
+  <GL_BoundaryWoodCorner_Blueprint.label>séparation (bois) (angle) (plan)</GL_BoundaryWoodCorner_Blueprint.label>
+  <GL_BoundaryWoodCorner_Frame.label>séparation (bois) (angle) (construction)</GL_BoundaryWoodCorner_Frame.label>
+  <GL_BoundaryWoodCorner_Frame.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryWoodCorner_Frame.description>
+
+  <GL_BoundaryStoneCorner.label>séparation (pierre) (angle)</GL_BoundaryStoneCorner.label>
+  <GL_BoundaryStoneCorner.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryStoneCorner.description>
+  <GL_BoundaryStoneCorner_Blueprint.label>séparation (pierre) (angle) (plan)</GL_BoundaryStoneCorner_Blueprint.label>
+  <GL_BoundaryStoneCorner_Frame.label>séparation (pierre) (angle) (construction)</GL_BoundaryStoneCorner_Frame.label>
+  <GL_BoundaryStoneCorner_Frame.description>Une petite structure en pierre pour délimiter une zone.</GL_BoundaryStoneCorner_Frame.description>
+
+
+  <!-- window -->
+
+</LanguageData>

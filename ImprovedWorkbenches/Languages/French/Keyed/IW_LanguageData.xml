@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IW.ClickToDropTip>Transporte les produits dans une zone de stockage. Cliquer pour qu'ils soient déposés au sol.</IW.ClickToDropTip>
+  <IW.ClickToTakeToStockpileTip>Dépose les produits au sol. Cliquer pour qu'ils soient transportés dans une zone de stockage.</IW.ClickToTakeToStockpileTip>
+  <IW.CopyJustBillsTip>Copier cette tâche</IW.CopyJustBillsTip>
+  <IW.BreakLinkToOtherBillsTip>Rompre le lien avec les autres tâches</IW.BreakLinkToOtherBillsTip>
+  <IW.TakeToLabel>Apporter à</IW.TakeToLabel>
+  <IW.BestLabel>Meilleur</IW.BestLabel>
+  <IW.NullLabel>néant</IW.NullLabel>
+  <IW.RenameBillTip>Renommer la tâche (laisser le champ vide pour réinitialiser le nom)</IW.RenameBillTip>
+<!--
+  <IW.BillsLabel>Tâches</IW.BillsLabel>
+
+  <IW.NoColRestrictionLabel>Aucune restriction</IW.NoColRestrictionLabel>
+
+  <IW.RestrictToLabel>Restreindre à</IW.RestrictToLabel>
+
+  <IW.RestrictJobToSpecificColonistTip>Restreindre le travail à des colons spécifiques.</IW.RestrictJobToSpecificColonistTip>
+
+  <IW.CrafterWillToSpecificStockpileTip>L'artisan transportera le produit fini à la zone de stockage spécifiée.</IW.CrafterWillToSpecificStockpileTip>
+  <IW.CopyFilterButton>Copier les filtres</IW.CopyFilterButton>
+
+  <IW.CopyFilterTip>Copier les ingrédients et les paramètres de filtrage.</IW.CopyFilterTip>
+  <IW.PasteFilterButton>Coller les filtres</IW.PasteFilterButton>
+
+  <IW.RenameTip>Cliquer pour saisir une valeur avec le clavier</IW.RenameTip>
+  <IW.CountOnStockpilesText>Inclure toutes les zones</IW.CountOnStockpilesText>
+
+  <IW.CountInText>Comptabiliser dans</IW.CountInText>
+  <IW.WillCountTowardsTargetTip>Seuls les produits contenus dans la zone de stockage spécifiée seront comptabilisés.</IW.WillCountTowardsTargetTip>
+
+  <IW.CountedItemsFilter>Counted items filter:</IW.CountedItemsFilter>
+  <IW.HitPointsTip>Only items with given hitpoints range will count towards target</IW.HitPointsTip>
+
+  <IW.QualityTip>Only items of given quality range will count towards target</IW.QualityTip>
+
+  <IW.MatchInputIngredientsText>Match input ingredients</IW.MatchInputIngredientsText>
+
+  <IW.IngredientsTip>Only items made from ingredients in input ingredients filter (on rightmost column) will count towards target</IW.IngredientsTip>
+
+  <IW.CountCorpseClothesLabel>Comptabiliser les vêtements des morts</IW.CountCorpseClothesLabel>
+  <IW.CountCorpseClothesDesc>Comptabilise les vêtements des cadavres.</IW.CountCorpseClothesDesc>
+
+  <IW.CountInventoryLabel>Comptabiliser les objets des colons</IW.CountInventoryLabel>
+  <IW.CountInventoryDesc>Comptabilise les objets actuellement équipés, portés ou détenus par n'importe quel colon ou animal de la colonie.</IW.CountInventoryDesc>
+-->
+  <IW.CountAwayLabel>Inclure les absents</IW.CountAwayLabel>
+  <IW.CountAwayDesc>Comptabilise les objets des colons ou animaux envoyés dans une caravane, une capsule de transport, en caisson d'hypersommeil, ou indisponibles d'une manière générale.</IW.CountAwayDesc>
+
+  <IW.OutputFilterLabel>Objets additionnels</IW.OutputFilterLabel>
+
+  <IW.OutputFilterTitle>Comptabiliser aussi ces produits:</IW.OutputFilterTitle>
+
+  <IW.CountInstalledLabel>Comptabiliser les objets installés</IW.CountInstalledLabel>
+  <IW.CountInstalledDesc>Comptabilise aussi les objets installés comme structures.</IW.CountInstalledDesc>
+
+  <IW.OpenPreviousBillTip>Tâche précédente.</IW.OpenPreviousBillTip>
+
+  <IW.OpenNextBillTip>Tâche suivante.</IW.OpenNextBillTip>
+  <IW.DoUntilXText>Jusqu'à en posséder X</IW.DoUntilXText>
+
+  <IW.ChangeLinkedBillModeText>Utiliser l'onglet Détails pour modifier le mode d'une tâche liée</IW.ChangeLinkedBillModeText>
+
+  <IW.CopyAllLabel>Tout copier</IW.CopyAllLabel>
+  <IW.CopyAllTip>Copie toutes les tâches de cet atelier.</IW.CopyAllTip>
+
+  <IW.PasteAllLabel>Tout coller</IW.PasteAllLabel>
+  <IW.Paste>Coller</IW.Paste>
+  <IW.PasteAllTip>Ajoute les tâches copiées en tant que nouvelles tâches.</IW.PasteAllTip>
+
+  <IW.PasteLinkLabel>Coller et lier</IW.PasteLinkLabel>
+  <IW.PasteLinkTip>Ajoute les tâches copiées et effectue un lien vers les tâches d'origine. Tous les changements effectués seront répercutés sur les tâches liées.</IW.PasteLinkTip>
+
+  <IW.FoundOldBillText>Ancienne tâche trouvée</IW.FoundOldBillText>
+  <IW.MigratingToNewFormat>Migration vers le nouveau format.</IW.MigratingToNewFormat>
+
+  <IW.AutoOpenBillTabLabel>Ouvrir les tâches automatiquement</IW.AutoOpenBillTabLabel>
+  <IW.AutoOpenBillTabDesc>Quand un atelier (ou une zone de stockage) est sélectionné, ses tâches (ou ses paramètres de stockage) sont automatiquement affichées.</IW.AutoOpenBillTabDesc>
+
+  <IW.ShowItemCountInFilterLabel>Afficher le nombre d'objets dans le filtrage</IW.ShowItemCountInFilterLabel>
+  <IW.ShowItemCountInFilterDesc>Affiche le nombre d'objets dans la liste des ingrédients.</IW.ShowItemCountInFilterDesc>
+
+  <IW.EnableDragToReorder>Glisser pour ordonner les tâches</IW.EnableDragToReorder>
+  <IW.EnableDragToReorderDesc>Si vous constatez un conflit avec d'autres mods, désactivez cette option.</IW.EnableDragToReorderDesc>
+
+  <IW.PasteBillSettings>Coller tous les paramètres (autre que les produits utilisés) de la tâche copiées</IW.PasteBillSettings>
+
+  <IW.MirrorSuspendedStatus>Propager le statut aux liens</IW.MirrorSuspendedStatus>
+  <IW.MirrorSuspendedStatusDesc>Si activé, quand une tâche est suspendue ou reprise, toutes les tâches liées vont adopter le même statut. (Note: Modifier ce paramètre va resynchroniser toutes les tâches liées)</IW.MirrorSuspendedStatusDesc>
+
+  <IW.DropOnFloorByDefault>Déposer au sol par défaut</IW.DropOnFloorByDefault>
+  <IW.DropOnFloorByDefaultDesc>Les nouvelles tâches déposeront les produits au sol par défaut plutôt que dans la meilleure zone de stockage.</IW.DropOnFloorByDefaultDesc>
+
+  <IW.ShowExtraUIButtons>Afficher les boutons supplémentaires</IW.ShowExtraUIButtons>
+  <IW.ShowExtraUIButtonsDesc>Afficher les boutons qui permettent de modifier le montant cible ou la valeur de reprise dans le détail des tâches. Désactivez ce paramètres si vous posséder un mod ou un langage qui provoquent au mauvais positionnement de ces boutons.</IW.ShowExtraUIButtonsDesc>
+
+  <IW.CountOutsideStockpiles>Comptabiliser toutes les ressources</IW.CountOutsideStockpiles>
+  <IW.CountOutsideStockpilesDesc>Un bug dans le jeu de base empêche que les produits (la viande ou les médicaments, par exemple) soient comptabilisés lorsqu'ils se trouvent hors des zones de stockage. Activez cette option pour corriger ce problème, ou désactivez-la si vous possédez déjà un mod qui fait la même chose.</IW.CountOutsideStockpilesDesc>
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Apparel_FSFineShirt.label>belle chemise</Apparel_FSFineShirt.label>
+	<Apparel_FSFineShirt.description>Cosmétique.</Apparel_FSFineShirt.description>
+
+	<Apparel_FSFatigues.label>treillis militaire</Apparel_FSFatigues.label>
+	<Apparel_FSFatigues.description>Bonne protection.</Apparel_FSFatigues.description>
+
+	<Apparel_FSFurCoat.label>manteau de fourrure</Apparel_FSFurCoat.label>
+	<Apparel_FSFurCoat.description>Protège bien du froid.</Apparel_FSFurCoat.description>
+
+	<Apparel_FSDesertRobe.label>robe du désert</Apparel_FSDesertRobe.label>
+	<Apparel_FSDesertRobe.description>Protège du chaud.</Apparel_FSDesertRobe.description>
+
+	<Apparel_FSGardeningVest.label>gilet de jardinage</Apparel_FSGardeningVest.label>
+	<Apparel_FSGardeningVest.description>Pour jardiner.</Apparel_FSGardeningVest.description>
+
+	<Apparel_FSThermalPants.label>pantalon thermique</Apparel_FSThermalPants.label>
+	<Apparel_FSThermalPants.description>Protège du froid.</Apparel_FSThermalPants.description>
+
+	<Apparel_FSCargoShorts.label>short cargo</Apparel_FSCargoShorts.label>
+	<Apparel_FSCargoShorts.description>Sentez la douce brise d'été caresser vos jambes.</Apparel_FSCargoShorts.description>
+
+	<Apparel_FSOveralls.label>tenue</Apparel_FSOveralls.label>
+	<Apparel_FSOveralls.description>Tenue générique.</Apparel_FSOveralls.description>
+
+	<Apparel_FSFurHat.label>chapeau de fourrure</Apparel_FSFurHat.label>
+	<Apparel_FSFurHat.description>Protège la tête du froid.</Apparel_FSFurHat.description>
+
+	<Apparel_FSDesertWrap.label>cagoule du désert</Apparel_FSDesertWrap.label>
+	<Apparel_FSDesertWrap.description>Efficace contre le sable et la chaleur.</Apparel_FSDesertWrap.description>
+
+	<Apparel_FSChefJacket.label>veste de chef</Apparel_FSChefJacket.label>
+	<Apparel_FSChefJacket.description>Pour les as de la cuisine.</Apparel_FSChefJacket.description>
+
+	<Apparel_FSChefsHat.label>chapeau de chef</Apparel_FSChefsHat.label>
+	<Apparel_FSChefsHat.description>Pour les as de la cuisine.</Apparel_FSChefsHat.description>
+
+	<Apparel_FSScrubs.label>blouse médicale</Apparel_FSScrubs.label>
+	<Apparel_FSScrubs.description>Réservé au personnel médical.</Apparel_FSScrubs.description>
+
+	<Apparel_FSSurgicalMask.label>masque churirgical</Apparel_FSSurgicalMask.label>
+	<Apparel_FSSurgicalMask.description>Réservé au personnel médical.</Apparel_FSSurgicalMask.description>
+
+	<Apparel_FSConstructionJacket.label>veste de construction</Apparel_FSConstructionJacket.label>
+	<Apparel_FSConstructionJacket.description>Un vêtement que tout bâtisseur qui se respecte se doit de porter.</Apparel_FSConstructionJacket.description>
+
+	<Apparel_FSGasmask.label>masque à gaz</Apparel_FSGasmask.label>
+	<Apparel_FSGasmask.description>Pour respirer sans risques (ou presque) dans les environnements hostiles.</Apparel_FSGasmask.description>
+</LanguageData>

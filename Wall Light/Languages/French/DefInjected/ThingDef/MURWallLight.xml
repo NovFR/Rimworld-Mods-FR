@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Lighting_MURWallLight.label>vieille lampe murale</Lighting_MURWallLight.label>
+	<Lighting_MURWallLight.description>Une lampe conçue pour être accrochée à un mur.</Lighting_MURWallLight.description>
+
+	<Lighting_MURWallLightRed.label>vieille lampe murale (rouge)</Lighting_MURWallLightRed.label>
+	<Lighting_MURWallLightRed.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière rouge.</Lighting_MURWallLightRed.description>
+
+	<Lighting_MURWallLightGreen.label>vieille lampe murale (verte)</Lighting_MURWallLightGreen.label>
+	<Lighting_MURWallLightGreen.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière verte.</Lighting_MURWallLightGreen.description>
+
+	<Lighting_MURWallLightBlue.label>vieille lampe murale (bleue)</Lighting_MURWallLightBlue.label>
+	<Lighting_MURWallLightBlue.description>Une lampe conçue pour être accrochée à un mur. Émet une lumière bleue.</Lighting_MURWallLightBlue.description>
+
+</LanguageData>

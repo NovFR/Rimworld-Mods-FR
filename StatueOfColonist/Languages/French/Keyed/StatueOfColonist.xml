@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- StatueOfColonistMod -->
+	<StatueOfColonist.CanEditStatue>Autoriser l'édition des statues</StatueOfColonist.CanEditStatue>
+	<StatueOfColonist.ClothIconSize>Taille des icônes (boîte de sélection des vêtements)</StatueOfColonist.ClothIconSize>
+	<StatueOfColonist.ShowClothForDisplay>Icônes en rapport avec la corpulence (boîte de sélection des vêtements)</StatueOfColonist.ShowClothForDisplay>
+	<StatueOfColonist.ScaleOfCloth>Grossissement de la taille des vêtements en fonction de la corpulence</StatueOfColonist.ScaleOfCloth>
+	<StatueOfColonist.StatueFromPreset>Probabilité de créer une statue depuis une présection (%)</StatueOfColonist.StatueFromPreset>
+	<StatueOfColonist.StatueFromPresetDesc>Si la statue n'est pas choisie parmi une présection, ou s'il n'existe pas de préselection, elle sera créée à partir d'un membre de la colonie.</StatueOfColonist.StatueFromPresetDesc>
+	<StatueOfColonist.AutoNameStatue>Nommer automatiquement</StatueOfColonist.AutoNameStatue>
+	<!-- {0}:Label / {1}:StatueName / {2}:Quality -->
+	<StatueOfColonist.StatueNameFormat>{0} de "{1}" ({2})</StatueOfColonist.StatueNameFormat>
+	<StatueOfColonist.StatueNameFormatIfNoStatueName>{0} ({2})</StatueOfColonist.StatueNameFormatIfNoStatueName>
+
+	<StatueOfColonist.OffsetStatueBody>Décalage du corps de la statue</StatueOfColonist.OffsetStatueBody>
+	<StatueOfColonist.OffsetStatueBodyNormal>Petite</StatueOfColonist.OffsetStatueBodyNormal>
+	<StatueOfColonist.OffsetStatueBodyLarge>Grande</StatueOfColonist.OffsetStatueBodyLarge>
+	<StatueOfColonist.OffsetStatueBodyGrand>Monumentale</StatueOfColonist.OffsetStatueBodyGrand>
+
+
+	<!-- Building_StatueOfColonist -->
+	<StatueOfColonist.CommandDefaultLabel>Uniquement le chapeau</StatueOfColonist.CommandDefaultLabel>
+	<StatueOfColonist.CommandDefaultDesc>Affiche uniquement le chapeau.</StatueOfColonist.CommandDefaultDesc>
+	<StatueOfColonist.CommandHairOnlyLabel>Uniquement les cheveux</StatueOfColonist.CommandHairOnlyLabel>
+	<StatueOfColonist.CommandHairOnlyDesc>Affiche uniquement les cheveux.</StatueOfColonist.CommandHairOnlyDesc>
+	<StatueOfColonist.CommandHatAndHairLabel>Cheveux et chapeau</StatueOfColonist.CommandHatAndHairLabel>
+	<StatueOfColonist.CommandHatAndHairDesc>Affiche les cheveux et le chapeau, le cas échéant.</StatueOfColonist.CommandHatAndHairDesc>
+
+	<StatueOfColonist.CommandRenameLabel>Renommer</StatueOfColonist.CommandRenameLabel>
+	<StatueOfColonist.CommandRenameDesc>Modifier le nom de cette statue</StatueOfColonist.CommandRenameDesc>
+
+	<StatueOfColonist.CommandEditStatueLabel>Editer</StatueOfColonist.CommandEditStatueLabel>
+	<StatueOfColonist.CommandEditStatueDesc>Éditer l'apparence de cette statue</StatueOfColonist.CommandEditStatueDesc>
+
+
+	<!-- Window_EditStatue -->
+	<StatueOfColonist.WindowEditStatue>Édition d'apparence</StatueOfColonist.WindowEditStatue>
+
+	<StatueOfColonist.HairTypeOfStatue>Cheveux</StatueOfColonist.HairTypeOfStatue>
+	<StatueOfColonist.HeadTypeOfStatue>Tête</StatueOfColonist.HeadTypeOfStatue>
+	<StatueOfColonist.BodyTypeOfStatue>Corps</StatueOfColonist.BodyTypeOfStatue>
+
+	<StatueOfColonist.Apparel>Vêtements</StatueOfColonist.Apparel>
+	<StatueOfColonist.AddApparel>Ajouter</StatueOfColonist.AddApparel>
+	<StatueOfColonist.CopyFromColonist>Copier un colon...</StatueOfColonist.CopyFromColonist>
+	<StatueOfColonist.OpenPresetListDialog>Préselection</StatueOfColonist.OpenPresetListDialog>
+
+	<StatueOfColonist.RemoveApparel>Retirer le vêtement</StatueOfColonist.RemoveApparel>
+	<StatueOfColonist.ConfirmationCopyFromColonist>Voulez-vous réellement copier ce colon ?</StatueOfColonist.ConfirmationCopyFromColonist>
+
+	<StatueOfColonist.PostLabelDeadColonist> (Mort)</StatueOfColonist.PostLabelDeadColonist>
+
+	<!-- Dialog_AddOptionLister -->
+
+	<StatueOfColonist.DialogAddOptionListerTitle>Ajout d'un vêtement</StatueOfColonist.DialogAddOptionListerTitle>
+
+	<StatueOfColonist.LoadPreset>Charger</StatueOfColonist.LoadPreset>
+	<StatueOfColonist.DeleteThisPreset>Supprimer cette préselection.</StatueOfColonist.DeleteThisPreset>
+	<StatueOfColonist.SavePresetButton>Sauver</StatueOfColonist.SavePresetButton>
+
+	<StatueOfColonist.WeightInputFormDesc>Le poids de cette préselection lorsque une image de colon est choisie parmi les présélections.</StatueOfColonist.WeightInputFormDesc>
+
+	<StatueOfColonist.HairData>Cheveux:{0}</StatueOfColonist.HairData>
+	<StatueOfColonist.HairIsNotFound>HairDef "{0}" n'a pas été trouvé.</StatueOfColonist.HairIsNotFound>
+	<StatueOfColonist.HeadData>Tête:{0}</StatueOfColonist.HeadData>
+	<StatueOfColonist.BodyData>Corps:{0}</StatueOfColonist.BodyData>
+	<StatueOfColonist.ApparelData>-{0}</StatueOfColonist.ApparelData>
+	<StatueOfColonist.ApparelIsNotFound>ThingDef "{0}" n'a pas été trouvé.</StatueOfColonist.ApparelIsNotFound>
+
+</LanguageData>

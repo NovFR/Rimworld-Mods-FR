@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Recruiting -->
+	<RecruitAngerMultiple>{0} a offensé {1} par {2}x.</RecruitAngerMultiple>
+	<RecruitAngerOther>{3} a remarqué que {0} essaye de recruter {1} et s'en trouve offensé(e) ({2} chances).</RecruitAngerOther>
+	<RecruitFactionAnger>{0} de {1} est offensé(e) par le recrutement de {2} ({3}).</RecruitFactionAnger>
+	<RecruitFactionAngerLeaderless>Les membres de {0} n'entendront plus jamais parler de leur délégation ({2}).</RecruitFactionAngerLeaderless>
+	<LostGroupFactionAnger>{0} de {1} n'entendra plus jamais parler de sa délégation ({2}).</LostGroupFactionAnger>
+	<LostGroupFactionAngerLeaderless>Les membres de {0} sont offensés par le recrutement de ({1}).</LostGroupFactionAngerLeaderless>
+	<RecruitFactionPlease>{0} de {1} est ravi que vous le débarassiez de {2} !!! ({3}).</RecruitFactionPlease>
+	<RecruitFactionPleaseLeaderless>Les membres de {0} sont ravis que vous les débarassiez de {1} ({2}).</RecruitFactionPleaseLeaderless>
+	<MessageGuestRecruitSuccess>{0} a décidé de rejoindre notre colonie !</MessageGuestRecruitSuccess>
+	<MessageGuestForcedRecruit>{0} a rejoint votre colonie de force !</MessageGuestForcedRecruit>
+	<LetterLabelRecruitFactionChiefAnger>Le chef a été offensé</LetterLabelRecruitFactionChiefAnger>
+	<LetterLabelRecruitFactionAnger>La faction a été offensée</LetterLabelRecruitFactionAnger>
+	<LetterLabelRecruitFactionChiefPlease>Le chef est ravis</LetterLabelRecruitFactionChiefPlease>
+	<LetterLabelRecruitFactionPlease>La faction est ravie</LetterLabelRecruitFactionPlease>
+
+	<TextMote_CharmFail>Offensé(e)</TextMote_CharmFail>
+	<TextMote_CharmSuccess>Charmé(e)</TextMote_CharmSuccess>
+
+	<!-- Diplomacy --> 
+	<ImproveFactionPlease>{0} a amélioré les relations entre {4} et {1} de {2} ({3} chances).</ImproveFactionPlease>
+	<ImproveFactionAnger>{0} a dégradé les relations avec {1} de {2} ({3} chances).</ImproveFactionAnger>
+
+	<!-- Incident Results -->
+	<VisitorsLeavingGreat>Ils ont été impressionés par votre hospitalité ! (Score: {1})</VisitorsLeavingGreat>
+	<VisitorsLeavingGood>Ils ont vraiment apprécié leur séjour ! (Score: {1})</VisitorsLeavingGood>
+	<VisitorsLeavingNormal>Leur séjour était correct. (Score: {1})</VisitorsLeavingNormal>
+	<VisitorsLeavingBad>Ils attendaient un peu mieux de vous. (Score: {1})</VisitorsLeavingBad>
+	<VisitorsLeavingAwful>Ils ont été déçus de leur séjour. (Score: {1})</VisitorsLeavingAwful>
+	<VisitorSatisfied>{0} a apprécié {1}. {2} vous offre {3}.</VisitorSatisfied>
+	<VisitorVerySatisfied>{0} a vraiment apprécié {1}. {2} vous offre {3}.</VisitorVerySatisfied>
+	<MessageVisitorsLeavingCold>Les visiteurs de {0} repartent parce qu'il fait trop froid.</MessageVisitorsLeavingCold>
+	<VisitorsSentAway>Vous les avez renvoyés.</VisitorsSentAway>
+
+	<VisitorsReturnSoon>Ils vont rendront visite à nouveau dans quelques jours.</VisitorsReturnSoon>
+	<VisitorsReturnWhile>Ils vont rendront visite à nouveau d'ici quelques temps.</VisitorsReturnWhile>
+	<VisitorsReturnNotSoon>Ils ne sont pas prêts de revenir de sitôt.</VisitorsReturnNotSoon>
+	<VisitorsReturnNot>Ils en ont assez de vous.</VisitorsReturnNot>
+
+	<VisitorsArrivedTitle>Des visiteurs sont arrivés à {0} ({1})</VisitorsArrivedTitle>
+	<VisitorsArrivedDesc>Ils craignent d'entrer sur votre territoire pour les raisons suivantes:\n{1}\n\nSi vous les renvoyez, ils resteront dans la région et reviendront plus tard.</VisitorsArrivedDesc>
+	<VisitorsArrivedAccept>Accueillir</VisitorsArrivedAccept>
+	<VisitorsArrivedRefuse>Renvoyer</VisitorsArrivedRefuse>
+	<VisitorsArrivedRefuseUntilBeds>Refuser les visiteurs jusqu'à ce que des lits soient réservés</VisitorsArrivedRefuseUntilBeds>
+	<VisitorsArrivedReasonNoBeds>Il n'y a pas de lits réservés aux visiteurs</VisitorsArrivedReasonNoBeds>
+
+	<GuestBoughtItem>Un membre de {0} a acheté {ITEM_label} pour {1} argent.</GuestBoughtItem>
+
+	<!-- Communication -->
+	<InviteGuests>Proposer une visite</InviteGuests>
+	<GuestsCantBeHostile>ne peut pas être hostile</GuestsCantBeHostile>
+	<GuestsDontWantToCome>n'est pas intéressé par une visite de votre colonie</GuestsDontWantToCome>
+	<GuestsAlreadyComing>sont déjà en route est arrivent dans {0}</GuestsAlreadyComing>
+	<GuestsOnTheirWay>Ils envoient une délégation. Elle devrait arriver dans {0}.</GuestsOnTheirWay>
+
+	<!-- Pawn Tab -->
+	<AreaToStay>Zone d'hébergement</AreaToStay>
+	<AreaToBuy>Zone de commerce</AreaToBuy>
+	<AreaNoShopping>Aucune</AreaNoShopping>
+	<AreaToStayTooltip>Il s'agit de la zone dans laquelle les visiteurs peuvent dormir et se détendre.</AreaToStayTooltip>
+	<AreaToBuyTooltip>Les visiteurs peuvent acheter des objets dans cette zone. Doit être dans la zone d'hébergement.</AreaToBuyTooltip>
+	<ConvincingLeft>Négociation requise</ConvincingLeft>
+	<FriendsRequirement>Nombre de relations dans la colonie nécessaires pour recruter ({0}/{1})</FriendsRequirement>
+	<RecruitmentPenalty>Les relations avec la faction vont baisser en cas de recrutement.</RecruitmentPenalty>
+	<ImproveRelationship>Tenter de divertir</ImproveRelationship>
+	<LeaveAlone>Laisser</LeaveAlone>
+	<FactionGoodwill>Bonne volonté de la faction</FactionGoodwill>
+	<Hospitality>Niveau d'hospitalité</Hospitality>
+	<MakeDefault>Définir par défaut</MakeDefault>
+	<SendAway>Renvoyer</SendAway>
+	<SendAwayQuestion>Désirez-vous réellement renvoyer les visiteurs de {0} ?\nSi vous les renvoyez dès leur arrivée cela n'affectera pas vos relations.</SendAwayQuestion>
+	<ForceRecruit>Recruter</ForceRecruit>
+	<ForceRecruitQuestion>Vous pouvez recruter {PAWN_nameDef} immédiatement.\n\nParce qu'{PAWN_pronoun} n'a pas assez suffisamment de relations ici pour vous rejoindre de son plein gré, cela vous coûtera {0} points de relation avec la faction {PAWN_possessive}. Cela vous coûtera moins si {PAWN_pronoun} se fait davantage de relations.{1}\n\n\nVous désirez réellement forcer le recrutement ?</ForceRecruitQuestion>
+	<ForceRecruitWarning>\n\nLa faction deviendra immédiatement hostile.</ForceRecruitWarning>
+	<NotEnoughFriends>[PAWN_nameDef] n'apprécie pas suffisamment vos colons (opinion > {0}).</NotEnoughFriends>
+	<CanNowBeRecruited>[PAWN_nameDef] peut être recruté(e).</CanNowBeRecruited>
+	<IsATrader>[PAWN_nameDef] fait partie d'une caravane de marchands et n'est pas un visiteur.</IsATrader>
+	<ImproveTooltip>Vos diplomates vont tenter d'améliorer provisoirement l'humeur des visiteurs et leurs relations personnelles. De bons diplomates sont plus efficaces pour cette tâche. De mauvais diplomates risquent de froisser les visiteurs.</ImproveTooltip>
+	<TryRecruitTooltip>Vos diplomates vont tenter de mettre ce visiteur en relation avec vos colons. De bons diplomates sont plus efficaces pour cette tâche. De mauvais diplomates risquent de froisser les visiteurs. Quand un visiteur a suffisamment de relations au sein de votre colonie, il vous rejoint.</TryRecruitTooltip>
+	<MakeDefaultTooltip>Appliquer les zones et les paramètres aux visiteurs actuels et aux visiteurs futures.</MakeDefaultTooltip>
+	<ForceRecruitTooltip>Au lieu d'attendre que vos diplomates charment cet invité, vous pouvez le forcer à rester. Les relations avec la faction seront néanmoins fortement baissées.</ForceRecruitTooltip>
+	<SendAwayTooltip>Demander au groupe de cet invité de retourner chez eux.</SendAwayTooltip>
+
+	<!-- Infos -->
+	<StatsReport_MissingFriends>Relations manquantes</StatsReport_MissingFriends>
+
+	<!-- Bed -->
+	<ForGuestUse>Réservé aux visiteurs</ForGuestUse>
+	<GuestBedFormat>visiteur {0}</GuestBedFormat>
+	<CommandBedSetAsGuestLabel>Affecter aux visiteurs</CommandBedSetAsGuestLabel>
+	<CommandBedSetAsGuestDesc>Réserver ce lit pour les visiteurs.</CommandBedSetAsGuestDesc>
+
+	<!-- Options -->
+	<DisableLimits>Désactiver les limites</DisableLimits>
+	<DisableLimitsDesc>Lorsque cette option est activée, vous pouvez modifier les paramètres au-delà de ce qu'il est recommandé pour une utilisation loyale.</DisableLimitsDesc>
+	<DisableVisitors>Désactiver les visiteurs</DisableVisitors>
+	<DisableVisitorsDesc>Vous détestez les visiteurs et vous vous demandez bien pourquoi vous avez installé ce mod.</DisableVisitorsDesc>
+	<DisableGuestsHelping>Désactiver l'aide des visiteurs</DisableGuestsHelping>
+	<DisableGuestsHelpingDesc>Lorsque cette option est activée, les visiteurs ne feront aucun travail dans votre colonie.</DisableGuestsHelpingDesc>
+	<DisableArtAndCraft>Désactiver l'aide des visiteurs pour les arts et l'artisanat</DisableArtAndCraft>
+	<DisableArtAndCraftDesc>Lorsque cette option est activée, les visiteurs n'aideront pas pour les tâches artistiques et artisanales.</DisableArtAndCraftDesc>
+	<DisableOperations>Désactiver l'aide des visiteurs pour les opérations</DisableOperations>
+	<DisableOperationsDesc>Lorsque cette option est activée, les visiteurs n'effectueront pas d'opérations médicales.</DisableOperationsDesc>
+	<DisableGifts>Désactiver les cadeaux des visiteurs</DisableGifts>
+	<DisableGiftsDesc>Lorsque cette option est activée, les visiteurs ne laisseront pas des cadeaux derrière eux lorsqu'ils sont satisfaits.</DisableGiftsDesc>
+	<MinGuestWorkSkill>Compétences minimale pour travailler</MinGuestWorkSkill>
+	<MinGuestWorkSkillDesc>La compétences minimale pour qu'un visiteur participe aux travaux de la colonie. (recommandé: 7)</MinGuestWorkSkillDesc>
+	<MaxGuestGroupSize>Taille maximale des groupes de visiteurs</MaxGuestGroupSize>
+	<MaxGuestGroupSizeDesc>Le nombre maximum de personnes qu'un groupe de visiteurs peut contenir. (recommandé: 16)</MaxGuestGroupSizeDesc>
+	<DisableGuestsTab>Désactiver l'onglet Visiteurs</DisableGuestsTab>
+	<DisableGuestsTabDesc>Ne pas afficher l'onglet Visiteurs dans la barre des onglets principaux.</DisableGuestsTabDesc>
+	<EnableBuyNotification>Activer la notification d'achat</EnableBuyNotification>
+	<EnableBuyNotificationDesc>Recevoir un message lorsqu'un visiteur achète quelque chose. Le message peut être consulté dans l'historique.</EnableBuyNotificationDesc>
+
+</LanguageData>

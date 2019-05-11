@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RawDiamond.label>diamant brut</RawDiamond.label>
+	<RawDiamond.description>Un diamant naturel, simple.</RawDiamond.description>
+
+	<RawRuby.label>rubis brut</RawRuby.label>
+	<RawRuby.description>Un rubis naturel, simple.</RawRuby.description>
+
+	<RawSapphire.label>saphir brut</RawSapphire.label>
+	<RawSapphire.description>Un saphir naturel, simple.</RawSapphire.description>
+
+</LanguageData>

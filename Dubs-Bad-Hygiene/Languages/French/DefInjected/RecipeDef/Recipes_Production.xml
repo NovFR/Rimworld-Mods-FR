@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Make_ChemfuelFromFecalSludge.label>raffiner du chemfuel à partir de boue d'épuration</Make_ChemfuelFromFecalSludge.label>
+	<Make_ChemfuelFromFecalSludge.description>Fabriquer du chemfuel avec des boue d'épuration.</Make_ChemfuelFromFecalSludge.description>
+	<Make_ChemfuelFromFecalSludge.jobString>raffine du chemfuel à partir de boue d'épuration.</Make_ChemfuelFromFecalSludge.jobString>
+
+</LanguageData>

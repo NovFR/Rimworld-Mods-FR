@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<GuestBedCount.stages.no_guest_beds.label>pas de lits pour nous</GuestBedCount.stages.no_guest_beds.label>
+	<GuestBedCount.stages.no_guest_beds.description>Il n'y a aucun lit pour les visiteurs ici !</GuestBedCount.stages.no_guest_beds.description>
+
+	<GuestBedCount.stages.not_enough_guest_beds.label>pas assez de lits pour nous</GuestBedCount.stages.not_enough_guest_beds.label>
+	<GuestBedCount.stages.not_enough_guest_beds.description>Il n'y a pas assez de lits pour tous les visiteurs ici !</GuestBedCount.stages.not_enough_guest_beds.description>
+
+	<GuestBedCount.stages.enough_beds.label>assez de lits pour nous</GuestBedCount.stages.enough_beds.label>
+	<GuestBedCount.stages.enough_beds.description>Il y a suffisamment de lits pour tous les visiteurs.</GuestBedCount.stages.enough_beds.description>
+
+	<GuestBedCount.stages.lots_of_beds.label>tellement de lits</GuestBedCount.stages.lots_of_beds.label>
+	<GuestBedCount.stages.lots_of_beds.description>Wow, il y a tellement de lits pour les visiteurs ici !</GuestBedCount.stages.lots_of_beds.description>
+
+</LanguageData>

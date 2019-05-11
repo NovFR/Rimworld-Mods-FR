@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DiamondOre.label>minerai de diamant</DiamondOre.label>
+	<DiamondOre.description>une roche qui contient un peu de diamant.</DiamondOre.description>
+
+	<RubyStone.label>minerai de rubis</RubyStone.label>
+	<RubyStone.description>une roche qui contient un peu de rubis.</RubyStone.description>
+
+	<SapphireStone.label>minerai de saphir</SapphireStone.label>
+	<SapphireStone.description>une roche qui contient un peu de saphir.</SapphireStone.description>
+
+</LanguageData>

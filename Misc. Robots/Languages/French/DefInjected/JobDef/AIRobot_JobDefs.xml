@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIRobot_GoRecharge.reportString>Se dirige vers TargetA.</AIRobot_GoRecharge.reportString>
+	<AIRobot_GoDespawn.reportString>Se dirige vers TargetA.</AIRobot_GoDespawn.reportString>
+	<AIRobot_DeconstructDamagedRobot.reportString>Démonte TargetA.</AIRobot_DeconstructDamagedRobot.reportString>
+	<AIRobot_RepairDamagedRobot.reportString>Répare TargetA.</AIRobot_RepairDamagedRobot.reportString>
+	<AIRobot_RepairStationRobot.reportString>Se répare avec TargetA.</AIRobot_RepairStationRobot.reportString>
+
+</LanguageData>

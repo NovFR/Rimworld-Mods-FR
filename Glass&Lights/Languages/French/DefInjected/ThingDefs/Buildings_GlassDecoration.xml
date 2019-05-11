@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<GlassMonitorLarge.label>téléviseur plasma</GlassMonitorLarge.label>
+	<GlassMonitorLarge.description>Un téléviseur avec une définition d'image cristalline. Bien plus divertissant qu'un téléviseur classique.</GlassMonitorLarge.description>
+
+	<Blueprint_GlassMonitorLarge.label>téléviseur plasma (plan)</Blueprint_GlassMonitorLarge.label>
+	<Blueprint_Install_GlassMonitorLarge.label>téléviseur plasma (plan)</Blueprint_Install_GlassMonitorLarge.label>
+
+	<Frame_GlassMonitorLarge.label>téléviseur plasma (construction)</Frame_GlassMonitorLarge.label>
+	<Frame_GlassMonitorLarge.description>Un téléviseur avec une définition d'image cristalline. Bien plus divertissant qu'un téléviseur classique.</Frame_GlassMonitorLarge.description>
+</LanguageData>

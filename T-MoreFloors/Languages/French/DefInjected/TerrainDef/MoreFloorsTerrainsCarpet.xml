@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Normal cloth carpet - new colours -->
+
+	<CarpetOrange.label>tapis orange</CarpetOrange.label>
+	<CarpetOrange.description>Un tapis moelleux teinté d'une douce couleur orangée.</CarpetOrange.description>
+
+	<CarpetYellow.label>tapis jaune</CarpetYellow.label>
+	<CarpetYellow.description>Un tapis dont le jaune rappelle l'été.</CarpetYellow.description>
+
+	<CarpetTurquoise.label>tapis turquoise</CarpetTurquoise.label>
+	<CarpetTurquoise.description>Un tapis bleu-vert apaisant.</CarpetTurquoise.description>
+
+	<CarpetPurple.label>tapis violet</CarpetPurple.label>
+	<CarpetPurple.description>Un tapis teinté d'un violet majestueux.</CarpetPurple.description>
+
+	<CarpetWhite.label>tapis blanc</CarpetWhite.label>
+	<CarpetWhite.description>Un tapis sans teinte. Confortable sous les pieds mais se salit facilement.</CarpetWhite.description>
+
+	<CarpetBlack.label>tapis noir</CarpetBlack.label>
+	<CarpetBlack.description>Un tapis noir comme de l'ardoise.</CarpetBlack.description>
+
+	<!-- Checkered cloth carpet - all colours -->
+
+	<CheckCarpetRed.label>tapis à carreaux rouge</CheckCarpetRed.label>
+	<CheckCarpetRed.description>Un tapis à carreaux teinté d'une délicieuse couleur rosée.</CheckCarpetRed.description>
+
+	<CheckCarpetOrange.label>tapis à carreaux orange</CheckCarpetOrange.label>
+	<CheckCarpetOrange.description>Un tapis à carreaux teinté d'une douce couleur orangée.</CheckCarpetOrange.description>
+
+	<CheckCarpetYellow.label>tapis à carreaux jaune</CheckCarpetYellow.label>
+	<CheckCarpetYellow.description>Un tapis à carreaux dont le jaune rapelle l'été.</CheckCarpetYellow.description>
+
+	<CheckCarpetCream.label>tapis à carreaux crême</CheckCarpetCream.label>
+	<CheckCarpetCream.description>Un tapis à carreaux accueillant de couleur crême.</CheckCarpetCream.description>
+
+	<CheckCarpetGreen.label>tapis à carreaux vert</CheckCarpetGreen.label>
+	<CheckCarpetGreen.description>Un tapis à carreaux dont le vert rappelle un peu la nature.</CheckCarpetGreen.description>
+
+	<CheckCarpetTurquoise.label>tapis à carreaux turquoise</CheckCarpetTurquoise.label>
+	<CheckCarpetTurquoise.description>Un tapis à carreaux bleu-vert apaisant.</CheckCarpetTurquoise.description>
+
+	<CheckCarpetBlue.label>tapis à carreaux bleu</CheckCarpetBlue.label>
+	<CheckCarpetBlue.description>Un tapis à carreaux bleu qui repose les orteils.</CheckCarpetBlue.description>
+
+	<CheckCarpetPurple.label>tapis à carreaux violet</CheckCarpetPurple.label>
+	<CheckCarpetPurple.description>Un tapis à carreaux teinté d'un violet majestueux.</CheckCarpetPurple.description>
+
+	<CheckCarpetWhite.label>tapis à carreaux blanc</CheckCarpetWhite.label>
+	<CheckCarpetWhite.description>Un tapis à carreaux sans teinte. Confortable sous les pieds mais se salit facilement.</CheckCarpetWhite.description>
+
+	<CheckCarpetDark.label>tapis à carreaux sombre</CheckCarpetDark.label>
+	<CheckCarpetDark.description>Un tapis à carreaux teinté de blanc sombre, ou de s'agit-il plutôt de noir clair ?</CheckCarpetDark.description>
+
+	<CheckCarpetBlack.label>tapis à carreaux noir</CheckCarpetBlack.label>
+	<CheckCarpetBlack.description>Un tapis à carreaux noir comme de l'ardoise.</CheckCarpetBlack.description>
+
+	<!-- Wool carpet - all colours -->
+
+	<WoolCarpetRed.label>tapis en laine rouge</WoolCarpetRed.label>
+	<WoolCarpetRed.description>Un tapis en laine teinté d'une délicieuse couleur rosée.</WoolCarpetRed.description>
+
+	<WoolCarpetOrange.label>tapis en laine orange</WoolCarpetOrange.label>
+	<WoolCarpetOrange.description>Un tapis en laine teinté d'une douce couleur orangée.</WoolCarpetOrange.description>
+
+	<WoolCarpetYellow.label>tapis en laine jaune</WoolCarpetYellow.label>
+	<WoolCarpetYellow.description>Un tapis en laine dont le jaune rapelle l'été.</WoolCarpetYellow.description>
+
+	<WoolCarpetCream.label>tapis en laine crême</WoolCarpetCream.label>
+	<WoolCarpetCream.description>Un tapis en laine accueillant de couleur crême.</WoolCarpetCream.description>
+
+	<WoolCarpetGreen.label>tapis en laine vert</WoolCarpetGreen.label>
+	<WoolCarpetGreen.description>Un tapis en laine dont le vert rappelle un peu la nature.</WoolCarpetGreen.description>
+
+	<WoolCarpetTurquoise.label>tapis en laine turquoise</WoolCarpetTurquoise.label>
+	<WoolCarpetTurquoise.description>Un tapis en laine bleu-vert apaisant.</WoolCarpetTurquoise.description>
+
+	<WoolCarpetBlue.label>tapis en laine bleu</WoolCarpetBlue.label>
+	<WoolCarpetBlue.description>Un tapis en laine bleu qui repose les orteils.</WoolCarpetBlue.description>
+
+	<WoolCarpetPurple.label>tapis en laine violet</WoolCarpetPurple.label>
+	<WoolCarpetPurple.description>Un tapis en laine teinté d'un violet majestueux.</WoolCarpetPurple.description>
+
+	<WoolCarpetWhite.label>tapis en laine blanc</WoolCarpetWhite.label>
+	<WoolCarpetWhite.description>Un tapis en laine sans teinte. Confortable sous les pieds mais se salit facilement.</WoolCarpetWhite.description>
+
+	<WoolCarpetDark.label>tapis en laine sombre</WoolCarpetDark.label>
+	<WoolCarpetDark.description>Un tapis en laine teinté de blanc sombre, ou de s'agit-il plutôt de noir clair ?</WoolCarpetDark.description>
+
+	<WoolCarpetBlack.label>tapis en laine noir</WoolCarpetBlack.label>
+	<WoolCarpetBlack.description>Un tapis en laine noir comme de l'ardoise.</WoolCarpetBlack.description>
+
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Ceiling Lights -->
+
+	<CeilingLamp.label>plafonnier</CeilingLamp.label>
+	<CeilingLamp.description>Une lampe installée au plafond qui permet d'éclairer la zone.</CeilingLamp.description>
+	<Blueprint_CeilingLamp.label>plafonnier (plan)</Blueprint_CeilingLamp.label>
+	<Blueprint_Install_CeilingLamp.label>plafonnier (plan)</Blueprint_Install_CeilingLamp.label>
+	<Frame_CeilingLamp.label>plafonnier (construction)</Frame_CeilingLamp.label>
+	<Frame_CeilingLamp.description>Une lampe installée au plafond qui permet d'éclairer la zone.</Frame_CeilingLamp.description>
+
+	<CeilingLamp_Red.label>plafonnier (rouge)</CeilingLamp_Red.label>
+	<CeilingLamp_Red.description>Une lampe installée au plafond qui permet d'éclairer la zone en rouge.</CeilingLamp_Red.description>
+	<Blueprint_CeilingLamp_Red.label>plafonnier (rouge) (plan)</Blueprint_CeilingLamp_Red.label>
+	<Blueprint_Install_CeilingLamp_Red.label>plafonnier (rouge) (plan)</Blueprint_Install_CeilingLamp_Red.label>
+	<Frame_CeilingLamp_Red.label>plafonnier (rouge) (construction)</Frame_CeilingLamp_Red.label>
+	<Frame_CeilingLamp_Red.description>Une lampe installée au plafond qui permet d'éclairer la zone en rouge.</Frame_CeilingLamp_Red.description>
+
+	<CeilingLamp_Blue.label>plafonnier (bleu)</CeilingLamp_Blue.label>
+	<CeilingLamp_Blue.description>Une lampe installée au plafond qui permet d'éclairer la zone en bleu.</CeilingLamp_Blue.description>
+	<Blueprint_CeilingLamp_Blue.label>plafonnier (bleu) (plan)</Blueprint_CeilingLamp_Blue.label>
+	<Blueprint_Install_CeilingLamp_Blue.label>plafonnier (bleu) (plan)</Blueprint_Install_CeilingLamp_Blue.label>
+	<Frame_CeilingLamp_Blue.label>plafonnier (bleu) (construction)</Frame_CeilingLamp_Blue.label>
+	<Frame_CeilingLamp_Blue.description>Une lampe installée au plafond qui permet d'éclairer la zone en bleu.</Frame_CeilingLamp_Blue.description>
+
+	<CeilingLamp_Green.label>plafonnier (vert)</CeilingLamp_Green.label>
+	<CeilingLamp_Green.description>Une lampe installée au plafond qui permet d'éclairer la zone en vert.</CeilingLamp_Green.description>
+	<Blueprint_CeilingLamp_Green.label>plafonnier (vert) (plan)</Blueprint_CeilingLamp_Green.label>
+	<Blueprint_Install_CeilingLamp_Green.label>plafonnier (vert) (plan)</Blueprint_Install_CeilingLamp_Green.label>
+	<Frame_CeilingLamp_Green.label>plafonnier (vert) (construction)</Frame_CeilingLamp_Green.label>
+	<Frame_CeilingLamp_Green.description>Une lampe installée au plafond qui permet d'éclairer la zone en vert.</Frame_CeilingLamp_Green.description>
+
+	<CeilingLamp_Violet.label>plafonnier (violet)</CeilingLamp_Violet.label>
+	<CeilingLamp_Violet.description>Une lampe installée au plafond qui permet d'éclairer la zone en violet.</CeilingLamp_Violet.description>
+	<Blueprint_CeilingLamp_Violet.label>plafonnier (violet) (plan)</Blueprint_CeilingLamp_Violet.label>
+	<Blueprint_Install_CeilingLamp_Violet.label>plafonnier (violet) (plan)</Blueprint_Install_CeilingLamp_Violet.label>
+	<Frame_CeilingLamp_Violet.label>plafonnier (violet) (construction)</Frame_CeilingLamp_Violet.label>
+	<Frame_CeilingLamp_Violet.description>Une lampe installée au plafond qui permet d'éclairer la zone en violet.</Frame_CeilingLamp_Violet.description>
+
+	<CeilingLamp_Yellow.label>plafonnier (jaune)</CeilingLamp_Yellow.label>
+	<CeilingLamp_Yellow.description>Une lampe installée au plafond qui permet d'éclairer la zone en jaune.</CeilingLamp_Yellow.description>
+	<Blueprint_CeilingLamp_Yellow.label>plafonnier (jaune) (plan)</Blueprint_CeilingLamp_Yellow.label>
+	<Blueprint_Install_CeilingLamp_Yellow.label>plafonnier (jaune) (plan)</Blueprint_Install_CeilingLamp_Yellow.label>
+	<Frame_CeilingLamp_Yellow.label>plafonnier (jaune) (construction)</Frame_CeilingLamp_Yellow.label>
+	<Frame_CeilingLamp_Yellow.description>Une lampe installée au plafond qui permet d'éclairer la zone en jaune.</Frame_CeilingLamp_Yellow.description>
+
+	<CeilingLamp_Orange.label>plafonnier (orange)</CeilingLamp_Orange.label>
+	<CeilingLamp_Orange.description>Une lampe installée au plafond qui permet d'éclairer la zone en orange.</CeilingLamp_Orange.description>
+	<Blueprint_CeilingLamp_Orange.label>plafonnier (orange) (plan)</Blueprint_CeilingLamp_Orange.label>
+	<Blueprint_Install_CeilingLamp_Orange.label>plafonnier (orange) (plan)</Blueprint_Install_CeilingLamp_Orange.label>
+	<Frame_CeilingLamp_Orange.label>plafonnier (orange) (construction)</Frame_CeilingLamp_Orange.label>
+	<Frame_CeilingLamp_Orange.description>Une lampe installée au plafond qui permet d'éclairer la zone en orange.</Frame_CeilingLamp_Orange.description>
+
+	<!-- Special Lights -->
+
+	<WallLamp.label>néon mural</WallLamp.label>
+	<WallLamp.description>Un néon installé sur un mur.</WallLamp.description>
+	<Blueprint_WallLamp.label>néon mural (plan)</Blueprint_WallLamp.label>
+	<Blueprint_Install_WallLamp.label>néon mural (plan)</Blueprint_Install_WallLamp.label>
+	<Frame_WallLamp.label>néon mural (construction)</Frame_WallLamp.label>
+	<Frame_WallLamp.description>Un néon installé sur un mur.</Frame_WallLamp.description>
+
+	<OutdoorGroundLamp.label>lampe de sol d'extérieur</OutdoorGroundLamp.label>
+	<OutdoorGroundLamp.description>Une lampe qui ne peut s'installer qu'à l'extérieur. Autoalimentée.</OutdoorGroundLamp.description>
+	<Blueprint_OutdoorGroundLamp.label>lampe de sol d'extérieur (plan)</Blueprint_OutdoorGroundLamp.label>
+	<Blueprint_Install_OutdoorGroundLamp.label>lampe de sol d'extérieur (plan)</Blueprint_Install_OutdoorGroundLamp.label>
+	<Frame_OutdoorGroundLamp.label>lampe de sol d'extérieur (construction)</Frame_OutdoorGroundLamp.label>
+	<Frame_OutdoorGroundLamp.description>Une lampe qui ne peut s'installer qu'à l'extérieur. Autoalimentée.</Frame_OutdoorGroundLamp.description>
+</LanguageData>

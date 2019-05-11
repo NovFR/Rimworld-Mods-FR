@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <FALCHM.OverlayOpacity>Opacity of overlay</FALCHM.OverlayOpacity>
+  <FALCHM.OverlayOpacityDesc>Reduce this value to make the overlay more transparent.</FALCHM.OverlayOpacityDesc>
+
+  <FALCHM.UpdateDelay>Overlay update delay</FALCHM.UpdateDelay>
+  <FALCHM.UpdateDelayDesc>Number of ticks delay between overlay updates while game is unpaused. Lower numbers provide smoother updates, but may affect performance on low end machines.</FALCHM.UpdateDelayDesc>
+
+  <FALCHM.ShowOutDoorThermometer>Show outdoor thermometer</FALCHM.ShowOutDoorThermometer>
+  <FALCHM.ShowOutDoorThermometerDesc>Displays a widget in the top right hand corner of the UI showing current outdoor temperature.</FALCHM.ShowOutDoorThermometerDesc>
+
+  <FALCHM.ThermometerOpacity>Opacity of thermometer</FALCHM.ThermometerOpacity>
+  <FALCHM.ThermometerOpacityDesc>Reduce this value to make the outdoor temperature thermometer background color more transparent.</FALCHM.ThermometerOpacityDesc>
+
+  <FALCHM.ThermometerTooltip>Température extérieure. Cliquer pour afficher la carte des températures.\n\nCet indicateur peut être désactivé dans les options du mod.</FALCHM.ThermometerTooltip>
+  <FALCHM.ShowHeatMap>Afficher la carte des températures</FALCHM.ShowHeatMap>
+
+  <FALCHM.UseCustomeRange>Use custom range</FALCHM.UseCustomeRange>
+  <FALCHM.UseCustomeRangeDesc>When off, the colour gradient automatically maps to the human comfort range as defined by the game.
+
+When on, allows you to set a custom boundary for the blue and red ends of the gradient, in current temperature units</FALCHM.UseCustomeRangeDesc>
+
+  <FALCHM.CustomRangeMin>Custom range min</FALCHM.CustomRangeMin>
+  <FALCHM.CustomRangeMinDesc>Blue end of gradient. Temperatures below this will be blue. Use current temperature units</FALCHM.CustomRangeMinDesc>
+
+  <FALCHM.CustomRangeMax>Custom range max</FALCHM.CustomRangeMax>
+  <FALCHM.CustomRangeMaxDesc>Red end of gradient. Temperatures above this will be red. Use current temperature units</FALCHM.CustomRangeMaxDesc>
+
+  <FALCHM.ShowTemperatureOverRooms>Show temperature over rooms</FALCHM.ShowTemperatureOverRooms>
+  <FALCHM.ShowTemperatureOverRoomsDesc>When overlay is on, this will also display the room temperature over the centre of the room.</FALCHM.ShowTemperatureOverRoomsDesc>
+</LanguageData>

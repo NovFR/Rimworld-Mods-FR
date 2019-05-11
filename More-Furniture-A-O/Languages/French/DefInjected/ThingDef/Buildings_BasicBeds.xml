@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bed_StoneSlab.label>lit dalle</Bed_StoneSlab.label>
+	<Bed_StoneSlab.description>Un lit en pierre très inconfortable, c'est à peine mieux que de dormir par-terre.</Bed_StoneSlab.description>
+
+	<Bed_Simple.label>lit simple</Bed_Simple.label>
+	<Bed_Simple.description>Un oreiller reposant sur une structure en bois.</Bed_Simple.description>
+
+</LanguageData>

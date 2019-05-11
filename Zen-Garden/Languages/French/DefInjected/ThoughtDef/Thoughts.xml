@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_EnjoyedBeautifulScenery.stages.enjoyed_beautiful_scenery.label>a aimé admirer un joli paysage</ZEN_EnjoyedBeautifulScenery.stages.enjoyed_beautiful_scenery.label>
+	<ZEN_EnjoyedBeautifulScenery.stages.enjoyed_beautiful_scenery.description>J'ai passé un agréable moment à admirer un joli paysage.</ZEN_EnjoyedBeautifulScenery.stages.enjoyed_beautiful_scenery.description>
+	<ZEN_EnjoyedScenery.stages.enjoyed_scenery.label>a aimé admirer le paysage</ZEN_EnjoyedScenery.stages.enjoyed_scenery.label>
+	<ZEN_EnjoyedScenery.stages.enjoyed_scenery.description>J'ai passé un agréable moment à admirer le paysage.</ZEN_EnjoyedScenery.stages.enjoyed_scenery.description>
+	<ZEN_DidNotEnjoyScenery.stages.didnt_enjoy_scenery.label>n'a pas aimé admirer le paysage</ZEN_DidNotEnjoyScenery.stages.didnt_enjoy_scenery.label>
+	<ZEN_DidNotEnjoyScenery.stages.didnt_enjoy_scenery.description>Ce paysage m'a rappelé de trop mauvais souvenirs.</ZEN_DidNotEnjoyScenery.stages.didnt_enjoy_scenery.description>
+
+</LanguageData>

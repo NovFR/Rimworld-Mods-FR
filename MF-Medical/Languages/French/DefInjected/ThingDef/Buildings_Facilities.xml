@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Facility_VitalsCentre.label>grand moniteur de signes vitaux</Facility_VitalsCentre.label>
+	<Facility_VitalsCentre.description>Augmente la qualité de traitement des patients, la possibilité de réussite des actes chirurgicaux, et le développement de l'immunité. Doit être placé à proximité de lits médicaux ou de tables d'opération, car les lits normaux n'en bénéficieront pas.</Facility_VitalsCentre.description>
+
+	<Facility_IVDrip.label>intraveineuse</Facility_IVDrip.label>
+	<Facility_IVDrip.description>Une intraveineuse sur pied qui augmente la qualité de traitement des patients, le développement de l'immunité, et réduit les hémorragies. Doit être placé à proximité d'un lit médiacal ou d'une table d'opération, car les lits normaux n'en bénéficieront pas.</Facility_IVDrip.description>
+
+	<Facility_ResearchCounter.label>table de recherche</Facility_ResearchCounter.label>
+	<Facility_ResearchCounter.description>Une surface stérilisée permettant d'effectuer des recherches sensibles. Procure un léger bonus de recherche aux ateliers situés à proximité, et permet de maintenir la zone propre. Ce bonus peut s'accumuler jusqu'à 20 fois.</Facility_ResearchCounter.description>
+
+</LanguageData>

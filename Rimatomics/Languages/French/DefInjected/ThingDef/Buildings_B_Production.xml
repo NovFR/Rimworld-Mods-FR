@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NuclearResearchBench.label>poste de recherche Rimatomics</NuclearResearchBench.label>
+	<NuclearResearchBench.description>Contient les projets de recherche Rimatomics.</NuclearResearchBench.description>
+
+	<TableRimatomicsMachining.label>atelier Rimatomics</TableRimatomicsMachining.label>
+	<TableRimatomicsMachining.description>Un atelier permettant d'assembler les technologies Rimatomics.</TableRimatomicsMachining.description>
+
+	<ResearchReactor.label>réacteur expérimental</ResearchReactor.label>
+	<ResearchReactor.description>Un prototype de réacteur nucléaire.</ResearchReactor.description>
+
+	<WeaponsBench.label>poste de recherche en armement</WeaponsBench.label>
+	<WeaponsBench.description>Un poste de travail pour effectuer des recherches sur l'armement Rimatomics.</WeaponsBench.description>
+
+	<PlutoniumProcessor.label>installation de traitement du plutonium</PlutoniumProcessor.label>
+	<PlutoniumProcessor.description>Une machine servant à séparer le plutonium fissible du combustible nucléaire irradié.</PlutoniumProcessor.description>
+
+</LanguageData>

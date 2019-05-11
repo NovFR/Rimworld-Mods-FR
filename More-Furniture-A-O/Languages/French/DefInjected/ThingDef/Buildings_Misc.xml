@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Light_Streetlamp.label>lampadaire</Light_Streetlamp.label>
+	<Light_Streetlamp.description>Permet d'éclairer les zones extérieures. Idéal pour éclairer les chemins. Ne s'allume que la nuit.</Light_Streetlamp.description>
+
+	<Misc_FileCabinet.label>classeur</Misc_FileCabinet.label>
+	<Misc_FileCabinet.description>Un meuble permettant de ranger des documents.</Misc_FileCabinet.description>
+
+	<Stone_Campfire.label>feu de camp amélioré</Stone_Campfire.label>
+	<Stone_Campfire.description>Permet de cuisiner. Produit de la lumière et un peu de chaleur s'il est placé en intérieur. Consomme moins qu'un feu de camp ordinaire.</Stone_Campfire.description>
+
+	<Shelf_1x1c.label>étagère</Shelf_1x1c.label>
+	<Shelf_1x1c.description>Une petite étagère pour stocker des objets. Les objets à l'intérieur ne se détérioreront pas, même si l'étagère se trouve à l'extérieur.</Shelf_1x1c.description>
+
+	<Shelf_WeaponRack.label>casier d'armes</Shelf_WeaponRack.label>
+	<Shelf_WeaponRack.description>Un casier en métal pour y stocker des armes. Les armes à l'intérieur ne se détérioreront pas, même si le casier se trouve à l'extérieur.</Shelf_WeaponRack.description>
+
+	<Bin_Small.label>poubelle</Bin_Small.label>
+	<Bin_Small.description>Une petite poubelle qui permet de garder la zone propre. Réduit progressivement le niveau de saleté de la zone environnante.</Bin_Small.description>
+
+	<Bin_Large.label>grande poubelle</Bin_Large.label>
+	<Bin_Large.description>Une grande poubelle qui permet de garder la zone propre. Réduit progressivement le niveau de saleté de la zone environnante.</Bin_Large.description>
+
+</LanguageData>

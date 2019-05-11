@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Blowzy.label>[R] Débraillés</Blowzy.label>
+	<RHEmo.label>[R] Emo</RHEmo.label>
+	<Fauxhawk.label>[R] Faucon</Fauxhawk.label>
+	<WavyLong.label>[R] Longs et ondulés</WavyLong.label>
+	<StraightLong.label>[R] Longs et droits</StraightLong.label>
+	<StraightShort.label>[R] Courts et droits</StraightShort.label>
+	<Wavyshort.label>[R] Courts et ondulés</Wavyshort.label>
+	<Layered.label>[R] En couches</Layered.label>
+	<FemShort.label>[R] Courts</FemShort.label>
+	<RHPonytail.label>[R] Queue de cheval</RHPonytail.label>
+	<PunkKnot.label>[R] Noeud punk</PunkKnot.label>
+	<RMessy.label>[R] Désordonnés</RMessy.label>
+	<StrongCurly.label>[R] Frisés</StrongCurly.label>
+	<Vintage.label>[R] Vintage</Vintage.label>
+	<ClassyM.label>[R] Classes</ClassyM.label>
+	<ClassyF.label>[R] Tresse latérale</ClassyF.label>
+	<Hime.label>[R] Longs</Hime.label>
+	<Neat.label>[R] Soignés</Neat.label>
+	<BunchesRS.label>[R] Tressés</BunchesRS.label>
+	<BushyRS.label>[R] Broussailleux</BushyRS.label>
+	<RBraid.label>[R] Longue tresse</RBraid.label>
+	<Warrior.label>[R] Guerrier</Warrior.label>
+	<LittleBird.label>[R] Petit oiseau</LittleBird.label>
+	<Penguin.label>[R] Manchot</Penguin.label>
+	<Hasslefree.label>[R] Sans soucis</Hasslefree.label>
+	<SweptBack.label>[R] Ramenés en arrière</SweptBack.label>
+	<Breaker.label>[R] Broyeur</Breaker.label>
+	<YoungGod.label>[R] Jeune dieu</YoungGod.label>
+	<Veil.label>[R] Voile</Veil.label>
+	<HalfShaved.label>[R] A moitié chauve</HalfShaved.label>
+
+</LanguageData>

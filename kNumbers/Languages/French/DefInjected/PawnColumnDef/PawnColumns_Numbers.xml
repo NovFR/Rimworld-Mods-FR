@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Numbers_Age.label>Âge</Numbers_Age.label>
+	<Numbers_AnimalEggProgress.label>Ponte des œufs</Numbers_AnimalEggProgress.label>
+	<Numbers_Milkfullness.label>Montée de lait</Numbers_Milkfullness.label>
+	<Numbers_AnimalWoolGrowth.label>Croissance de la laine</Numbers_AnimalWoolGrowth.label>
+	<Numbers_Race.label>Race</Numbers_Race.label>
+	<Numbers_Backstory.label>Titre</Numbers_Backstory.label>
+	<Numbers_Equipment.label>Équipement</Numbers_Equipment.label>
+	<Numbers_Inventory.label>Inventaire</Numbers_Inventory.label>
+	<Numbers_JobCurrent.label>Occupation</Numbers_JobCurrent.label>
+	<Numbers_JobQueued.label>Occupation à venir</Numbers_JobQueued.label>
+	<Numbers_MentalState.label>État mental</Numbers_MentalState.label>
+	<Numbers_PrisonerInteraction.label>Prisonnier</Numbers_PrisonerInteraction.label>
+	<Numbers_PrisonerRecruitmentDifficulty.label>Difficulté de recrutement</Numbers_PrisonerRecruitmentDifficulty.label>
+	<Numbers_PrisonerResistance.label>Résistance restante</Numbers_PrisonerResistance.label>
+	<Numbers_Pain.label>Douleur</Numbers_Pain.label>
+	<Numbers_Bleedrate.label>Hémorragie</Numbers_Bleedrate.label>
+	<Numbers_NeedsTreatment.label>Traitement nécessaire</Numbers_NeedsTreatment.label>
+	<Numbers_Operations.label>Opérations</Numbers_Operations.label>
+	<Numbers_Forbidden.label>Interdiction</Numbers_Forbidden.label>
+	<Numbers_Inspiration.label>Inspiration</Numbers_Inspiration.label>
+	<Numbers_DiseaseProgress.label>Immunité aux maladies</Numbers_DiseaseProgress.label>
+	<Numbers_Wildness.label>État sauvage</Numbers_Wildness.label>
+	<Numbers_TameChance.label>Efficacité du domptage</Numbers_TameChance.label>
+	<Numbers_SelfTend.headerTip>Auto-soin</Numbers_SelfTend.headerTip>
+	<Numbers_HediffList.headerTip>État de santé</Numbers_HediffList.headerTip>
+
+</LanguageData>

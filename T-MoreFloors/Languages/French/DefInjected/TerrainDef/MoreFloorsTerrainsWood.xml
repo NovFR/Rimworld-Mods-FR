@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FloorWoodRustic.label>plancher en bois rustique</FloorWoodRustic.label>
+	<FloorWoodRustic.description>Un plancher en bois rustique, finement poli. Beau à regarder mais un peu long à construire.</FloorWoodRustic.description>
+
+	<FloorWoodWide.label>plancher large</FloorWoodWide.label>
+	<FloorWoodWide.description>Un plancher composé de planches larges et unies. Facile à consruire.</FloorWoodWide.description>
+
+	<FloorWoodLight.label>plancher en bois clair</FloorWoodLight.label>
+	<FloorWoodLight.description>Un plancher en bois poli de couleur clair. Agréable à regarder.</FloorWoodLight.description>
+
+	<FloorWoodMosaic.label>plancher en mosaïque</FloorWoodMosaic.label>
+	<FloorWoodMosaic.description>Un plancher en bois dont les planches sont disposées afin de former une mosaïque. Très beau mais nécessite beaucoup de bois et de travail.</FloorWoodMosaic.description>
+
+	<FloorWoodVertical.label>plancher en bois (vertical)</FloorWoodVertical.label>
+	<FloorWoodVertical.description>Un plancher en bois dont les planches ont été disposées verticalement.</FloorWoodVertical.description>
+
+	<FloorWoodBarn.label>plancher de grange</FloorWoodBarn.label>
+	<FloorWoodBarn.description>Un plancher conçu pour le sol d'une grange. Rapide à construire.</FloorWoodBarn.description>
+
+</LanguageData>

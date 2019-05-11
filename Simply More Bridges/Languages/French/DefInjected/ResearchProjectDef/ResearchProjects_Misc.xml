@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HeavyBridges.label>ponts solides</HeavyBridges.label>
+	<HeavyBridges.description>Vous apprend à construire des ponts capables de supporter n'importe quelle structure.</HeavyBridges.description>
+
+	<DeepWaterBridges.label>grands ponts</DeepWaterBridges.label>
+	<DeepWaterBridges.description>Vous apprend à construire des ponts pouvant être installés sur les eaux profondes.</DeepWaterBridges.description>
+
+</LanguageData>

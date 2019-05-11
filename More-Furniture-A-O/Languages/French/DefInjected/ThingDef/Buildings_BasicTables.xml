@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Table_1x1c.label>table (1x1)</Table_1x1c.label>
+	<Table_1x1c.description>Une petite table. Les gens s'en servent pour manger lorsqu'une chaise est placée en face.</Table_1x1c.description>
+
+	<Table_Counter.label>comptoire</Table_Counter.label>
+	<Table_Counter.description>Une surface qu'on trouve généralement dans les cuisines et les barres.</Table_Counter.description>
+
+</LanguageData>

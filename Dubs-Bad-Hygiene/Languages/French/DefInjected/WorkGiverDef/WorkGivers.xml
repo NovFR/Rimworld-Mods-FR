@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DoBillsBurnPit.label>brûler</DoBillsBurnPit.label>
+	<DoBillsBurnPit.verb>brûler</DoBillsBurnPit.verb>
+	<DoBillsBurnPit.gerund>brûle</DoBillsBurnPit.gerund>
+
+	<RemoveSewage.label>mettre les eaux usées en baril</RemoveSewage.label>
+	<RemoveSewage.verb>mettre les eaux usées en baril</RemoveSewage.verb>
+	<RemoveSewage.gerund>met les eaux usées en baril</RemoveSewage.gerund>
+
+	<UnloadWashing.label>décharger la machine à laver</UnloadWashing.label>
+	<UnloadWashing.verb>décharger la machine à laver</UnloadWashing.verb>
+	<UnloadWashing.gerund>décharge la machine à laver</UnloadWashing.gerund>
+
+	<LoadWashing.label>charger la machine à laver</LoadWashing.label>
+	<LoadWashing.verb>charger la machine</LoadWashing.verb>
+	<LoadWashing.gerund>charge la machine à laver</LoadWashing.gerund>
+
+	<UnloadComposter.label>prendre du compost</UnloadComposter.label>
+	<UnloadComposter.verb>prendre du compost</UnloadComposter.verb>
+	<UnloadComposter.gerund>prend du compost</UnloadComposter.gerund>
+
+	<FillComposter.label>remplir le composteur</FillComposter.label>
+	<FillComposter.verb>remplir le composteur</FillComposter.verb>
+	<FillComposter.gerund>remplis le composteur</FillComposter.gerund>
+
+	<emptySepticTank.label>vider la fosse sceptique</emptySepticTank.label>
+	<emptySepticTank.verb>vider la fosse sceptique</emptySepticTank.verb>
+	<emptySepticTank.gerund>vide la fosse sceptique</emptySepticTank.gerund>
+
+	<emptyLatrine.label>vider les latrines</emptyLatrine.label>
+	<emptyLatrine.verb>vider les latrines</emptyLatrine.verb>
+	<emptyLatrine.gerund>vide les latrines</emptyLatrine.gerund>
+
+	<ClearBlockage.label>déboucher</ClearBlockage.label>
+	<ClearBlockage.verb>déboucher</ClearBlockage.verb>
+	<ClearBlockage.gerund>débouche</ClearBlockage.gerund>
+
+	<DBHAdministerFluids.label>administrer un fluide</DBHAdministerFluids.label>
+	<DBHAdministerFluids.verb>administrer un fluide</DBHAdministerFluids.verb>
+	<DBHAdministerFluids.gerund>administre un fluide</DBHAdministerFluids.gerund>
+
+	<washPatient.label>laver le patient</washPatient.label>
+	<washPatient.verb>laver le patient</washPatient.verb>
+	<washPatient.gerund>lave le patient</washPatient.gerund>
+
+	<DocCleanBedpan.label>nettoyer la bassine</DocCleanBedpan.label>
+	<DocCleanBedpan.verb>nettoyer la bassine</DocCleanBedpan.verb>
+	<DocCleanBedpan.gerund>nettoie la bassine</DocCleanBedpan.gerund>
+
+	<cleanBedpan.label>nettoyer la bassine</cleanBedpan.label>
+	<cleanBedpan.verb>nettoyer la bassine</cleanBedpan.verb>
+	<cleanBedpan.gerund>nettoie la bassine</cleanBedpan.gerund>
+
+	<RefillTub.label>remplir</RefillTub.label>
+	<RefillTub.verb>remplir</RefillTub.verb>
+	<RefillTub.gerund>remplit</RefillTub.gerund>
+
+	<TipSewage.label>nettoyer les eaux usées</TipSewage.label>
+	<TipSewage.verb>nettoyer les eaux usées</TipSewage.verb>
+	<TipSewage.gerund>nettoie les eaux usées</TipSewage.gerund>
+
+</LanguageData>

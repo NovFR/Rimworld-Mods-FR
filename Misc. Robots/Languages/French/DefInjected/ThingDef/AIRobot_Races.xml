@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIRobot_Hauler.label>robot de transport</AIRobot_Hauler.label>
+	<AIRobot_Hauler.description>Un robot dont la seule fonction est de transport des choses.</AIRobot_Hauler.description>
+	<AIRobot_Hauler.tools.left_manipulator.label>manipulateur gauche</AIRobot_Hauler.tools.left_manipulator.label>
+	<AIRobot_Hauler.tools.right_manipulator.label>manipulateur droit</AIRobot_Hauler.tools.right_manipulator.label>
+	<AIRobot_Hauler.tools.head.label>tête</AIRobot_Hauler.tools.head.label>
+
+	<AIRobot_Cleaner.label>robot de nettoyage</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner.description>Un robot dont la seule fonction est de nettoyer.</AIRobot_Cleaner.description>
+	<AIRobot_Cleaner.tools.left_manipulator.label>manipulateur gauche</AIRobot_Cleaner.tools.left_manipulator.label>
+	<AIRobot_Cleaner.tools.right_manipulator.label>manipulateur droit</AIRobot_Cleaner.tools.right_manipulator.label>
+	<AIRobot_Cleaner.tools.head.label>tête</AIRobot_Cleaner.tools.head.label>
+
+</LanguageData>

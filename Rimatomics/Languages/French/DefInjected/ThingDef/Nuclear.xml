@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<turbineBlade.label>aubes de turbine</turbineBlade.label>
+	<turbineBlade.description>Utilisée dans la construction de générateurs.</turbineBlade.description>
+
+	<UraniumPellets.label>granulés d'uranium</UraniumPellets.label>
+	<UraniumPellets.description>Utilisés dans la construction d'assemblage de combustible.</UraniumPellets.description>
+
+	<Plutonium.label>plutonium</Plutonium.label>
+	<Plutonium.description>Peut être utilisé pour créer des armes nucléaires ou des assemblage de combustible MOX.</Plutonium.description>
+
+	<DepletedUraniumPellets.label>granulés d'uranium appauvri</DepletedUraniumPellets.label>
+	<DepletedUraniumPellets.description>Utilisés dans la construction d'assemblage de combustible MOX.</DepletedUraniumPellets.description>
+
+	<!-- NdT: "assemblage de combustible" est trop long dans la piscine de stockage -->
+	<FuelRods.label>assemblage</FuelRods.label>
+	<FuelRods.description>Un groupe de tiges remplies de granulés d'uranium, losqu'elles sont chargées dans le coeur d'un réacteur, elles génèrent de la chaleur qui est utilisée pour entraîner une turbine.</FuelRods.description>
+
+	<FuelRodsMOX.label>assemblage MOX</FuelRodsMOX.label>
+	<FuelRodsMOX.description>Un groupe de tiges remplies de granulés d'uranium, losqu'elles sont chargées dans le coeur d'un réacteur, elles génèrent de la chaleur qui est utilisée pour entraîner une turbine.</FuelRodsMOX.description>
+
+	<ChunkRadioactiveSlag.label>morceaux radioactifs</ChunkRadioactiveSlag.label>
+
+	<NuclearWaste.label>déchets nucléaires</NuclearWaste.label>
+	<NuclearWaste.description>Un barril de dechets nucléaires</NuclearWaste.description>
+
+</LanguageData>

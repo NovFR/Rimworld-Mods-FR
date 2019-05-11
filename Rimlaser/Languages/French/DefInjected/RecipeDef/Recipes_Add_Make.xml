@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Make_RimlaserPrism.label>fabriquer un prisme</Make_RimlaserPrism.label>
+	<Make_RimlaserPrism.description>Fabriquer un prisme, composant principal des armes laser.</Make_RimlaserPrism.description>
+	<Make_RimlaserPrism.jobString>Fabrique un prisme.</Make_RimlaserPrism.jobString>
+
+	<Make_Rimlaser_LaserRifle.label>fabriquer un fusil laser</Make_Rimlaser_LaserRifle.label>
+	<Make_Rimlaser_LaserRifle.description>Fabriquer un fusil laser.</Make_Rimlaser_LaserRifle.description>
+	<Make_Rimlaser_LaserRifle.jobString>Fabrique un fusil laser.</Make_Rimlaser_LaserRifle.jobString>
+
+	<Make_Rimlaser_LaserPistol.label>fabriquer un pistolet laser</Make_Rimlaser_LaserPistol.label>
+	<Make_Rimlaser_LaserPistol.description>Fabriquer un pistolet laser.</Make_Rimlaser_LaserPistol.description>
+	<Make_Rimlaser_LaserPistol.jobString>Fabrique un pistolet laser.</Make_Rimlaser_LaserPistol.jobString>
+
+	<Make_Rimlaser_LaserHeavy.label>fabriquer un pistolet laser lourd</Make_Rimlaser_LaserHeavy.label>
+	<Make_Rimlaser_LaserHeavy.description>Fabriquer un pistolet laser lourd.</Make_Rimlaser_LaserHeavy.description>
+	<Make_Rimlaser_LaserHeavy.jobString>Fabrique un pistolet laser lourd.</Make_Rimlaser_LaserHeavy.jobString>
+
+	<Make_Rimlaser_LaserIncendiary.label>fabriquer un fusil laser incendiaire</Make_Rimlaser_LaserIncendiary.label>
+	<Make_Rimlaser_LaserIncendiary.description>Fabriquer un fusil laser incendiaire.</Make_Rimlaser_LaserIncendiary.description>
+	<Make_Rimlaser_LaserIncendiary.jobString>Fabrique un laser incendiaire.</Make_Rimlaser_LaserIncendiary.jobString>
+
+	<Make_Rimlaser_LaserSniper.label>fabriquer un fusil sniper laser</Make_Rimlaser_LaserSniper.label>
+	<Make_Rimlaser_LaserSniper.description>Fabriquer un fusil sniper laser.</Make_Rimlaser_LaserSniper.description>
+	<Make_Rimlaser_LaserSniper.jobString>Fabrique un fusil sniper laser.</Make_Rimlaser_LaserSniper.jobString>
+
+	<Make_Rimlaser_LaserMinigun.label>fabriquer un minigun laser</Make_Rimlaser_LaserMinigun.label>
+	<Make_Rimlaser_LaserMinigun.description>Fabriquer un minigun laser.</Make_Rimlaser_LaserMinigun.description>
+	<Make_Rimlaser_LaserMinigun.jobString>Fabrique un minigun laser.</Make_Rimlaser_LaserMinigun.jobString>
+
+	<Make_Rimlaser_TeslaGun.label>fabriquer un fusil électrique</Make_Rimlaser_TeslaGun.label>
+	<Make_Rimlaser_TeslaGun.description>Fabriquer un fusil électrique.</Make_Rimlaser_TeslaGun.description>
+	<Make_Rimlaser_TeslaGun.jobString>Fabrique un fusil électrique.</Make_Rimlaser_TeslaGun.jobString>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SPSUsagi.label>[SPS] Usagi</SPSUsagi.label>
+	<SPSCurly.label>[SPS] Curly</SPSCurly.label>
+	<SPSFlora.label>[SPS] Flora</SPSFlora.label>
+	<SPSBeard.label>[SPS] Beard</SPSBeard.label>
+	<SPSLeon.label>[SPS] Léon</SPSLeon.label>
+	<SPSScot.label>[SPS] Scot</SPSScot.label>
+	<SPSViking.label>[SPS] Viking</SPSViking.label>
+	<SPSRasta.label>[SPS] Rasta</SPSRasta.label>
+	<SPSLei.label>[SPS] Lei</SPSLei.label>
+	<SPSBetty.label>[SPS] Betty</SPSBetty.label>
+	<SPSKat.label>[SPS] Kat</SPSKat.label>
+	<SPSLulu.label>[SPS] Lulu</SPSLulu.label>
+	<SPSOlga.label>[SPS] Olga</SPSOlga.label>
+	<SPSMomo.label>[SPS] Momo</SPSMomo.label>
+	<SPSAda.label>[SPS] Ada</SPSAda.label>
+	<SPSHeidi.label>[SPS] Heidi</SPSHeidi.label>
+	<SPSJay.label>[SPS] Jay</SPSJay.label>
+	<SPSFrat.label>[SPS] Frat</SPSFrat.label>
+	<SPSBrona.label>[SPS] Brona</SPSBrona.label>
+	<SPSTrogo.label>[SPS] Trogo</SPSTrogo.label>
+	<SPSHilda.label>[SPS] Hilda</SPSHilda.label>
+	<SPSSlick.label>[SPS] Slick</SPSSlick.label>
+	<SPSElsa.label>[SPS] Elsa</SPSElsa.label>
+	<SPSThor.label>[SPS] Thor</SPSThor.label>
+	<SPSGronn.label>[SPS] Gronn</SPSGronn.label>
+	<SPSAfro.label>[SPS] Afro</SPSAfro.label>
+	<SPSAryn.label>[SPS] Aryn</SPSAryn.label>
+	<SPSPaige.label>[SPS] Paige</SPSPaige.label>
+
+</LanguageData>

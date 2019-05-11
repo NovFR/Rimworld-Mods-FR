@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_GravelPathSandstone.label>chemin de graviers en grès</ZEN_GravelPathSandstone.label>
+	<ZEN_GravelPathGranite.label>chemin de graviers en granite</ZEN_GravelPathGranite.label>
+	<ZEN_GravelPathLimestone.label>chemin de graviers en calcair</ZEN_GravelPathLimestone.label>
+	<ZEN_GravelPathSlate.label>chemin de graviers en ardoise</ZEN_GravelPathSlate.label>
+	<ZEN_GravelPathMarble.label>chemin de graviers en marbre</ZEN_GravelPathMarble.label>
+
+</LanguageData>

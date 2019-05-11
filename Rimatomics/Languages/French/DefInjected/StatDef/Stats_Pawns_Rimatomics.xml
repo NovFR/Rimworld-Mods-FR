@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Radiation.label>sensibilité aux radiations</Radiation.label>
+	<Radiation.description>Impact des radiations sur le métabolisme de cette personne.</Radiation.description>
+
+	<CraftingResearchSpeed.label>vitesse de recherche des confections</CraftingResearchSpeed.label>
+	<CraftingResearchSpeed.description>Vitesse à laquelle cette personne effectue des recherches sur les confections.</CraftingResearchSpeed.description>
+
+	<ConstructionResearchSpeed.label>vitesse de recherche des constructions</ConstructionResearchSpeed.label>
+	<ConstructionResearchSpeed.description>Vitesse à laquelle cette personne effectue des recherches sur les constructions.</ConstructionResearchSpeed.description>
+
+</LanguageData>

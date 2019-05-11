@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ToiletStallDoor.label>porte des toilettes</ToiletStallDoor.label>
+	<ToiletStallDoor.description>Une porte qui protège l'intimité lors de l'utilisation des toilettes mais qui ne permet pas de délimiter une pièce ou de maintenir la chaleur.</ToiletStallDoor.description>
+
+	<PitLatrine.label>latrines</PitLatrine.label>
+	<PitLatrine.description>Des toilettes basiques qui doivent être vidées manuellement. Peuvent être reliée aux canalisations.</PitLatrine.description>
+
+	<PrimitiveWell.label>puits primitif</PrimitiveWell.label>
+	<PrimitiveWell.description>Donne accès aux eaux souterraines afin de remplir les canalisations.</PrimitiveWell.description>
+
+	<WashBucket.label>bassine</WashBucket.label>
+	<WashBucket.description>Une bassine basique permettant de faire sa toilette. Doit être régulièrement réapprovisionnée en eau fraîche. Peut aussi servir à se désaltérer si la soif est activée.</WashBucket.description>
+
+	<LitterBox.label>litière</LitterBox.label>
+	<LitterBox.description>Une petite boîte dans laquelle les animaux peuvent faire leurs besoins.</LitterBox.description>
+
+	<BurnPit.label>fosse à feu</BurnPit.label>
+	<BurnPit.description>Permet d'éliminer les déchets en les brûlant avec du bois. Peut aussi servir pour les cadavres. Les colons peuvent tomber malade s'ils restent trop longtemps à côté d'une fosse en fonctionnement.</BurnPit.description>
+
+	<Fountain.label>fontaine</Fountain.label>
+	<Fountain.description>Une fontaine d'eau servant à boire et à se laver.</Fountain.description>
+
+	<BasinStuff.label>évier</BasinStuff.label>
+	<BasinStuff.description>Un évier simple qui permet de se laver les mains après avoir été aux toilettes.</BasinStuff.description>
+
+	<KitchenSink.label>évier de cuisine</KitchenSink.label>
+	<KitchenSink.description>Améliore la propreté de la pièce.</KitchenSink.description>
+
+	<ToiletStuff.label>toilettes classiques</ToiletStuff.label>
+	<ToiletStuff.description>Un appareil sanitaire servant à faire ses besoins.</ToiletStuff.description>
+
+	<ToiletAdvStuff.label>toilettes intelligentes</ToiletAdvStuff.label>
+	<ToiletAdvStuff.description>Deux fois plus efficaces que des toilettes classiques, propose une expérience multi-fonction optimale grâce à son nettoyage automatique et sa désodorisation.</ToiletAdvStuff.description>
+
+	<BathtubStuff.label>baignoire</BathtubStuff.label>
+	<BathtubStuff.description>Long à utiliser, consomme beaucoup d'eau, mais très confortable. Peut être réchauffée par un feu de camp proche ou en étant reliée à un ballon d'eau chaude. Ne requiert pas de sortie des eaux usées.</BathtubStuff.description>
+
+	<ShowerStuff.label>douche</ShowerStuff.label>
+	<ShowerStuff.description>Douche simple, requiert de l'eau d'un chateau d'eau. Peut être réchauffée grâce à un ballon d'eau chaude. Ne requiert pas de sortie des eaux usées.</ShowerStuff.description>
+
+	<ShowerSimple.label>douche simple</ShowerSimple.label>
+	<ShowerSimple.description>Douche simple, requiert de l'eau d'un chateau d'eau. Peut être réchauffée grâce à un ballon d'eau chaude. Ne requiert pas de sortie des eaux usées.</ShowerSimple.description>
+
+	<ShowerAdvStuff.label>douche électrique</ShowerAdvStuff.label>
+	<ShowerAdvStuff.description>Comprend un pommeau de 110mm à 4 jets fonctionnant à l'électricité permettant de masser les muscles pour une relaxation maximale, chauffe l'eau à la demande et accélère la prise des douches.</ShowerAdvStuff.description>
+
+</LanguageData>

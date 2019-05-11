@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_Cherries.label>cerises</ZEN_Cherries.label>
+	<ZEN_Cherries.description>Douces et acidulées. Délicieuses à manger, même crues.</ZEN_Cherries.description>
+
+	<ZEN_Persimmon.label>kaki</ZEN_Persimmon.label>
+	<ZEN_Persimmon.description>Un fruit doux et sucré. Délicieux à manger, même cru.</ZEN_Persimmon.description>
+
+	<ZEN_Crabapples.label>pomme sauvage</ZEN_Crabapples.label>
+	<ZEN_Crabapples.description>Une petite variété de pomme. Très acides à moins d'être cuisinées.</ZEN_Crabapples.description>
+
+</LanguageData>

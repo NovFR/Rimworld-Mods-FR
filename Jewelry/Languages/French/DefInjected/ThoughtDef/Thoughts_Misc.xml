@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<WearingNecklace.stages.Wearing_necklace.label>porte un collier précieux</WearingNecklace.stages.Wearing_necklace.label>
+	<WearingNecklace.stages.Wearing_necklace.description>Je porte un collier en or, quel luxe !</WearingNecklace.stages.Wearing_necklace.description>
+
+	<WearingGoldBracelet.stages.Wearing_gold_bracelet.label>porte un bracelet en or</WearingGoldBracelet.stages.Wearing_gold_bracelet.label>
+	<WearingGoldBracelet.stages.Wearing_gold_bracelet.description>Je porte un bracelet en or, quel luxe !</WearingGoldBracelet.stages.Wearing_gold_bracelet.description>
+
+	<WearingGemsBracelet.stages.Wearing_gold_and_gems_bracelet.label>porte un bracelet précieux</WearingGemsBracelet.stages.Wearing_gold_and_gems_bracelet.label>
+	<WearingGemsBracelet.stages.Wearing_gold_and_gems_bracelet.description>Je porte un bracelet en or orné d'une gemme, quel luxe !</WearingGemsBracelet.stages.Wearing_gold_and_gems_bracelet.description>
+
+</LanguageData>

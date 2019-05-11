@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Glass.label>verre</Glass.label>
+	<Glass.description>Un matériau transparant très populaire malgré sa fragilité.</Glass.description>
+	<Glass.stuffProps.stuffAdjective>verre</Glass.stuffProps.stuffAdjective>
+
+	<ReinforcedGlass.label>verre renforcé</ReinforcedGlass.label>
+	<ReinforcedGlass.description>Un peu plus résistant que le verre traditionnel mais aussi plus difficile à produire.</ReinforcedGlass.description>
+	<ReinforcedGlass.stuffProps.stuffAdjective>verre renforcé</ReinforcedGlass.stuffProps.stuffAdjective>
+
+	<LargeCircularGlass.label>verre rond</LargeCircularGlass.label>
+	<LargeCircularGlass.description>Une pièce en verre ronde qui peut être utilisée pour les lampes ou les oeuvres artistiques.</LargeCircularGlass.description>
+	<LargeCircularGlass.stuffProps.stuffAdjective>verre</LargeCircularGlass.stuffProps.stuffAdjective>
+
+</LanguageData>

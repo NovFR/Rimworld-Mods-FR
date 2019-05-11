@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSimpleD.label>cuisiner 4 plats simples</CookMealSimpleD.label>
+  <CookMealSimpleD.description>Prépare un plat simple à partir d'un seul ingrédient.</CookMealSimpleD.description>
+  <CookMealSimpleD.jobString>cuisine un plat simple.</CookMealSimpleD.jobString>
+
+  <CookMealFineD.label>cuisiner 4 plats raffinés</CookMealFineD.label>
+  <CookMealFineD.description>Prépare un plat raffiné en combinant de la viande et des végétaux.</CookMealFineD.description>
+  <CookMealFineD.jobString>cuisine un plat raffiné.</CookMealFineD.jobString>
+
+  <CookMealLavishD.label>cuisiner 4 plats gastronomiques</CookMealLavishD.label>
+  <CookMealLavishD.description>Cuisine un plat gastronomique à partir de la viande et des végétaux. La majorité des ingrédients sont gaspillés.</CookMealLavishD.description>
+  <CookMealLavishD.jobString>cuisine un plat gastronomique.</CookMealLavishD.jobString>
+
+  <CookMealSurvivalD.label>cuisiner 4 rations de survie</CookMealSurvivalD.label>
+  <CookMealSurvivalD.description>Prépare une ration de survie à partir de la viande et des végétaux. La majorité des ingrédients sont gaspillés.</CookMealSurvivalD.description>
+  <CookMealSurvivalD.jobString>cuisine une ration de survie.</CookMealSurvivalD.jobString>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RemoveScar.label>retirer une cicatrice</RemoveScar.label>
+	<RemoveScar.description>Retirer une cicatrice.</RemoveScar.description>
+	<RemoveScar.jobString>Retire une cicatrice.</RemoveScar.jobString>
+
+	<RemoveScarBrain.label>soigner des dommages cérébraux</RemoveScarBrain.label>
+	<RemoveScarBrain.description>Soigner des dommages cérébraux.</RemoveScarBrain.description>
+	<RemoveScarBrain.jobString>Soigne des dommages cérébraux.</RemoveScarBrain.jobString>
+
+	<HealDementia.label>soigner une démence</HealDementia.label>
+	<HealDementia.description>Soigner une démence.</HealDementia.description>
+	<HealDementia.jobString>Soigne une démence.</HealDementia.jobString>
+	<HealDementia.successfullyRemovedHediffMessage>{0} a soigné la démence de {1} avec succès.</HealDementia.successfullyRemovedHediffMessage>
+
+	<HealAlzheimers.label>soigner Alzheimer</HealAlzheimers.label>
+	<HealAlzheimers.description>Soigner Alzheimer.</HealAlzheimers.description>
+	<HealAlzheimers.jobString>Soigne un patient atteint d'Alzheimer.</HealAlzheimers.jobString>
+	<HealAlzheimers.successfullyRemovedHediffMessage>{0} a soigné l'Alzheimer de {1} avec succès.</HealAlzheimers.successfullyRemovedHediffMessage>
+
+	<HealFrailty.label>soigner la fragilité</HealFrailty.label>
+	<HealFrailty.description>Soigner la fragilité.</HealFrailty.description>
+	<HealFrailty.jobString>Soigne une fragilité.</HealFrailty.jobString>
+	<HealFrailty.successfullyRemovedHediffMessage>{0} a soigné la fragilité de {1} avec succès.</HealFrailty.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Play_Roulette.reportString>joue à la roulette.</Play_Roulette.reportString>
+	<Play_Arcade.reportString>joue à un jeu d'arcade.</Play_Arcade.reportString>
+	<Play_Piano.reportString>joue du piano.</Play_Piano.reportString>
+	<Play_DartsBoard.reportString>joue aux flèchettes.</Play_DartsBoard.reportString>
+	<Play_PunchingBag.reportString>utilise le sac de boxe.</Play_PunchingBag.reportString>
+	<Play_ComputerIndustrial.reportString>utilise un vieil ordinateur.</Play_ComputerIndustrial.reportString>
+	<Play_ComputerModern.reportString>utilise un ordinateur moderne.</Play_ComputerModern.reportString>
+
+</LanguageData>

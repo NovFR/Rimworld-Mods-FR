@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ZEN_ScenicBench.label>banc</ZEN_ScenicBench.label>
+	<ZEN_ScenicBench.description>Un banc simple qui permet aux colons de se détendre et d'admirer le paysage.</ZEN_ScenicBench.description>
+
+	<ZEN_FlowerArch.label>arche fleurie</ZEN_FlowerArch.label>
+	<ZEN_FlowerArch.description>Une arche décorative idéale pour les mariages. Les vignes poussent lorsque la température le permet, et elles fleurissent au printemps et en été.</ZEN_FlowerArch.description>
+
+	<ZEN_Hedge.label>haie</ZEN_Hedge.label>
+	<ZEN_Hedge.description>Un arbuste artificiel pour délimiter les chemins ou les allées. N'empêche pas le mouvement.</ZEN_Hedge.description>
+
+	<ZEN_Fence.label>muret</ZEN_Fence.label>
+	<ZEN_Fence.description>Un petit mur servant à délimiter les chemins. Peut être enjambé.</ZEN_Fence.description>
+
+	<ZEN_BonboriFence.label>muret avec lanterne</ZEN_BonboriFence.label>
+	<ZEN_BonboriFence.description>Un petit mur servant à délimiter les chemins et surmonté d'une lanterne. Peut être enjambé. Nécessite d'être raccordé au réseau électrique.</ZEN_BonboriFence.description>
+
+	<ZEN_Tachidoro.label>lanterne sur un piédestal</ZEN_Tachidoro.label>
+	<ZEN_Tachidoro.description>Une lanterne posée sur un piédestal pour éclaire les zones extérieures. Nécessite d'être raccordé au réseau électrique.</ZEN_Tachidoro.description>
+
+	<ZEN_Andon.label>lampe d'intérieur</ZEN_Andon.label>
+	<ZEN_Andon.description>Une lampe faite de tissu avec un cadre en bois. Idéale pour éclairer les chambres. Nécessite d'être raccordé au réseau électrique.</ZEN_Andon.description>
+
+	<ZEN_StackedRocks.label>empilement de pierres</ZEN_StackedRocks.label>
+	<ZEN_StackedRocks.description>Des morceaux de pierres empilés les uns sur les autres. Propose une certaine vision de l'équilibre.</ZEN_StackedRocks.description>
+
+	<ZEN_LargeStackedRocks.label>grand empilement de pierres</ZEN_LargeStackedRocks.label>
+	<ZEN_LargeStackedRocks.description>De grands morceaux de pierres empilés les uns sur les autres. Propose une certaine vision de l'équilibre.</ZEN_LargeStackedRocks.description>
+
+	<ZEN_bpPillar.label>pilier</ZEN_bpPillar.label>
+	<ZEN_bpPillar.description>Un pilier orné, capable de soutenir un plafond.</ZEN_bpPillar.description>
+
+	<ZEN_SmallFountain.label>petite fontaine</ZEN_SmallFountain.label>
+	<ZEN_SmallFountain.description>Une petite fontaine décorative.</ZEN_SmallFountain.description>
+
+	<ZEN_LargeFountain.label>grande fontaine</ZEN_LargeFountain.label>
+	<ZEN_LargeFountain.description>Une grande fontaine décorative.</ZEN_LargeFountain.description>
+
+	<ZEN_BorderPath.label>chemin</ZEN_BorderPath.label>
+	<ZEN_BorderPath.description>Idéal pour créer une allée.</ZEN_BorderPath.description>
+
+	<ZEN_BorderPond.label>fontaine</ZEN_BorderPond.label>
+	<ZEN_BorderPond.description>Une petite zone remplie d'eau. Très relaxante.</ZEN_BorderPond.description>
+
+	<ZEN_GravelCurve.label>motif incurvé</ZEN_GravelCurve.label>
+	<ZEN_GravelCurve.description>Un motif dessiné dans du gavier ratissé.</ZEN_GravelCurve.description>
+
+	<ZEN_GravelHoriz.label>motif horizonal</ZEN_GravelHoriz.label>
+	<ZEN_GravelHoriz.description>Un motif dessiné dans du gravier ratissé.</ZEN_GravelHoriz.description>
+
+	<ZEN_GravelVert.label>motif vertical</ZEN_GravelVert.label>
+	<ZEN_GravelVert.description>Un motif dessiné dans du gravier ratissé.</ZEN_GravelVert.description>
+
+</LanguageData>

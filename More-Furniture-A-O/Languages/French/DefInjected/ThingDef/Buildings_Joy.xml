@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Radio_Industrial.label>vieille radio</Radio_Industrial.label>
+	<Radio_Industrial.description>Une relique d'un temps oublié, elle est capable de capter les ondes radios et de les réstituer sous forme de sons. Même ici, il existe de vieux émetteurs ou des stations isolées qui diffusent quelque chose.</Radio_Industrial.description>
+
+	<Radio_Spacer.label>radio longue-portée</Radio_Spacer.label>
+	<Radio_Spacer.description>Une radio de haute technologie capable de capter les signaux les plus faibles et de les réstituer avec une qualité cristalline.</Radio_Spacer.description>
+
+	<Joy_Arcade.label>borne d'arcade</Joy_Arcade.label>
+	<Joy_Arcade.description>Une grande cabine qui comporte un téléviseur et un contrôleur pour jouer à une liste de jeux pré-installés.</Joy_Arcade.description>
+
+	<Joy_InudstrialComputer.label>vieil ordinateur</Joy_InudstrialComputer.label>
+	<Joy_InudstrialComputer.description>Un ordinateur basé sur un concept ancien, peu fiable et sujet à de nombreuses défaillances. Procure un léger bonus en recherche après utilisation.</Joy_InudstrialComputer.description>
+
+	<Joy_ModernComputer.label>ordinateur moderne</Joy_ModernComputer.label>
+	<Joy_ModernComputer.description>Un ordinateur de haute technologie comprenant un écran LCD, offre de bonne performance et tombe rarement en panne. Procure un bonus en recherche après utilisation.</Joy_ModernComputer.description>
+
+	<Joy_Piano.label>piano</Joy_Piano.label>
+	<Joy_Piano.description>Un grand piano utilisable, agréable à écouter, c'est aussi un bon moyen d'améliorer ses compétences artistiques.</Joy_Piano.description>
+
+	<Joy_RouletteTable.label>roulette</Joy_RouletteTable.label>
+	<Joy_RouletteTable.description>Une table permettant de jouer à la roulette. Permet d'améliorer la compétence sociabilité.</Joy_RouletteTable.description>
+
+	<Joy_DartsBoard.label>flèchettes</Joy_DartsBoard.label>
+	<Joy_DartsBoard.description>Un jeu populaire impliquant de lancer des flèchettes sur une cible circulaire. Très relaxant et permet d'améliorer les compétences au tir.</Joy_DartsBoard.description>
+
+	<Joy_PunchingBag.label>sac de boxe</Joy_PunchingBag.label>
+	<Joy_PunchingBag.description>Un sac plein qui permet de se défouler. Permet d'améliorer ses compétences de mélée.</Joy_PunchingBag.description>
+
+</LanguageData>

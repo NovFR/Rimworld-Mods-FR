@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--Construction-->
+
+	<DesignatorRemovePlumbing>Démonter des tuyaux</DesignatorRemovePlumbing>
+	<DesignatorRemovePlumbingDesc>Désigner les sections de tuyaux à démonter.</DesignatorRemovePlumbingDesc>
+	<RemoveSewage>Retirer les eaux usées</RemoveSewage>
+	<RemoveSewageDesc>Retirer les eaux usées du sol et les placer dans des barils.</RemoveSewageDesc>
+	<RemovePlumbing>Retirer des canalisations</RemovePlumbing>
+	<RemoveAirCon>Retirer des conduits d'air conditionnée</RemoveAirCon>
+	<DesignatorPaintFixtures>Paindre les installations</DesignatorPaintFixtures>
+	<DesignatorPaintFixturesDesc>Peindre des radiateurs ou des installations de la salle de bain.</DesignatorPaintFixturesDesc>
+	<PaintFixtures>Peindre</PaintFixtures>
+	<StripPaint>Retirer</StripPaint>
+
+	<!--Warnings-->
+
+	<NotOwned>Accès restreint</NotOwned>
+	<GenderRestricted>{0} uniquement</GenderRestricted>
+	<PrisonersOnly>Prisonniers uniquement</PrisonersOnly>
+	<BlockedSewage>Sortie d'égouts bloquée</BlockedSewage>
+	<BlockedSewageDesc>Les eaux usées se sont accumulées autour du trou de drainage et bloquent la sortie.\n\nConstruire plus de sorties ou ajouter une fosse sceptique afin de faire tampon et réduire la pression sur les sorties d'égout.</BlockedSewageDesc>
+	<LowWaterTemp>Température de l'eau basse</LowWaterTemp>
+	<LowWaterTempDesc>La température de ce chateau d'eau est trop basse, les colons qui s'attendent à avoir de l'eau chaude risquent d'être agacés.\n\nAllumer les chauffe-eaux, augmenter la capacité de réchauffement ou ajouter un autre ballon d'eau chaude.</LowWaterTempDesc>
+	<WellNeedsWater>Doit être placé sur une case contenant de l'eau souterraine.</WellNeedsWater>
+	<AssigningRequiresRoom>Cette installation doit être à l'intérieur d'une pièce pour pouvoir la restreindre.</AssigningRequiresRoom>
+
+	<AssigningRequiresBladderNeed>L'assignation requiert des besoins naturels, {0} n'en a pas.</AssigningRequiresBladderNeed>
+
+	<NoCompostingMaterial>Pas de matériaux de compost</NoCompostingMaterial>
+	<Nowater>Pas de capacité en eau</Nowater>
+	<Nosewage>Pas de capacité en eaux usées</Nosewage>
+	<RequiresPlumbing>Requiert une canalisation</RequiresPlumbing>
+	<AccessRestricted>Accès restreint</AccessRestricted>
+
+	<TooHot>Trop chaud: x{0}</TooHot>
+	<InRain>Sous la pluie: x{0}</InRain>
+	<PhysicalActivity>Effort: x{0}</PhysicalActivity>
+	<FilthyRoom>Pièce: x{0}</FilthyRoom>
+	<TotalHygieneStat>Total: x{0}</TotalHygieneStat>
+	<DirtyHands>Mains salles - Risque de maladie</DirtyHands>
+	<Contaminated>Contaminé - Risque de maladie</Contaminated>
+
+	<LetterLabelBlockedDrain>Évacuation bouchée</LetterLabelBlockedDrain>
+	<LetterBlockedDrain>Une évacuation est bouchée, elle doit être nettoyée pour éliminer le blocage.</LetterBlockedDrain>
+
+	<ContaminationAlert>Eau contaminée</ContaminationAlert>
+	<ContaminationAlertDesc>Une source d'eau est tellement polluée qu'elle risque de contaminer vos chateaux d'eau.\n\nSources de la contamination:\n{0} \n\nVous devez retirer la source de la contamination, ou ajouter un purificateur d'eau qui nettoiera également l'eau contaminée des chateaux d'eau.</ContaminationAlertDesc>
+	<ContaminatiedTowerAlert>Chateau d'eau contaminé</ContaminatiedTowerAlert>
+	<ContaminatiedTowerAlertDesc>Un chateau d'eau a été pollué, cela pose un sérieux risque pour la santé de vos colons ! Drainez le chateaux d'eau, placez-le à un meilleur emplacement, ou construisez un purificateur d'eau.</ContaminatiedTowerAlertDesc>
+
+	<MessageHygieneDisease>{0} a contracté {1} à cause de l'eau sale et d'une mauvaise hygiène</MessageHygieneDisease>
+	<MessageWaterDisease>{0} a contracté {1} à cause de l'eau sale ou en raison de ses mains sales</MessageWaterDisease>
+
+	<!--Restrictions-->
+
+	<ChangeGenderRestriction>Modifie la restriction par sexe.</ChangeGenderRestriction>
+	<CommandFixtureSetAsMedicalLabel>Médical</CommandFixtureSetAsMedicalLabel>
+	<CommandFixtureSetAsMedicalDesc>Limiter cette installation aux patients.</CommandFixtureSetAsMedicalDesc>
+	<PatientsOnly>Patients uniquement</PatientsOnly>
+	<AttackHelicopter>Attack Helicopter ???</AttackHelicopter>
+	<Unisex>Unisexe</Unisex>
+	<ConnectFixturesToBed>Lier à un lit</ConnectFixturesToBed>
+	<ConnectFixturesToBedDesc>Connecte cette installation à un lit proche afin de lui attribuer le même propriétaire.</ConnectFixturesToBedDesc>
+	<CancelConnectFixturesToBed>Supprimer le lien</CancelConnectFixturesToBed>
+	<CancelConnectFixturesToBedDesc>Supprime le lien de l'installation avec un lit.</CancelConnectFixturesToBedDesc>
+
+	<!--Heating-->
+
+	<WaterTemp>Température de l'eau: {0}</WaterTemp>
+	<ConnectedHeatingCapacity>Chaleur connectée: {0} U ({1})</ConnectedHeatingCapacity>
+	<ConnectedCoolingCapacity>Fraicheur connectée: {0} U ({1})</ConnectedCoolingCapacity>
+	<HeatingUnits>Utilisation de chaleur: {0} U</HeatingUnits>
+	<CoolingUnits>Utilisation du refroidissement: {0} U</CoolingUnits>
+	<HeatingMode>Unités de chaleur/Puissance: {0} U / {1} W</HeatingMode>
+	<CoolingMode>Unités du refroidissement/Puissance: {0} U / {1} W</CoolingMode>
+	<CoolingEfficiencyGood>Efficacité: {0}</CoolingEfficiencyGood>
+	<CoolingEfficiencyBad>Efficacité: {0} Overheating</CoolingEfficiencyBad>
+	<TargetTemp>Température minimale: {0}</TargetTemp>
+	<LowerPower>Réduire</LowerPower>
+	<LowerPowerDesc>Réduit la puissance de l'appareil.</LowerPowerDesc>
+	<RaisePower>Augmenter</RaisePower>
+	<RaisePowerDesc>Augmente la puissance de l'appareil.</RaisePowerDesc>
+	<HotwaterCapacity>Capacité en eau chaude: {0}</HotwaterCapacity>
+	<OverrideThermostat>Pas de thermostat</OverrideThermostat>
+	<OverrideThermostatDesc>Force l'appareil à fonctionner continuellement.</OverrideThermostatDesc>
+	<MustPlaceFreezerWithFreeSpaces>Exhaust vents must be kept clear!</MustPlaceFreezerWithFreeSpaces>
+	<SolarEfficiencyBad>Efficacité: {0} Too cold</SolarEfficiencyBad>
+	<SolarEfficiencyGood>Efficacité: {0}</SolarEfficiencyGood>
+	<RadCurrentCap>Température du radiateur: {0}</RadCurrentCap>
+
+	<HotWaterTankUseThermostat>Contrôle thermostat</HotWaterTankUseThermostat>
+	<HotWaterTankUseThermostatDesc>Autorise ce ballon d'eau chaude à contrôler les chauffe-eaux connectés.</HotWaterTankUseThermostatDesc>
+
+	<!--Hygiene-->
+
+	<WashHands>Se laver les mains</WashHands>
+	<Wash>Se laver</Wash>
+	<UseToilet>Utiliser</UseToilet>
+	<SewageUsage>Utilisation = {0}</SewageUsage>
+	<MustBePlumbing>Doit être relié aux canalisations</MustBePlumbing>
+	<BlockedDrain>Évacuation bouchée</BlockedDrain>
+	<PlumbOrEmpty>Relier les latrines aux canalisations ou les vider</PlumbOrEmpty>
+	<WashingMachineSpinning>En cours...</WashingMachineSpinning>
+	<WashingMachineUnload>Vider maintenant</WashingMachineUnload>
+	<WashingMachineLoad>Chargement: {0}/{1}</WashingMachineLoad>
+	<NoDirtyClothes>Pas de vetements sales</NoDirtyClothes>
+	<WashingNoSpace>Pleine</WashingNoSpace>
+
+	<!--Water-->
+
+	<dbhDrink>Boire</dbhDrink>
+	<CommandDesignateOpenCloseValveLabel>Tourner la valve</CommandDesignateOpenCloseValveLabel>
+	<CommandDesignateOpenCloseValveDesc>Ouvre ou ferme la valve.</CommandDesignateOpenCloseValveDesc>
+	<ValveClosed>Valve fermée</ValveClosed>
+
+	<PumpCapacity>Capacité de pompage: {0} l/jour</PumpCapacity>
+	<GroundCapacity>Capacité du sol: {0} l/jour</GroundCapacity>
+	<PipedPumpCapacity>Quantité pompée/Capacité du sol: {0}/{1} l/jour ({2})</PipedPumpCapacity>
+
+	<WaterStorage>Eau stockée: {0} l</WaterStorage>
+	<TotalWaterStorage>Eau stockée dans les canalisations: {0} l</TotalWaterStorage>
+
+	<PollutionLevel>Niveau de pollution: {0}</PollutionLevel>
+
+	<CommandSprinkleDown>Abaisser le rayon</CommandSprinkleDown>
+	<CommandSprinkleUp>Augmenter le rayon</CommandSprinkleUp>
+	<UntreatedWater>Qualité: Non traitée - Risque de maladie faible</UntreatedWater>
+	<ContaminatedWater>Qualité: Contaminée ! - Risque de malade élevé !</ContaminatedWater>
+	<TreatedWater>Qualité: Traitée - Aucun risque de maladie</TreatedWater>
+
+	<DrainTank>Drainer</DrainTank>
+	<DrainTankDesc>Draine le réservoir et supprime la contamination.</DrainTankDesc>
+
+	<WaterValueOffset>Volume d'eau: {0} pour {1}L</WaterValueOffset>
+	<HyWater>Eau</HyWater>
+
+	<!--Sewage-->
+
+	<DrainSepticTank>Drainer</DrainSepticTank>
+	<DrainSepticTankDesc>Détermine le niveau à partir duquel les boues fécales doivent être vidées dans un baril, qui peut être déplacé, renversé au sol, brûlé, ou recyclé.</DrainSepticTankDesc>
+	<SewageProcessing>Traite: {0} l/j Retient: {1} l ({2})</SewageProcessing>
+	<DoNotDrainTank>Aucun drainage</DoNotDrainTank>
+	<DrainSepticTankAt>Drainer à {0}</DrainSepticTankAt>
+
+	<PitCapacity>Fosse: {0}</PitCapacity>
+	<PitFull>La fosse est pleine, elle doit être vidée maintenant !</PitFull>
+	<KickOver>Renverser</KickOver>
+	<KickOverDesc>Répendre le contenu du baril d'eaux usées sur le sol.</KickOverDesc>
+
+	<!--Composting-->
+
+	<ContainsCompost>Contient du compost {0}/{1}</ContainsCompost>
+	<ContainsFecalSludge>Continent des boues fécales {0}/{1}</ContainsFecalSludge>
+	<Composted>Composté</Composted>
+	<CompostingProgress>Progression du compost {0} ({1})</CompostingProgress>
+	<ComposterOutOfIdealTemperature>Composteur en dehors de l'intervalle de température idéal</ComposterOutOfIdealTemperature>
+	<IdealCompostingTemperature>Intervalle de température idéal</IdealCompostingTemperature>
+
+	<!--Mod Options-->
+
+	<QuitToMenuToChange>Revenir au menu principal pour modifier</QuitToMenuToChange>
+	<RimefellerLink>Lier Rimefeller</RimefellerLink>
+	<RimefellerLinkTip>Active l'utilisation d'eau pour les raffineries et les crackers dans Rimefeller.</RimefellerLinkTip>
+	<RimatomicsLink>Lier Rimatomics</RimatomicsLink>
+	<RimatomicsLinkTip>Active l'utilisation d'eau pour les tours de refroidissement de Rimatomics</RimatomicsLinkTip>
+	<OverrideNeedSettingsTip>Désactiver les besoins par corpulence, race, ou situations médicales.</OverrideNeedSettingsTip>
+	<OverrideNeedsSettings>Filtres des besoins</OverrideNeedsSettings>
+	<Disablebladderneed>Désactiver les besoins naturels</Disablebladderneed>
+	<Disablehygieneneed>Désactiver le besoin d'hygiène</Disablehygieneneed>
+	<DisableNeedsLabel>Besoins</DisableNeedsLabel>
+	<NeedCheckboxTip>Cocher pour activer</NeedCheckboxTip>
+	<PrisonersGetNeeds>Prisonniers</PrisonersGetNeeds>
+	<PrisonersGetNeedsTip>Détermine si les prisonniers ont des besoins.</PrisonersGetNeedsTip>
+	<HospitalityGuestsGetNeeds>Invités</HospitalityGuestsGetNeeds>
+	<HospitalityGuestsGetNeedsTip>Détermine si les invités ont des besoins.</HospitalityGuestsGetNeedsTip>
+	<PrivacyChecks>Besoin d'intimité</PrivacyChecks>
+	<PrivacyChecksTip>Les colons s'inquiètent de leur intimité quand ils se lavent ou vont aux toilettes.</PrivacyChecksTip>
+	<CoolingEfficiency>Variation du refroidissement</CoolingEfficiency>
+	<CoolingEfficiencyTip>Détermine si les hautes températures doivent affecter le refroidissement comme pour les climatiseurs standards.</CoolingEfficiencyTip>
+
+	<DisableNeeds>Tous les besoins</DisableNeeds>
+	<DisableNeedsTip>Désactive entièrement les besoins, supplante tous les autres paramètres.</DisableNeedsTip>
+
+	<Experimentalfeatures>Fonctionnalités expérimentales</Experimentalfeatures>
+	<PetsGetBladder>Besoins des animaux domestiques</PetsGetBladder>
+	<PetsGetBladderTip>Détermine si les animaux domestiques ont des besoins naturels.</PetsGetBladderTip>
+	<WildAnimalsGetBladder>Besoins des animaux sauvages</WildAnimalsGetBladder>
+	<WildAnimalsGetBladderTip>Détermine si les animaux sauvages ont des besoins naturels.</WildAnimalsGetBladderTip>
+	<ThirstNeed>Soif</ThirstNeed>
+	<ThirstNeedTip>Active la soif sur tous les colons qui peuvent avoir des besoins naturels.</ThirstNeedTip>
+	<FertilizerVisible>Fertilisant visible</FertilizerVisible>
+	<FertilizerVisibleTip>Détermine si la grille du fertilisant doit être visible.</FertilizerVisibleTip>
+	<AllowNonHuman>Colons non humains</AllowNonHuman>
+	<AllowNonHumanTip>Autorise les besoins pour les colons non humains, vous pouvez désactiver des espèces spécifiques dans les filtres.</AllowNonHumanTip>
+	<StripWhileWashing>Retrait des vetements</StripWhileWashing>
+	<StripWhileWashingTip>Les colons retirent leurs vetements lorsqu'ils se lavent. A désactiver en cas de conflit avec d'autres mods.</StripWhileWashingTip>
+
+	<GetPaintShop>Obtenir Dub's Paint Shop</GetPaintShop>
+
+</LanguageData>

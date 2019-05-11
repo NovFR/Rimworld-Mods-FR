@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GL_TreeA.label>Arbre fleuri</GL_TreeA.label>
+  <GL_TreeA.description>Un arbre cultivé produisant des fleurs magnifiques.</GL_TreeA.description>
+
+  <GL_TreeB.label>Arbre étincelant</GL_TreeB.label>
+  <GL_TreeB.description>Un arbre cultivé produisant des fleurs qui scintillent dans la nuit.</GL_TreeB.description>
+
+</LanguageData>

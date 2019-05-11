@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DefPos_basic_label>Position défensive</DefPos_basic_label>
+	<DefPos_basic_desc>Envoyer la sélection vers sa position défensive
+
+&lt;b&gt;Maintenir Maj&lt;/b&gt; pour définir la position.
+&lt;b&gt;Maintenir Alt&lt;/b&gt; pour basculer en mode avancé.</DefPos_basic_desc>
+	<DefPos_advanced_label>Positions</DefPos_advanced_label>
+	<DefPos_advanced_desc>Envoyer la sélection vers la position défensive {0}.
+
+&lt;b&gt;Maintenir Maj&lt;/b&gt; pour définir la position.
+&lt;b&gt;Maintenir Ctrl&lt;/b&gt; pour supprimer la position.
+&lt;b&gt;Maintenir Alt&lt;/b&gt; pour basculer en mode simplifié.</DefPos_advanced_desc>
+
+	<!-- button messages -->
+	<DefPos_msg_noposition>Aucune position défensive n'est définie. Maintenez Maj et cliquez sur le bouton pour la définir.</DefPos_msg_noposition>
+	<DefPos_msg_noposition_partial>Ces colons n'ont pas de position défensive: {0}</DefPos_msg_noposition_partial>
+	<DefPos_msg_basicSet>Position défensive définie pour {0} colons.</DefPos_msg_basicSet>
+	<DefPos_msg_advancedSet>Position défensive {0} définie pour {1} colons.</DefPos_msg_advancedSet>
+	<DefPos_msg_basicCleared>Position défensive supprimée pour {0} colons.</DefPos_msg_basicCleared>
+	<DefPos_msg_advancedCleared>Position défensive {0} supprimée pour {1} colons.</DefPos_msg_advancedCleared>
+	<DefPos_msg_clearFailed>Aucun des colons sélectionnés n'a de position défensive à supprimer.</DefPos_msg_clearFailed>
+
+	<!-- keyboard shortcut messages -->
+	<DefPos_msg_squadEmpty>Aucun colon n'est assigné à l'équipe {0}. Sélectionnez des colons, puis maintenez Ctrl et cliquez sur la touche pour les assigner.</DefPos_msg_squadEmpty>
+	<DefPos_msg_squadCleared>Aucun colon sélectionné, l'équipe {0} est dissoute.</DefPos_msg_squadCleared>
+	<DefPos_msg_squadAssigned>{0} colons assignés à l'équipe {1}.</DefPos_msg_squadAssigned>
+	<DefPos_msg_selectedAll>Tous les colons ont été sélectionnés.</DefPos_msg_selectedAll>
+	<DefPos_msg_sentAllSlot>{0} colons ont été envoyés à la position défensive {1}.</DefPos_msg_sentAllSlot>
+	<DefPos_msg_nopositionAllSlot>Aucun des colons n'a de position défensive définie dans l'emplacement {0}.</DefPos_msg_nopositionAllSlot>
+	<DefPos_msg_undraftedAll>{0} colons ont été démobilisés.</DefPos_msg_undraftedAll>
+	<DefPos_msg_nooneDrafted>Tous les colons ont été démobilisés.</DefPos_msg_nooneDrafted>
+
+	<setting_slotHotkeyMode_label>Mode du raccourci</setting_slotHotkeyMode_label>
+	<setting_slotHotkeyMode_desc>Détermine le comportement du raccourci clavier pour le mode avancé:
+	
+&lt;b&gt;Premier emplacement uniquement:&lt;/b&gt; active toujours le premier emplacement.
+
+&lt;b&gt;Dernier emplacement utilisé:&lt;/b&gt; active le dernier emplacement sélectionné.
+
+&lt;b&gt;Pressions successives:&lt;/b&gt; appuyer sur la touche 1 à 4 fois pour activer l'emplacement correspondant.</setting_slotHotkeyMode_desc>
+	<setting_slotHotkeyMode_FirstSlotOnly>Premier emplacement uniquement</setting_slotHotkeyMode_FirstSlotOnly>
+	<setting_slotHotkeyMode_LastUsedSlot>Dernier emplacement utilisé</setting_slotHotkeyMode_LastUsedSlot>
+	<setting_slotHotkeyMode_MultiPress>Pressions successives</setting_slotHotkeyMode_MultiPress>
+
+</LanguageData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Square slab flooring -->
+
+	<FloorStoneSlabsSandstone.label>dalle de pierre (grès)</FloorStoneSlabsSandstone.label>
+	<FloorStoneSlabsSandstone.description>Une dalle de pierre aux contours à peines visibles. Facile à construire et fonctionnel.</FloorStoneSlabsSandstone.description>
+
+	<FloorStoneSlabsGranite.label>dalle de pierre (granite)</FloorStoneSlabsGranite.label>
+	<FloorStoneSlabsGranite.description>Une dalle de pierre aux contours à peines visibles. Facile à construire et fonctionnel.</FloorStoneSlabsGranite.description>
+
+	<FloorStoneSlabsLimestone.label>dalle de pierre (calcaire)</FloorStoneSlabsLimestone.label>
+	<FloorStoneSlabsLimestone.description>Une dalle de pierre aux contours à peines visibles. Facile à construire et fonctionnel.</FloorStoneSlabsLimestone.description>
+
+	<FloorStoneSlabsSlate.label>dalle de pierre (ardoise)</FloorStoneSlabsSlate.label>
+	<FloorStoneSlabsSlate.description>Une dalle de pierre aux contours à peines visibles. Facile à construire et fonctionnel.</FloorStoneSlabsSlate.description>
+
+	<FloorStoneSlabsMarble.label>dalle de pierre (marbre)</FloorStoneSlabsMarble.label>
+	<FloorStoneSlabsMarble.description>Une dalle de pierre aux contours à peines visibles. Facile à construire et fonctionnel.</FloorStoneSlabsMarble.description>
+
+	<!-- Rough stone flooring -->
+
+	<FloorStoneRoughSandstone.label>carrelage rugueux (grès)</FloorStoneRoughSandstone.label>
+	<FloorStoneRoughSandstone.description>Un sol rugueux fait avec très peu de pierre. Les ressources ne sont pas récupérées lorsqu'il est détruit.</FloorStoneRoughSandstone.description>
+
+	<FloorStoneRoughGranite.label>carrelage rugueux (granite)</FloorStoneRoughGranite.label>
+	<FloorStoneRoughGranite.description>Un sol rugueux fait avec très peu de pierre. Les ressources ne sont pas récupérées lorsqu'il est détruit.</FloorStoneRoughGranite.description>
+
+	<FloorStoneRoughLimestone.label>carrelage rugueux (calcaire)</FloorStoneRoughLimestone.label>
+	<FloorStoneRoughLimestone.description>Un sol rugueux fait avec très peu de pierre. Les ressources ne sont pas récupérées lorsqu'il est détruit.</FloorStoneRoughLimestone.description>
+
+	<FloorStoneRoughSlate.label>carrelage rugueux (ardoise)</FloorStoneRoughSlate.label>
+	<FloorStoneRoughSlate.description>Un sol rugueux fait avec très peu de pierre. Les ressources ne sont pas récupérées lorsqu'il est détruit.</FloorStoneRoughSlate.description>
+
+	<FloorStoneRoughMarble.label>carrelage rugueux (marbre)</FloorStoneRoughMarble.label>
+	<FloorStoneRoughMarble.description>Un sol rugueux fait avec très peu de pierre. Les ressources ne sont pas récupérées lorsqu'il est détruit.</FloorStoneRoughMarble.description>
+
+	<!-- Hexagonal flooring -->
+
+	<FloorStoneHexSandstone.label>carrelage hexagonal (grès)</FloorStoneHexSandstone.label>
+	<FloorStoneHexSandstone.description>Un dallage en pierre formé de carreaux hexagonaux agréables l'oeil.</FloorStoneHexSandstone.description>
+
+	<FloorStoneHexGranite.label>carrelage hexagonal (granite)</FloorStoneHexGranite.label>
+	<FloorStoneHexGranite.description>Un dallage en pierre formé de carreaux hexagonaux agréables l'oeil.</FloorStoneHexGranite.description>
+
+	<FloorStoneHexLimestone.label>carrelage hexagonal (calcaire)</FloorStoneHexLimestone.label>
+	<FloorStoneHexLimestone.description>Un dallage en pierre formé de carreaux hexagonaux agréables l'oeil.</FloorStoneHexLimestone.description>
+
+	<FloorStoneHexSlate.label>carrelage hexagonal (ardoise)</FloorStoneHexSlate.label>
+	<FloorStoneHexSlate.description>Un dallage en pierre formé de carreaux hexagonaux agréables l'oeil.</FloorStoneHexSlate.description>
+
+	<FloorStoneHexMarble.label>carrelage hexagonal (marbre)</FloorStoneHexMarble.label>
+	<FloorStoneHexMarble.description>Un dallage en pierre formé de carreaux hexagonaux agréables l'oeil.</FloorStoneHexMarble.description>
+
+	<!-- Mosaic flooring -->
+
+	<FloorStoneMosaicSandstone.label>carrelage en mosaïque (grès)</FloorStoneMosaicSandstone.label>
+	<FloorStoneMosaicSandstone.description>Un dallage dont les pierres forment une mosaïque attrayante.</FloorStoneMosaicSandstone.description>
+
+	<FloorStoneMosaicGranite.label>carrelage en mosaïque (granite)</FloorStoneMosaicGranite.label>
+	<FloorStoneMosaicGranite.description>Un dallage dont les pierres forment une mosaïque attrayante.</FloorStoneMosaicGranite.description>
+
+	<FloorStoneMosaicLimestone.label>carrelage en mosaïque (calcaire)</FloorStoneMosaicLimestone.label>
+	<FloorStoneMosaicLimestone.description>Un dallage dont les pierres forment une mosaïque attrayante.</FloorStoneMosaicLimestone.description>
+
+	<FloorStoneMosaicSlate.label>carrelage en mosaïque (ardoise)</FloorStoneMosaicSlate.label>
+	<FloorStoneMosaicSlate.description>Un dallage dont les pierres forment une mosaïque attrayante.</FloorStoneMosaicSlate.description>
+
+	<FloorStoneMosaicMarble.label>carrelage en mosaïque (marbre)</FloorStoneMosaicMarble.label>
+	<FloorStoneMosaicMarble.description>Un dallage dont les pierres forment une mosaïque attrayante.</FloorStoneMosaicMarble.description>
+
+	<!-- Random stone flooring -->
+
+	<FloorStoneRandomSandstone.label>carrelage aléatoire (grès)</FloorStoneRandomSandstone.label>
+	<FloorStoneRandomSandstone.description>Un dallage dont les pierres forment un motif aléatoire agréable à regarder. Consomme moins de pierres qu'un carrelage en mosaïque mais demande plus de travail.</FloorStoneRandomSandstone.description>
+
+	<FloorStoneRandomGranite.label>carrelage aléatoire (granite)</FloorStoneRandomGranite.label>
+	<FloorStoneRandomGranite.description>Un dallage dont les pierres forment un motif aléatoire agréable à regarder. Consomme moins de pierres qu'un carrelage en mosaïque mais demande plus de travail.</FloorStoneRandomGranite.description>
+
+	<FloorStoneRandomLimestone.label>carrelage aléatoire (calcaire)</FloorStoneRandomLimestone.label>
+	<FloorStoneRandomLimestone.description>Un dallage dont les pierres forment un motif aléatoire agréable à regarder. Consomme moins de pierres qu'un carrelage en mosaïque mais demande plus de travail.</FloorStoneRandomLimestone.description>
+
+	<FloorStoneRandomSlate.label>carrelage aléatoire (ardoise)</FloorStoneRandomSlate.label>
+	<FloorStoneRandomSlate.description>Un dallage dont les pierres forment un motif aléatoire agréable à regarder. Consomme moins de pierres qu'un carrelage en mosaïque mais demande plus de travail.</FloorStoneRandomSlate.description>
+
+	<FloorStoneRandomMarble.label>carrelage aléatoire (marbre)</FloorStoneRandomMarble.label>
+	<FloorStoneRandomMarble.description>Un dallage dont les pierres forment un motif aléatoire agréable à regarder. Consomme moins de pierres qu'un carrelage en mosaïque mais demande plus de travail.</FloorStoneRandomMarble.description>
+
+	<!-- Chequered floors -->
+
+	<FloorStoneChequerMarbleSlate.label>carrelage en échiquier (marbre / ardoie)</FloorStoneChequerMarbleSlate.label>
+	<FloorStoneChequerMarbleSlate.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerMarbleSlate.description>
+
+	<FloorStoneChequerMarbleSandstone.label>carrelage en échiquier (marbre / grès)</FloorStoneChequerMarbleSandstone.label>
+	<FloorStoneChequerMarbleSandstone.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerMarbleSandstone.description>
+
+	<FloorStoneChequerMarbleGranite.label>carrelage en échiquier (marbre / granite) </FloorStoneChequerMarbleGranite.label>
+	<FloorStoneChequerMarbleGranite.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerMarbleGranite.description>
+
+	<FloorStoneChequerLimestoneSlate.label>carrelage en échiquier (calcaire / ardoise)</FloorStoneChequerLimestoneSlate.label>
+	<FloorStoneChequerLimestoneSlate.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerLimestoneSlate.description>
+
+	<FloorStoneChequerLimestoneSandstone.label>carrelage en échiquier (calcaire / grès)</FloorStoneChequerLimestoneSandstone.label>
+	<FloorStoneChequerLimestoneSandstone.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerLimestoneSandstone.description>
+
+	<FloorStoneChequerLimestoneGranite.label>carrelage en échiquier (calcaire / granite)</FloorStoneChequerLimestoneGranite.label>
+	<FloorStoneChequerLimestoneGranite.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerLimestoneGranite.description>
+
+	<FloorStoneChequerSlateSandstone.label>carrelage en échiquier (ardoise / grès)</FloorStoneChequerSlateSandstone.label>
+	<FloorStoneChequerSlateSandstone.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerSlateSandstone.description>
+
+	<FloorStoneChequerSlateGranite.label>carrelage en échiquier (ardoise / granite)</FloorStoneChequerSlateGranite.label>
+	<FloorStoneChequerSlateGranite.description>Un dallage en forme d'échiquier composé de deux types de pierres associées pour former un motif plaisant.</FloorStoneChequerSlateGranite.description>
+
+</LanguageData>

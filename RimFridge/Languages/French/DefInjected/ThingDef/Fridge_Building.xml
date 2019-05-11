@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RimFridge_Refrigerator.label>réfrigérateur</RimFridge_Refrigerator.label>
+	<RimFridge_Refrigerator.description>Permet de conserver les denrées périssables.</RimFridge_Refrigerator.description>
+
+	<RimFridge_SingleRefrigerator.label>petit réfrigérateur</RimFridge_SingleRefrigerator.label>
+	<RimFridge_SingleRefrigerator.description>Permet de conserver les denrées périssables.</RimFridge_SingleRefrigerator.description>
+
+	<RimFridge_QuadRefrigerator.label>grand réfrigérateur</RimFridge_QuadRefrigerator.label>
+	<RimFridge_QuadRefrigerator.description>Permet de conserver les denrées périssables.</RimFridge_QuadRefrigerator.description>
+
+	<RimFridge_WallRefrigerator.label>réfrigérateur mural</RimFridge_WallRefrigerator.label>
+	<RimFridge_WallRefrigerator.description>Permet de conserver les denrées périssables. Peut s'insérer dans un mur.</RimFridge_WallRefrigerator.description>
+
+	<RimFridge_SingleWallRefrigerator.label>petit réfrigérateur mural</RimFridge_SingleWallRefrigerator.label>
+	<RimFridge_SingleWallRefrigerator.description>Permet de conserver les denrées périssables. Peut s'insérer dans un mur.</RimFridge_SingleWallRefrigerator.description>
+
+</LanguageData>
