@@ -152,7 +152,7 @@
 	<!--Composting-->
 
 	<ContainsCompost>Contient du compost {0}/{1}</ContainsCompost>
-	<ContainsFecalSludge>Continent des boues fécales {0}/{1}</ContainsFecalSludge>
+	<ContainsFecalSludge>Contient des boues fécales {0}/{1}</ContainsFecalSludge>
 	<Composted>Composté</Composted>
 	<CompostingProgress>Progression du compost {0} ({1})</CompostingProgress>
 	<ComposterOutOfIdealTemperature>Composteur en dehors de l'intervalle de température idéal</ComposterOutOfIdealTemperature>
