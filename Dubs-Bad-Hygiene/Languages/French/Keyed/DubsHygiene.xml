@@ -124,7 +124,7 @@
 
 	<PollutionLevel>Niveau de pollution: {0}</PollutionLevel>
 
-	<CommandSprinkleDown>Abaisser le rayon</CommandSprinkleDown>
+	<CommandSprinkleDown>Diminuer le rayon</CommandSprinkleDown>
 	<CommandSprinkleUp>Augmenter le rayon</CommandSprinkleUp>
 	<UntreatedWater>Qualité: Non traitée - Risque de maladie faible</UntreatedWater>
 	<ContaminatedWater>Qualité: Contaminée ! - Risque de malade élevé !</ContaminatedWater>

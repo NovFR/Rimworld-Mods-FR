@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Make_RimlaserPrism.label>fabriquer un prisme</Make_RimlaserPrism.label>
-	<Make_RimlaserPrism.description>Fabriquer un prisme, composant principal des armes laser.</Make_RimlaserPrism.description>
-	<Make_RimlaserPrism.jobString>Fabrique un prisme.</Make_RimlaserPrism.jobString>
+	<Make_RimlaserPrism.label>fabriquer 3 prismes</Make_RimlaserPrism.label>
+	<Make_RimlaserPrism.description>Fabriquer 3 prismes. Le prisme est un composant principal des armes laser.</Make_RimlaserPrism.description>
+	<Make_RimlaserPrism.jobString>Fabrique 3 prismes.</Make_RimlaserPrism.jobString>
 
 	<Make_Rimlaser_LaserRifle.label>fabriquer un fusil laser</Make_Rimlaser_LaserRifle.label>
 	<Make_Rimlaser_LaserRifle.description>Fabriquer un fusil laser.</Make_Rimlaser_LaserRifle.description>
