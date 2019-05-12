@@ -1,14 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<RUGUN.label>Tapis RUNGIN</RUGUN.label>
+
+	<RUGUN.label>tapis RUNGIN</RUGUN.label>
 	<RUGUN.description>De la collection "Tapis confortables de RIMKea" 3x3</RUGUN.description>
 
-	<RUGDWA.label>Tapis RUGDWA</RUGDWA.label>
+	<RUGDWA.label>tapis RUGDWA</RUGDWA.label>
 	<RUGDWA.description>De la collection "Tapis confortables de RIMKea" 4x4</RUGDWA.description>
 
-	<RUGTRE.label>Tapis RUGTRE</RUGTRE.label>
+	<RUGTRE.label>tapis RUGTRE</RUGTRE.label>
 	<RUGTRE.description>De la collection "Tapis confortables de RIMKea" 3x3</RUGTRE.description>
 
-	<RUGFIR.label>Tapis RUGFIR</RUGFIR.label>
+	<RUGFIR.label>tapis RUGFIR</RUGFIR.label>
 	<RUGFIR.description>De la collection "Tapis confortables de RIMKea" 2x2</RUGFIR.description>
+
 </LanguageData>

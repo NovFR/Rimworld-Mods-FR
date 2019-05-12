@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Floor_DarkPlanks.label>Parquet (planches sombres)</Floor_DarkPlanks.label>
+
+	<Floor_DarkPlanks.label>parquet (planches sombres)</Floor_DarkPlanks.label>
 	<Floor_DarkPlanks.description>Un parquet fait de planches en bois sombre.</Floor_DarkPlanks.description>
 
-	<Floor_LightPlanks.label>Parquet (planches claires)</Floor_LightPlanks.label>
+	<Floor_LightPlanks.label>parquet (planches claires)</Floor_LightPlanks.label>
 	<Floor_LightPlanks.description>Un parquet fait de planches en bois clair.</Floor_LightPlanks.description>
 
-	<Floor_SmoothWood.label>Parquet</Floor_SmoothWood.label>
+	<Floor_SmoothWood.label>parquet</Floor_SmoothWood.label>
 	<Floor_SmoothWood.description>Un parquet en bois.</Floor_SmoothWood.description>
+
 </LanguageData>

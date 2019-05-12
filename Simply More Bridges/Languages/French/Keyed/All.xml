@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Messages -->
+	<!-- Messages -->
 	<NoFloorsOnBridges>Vous ne pouvez pas construire de sols sur les ponts.</NoFloorsOnBridges>
 
 </LanguageData>

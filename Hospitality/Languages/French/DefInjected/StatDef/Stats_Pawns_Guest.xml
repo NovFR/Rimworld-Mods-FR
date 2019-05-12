@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
+
 	<RecruitRelationshipDamage.label>Dégradation des relations dûe au recrutement</RecruitRelationshipDamage.label>
 	<RecruitRelationshipDamage.description>Dégradations causées aux relations avec la faction de ce personnage lors de son recrutement.</RecruitRelationshipDamage.description>
 

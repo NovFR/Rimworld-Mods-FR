@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<TradingSpot.AlreadyOnMap>Un seul lieu d'échange autorisé par carte. Suppression de l'ancien lieu.</TradingSpot.AlreadyOnMap>
+
+	<TradingSpot.AlreadyOnMap>Une seule zone d'échange est autorisée par carte. L'ancienne zone a été supprimée.</TradingSpot.AlreadyOnMap>
+
 </LanguageData>

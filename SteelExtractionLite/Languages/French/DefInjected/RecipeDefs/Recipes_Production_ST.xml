@@ -3,6 +3,6 @@
 
 	<ExtractMetalFromDebris.label>extraire du métal des pierres</ExtractMetalFromDebris.label>
 	<ExtractMetalFromDebris.description>Utilise la chaleur ainsi que de puissants aimants électromagnétiques pour extraire le métal des morceaux de roches.</ExtractMetalFromDebris.description>
-	<ExtractMetalFromDebris.jobString>extrait du métal.</ExtractMetalFromDebris.jobString>
+	<ExtractMetalFromDebris.jobString>Extrait du métal.</ExtractMetalFromDebris.jobString>
 
 </LanguageData>

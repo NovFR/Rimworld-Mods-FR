@@ -19,13 +19,13 @@
 	<Numbers_NoDefaultStoredForThisView>Il n'y a aucune vue par défaut pour la séléction actuelle.</Numbers_NoDefaultStoredForThisView>
 	<Numbers_LoadDefault>Charger la vue par défaut</Numbers_LoadDefault>
 
-	<Numbers_showMoreInfoThanVanilla>Montre les occupations et besoins normalement cachés.</Numbers_showMoreInfoThanVanilla>
-	<Numbers_coolerThanTheWildlifeTab>Remplacer l'onglet Faune par celui du mod.</Numbers_coolerThanTheWildlifeTab>
-	<Numbers_maxTableHeight>Hauteur maximale de la fenêtre du mod par rapport à la taille de l'écran.</Numbers_maxTableHeight>
-	<Numbers_pawnTableClickSelect>Cliquer sur un nom le sélectionne. (Clic + Alt pour le fonctionnement précédent)</Numbers_pawnTableClickSelect>
+	<Numbers_showMoreInfoThanVanilla>Montre les occupations et besoins normalement cachés</Numbers_showMoreInfoThanVanilla>
+	<Numbers_coolerThanTheWildlifeTab>Remplacer l'onglet Faune par celui du mod</Numbers_coolerThanTheWildlifeTab>
+	<Numbers_maxTableHeight>Hauteur maximale de la liste par rapport à la taille de l'écran</Numbers_maxTableHeight>
+	<Numbers_pawnTableClickSelect>Cliquer sur un nom le sélectionne (Clic + Alt pour le fonctionnement précédent)</Numbers_pawnTableClickSelect>
 	<Numbers_pawnTableClickSelect_Desc>Fonctionne comme toutes les autres sélections. Appuyer sur Esc pour fermer l'onglet.\n\nClic + Maj pour la sélection multiple. Clic double pour centrer la caméra. Clic droit pour une sélection simple. Clic + Alt pour fermer la fenêtre, sélectionner et centrer la caméra. Note: S'applique à toutes les sélections, pas uniquement celles du mod.</Numbers_pawnTableClickSelect_Desc>
-	<Numbers_pawnTableHighSelected>Surligner la sélection.</Numbers_pawnTableHighSelected>
-	<Numbers_pawnTableHighSelected_Desc>Note: S'applique à toutes les tables, par seulement ce mod.</Numbers_pawnTableHighSelected_Desc>
+	<Numbers_pawnTableHighSelected>Surligner la sélection</Numbers_pawnTableHighSelected>
+	<Numbers_pawnTableHighSelected_Desc>Note: S'applique à toutes les listes, par seulement à celles de ce mod.</Numbers_pawnTableHighSelected_Desc>
 
 	<Numbers_LoadSavedLayout>Charger une vue</Numbers_LoadSavedLayout>
 	<Numbers_NothingSaved>Aucune sauvegarde</Numbers_NothingSaved>

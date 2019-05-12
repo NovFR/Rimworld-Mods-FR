@@ -1,17 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Floor_StoneSquaresSandstone.label>Sol en pierre (grès)</Floor_StoneSquaresSandstone.label>
+
+	<Floor_StoneSquaresSandstone.label>sol en pierre (grès)</Floor_StoneSquaresSandstone.label>
 	<Floor_StoneSquaresSandstone.description>Une dalle en pierre placée à même le sol.</Floor_StoneSquaresSandstone.description>
 
-	<Floor_StoneSquaresGranite.label>Sol en pierre (granite)</Floor_StoneSquaresGranite.label>
+	<Floor_StoneSquaresGranite.label>sol en pierre (granite)</Floor_StoneSquaresGranite.label>
 	<Floor_StoneSquaresGranite.description>Une dalle en pierre placée à même le sol.</Floor_StoneSquaresGranite.description>
 
-	<Floor_StoneSquaresLimestone.label>Sol en pierre (calcaire)</Floor_StoneSquaresLimestone.label>
+	<Floor_StoneSquaresLimestone.label>sol en pierre (calcaire)</Floor_StoneSquaresLimestone.label>
 	<Floor_StoneSquaresLimestone.description>Une dalle en pierre placée à même le sol.</Floor_StoneSquaresLimestone.description>
 
-	<Floor_StoneSquaresSlate.label>Sol en pierre (ardoise)</Floor_StoneSquaresSlate.label>
+	<Floor_StoneSquaresSlate.label>sol en pierre (ardoise)</Floor_StoneSquaresSlate.label>
 	<Floor_StoneSquaresSlate.description>Une dalle en pierre placée à même le sol.</Floor_StoneSquaresSlate.description>
 
-	<Floor_StoneSquaresMarble.label>Sol en pierre (marbre)</Floor_StoneSquaresMarble.label>
+	<Floor_StoneSquaresMarble.label>sol en pierre (marbre)</Floor_StoneSquaresMarble.label>
 	<Floor_StoneSquaresMarble.description>Une dalle en pierre placée à même le sol.</Floor_StoneSquaresMarble.description>
+
 </LanguageData>

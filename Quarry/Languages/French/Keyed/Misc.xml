@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
+
 	<QRY_Quarry>Carrières</QRY_Quarry>
 	<QRY_SettingsDepletionPercent>Nombre d'opération de minage</QRY_SettingsDepletionPercent>
 	<QRY_SettingsJunkChance>Quantité de déchets: {0}%</QRY_SettingsJunkChance>
 	<QRY_SettingsChunkChance>Quantité de morceaux: {0}%</QRY_SettingsChunkChance>
 	<QRY_DepletionLabel>Opérations de minage avant que la carrière soit inutilisable: {0}</QRY_DepletionLabel>
 	<QRY_DictionaryLabel>Ressources pouvant être minées et chances de les obtenir</QRY_DictionaryLabel>
-	
+
 	<QRY_TooltipLetter>Sélectionnez si la lettre de réhabilitation du sol a déjà été envoyée ou non. Si désactivé, la lettre sera envoyée la première fois qu'une carrière est démontée.</QRY_TooltipLetter>
 	<QRY_TooltipJunkChance>Chances d'obtenir des déchets. Si aucun déchet n'est miné, une ressources aléatoire sera obtenue à la place.</QRY_TooltipJunkChance>
 	<QRY_TooltipChunkChance>Chances d'obtenir des morceaux. Si des déchets sont minés, il s'agit des chances d'obtenir des morceaux de roches au lieu de gravats inutiles.\n\nLe mode création de blocs utilise cette probabilité pour déterminer si assez de pierre a été minée pour créer un bloc.</QRY_TooltipChunkChance>
-	
+
 	<QRY_LabelHaulMode>Transporter les ressources</QRY_LabelHaulMode>
 	<QRY_Haul>Transporter les ressources minées.</QRY_Haul>
 	<QRY_NotHaul>Ignorer les ressources minées.</QRY_NotHaul>
@@ -26,10 +26,10 @@
 	<QRY_InspectQuarryPercent>Pourcentage restant</QRY_InspectQuarryPercent>
 	<QRY_CommandSetOwnerDesc>Assigner cette carrière afin qu'elle ne soit utilisée que par certains colons.</QRY_CommandSetOwnerDesc>
 	<QRY_ReportGizmoLackingResearch>Nécessite la recherche découpage de pierres.</QRY_ReportGizmoLackingResearch>
-	
+
 	<QRY_TextMote_LargeVein>Grand gisement !</QRY_TextMote_LargeVein>
 	<QRY_TextMote_MiningFailed>Échec...</QRY_TextMote_MiningFailed>
-	
+
 	<QRY_LetterSentQuery>Lettre de réhabilitation du sol envoyée</QRY_LetterSentQuery>
 	<QRY_LetterLabel>Réhabiliter le sol</QRY_LetterLabel>
 	<QRY_LetterText>Une fois la carrière démontée, vous pouvez demander à vos colons de couvrir l'ancien emplacement avec de la terre afin de pouvoir y créer des cultures. Utilisez la commande Réhabiliter le sol pour désigner la zone.</QRY_LetterText>
@@ -40,7 +40,7 @@
 	<QRY_LabelAddThing>Ajouter</QRY_LabelAddThing>
 	<QRY_LabelRemoveThing>Retirer</QRY_LabelRemoveThing>
 	<QRY_LabelResetList>Réinitialiser</QRY_LabelResetList>
-	
+
 	<QRY_MessageSinkhole>Un éboulement de roche a blessé {0}.</QRY_MessageSinkhole>
 
 </LanguageData>

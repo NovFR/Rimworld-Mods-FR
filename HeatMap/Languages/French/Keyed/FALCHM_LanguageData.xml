@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  <FALCHM.OverlayOpacity>Opacity of overlay</FALCHM.OverlayOpacity>
-  <FALCHM.OverlayOpacityDesc>Reduce this value to make the overlay more transparent.</FALCHM.OverlayOpacityDesc>
 
-  <FALCHM.UpdateDelay>Overlay update delay</FALCHM.UpdateDelay>
-  <FALCHM.UpdateDelayDesc>Number of ticks delay between overlay updates while game is unpaused. Lower numbers provide smoother updates, but may affect performance on low end machines.</FALCHM.UpdateDelayDesc>
+  <FALCHM.OverlayOpacity>Opacité de la surimpression</FALCHM.OverlayOpacity>
+  <FALCHM.OverlayOpacityDesc>Réduire cette valeur pour que la surimpression soit plus transparente.</FALCHM.OverlayOpacityDesc>
 
-  <FALCHM.ShowOutDoorThermometer>Show outdoor thermometer</FALCHM.ShowOutDoorThermometer>
-  <FALCHM.ShowOutDoorThermometerDesc>Displays a widget in the top right hand corner of the UI showing current outdoor temperature.</FALCHM.ShowOutDoorThermometerDesc>
+  <FALCHM.UpdateDelay>Délai entre les mises-à-jour de la surimpression</FALCHM.UpdateDelay>
+  <FALCHM.UpdateDelayDesc>Nombre de ticks entre les mises-à-jour lorsque le jeu n'est pas en pause. Des valeurs basses permettent une mise-à-jour plus fluide, mais cela peut affecter les performance sur les ordinateurs les moins puissants.</FALCHM.UpdateDelayDesc>
 
-  <FALCHM.ThermometerOpacity>Opacity of thermometer</FALCHM.ThermometerOpacity>
-  <FALCHM.ThermometerOpacityDesc>Reduce this value to make the outdoor temperature thermometer background color more transparent.</FALCHM.ThermometerOpacityDesc>
+  <FALCHM.ShowOutDoorThermometer>Afficher le thermomètre extérieur</FALCHM.ShowOutDoorThermometer>
+  <FALCHM.ShowOutDoorThermometerDesc>Affiche un indicateur de température extérieure en haut à droite de l'écran.</FALCHM.ShowOutDoorThermometerDesc>
+
+  <FALCHM.ThermometerOpacity>Opacité du thermomètre</FALCHM.ThermometerOpacity>
+  <FALCHM.ThermometerOpacityDesc>Réduire cette valeur pour que le fond du thermomètre extérieur soit plus transparent.</FALCHM.ThermometerOpacityDesc>
 
   <FALCHM.ThermometerTooltip>Température extérieure. Cliquer pour afficher la carte des températures.\n\nCet indicateur peut être désactivé dans les options du mod.</FALCHM.ThermometerTooltip>
+
   <FALCHM.ShowHeatMap>Afficher la carte des températures</FALCHM.ShowHeatMap>
 
-  <FALCHM.UseCustomeRange>Use custom range</FALCHM.UseCustomeRange>
-  <FALCHM.UseCustomeRangeDesc>When off, the colour gradient automatically maps to the human comfort range as defined by the game.
+  <FALCHM.UseCustomeRange>Utiliser un intervalle personnalisé</FALCHM.UseCustomeRange>
+  <FALCHM.UseCustomeRangeDesc>Si désactivé, la couleur sera automatiquement déterminée en fonction de la température idéale pour le confort des colons telle que définie par le jeu.
 
-When on, allows you to set a custom boundary for the blue and red ends of the gradient, in current temperature units</FALCHM.UseCustomeRangeDesc>
+Si activé, vous pourrez définir vous-même cet intervalle.</FALCHM.UseCustomeRangeDesc>
 
-  <FALCHM.CustomRangeMin>Custom range min</FALCHM.CustomRangeMin>
-  <FALCHM.CustomRangeMinDesc>Blue end of gradient. Temperatures below this will be blue. Use current temperature units</FALCHM.CustomRangeMinDesc>
+  <FALCHM.CustomRangeMin>Minimum</FALCHM.CustomRangeMin>
+  <FALCHM.CustomRangeMinDesc>Les températures en-dessous de cette valeur seront bleues. Utilise l'unité de température actuelle</FALCHM.CustomRangeMinDesc>
 
-  <FALCHM.CustomRangeMax>Custom range max</FALCHM.CustomRangeMax>
-  <FALCHM.CustomRangeMaxDesc>Red end of gradient. Temperatures above this will be red. Use current temperature units</FALCHM.CustomRangeMaxDesc>
+  <FALCHM.CustomRangeMax>Maximum</FALCHM.CustomRangeMax>
+  <FALCHM.CustomRangeMaxDesc>Les températures au-dessus de cette valeur seront rouges. Utilise l'unité de température actuelle</FALCHM.CustomRangeMaxDesc>
 
-  <FALCHM.ShowTemperatureOverRooms>Show temperature over rooms</FALCHM.ShowTemperatureOverRooms>
-  <FALCHM.ShowTemperatureOverRoomsDesc>When overlay is on, this will also display the room temperature over the centre of the room.</FALCHM.ShowTemperatureOverRoomsDesc>
+  <FALCHM.ShowTemperatureOverRooms>Afficher les températures sur les pièces</FALCHM.ShowTemperatureOverRooms>
+  <FALCHM.ShowTemperatureOverRoomsDesc>Quand la surimpression est activée, le température de la pièce sera affichée au centre de celle-ci.</FALCHM.ShowTemperatureOverRoomsDesc>
+
 </LanguageData>

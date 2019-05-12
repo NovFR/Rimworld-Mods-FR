@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<MURUVWallLight_LightRadName>Portée</MURUVWallLight_LightRadName>
 	<MURUVWallLight_LightRadDesc>Il s'agit du rayon dans lequel les plantes peuvent pousser. Peut prendre des valeurs 2 à 10 (5 par défaut)</MURUVWallLight_LightRadDesc>
 	<MURUVWallLight_SteelCostName>Coût en métal</MURUVWallLight_SteelCostName>
@@ -18,4 +19,5 @@
 
 	<MURUVWallLight_DestroyedBlocked>La lampe a été détruite par une construction.</MURUVWallLight_DestroyedBlocked>
 	<MURUVWallLight_DestroyedWall>La lampe a été détruite par la construction d'un mur.</MURUVWallLight_DestroyedWall>
+
 </LanguageData>

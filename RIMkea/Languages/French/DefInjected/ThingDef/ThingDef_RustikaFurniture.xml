@@ -1,59 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<REGSITStool.label>Tabouret REGSIT</REGSITStool.label>
+
+	<REGSITStool.label>tabouret REGSIT</REGSITStool.label>
 	<REGSITStool.description>Un morceau de tissu, un peu d'acier et voilà ! Une façon ingénieuse de s'assoire, inventée par Galga Ler sur Achron V.</REGSITStool.description>
 
-	<SITTSLABChair.label>Chaise SITTSLAB</SITTSLABChair.label>
+	<SITTSLABChair.label>chaise SITTSLAB</SITTSLABChair.label>
 	<SITTSLABChair.description>On prétend que la pierre n'est pas confortable ? On vous prouve le contraire avec cette replique de chaise en pierre confortable.</SITTSLABChair.description>
 
-	<STAMMRESTChair.label>Chaise STAMMREST</STAMMRESTChair.label>
+	<STAMMRESTChair.label>chaise STAMMREST</STAMMRESTChair.label>
 	<STAMMRESTChair.description>La chaise STAMMREST est une relique authentique, basée sur celles trouvées dans les ruines du peuple de l'Arbre Rouge sur Xentis Ham.</STAMMRESTChair.description>
 
-	<PILREKLINCouch.label>Canapé PILREKLIN</PILREKLINCouch.label>
+	<PILREKLINCouch.label>canapé PILREKLIN</PILREKLINCouch.label>
 	<PILREKLINCouch.description>Un confortable assemblage de pièces de cuir et de tissu.</PILREKLINCouch.description>
 
-	<BUTTEKUSHPillow.label>Coussin BUTTEKUSH</BUTTEKUSHPillow.label>
+	<BUTTEKUSHPillow.label>coussin BUTTEKUSH</BUTTEKUSHPillow.label>
 	<BUTTEKUSHPillow.description>Asseyez-vous confortablement sur ce coussin moelleux.</BUTTEKUSHPillow.description>
 
-	<STAMMFLATTTable.label>Table STAMMFLATT</STAMMFLATTTable.label>
+	<STAMMFLATTTable.label>table STAMMFLATT</STAMMFLATTTable.label>
 	<STAMMFLATTTable.description>La table STAMMFLATT, taillée avec talent dans des buches de bois, s'associe à merveille avec la chaise STAMMFLATT.</STAMMFLATTTable.description>
 
-	<SLABFLATTTable.label>Table SLABFLATT</SLABFLATTTable.label>
+	<SLABFLATTTable.label>table SLABFLATT</SLABFLATTTable.label>
 	<SLABFLATTTable.description>Cette splendide table en pierre est la pierre angulaire de tout salon qui se respecte.</SLABFLATTTable.description>
 
-	<KRUDNEPPSingle.label>Lit simple KRUNDNEPP</KRUDNEPPSingle.label>
+	<KRUDNEPPSingle.label>lit simple KRUNDNEPP</KRUDNEPPSingle.label>
 	<KRUDNEPPSingle.description>Faites une sieste dans le KRUNDNEPP. Il peut praître branlant mais pas d'inquiétude, c'est sans danger*!\n\n(* conçu pour une seule personne, KIMRea ne saurait être tenue pour responsable de la mauvaise utilisation de son mobilier. -- Département légal KIMRea)</KRUDNEPPSingle.description>
 
-	<SLABNEPPDouble.label>Lit double SLABNEPP</SLABNEPPDouble.label>
+	<SLABNEPPDouble.label>lit double SLABNEPP</SLABNEPPDouble.label>
 	<SLABNEPPDouble.description>Ce lit de pierre fait main, arborant un motif complexe connu sous le nom de "Billa-of-the-Crag Knot", est aussi beau que confortable (convient pour deux personnes)</SLABNEPPDouble.description>
 
-	<SNORHOI.label>Lit pour animaux SNORHOI</SNORHOI.label>
+	<SNORHOI.label>lit pour animaux SNORHOI</SNORHOI.label>
 	<SNORHOI.description>"Tout ce dont les animaux ont besoin c'est d'un peu d'amour, de croquettes et d'un SNORHOI"* - Grand Philosophie**\n\n(* traduction approximative)\n(** anonyme)</SNORHOI.description>
 
-	<BOLTASKLamp.label>Lampe BOLTASK</BOLTASKLamp.label>
+	<BOLTASKLamp.label>lampe BOLTASK</BOLTASKLamp.label>
 	<BOLTASKLamp.description>Un petit feu vif et chalereux, parfaitement contenu dans un bol*.\n\n(* ne pas laisser sans surveillance)</BOLTASKLamp.description>
 
-	<KAROMUF.label>Sculpture KAROMUF</KAROMUF.label>
+	<KAROMUF.label>sculpture KAROMUF</KAROMUF.label>
 	<KAROMUF.description>Le saint KAROMUFF est une créature vénérée par les Cheda de la tribu Indigo Gerbil sur Alioth Posterius.</KAROMUF.description>
 
-	<SMOERTIGE.label>Sculpture SMOERTIGE</SMOERTIGE.label>
+	<SMOERTIGE.label>sculpture SMOERTIGE</SMOERTIGE.label>
 	<SMOERTIGE.description>Cette magnifique statue est inspirée de "Anha la Grâcieuse", la matriarche de la tribu des Gens Gris. Elle est connue pour être d'une beauté éblouissante.</SMOERTIGE.description>
 
-	<LORDOKI.label>Sculpture LORDOKI</LORDOKI.label>
+	<LORDOKI.label>sculpture LORDOKI</LORDOKI.label>
 	<LORDOKI.description>Cette statue représente le dieu-loup "LORDKOT", vénéré par le peuple du Homard Pourpre sur Aldhafera XI.</LORDOKI.description>
 
-	<BLUMTASK.label>Pot de fleur BLUMTASK</BLUMTASK.label>
+	<BLUMTASK.label>pot de fleur BLUMTASK</BLUMTASK.label>
 	<BLUMTASK.description>Conçu pour l'honorable Shinzhor de Shinzaram, cette charmante corne accueillera délicieusement vos fleurs.</BLUMTASK.description>
 
-	<aFLIKFUTRug.label>Tapis FLIKFUT</aFLIKFUTRug.label>
+	<aFLIKFUTRug.label>tapis FLIKFUT</aFLIKFUTRug.label>
 	<aFLIKFUTRug.description>Cinq morceaux de cuir qui s'assemblent avec grâce pour former un tapis idéal pour décorer votre intérieur.</aFLIKFUTRug.description>
 
-	<MATIPESSIRug.label>Tapis MATIPESSI</MATIPESSIRug.label>
+	<MATIPESSIRug.label>tapis MATIPESSI</MATIPESSIRug.label>
 	<MATIPESSIRug.description>Un charmant petit tapis dans la pure tradition de la tribu Abeneiro de Lama.</MATIPESSIRug.description>
-	
-	<MISKANTAARug.label>Tapis MISKANTAA</MISKANTAARug.label>
+
+	<MISKANTAARug.label>tapis MISKANTAA</MISKANTAARug.label>
 	<MISKANTAARug.description>Véritable oeuvre d'art, ce tapis reprend le merveilleux design utilisé par le peuple de Caxigo Braga sur Achrid I.</MISKANTAARug.description>
 
-	<HOISTEPRug.label>Tapis HOISTEP</HOISTEPRug.label>
+	<HOISTEPRug.label>tapis HOISTEP</HOISTEPRug.label>
 	<HOISTEPRug.description>Donnez à votre maison un air de "basse-cour" avec cet astucieux assemblage de foin.</HOISTEPRug.description>
+
 </LanguageData>

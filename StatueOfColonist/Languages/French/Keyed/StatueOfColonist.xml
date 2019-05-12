@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
 	<!-- StatueOfColonistMod -->
+
 	<StatueOfColonist.CanEditStatue>Autoriser l'édition des statues</StatueOfColonist.CanEditStatue>
 	<StatueOfColonist.ClothIconSize>Taille des icônes (boîte de sélection des vêtements)</StatueOfColonist.ClothIconSize>
 	<StatueOfColonist.ShowClothForDisplay>Icônes en rapport avec la corpulence (boîte de sélection des vêtements)</StatueOfColonist.ShowClothForDisplay>
@@ -19,6 +21,7 @@
 
 
 	<!-- Building_StatueOfColonist -->
+
 	<StatueOfColonist.CommandDefaultLabel>Uniquement le chapeau</StatueOfColonist.CommandDefaultLabel>
 	<StatueOfColonist.CommandDefaultDesc>Affiche uniquement le chapeau.</StatueOfColonist.CommandDefaultDesc>
 	<StatueOfColonist.CommandHairOnlyLabel>Uniquement les cheveux</StatueOfColonist.CommandHairOnlyLabel>
@@ -34,6 +37,7 @@
 
 
 	<!-- Window_EditStatue -->
+
 	<StatueOfColonist.WindowEditStatue>Édition d'apparence</StatueOfColonist.WindowEditStatue>
 
 	<StatueOfColonist.HairTypeOfStatue>Cheveux</StatueOfColonist.HairTypeOfStatue>
@@ -49,6 +53,7 @@
 	<StatueOfColonist.ConfirmationCopyFromColonist>Voulez-vous réellement copier ce colon ?</StatueOfColonist.ConfirmationCopyFromColonist>
 
 	<StatueOfColonist.PostLabelDeadColonist> (Mort)</StatueOfColonist.PostLabelDeadColonist>
+
 
 	<!-- Dialog_AddOptionLister -->
 

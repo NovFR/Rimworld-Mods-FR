@@ -31,7 +31,7 @@
 	<HugsLib_features_confirmIgnore>Ignorer les prochaines informations de mise-à-jour de {0}?\n\nVous pourrez les activer à nouveau dans les réglages des mods.</HugsLib_features_confirmIgnore>
 
 	<HugsLib_copiedToClipboard>Copié dans le presse-papier.</HugsLib_copiedToClipboard>
-	
+
 	<HugsLib_logs_copy>Copier</HugsLib_logs_copy>
 	<HugsLib_logs_shareBtn>Partage les logs</HugsLib_logs_shareBtn>
 	<HugsLib_logs_shareConfirmTitle>Confirmer</HugsLib_logs_shareConfirmTitle>
@@ -44,19 +44,19 @@
 	<HugsLib_logs_abortBtn>Annuler</HugsLib_logs_abortBtn>
 	<HugsLib_logs_retryBtn>Ré-essayer</HugsLib_logs_retryBtn>
 	<HugsLib_logs_browseBtn>Ouvrir dans le navigateur</HugsLib_logs_browseBtn>
-	
+
 	<HugsLib_logs_filesBtn>Fichiers</HugsLib_logs_filesBtn>
 	<HugsLib_logs_openLogFile>Ouvrir le fichier log</HugsLib_logs_openLogFile>
 	<HugsLib_logs_openSaveDir>Ouvrir le dossier des sauvegardes</HugsLib_logs_openSaveDir>
 	<HugsLib_logs_openModsDir>Ouvrir le dossier Mods</HugsLib_logs_openModsDir>
 
 	<HugsLib_restart_language_text>La langue à été changé. Le jeu va maintenant redémarrer automatiquement.</HugsLib_restart_language_text>
-	
+
 	<HugsLib_loadOrderWarning_title>Erreur dans l'ordre de chargement des mods</HugsLib_loadOrderWarning_title>
 	<HugsLib_loadOrderWarning_text>&lt;b&gt;Le mod HugsLib&lt;/b&gt; doit toujours être charger après &lt;b&gt;Core&lt;/b&gt; pour éviter les erreurs.\nSVP ajustez l'ordre de votre liste de mod dans la fenêtre Mods et relancez le jeu.</HugsLib_loadOrderWarning_text>
-		
+
 	<test_enumSetting_DefaultValue>Valeur par défaut</test_enumSetting_DefaultValue>
 	<test_enumSetting_ValueOne>Valeur Un</test_enumSetting_ValueOne>
 	<test_enumSetting_ValueTwo>Valeur Deux</test_enumSetting_ValueTwo>
-	
+
 </LanguageData>

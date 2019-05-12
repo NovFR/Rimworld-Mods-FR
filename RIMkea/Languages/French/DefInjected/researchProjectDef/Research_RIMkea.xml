@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
 	<MilleniumLineFurniture.label>Collection du millénaire</MilleniumLineFurniture.label>
 	<MilleniumLineFurniture.description>Un de nos colons a trouvé un bloc de données contenant d'anciens magazines. Parmi les données récupérées, se trouve le numéro 4120 du magazine RIMkea. Il contient toute une collection d'articles "futuristes" de la firme. Nous pourrions les créer nous-même.</MilleniumLineFurniture.description>
 
 	<RustikaFurniture.label>Collection rustique</RustikaFurniture.label>
 	<RustikaFurniture.description>Un de nos colons a trouvé un bloc de données contenant d'anciens magazines. Parmi les données récupérées, se trouve le numéro 3522 du magazine RIMkea. Il contient toute une collection d'articles "tribaux". Nous pourrions les créer pour nous-même.</RustikaFurniture.description>
+
 </LanguageData>

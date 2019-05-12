@@ -1,35 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<BULDRESTStool.label>Tabouret BULDREST</BULDRESTStool.label>
+
+	<BULDRESTStool.label>tabouret BULDREST</BULDRESTStool.label>
 	<BULDRESTStool.description>Quelqu'un pensait que s'assoir sur un amat de pierres était mieux que rien. Et c'est vrai !</BULDRESTStool.description>
 
-	<WODENTable.label>Table WODEN</WODENTable.label>
+	<WODENTable.label>table WODEN</WODENTable.label>
 	<WODENTable.description>C'est une table faite de bois.</WODENTable.description>
 
-	<PILFURBed.label>Lit PILFUR</PILFURBed.label>
+	<PILFURBed.label>lit PILFUR</PILFURBed.label>
 	<PILFURBed.description>Pourquoi dormir par-terre quand on peut le faire sur un tas de trucs confortables ?</PILFURBed.description>
 
-	<KAGESHAINLamp.label>Lampe KAGESHAIN</KAGESHAINLamp.label>
+	<KAGESHAINLamp.label>lampe KAGESHAIN</KAGESHAINLamp.label>
 	<KAGESHAINLamp.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp.description>
 
-	<KAGESHAINLamp_Red.label>Lampe KAGESHAIN (rouge)</KAGESHAINLamp_Red.label>
+	<KAGESHAINLamp_Red.label>lampe KAGESHAIN (rouge)</KAGESHAINLamp_Red.label>
 	<KAGESHAINLamp_Red.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp_Red.description>
 
-	<KAGESHAINLamp_Green.label>Lampe KAGESHAIN (vert)</KAGESHAINLamp_Green.label>
+	<KAGESHAINLamp_Green.label>lampe KAGESHAIN (vert)</KAGESHAINLamp_Green.label>
 	<KAGESHAINLamp_Green.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp_Green.description>
 
-	<KAGESHAINLamp_Blue.label>Lampe KAGESHAIN (bleu)</KAGESHAINLamp_Blue.label>
+	<KAGESHAINLamp_Blue.label>lampe KAGESHAIN (bleu)</KAGESHAINLamp_Blue.label>
 	<KAGESHAINLamp_Blue.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp_Blue.description>
 
-	<KAGESHAINLamp_Violet.label>Lampe KAGESHAIN (violet)</KAGESHAINLamp_Violet.label>
+	<KAGESHAINLamp_Violet.label>lampe KAGESHAIN (violet)</KAGESHAINLamp_Violet.label>
 	<KAGESHAINLamp_Violet.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp_Violet.description>
 
-	<KAGESHAINLamp_Yellow.label>Lampe KAGESHAIN (jaune)</KAGESHAINLamp_Yellow.label>
+	<KAGESHAINLamp_Yellow.label>lampe KAGESHAIN (jaune)</KAGESHAINLamp_Yellow.label>
 	<KAGESHAINLamp_Yellow.description>Les lampes KAGESHAIN sont rares car elles présentent un défaut: la cage empêche le remplacement de l'ampoule. Un détail d'importance pour beaucoup de gens.</KAGESHAINLamp_Yellow.description>
 
-	<LAMPONLamp.label>Lampe LAMPON</LAMPONLamp.label>
+	<LAMPONLamp.label>lampe LAMPON</LAMPONLamp.label>
 	<LAMPONLamp.description>Des ampoules accrochées à du tissu. Pas très lumineux, mais très joli.</LAMPONLamp.description>
 
-	<FEERSTELL.label>Cheminée FEERSTELL</FEERSTELL.label>
+	<FEERSTELL.label>cheminée FEERSTELL</FEERSTELL.label>
 	<FEERSTELL.description>Peut remplacer un mur.</FEERSTELL.description>
+
 </LanguageData>

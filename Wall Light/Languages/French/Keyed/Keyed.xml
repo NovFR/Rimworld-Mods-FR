@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
 	<MURWallLight_LightRadName>Portée de la lumière</MURWallLight_LightRadName>
 	<MURWallLight_LightRadDesc>Détermine le rayon de la zone lumineuse. Par défaut: 8</MURWallLight_LightRadDesc>
 	<MURWallLight_SteelCostName>Coût en acier</MURWallLight_SteelCostName>
@@ -8,14 +9,15 @@
 	<MURWallLight_PowerCostDesc>Détermine la puissance consommée par une lampe. Par défaut: 10</MURWallLight_PowerCostDesc>
 	<MURWallLight_ShowRadiusName>Afficher la zone éclairée (EXPERIMENTAL)</MURWallLight_ShowRadiusName>
 	<MURWallLight_ShowRadiusDesc>Affiche la zone éclairée par la lumière lorsqu'elle est allumée. EXPERIMENTAL: Ne fonctionne que pour le rayon par défaut (8).</MURWallLight_ShowRadiusDesc>
-	
+
 	<MURWallLight_WarningNeedWall>Doit être placée sur un mur.</MURWallLight_WarningNeedWall>
 	<MURWallLight_WarningBlocked>Doit être placée sur un mur face à une case accessible.</MURWallLight_WarningBlocked>
 	<MURWallLight_WarningBoth>Doit être placée sur un mur et doit être face à une case accessible.</MURWallLight_WarningBoth>
-	
+
 	<MURWallLight_AlertDisableRadius>L'affichage de la zone éclairée ne fonctionne que pour le rayon par défaut (8) Désactivation.</MURWallLight_AlertDisableRadius>
 	<MURWallLight_AlertReload>Veuillez sauvegarder et recharger votre sauvegarde pour que les changements soient pris en compte.</MURWallLight_AlertReload>
-	
+
 	<MURWallLight_DestroyedBlocked>La lampe a été détruite lors de la construction.</MURWallLight_DestroyedBlocked>
 	<MURWallLight_DestroyedWall>La lampe a été détruite lors de la construction du mur.</MURWallLight_DestroyedWall>
+
 </LanguageData>

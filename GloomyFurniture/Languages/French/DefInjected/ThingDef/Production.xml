@@ -14,8 +14,8 @@
   <RGK_FueledStove_Blueprint_Install.label>cuisine (plan)</RGK_FueledStove_Blueprint_Install.label>
   <RGK_FueledStove_Frame.label>cuisine (construction)</RGK_FueledStove_Frame.label>
   <RGK_FueledStove_Frame.description>Une cuisine alimentée par un feu de bois.</RGK_FueledStove_Frame.description>
-  
-  
+
+
   <GL_ElectricStove.label>cuisine électrique</GL_ElectricStove.label>
   <GL_ElectricStove.description>Une cuisine qui fonctionne à l'électricité.</GL_ElectricStove.description>
   <GL_ElectricStove_Blueprint.label>cuisine électrique (plan)</GL_ElectricStove_Blueprint.label>

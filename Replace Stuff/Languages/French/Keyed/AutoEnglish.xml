@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	
+
 	<TD.ReplaceStuff>Replace Stuff</TD.ReplaceStuff>
 	<TD.Replace>Remplacer</TD.Replace>
 	<TD.ReplaceDesc>Remplacer le matériau d'un objet (par exemple remplacer le bois par de la pierre)</TD.ReplaceDesc>
@@ -12,5 +12,5 @@
 	<TD.SettingsCornerBuildableDesc>Cela peut causer des comportements étranges - désactiver pour éventuellement corriger le problème.</TD.SettingsCornerBuildableDesc>
 	<TD.IncapableOfSmoothing>incapable de lisser</TD.IncapableOfSmoothing>
 	<TD.FailedStuffBeingReplaced>objet remplacé</TD.FailedStuffBeingReplaced>
-	
+
 </LanguageData>

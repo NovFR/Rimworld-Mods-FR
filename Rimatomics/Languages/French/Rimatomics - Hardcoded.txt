@@ -1,0 +1,23 @@
+Storage Pool > "Loading", "Unloading", "Life"
+
+Cammo > "base", "woodland", "desert", "snow"
+
+Rimatomics > "$ {Price}" (ie. in french should be {Price} €)
+Rimatomics > All skills (intellectual, crafting, etc.)
+
+Research letter > "Next Step:"
+
+SACS > Alert: "Threat Detection"
+TACS > "Target Ennemy Shells"/"Target All Shells"
+
+Reactor console > Tips: "Temperature", "Fuel", "Cooling", "Turbine", "Power", "Radiations"
+Reactor console > "True"/"False", "Select"/"Clear"
+
+--
+
+UI fixes needed
+
+In Defs/ThingCategoryDefs/ThingCategories.xml, RimatomicsProduct and SabotRounds need icons, exemple:
+
+> RimatomicsProduct > <iconPath>Rimatomics/UI/logo</iconPath>
+> SabotRounds > <iconPath>Rimatomics/Things/Resources/sabot/sabot_a</iconPath>
