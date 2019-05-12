@@ -8,7 +8,7 @@ Les traductions sont loin d'être parfaites vu que je ne suis pas vraiment bilin
 
 Il est donc plus que probable qu'il y ait des incohérences, des fautes, et des oublis.
 
-Dans quelques cas, certains textes n'ont pas été traduits car il n'y a aucun moyen de les traduire (le texte est probablement dans la DLL) C'est notamment le cas de certaines chaînes de Rimatomics ou de Dubs-Paint-Job.
+Dans quelques cas, certains textes n'ont pas été traduits car il n'y a aucun moyen de les traduire (le texte est probablement dans la DLL) C'est notamment le cas de certaines chaînes de Rimatomics ou de Dubs-Paint-Shop.
 
 Il arrive aussi que j'ai eu la flemme de traduire les options. Je corrigerai probablement ça... Un jour.
 
