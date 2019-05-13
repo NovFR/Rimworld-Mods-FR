@@ -3,7 +3,7 @@
 
 	<!--======================== Deep water bridge ========================-->
 
-	<DeepWaterBridgeSteel.label>grand pont en métal</DeepWaterBridgeSteel.label>
+	<DeepWaterBridgeSteel.label>grand pont en acier</DeepWaterBridgeSteel.label>
 	<DeepWaterBridgeSteel.description>Une surface plane sur de grandes poutres de soutien pouvant être construite sur l'eau profonde. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</DeepWaterBridgeSteel.description>
 
 	<DeepWaterBridgePlasteel.label>grand pont en plastacier</DeepWaterBridgePlasteel.label>
@@ -26,7 +26,7 @@
 
 	<!--======================== Heavy bridge ========================-->
 
-	<HeavyBridgeSteel.label>pont solide en métal</HeavyBridgeSteel.label>
+	<HeavyBridgeSteel.label>pont solide en acier</HeavyBridgeSteel.label>
 	<HeavyBridgeSteel.description>Une surface plane sur des poutres de soutien pouvant être construite sur l'eau. Vous pouvez construire n'importe quelle structure sur ce pont mais attention, il reste tout de même fragile. Si le pont est détruit, tout ce qui se trouve dessus l'est également.</HeavyBridgeSteel.description>
 
 	<HeavyBridgePlasteel.label>pont solide en plastacier</HeavyBridgePlasteel.label>

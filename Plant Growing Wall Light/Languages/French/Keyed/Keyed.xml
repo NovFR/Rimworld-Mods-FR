@@ -3,7 +3,7 @@
 
 	<MURUVWallLight_LightRadName>Portée</MURUVWallLight_LightRadName>
 	<MURUVWallLight_LightRadDesc>Il s'agit du rayon dans lequel les plantes peuvent pousser. Peut prendre des valeurs 2 à 10 (5 par défaut)</MURUVWallLight_LightRadDesc>
-	<MURUVWallLight_SteelCostName>Coût en métal</MURUVWallLight_SteelCostName>
+	<MURUVWallLight_SteelCostName>Coût en acier</MURUVWallLight_SteelCostName>
 	<MURUVWallLight_SteelCostDesc>Il s'agit du coût de fabrication d'une lampe (10 par défaut)</MURUVWallLight_SteelCostDesc>
 	<MURUVWallLight_PowerCostName>Coût en puissance</MURUVWallLight_PowerCostName>
 	<MURUVWallLight_PowerCostDesc>Il s'agit de la puissance électrique consommée par la lampe lorsqu'elle fonctionne (600 par défaut)</MURUVWallLight_PowerCostDesc>

@@ -41,7 +41,7 @@
 	<WobCapacityLimits.Stack.Resources.Desc>Métaux, blocs de pierre, matières végétales non comestibles, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Resources.Desc>
 
 	<WobCapacityLimits.Stack.Chunks.Title>Pile: Morceaux</WobCapacityLimits.Stack.Chunks.Title>
-	<WobCapacityLimits.Stack.Chunks.Desc>Morceaux pierres ou de métal.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Chunks.Desc>
+	<WobCapacityLimits.Stack.Chunks.Desc>Morceaux pierres ou débris métalliques.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Chunks.Desc>
 
 	<WobCapacityLimits.Stack.Artifacts.Title>Pile: Artéfacts</WobCapacityLimits.Stack.Artifacts.Title>
 	<WobCapacityLimits.Stack.Artifacts.Desc>Lance psychique, calmant, etc.\nLa taille maximale de la pile est multipliée par ce nombre.</WobCapacityLimits.Stack.Artifacts.Desc>

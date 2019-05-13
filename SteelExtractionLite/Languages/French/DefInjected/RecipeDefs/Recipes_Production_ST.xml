@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ExtractMetalFromDebris.label>extraire du métal des pierres</ExtractMetalFromDebris.label>
-	<ExtractMetalFromDebris.description>Utilise la chaleur ainsi que de puissants aimants électromagnétiques pour extraire le métal des morceaux de roches.</ExtractMetalFromDebris.description>
-	<ExtractMetalFromDebris.jobString>Extrait du métal.</ExtractMetalFromDebris.jobString>
+	<ExtractMetalFromDebris.label>extraire de l'acier des pierres</ExtractMetalFromDebris.label>
+	<ExtractMetalFromDebris.description>Utilise la chaleur ainsi que de puissants aimants électromagnétiques pour extraire l'acier des morceaux de roches.</ExtractMetalFromDebris.description>
+	<ExtractMetalFromDebris.jobString>Extrait de l'acier.</ExtractMetalFromDebris.jobString>
 
 </LanguageData>
