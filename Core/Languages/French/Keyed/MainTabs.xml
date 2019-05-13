@@ -101,11 +101,11 @@
   <!-- EN: Select graph -->
   <SelectGraph>Graphique</SelectGraph>
   <!-- EN: Last 30 days -->
-  <Last30Days>30 jours</Last30Days>
+  <Last30Days>30\nderniers jours</Last30Days>
   <!-- EN: Last 100 days -->
-  <Last100Days>100 jours</Last100Days>
+  <Last100Days>100\nderniers jours</Last100Days>
   <!-- EN: Last 300 days -->
-  <Last300Days>300 jours</Last300Days>
+  <Last300Days>300\nderniers jours</Last300Days>
   <!-- EN: All -->
   <AllDays>Tous</AllDays>
   <!-- EN: Value -->
