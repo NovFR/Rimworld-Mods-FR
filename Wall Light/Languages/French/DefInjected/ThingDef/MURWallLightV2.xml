@@ -29,7 +29,30 @@
 	<Frame_Lighting_MURWallLightBlueVII.label>lampe murale (bleue) (construction)</Frame_Lighting_MURWallLightBlueVII.label>
 	<Frame_Lighting_MURWallLightBlueVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightBlueVII.description>
 
+	<!-- Theorically hidden (but not so hidden) things -->
+
 	<Lighting_MURWallLightVII_On.label>lampe murale (allumée)</Lighting_MURWallLightVII_On.label>
 	<Lighting_MURWallLightVII_On.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_On.description>
+
+	<Lighting_MURWallLightRedVII_On.label>lampe murale (rouge) (allumée)</Lighting_MURWallLightRedVII_On.label>
+	<Lighting_MURWallLightRedVII_On.description>(ne devrait pas apparaître)</Lighting_MURWallLightRedVII_On.description>
+
+	<Lighting_MURWallLightGreenVII_On.label>lampe murale (verte) (allumée)</Lighting_MURWallLightGreenVII_On.label>
+	<Lighting_MURWallLightGreenVII_On.description>(ne devrait pas apparaître)</Lighting_MURWallLightGreenVII_On.description>
+
+	<Lighting_MURWallLightBlueVII_On.label>lampe murale (bleue) (allumée)</Lighting_MURWallLightBlueVII_On.label>
+	<Lighting_MURWallLightBlueVII_On.description>(ne devrait pas apparaître)</Lighting_MURWallLightBlueVII_On.description>
+
+	<Lighting_MURWallLightVII_Glower.label>lampe murale (lueur)</Lighting_MURWallLightVII_Glower.label>
+	<Lighting_MURWallLightVII_Glower.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_Glower.description>
+
+	<Lighting_MURWallLightVII_GlowerRed.label>lampe murale (rouge) (lueur)</Lighting_MURWallLightVII_GlowerRed.label>
+	<Lighting_MURWallLightVII_GlowerRed.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_GlowerRed.description>
+
+	<Lighting_MURWallLightVII_GlowerGreen.label>lampe murale (verte) (lueur)</Lighting_MURWallLightVII_GlowerGreen.label>
+	<Lighting_MURWallLightVII_GlowerGreen.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_GlowerGreen.description>
+
+	<Lighting_MURWallLightVII_GlowerBlue.label>lampe murale (bleue) (lueur)</Lighting_MURWallLightVII_GlowerBlue.label>
+	<Lighting_MURWallLightVII_GlowerBlue.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_GlowerBlue.description>
 
 </LanguageData>
