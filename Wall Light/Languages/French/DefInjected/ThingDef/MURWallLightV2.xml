@@ -29,4 +29,7 @@
 	<Frame_Lighting_MURWallLightBlueVII.label>lampe murale (bleue) (construction)</Frame_Lighting_MURWallLightBlueVII.label>
 	<Frame_Lighting_MURWallLightBlueVII.description>Une lampe conçue pour être accrochée à un mur.</Frame_Lighting_MURWallLightBlueVII.description>
 
+	<Lighting_MURWallLightVII_On.label>lampe murale (allumée)</Lighting_MURWallLightVII_On.label>
+	<Lighting_MURWallLightVII_On.description>(ne devrait pas apparaître)</Lighting_MURWallLightVII_On.description>
+
 </LanguageData>

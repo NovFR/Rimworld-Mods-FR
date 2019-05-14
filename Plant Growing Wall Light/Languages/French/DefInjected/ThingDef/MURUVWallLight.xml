@@ -4,4 +4,7 @@
 	<Lighting_MURUVWallLight.label>lampe horticole murale</Lighting_MURUVWallLight.label>
 	<Lighting_MURUVWallLight.description>Éclaire suffisamment pour que les plantes puissent pousser, s'installe sur un mur.</Lighting_MURUVWallLight.description>
 
+	<Lighting_MURUVWallLight_On.label>lampe horticole murale (allumée)</Lighting_MURUVWallLight_On.label>
+	<Lighting_MURUVWallLight_On.description>(ne devrait pas apparaître)</Lighting_MURUVWallLight_On.description>
+
 </LanguageData>
