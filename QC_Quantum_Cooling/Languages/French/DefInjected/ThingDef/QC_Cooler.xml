@@ -3,23 +3,23 @@
 
 	<QC_QuantumCooler_Proto.label>refroidisseur quantique (prototype)</QC_QuantumCooler_Proto.label>
 	<QC_QuantumCooler_Proto.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Cette version prototype ne fonctionne pas de façon optimale et peut avoir des difficultés à maintenir des températures négatives.</QC_QuantumCooler_Proto.description>
-	<QC_QuantumCooler_Proto_Blueprint.label>refroidisseur quantique (prototype) (blueprint)</QC_QuantumCooler_Proto_Blueprint.label>
-	<QC_QuantumCooler_Proto_Blueprint_Install.label>refroidisseur quantique (prototype) (blueprint)</QC_QuantumCooler_Proto_Blueprint_Install.label>
-	<QC_QuantumCooler_Proto_Frame.label>refroidisseur quantique (prototype) (construction)</QC_QuantumCooler_Proto_Frame.label>
-	<QC_QuantumCooler_Proto_Frame.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Cette version prototype ne fonctionne pas de façon optimale et peut avoir des difficultés à maintenir des températures négatives.</QC_QuantumCooler_Proto_Frame.description>
+	<Blueprint_QC_QuantumCooler_Proto.label>refroidisseur quantique (prototype) (blueprint)</Blueprint_QC_QuantumCooler_Proto.label>
+	<Blueprint_Install_QC_QuantumCooler_Proto.label>refroidisseur quantique (prototype) (blueprint)</Blueprint_Install_QC_QuantumCooler_Proto.label>
+	<Frame_QC_QuantumCooler_Proto.label>refroidisseur quantique (prototype) (construction)</Frame_QC_QuantumCooler_Proto.label>
+	<Frame_QC_QuantumCooler_Proto.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Cette version prototype ne fonctionne pas de façon optimale et peut avoir des difficultés à maintenir des températures négatives.</Frame_QC_QuantumCooler_Proto.description>
 
 	<QC_QuantumCooler.label>refroidisseur quantique (petit)</QC_QuantumCooler.label>
 	<QC_QuantumCooler.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer.</QC_QuantumCooler.description>
-	<QC_QuantumCooler_Blueprint.label>refroidisseur quantique  (petit) (plan)</QC_QuantumCooler_Blueprint.label>
-	<QC_QuantumCooler_Blueprint_Install.label>refroidisseur quantique  (petit) (plan)</QC_QuantumCooler_Blueprint_Install.label>
-	<QC_QuantumCooler_Frame.label>refroidisseur quantique (petit) (construction)</QC_QuantumCooler_Frame.label>
-	<QC_QuantumCooler_Frame.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it.</QC_QuantumCooler_Frame.description>
+	<Blueprint_QC_QuantumCooler.label>refroidisseur quantique  (petit) (plan)</Blueprint_QC_QuantumCooler.label>
+	<Blueprint_Install_QC_QuantumCooler.label>refroidisseur quantique  (petit) (plan)</Blueprint_Install_QC_QuantumCooler.label>
+	<Frame_QC_QuantumCooler.label>refroidisseur quantique (petit) (construction)</Frame_QC_QuantumCooler.label>
+	<Frame_QC_QuantumCooler.description>An Exhaustless Quantum Cooling device that uses energy to reduce entropy without displacing it.</Frame_QC_QuantumCooler.description>
 
 	<QC_QuantumCooler_Large.label>refroidisseur quantique (grand)</QC_QuantumCooler_Large.label>
 	<QC_QuantumCooler_Large.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Elle permet d'atteindre des températures extrêment basses.</QC_QuantumCooler_Large.description>
-	<QC_QuantumCooler_Large_Blueprint.label>refroidisseur quantique(grand) (plan)</QC_QuantumCooler_Large_Blueprint.label>
-	<QC_QuantumCooler_Large_Blueprint_Install.label>refroidisseur quantique (grand) (plan)</QC_QuantumCooler_Large_Blueprint_Install.label>
-	<QC_QuantumCooler_Large_Frame.label>refroidisseur quantique (grand) (construction)</QC_QuantumCooler_Large_Frame.label>
-	<QC_QuantumCooler_Large_Frame.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Elle permet d'atteindre des températures extrêment basses.</QC_QuantumCooler_Large_Frame.description>
+	<Blueprint_QC_QuantumCooler_Large.label>refroidisseur quantique(grand) (plan)</Blueprint_QC_QuantumCooler_Large.label>
+	<Blueprint_Install_QC_QuantumCooler_Large.label>refroidisseur quantique (grand) (plan)</Blueprint_Install_QC_QuantumCooler_Large.label>
+	<Frame_QC_QuantumCooler_Large.label>refroidisseur quantique (grand) (construction)</Frame_QC_QuantumCooler_Large.label>
+	<Frame_QC_QuantumCooler_Large.description>Une unité de refroidissement quantique qui utilise l'énergie pour réduire l'entropie sans la déplacer. Elle permet d'atteindre des températures extrêment basses.</Frame_QC_QuantumCooler_Large.description>
 
 </LanguageData>

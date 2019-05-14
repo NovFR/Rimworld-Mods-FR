@@ -1,56 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<WoodFence_Blueprint.label>clôture (plan)</WoodFence_Blueprint.label>
-	<WoodFence_Frame.label>clôture (construction)</WoodFence_Frame.label>
-	<WoodFence_Frame.description>Une bonne vieille clôture en bois.</WoodFence_Frame.description>
+	<Blueprint_WoodFence.label>clôture (plan)</Blueprint_WoodFence.label>
+	<Frame_WoodFence.label>clôture (construction)</Frame_WoodFence.label>
+	<Frame_WoodFence.description>Une bonne vieille clôture en bois.</Frame_WoodFence.description>
 
-	<WoodFenceGate_Blueprint.label>porte de clôture (plan)</WoodFenceGate_Blueprint.label>
-	<WoodFenceGate_Frame.label>porte de clôture (construction)</WoodFenceGate_Frame.label>
-	<WoodFenceGate_Frame.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</WoodFenceGate_Frame.description>
+	<Blueprint_WoodFenceGate.label>porte de clôture (plan)</Blueprint_WoodFenceGate.label>
+	<Frame_WoodFenceGate.label>porte de clôture (construction)</Frame_WoodFenceGate.label>
+	<Frame_WoodFenceGate.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</Frame_WoodFenceGate.description>
 
-	<WoodFenceGateB_Blueprint.label>porte de clôture latérale (plan)</WoodFenceGateB_Blueprint.label>
-	<WoodFenceGateB_Frame.label>porte de clôture latérale (construction)</WoodFenceGateB_Frame.label>
-	<WoodFenceGateB_Frame.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</WoodFenceGateB_Frame.description>
+	<Blueprint_WoodFenceGateB.label>porte de clôture latérale (plan)</Blueprint_WoodFenceGateB.label>
+	<Frame_WoodFenceGateB.label>porte de clôture latérale (construction)</Frame_WoodFenceGateB.label>
+	<Frame_WoodFenceGateB.description>Une bonne vieille porte pour une bonne vieille clôture en bois.</Frame_WoodFenceGateB.description>
 
-	<ChainFence_Blueprint.label>clôture (plan)</ChainFence_Blueprint.label>
-	<ChainFence_Frame.label>clôture (construction)</ChainFence_Frame.label>
-	<ChainFence_Frame.description>Une clôture robuste formée par des fils d'acier entrelacés.</ChainFence_Frame.description>
+	<Blueprint_ChainFence.label>clôture (plan)</Blueprint_ChainFence.label>
+	<Frame_ChainFence.label>clôture (construction)</Frame_ChainFence.label>
+	<Frame_ChainFence.description>Une clôture robuste formée par des fils d'acier entrelacés.</Frame_ChainFence.description>
 
-	<ChainFenceGate_Blueprint.label>porte de clôture (plan)</ChainFenceGate_Blueprint.label>
-	<ChainFenceGate_Frame.label>porte de clôture (construction)</ChainFenceGate_Frame.label>
-	<ChainFenceGate_Frame.description>Une porte robuste formée par des fils d'acier entrelacés.</ChainFenceGate_Frame.description>
+	<Blueprint_ChainFenceGate.label>porte de clôture (plan)</Blueprint_ChainFenceGate.label>
+	<Frame_ChainFenceGate.label>porte de clôture (construction)</Frame_ChainFenceGate.label>
+	<Frame_ChainFenceGate.description>Une porte robuste formée par des fils d'acier entrelacés.</Frame_ChainFenceGate.description>
 
-	<ChainFenceGateB_Blueprint.label>porte de clôture latérale (plan)</ChainFenceGateB_Blueprint.label>
-	<ChainFenceGateB_Frame.label>porte de clôture latérale latérale (construction)</ChainFenceGateB_Frame.label>
-	<ChainFenceGateB_Frame.description>Une porte robuste formée par des fils d'acier entrelacés.</ChainFenceGateB_Frame.description>
+	<Blueprint_ChainFenceGateB.label>porte de clôture latérale (plan)</Blueprint_ChainFenceGateB.label>
+	<Frame_ChainFenceGateB.label>porte de clôture latérale latérale (construction)</Frame_ChainFenceGateB.label>
+	<Frame_ChainFenceGateB.description>Une porte robuste formée par des fils d'acier entrelacés.</Frame_ChainFenceGateB.description>
 
-	<TechFence_Blueprint.label>clôture de sécurité (plan)</TechFence_Blueprint.label>
-	<TechFence_Frame.label>clôture de sécurité (construction)</TechFence_Frame.label>
-	<TechFence_Frame.description>Une grande clôture métallique surmontée par des fils barbelés coupant comme des rasoirs.</TechFence_Frame.description>
+	<Blueprint_TechFence.label>clôture de sécurité (plan)</Blueprint_TechFence.label>
+	<Frame_TechFence.label>clôture de sécurité (construction)</Frame_TechFence.label>
+	<Frame_TechFence.description>Une grande clôture métallique surmontée par des fils barbelés coupant comme des rasoirs.</Frame_TechFence.description>
 
-	<TechFenceGate_Blueprint.label>porte de clôture de sécurité (plan)</TechFenceGate_Blueprint.label>
-	<TechFenceGate_Frame.label>porte de clôture de sécurité (construction)</TechFenceGate_Frame.label>
-	<TechFenceGate_Frame.description>Une grande porte métallique de haute-sécurité.</TechFenceGate_Frame.description>
+	<Blueprint_TechFenceGate.label>porte de clôture de sécurité (plan)</Blueprint_TechFenceGate.label>
+	<Frame_TechFenceGate.label>porte de clôture de sécurité (construction)</Frame_TechFenceGate.label>
+	<Frame_TechFenceGate.description>Une grande porte métallique de haute-sécurité.</Frame_TechFenceGate.description>
 
-	<TechFenceGateB_Blueprint.label>porte de sécurité latérale (plan)</TechFenceGateB_Blueprint.label>
-	<TechFenceGateB_Frame.label>porte de sécurité latérale (construction)</TechFenceGateB_Frame.label>
-	<TechFenceGateB_Frame.description>Une grande porte métallique de haute-sécurité.</TechFenceGateB_Frame.description>
+	<Blueprint_TechFenceGateB.label>porte de sécurité latérale (plan)</Blueprint_TechFenceGateB.label>
+	<Frame_TechFenceGateB.label>porte de sécurité latérale (construction)</Frame_TechFenceGateB.label>
+	<Frame_TechFenceGateB.description>Une grande porte métallique de haute-sécurité.</Frame_TechFenceGateB.description>
 
-	<SecurityBarrier_Blueprint.label>couverture de sécurité (plan)</SecurityBarrier_Blueprint.label>
-	<SecurityBarrier_Frame.label>couverture de sécurité (construction)</SecurityBarrier_Frame.label>
-	<SecurityBarrier_Frame.description>Une barrière de sécurité qui offre une couverture d'urgence dans les situations de combat.</SecurityBarrier_Frame.description>
+	<Blueprint_SecurityBarrier.label>couverture de sécurité (plan)</Blueprint_SecurityBarrier.label>
+	<Frame_SecurityBarrier.label>couverture de sécurité (construction)</Frame_SecurityBarrier.label>
+	<Frame_SecurityBarrier.description>Une barrière de sécurité qui offre une couverture d'urgence dans les situations de combat.</Frame_SecurityBarrier.description>
 
-	<FAFWoodTile_Blueprint.label>sol en contre-plaqué (plan)</FAFWoodTile_Blueprint.label>
-	<FAFWoodTile_Frame.label>sol en contre-plaqué (construction)</FAFWoodTile_Frame.label>
+	<Blueprint_FAFWoodTile.label>sol en contre-plaqué (plan)</Blueprint_FAFWoodTile.label>
+	<Frame_FAFWoodTile.label>sol en contre-plaqué (construction)</Frame_FAFWoodTile.label>
 
-	<FAFMetalTileA_Blueprint.label>grille en acier (plan)</FAFMetalTileA_Blueprint.label>
-	<FAFMetalTileA_Frame.label>grille en acier (construction)</FAFMetalTileA_Frame.label>
+	<Blueprint_FAFMetalTileA.label>grille en acier (plan)</Blueprint_FAFMetalTileA.label>
+	<Frame_FAFMetalTileA.label>grille en acier (construction)</Frame_FAFMetalTileA.label>
 
-	<FAFMetalTileB_Blueprint.label>panneau métalique (plan)</FAFMetalTileB_Blueprint.label>
-	<FAFMetalTileB_Frame.label>panneau métalique (construction)</FAFMetalTileB_Frame.label>
+	<Blueprint_FAFMetalTileB.label>panneau métalique (plan)</Blueprint_FAFMetalTileB.label>
+	<Frame_FAFMetalTileB.label>panneau métalique (construction)</Frame_FAFMetalTileB.label>
 
-	<FAFTechTile_Blueprint.label>panneau de capteurs (plan)</FAFTechTile_Blueprint.label>
-	<FAFTechTile_Frame.label>panneau de capteurs (construction)</FAFTechTile_Frame.label>
+	<Blueprint_FAFTechTile.label>panneau de capteurs (plan)</Blueprint_FAFTechTile.label>
+	<Frame_FAFTechTile.label>panneau de capteurs (construction)</Frame_FAFTechTile.label>
 
 </LanguageData>

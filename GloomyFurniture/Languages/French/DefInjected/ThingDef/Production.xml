@@ -3,65 +3,65 @@
 
   <RGK_SimpleResearchBench.label>poste de recherche basique</RGK_SimpleResearchBench.label>
   <RGK_SimpleResearchBench.description>Un poste de recherche doté du stricte minimum pour effecter des recherches.</RGK_SimpleResearchBench.description>
-  <RGK_SimpleResearchBench_Blueprint.label>poste de recherche basique (plan)</RGK_SimpleResearchBench_Blueprint.label>
-  <RGK_SimpleResearchBench_Blueprint_Install.label>poste de recherche basique (plan)</RGK_SimpleResearchBench_Blueprint_Install.label>
-  <RGK_SimpleResearchBench_Frame.label>poste de recherche basique (construction)</RGK_SimpleResearchBench_Frame.label>
-  <RGK_SimpleResearchBench_Frame.description>Un poste de recherche doté du stricte minimum pour effecter des recherches.</RGK_SimpleResearchBench_Frame.description>
+  <Blueprint_RGK_SimpleResearchBench.label>poste de recherche basique (plan)</Blueprint_RGK_SimpleResearchBench.label>
+  <Blueprint_Install_RGK_SimpleResearchBench.label>poste de recherche basique (plan)</Blueprint_Install_RGK_SimpleResearchBench.label>
+  <Frame_RGK_SimpleResearchBench.label>poste de recherche basique (construction)</Frame_RGK_SimpleResearchBench.label>
+  <Frame_RGK_SimpleResearchBench.description>Un poste de recherche doté du stricte minimum pour effecter des recherches.</Frame_RGK_SimpleResearchBench.description>
 
   <RGK_FueledStove.label>cuisine</RGK_FueledStove.label>
   <RGK_FueledStove.description>Une cuisine alimentée par un feu de bois.</RGK_FueledStove.description>
-  <RGK_FueledStove_Blueprint.label>cuisine (plan)</RGK_FueledStove_Blueprint.label>
-  <RGK_FueledStove_Blueprint_Install.label>cuisine (plan)</RGK_FueledStove_Blueprint_Install.label>
-  <RGK_FueledStove_Frame.label>cuisine (construction)</RGK_FueledStove_Frame.label>
-  <RGK_FueledStove_Frame.description>Une cuisine alimentée par un feu de bois.</RGK_FueledStove_Frame.description>
+  <Blueprint_RGK_FueledStove.label>cuisine (plan)</Blueprint_RGK_FueledStove.label>
+  <Blueprint_Install_RGK_FueledStove.label>cuisine (plan)</Blueprint_Install_RGK_FueledStove.label>
+  <Frame_RGK_FueledStove.label>cuisine (construction)</Frame_RGK_FueledStove.label>
+  <Frame_RGK_FueledStove.description>Une cuisine alimentée par un feu de bois.</Frame_RGK_FueledStove.description>
 
 
   <GL_ElectricStove.label>cuisine électrique</GL_ElectricStove.label>
   <GL_ElectricStove.description>Une cuisine qui fonctionne à l'électricité.</GL_ElectricStove.description>
-  <GL_ElectricStove_Blueprint.label>cuisine électrique (plan)</GL_ElectricStove_Blueprint.label>
-  <GL_ElectricStove_Blueprint_Install.label>cuisine électrique (plan)</GL_ElectricStove_Blueprint_Install.label>
-  <GL_ElectricStove_Frame.label>cuisine électrique (construction)</GL_ElectricStove_Frame.label>
-  <GL_ElectricStove_Frame.description>Une cuisine qui fonctionne à l'électricité.</GL_ElectricStove_Frame.description>
+  <Blueprint_GL_ElectricStove.label>cuisine électrique (plan)</Blueprint_GL_ElectricStove.label>
+  <Blueprint_Install_GL_ElectricStove.label>cuisine électrique (plan)</Blueprint_Install_GL_ElectricStove.label>
+  <Frame_GL_ElectricStove.label>cuisine électrique (construction)</Frame_GL_ElectricStove.label>
+  <Frame_GL_ElectricStove.description>Une cuisine qui fonctionne à l'électricité.</Frame_GL_ElectricStove.description>
 
   <!-- 화톳불 -->
 
   <GL_Bonfire.label>feu</GL_Bonfire.label>
   <GL_Bonfire.description>Permet de cuisiner des plats et produit un peu de chaleur. Fonctionne mieux en intérieur.</GL_Bonfire.description>
-  <GL_Bonfire_Blueprint.label>feu (plan)</GL_Bonfire_Blueprint.label>
-  <GL_Bonfire_Blueprint_Install.label>feu (plan)</GL_Bonfire_Blueprint_Install.label>
-  <GL_Bonfire_Frame.label>feu (construction)</GL_Bonfire_Frame.label>
-  <GL_Bonfire_Frame.description>Permet de cuisiner des plats et produit un peu de chaleur. Fonctionne mieux en intérieur.</GL_Bonfire_Frame.description>
+  <Blueprint_GL_Bonfire.label>feu (plan)</Blueprint_GL_Bonfire.label>
+  <Blueprint_Install_GL_Bonfire.label>feu (plan)</Blueprint_Install_GL_Bonfire.label>
+  <Frame_GL_Bonfire.label>feu (construction)</Frame_GL_Bonfire.label>
+  <Frame_GL_Bonfire.description>Permet de cuisiner des plats et produit un peu de chaleur. Fonctionne mieux en intérieur.</Frame_GL_Bonfire.description>
 
   <!-- 재봉틀 -->
 
   <GL_HandTailoringBench.label>établi de tissage manuel</GL_HandTailoringBench.label>
   <GL_HandTailoringBench.description>Un établi permettant de fabriquer des vetements à la main. Fonctionne 50% plus lentement qu'un établi éléctrique.</GL_HandTailoringBench.description>
-  <GL_HandTailoringBench_Blueprint.label>établi de tissage manuel (plan)</GL_HandTailoringBench_Blueprint.label>
-  <GL_HandTailoringBench_Blueprint_Install.label>établi de tissage manuel (plan)</GL_HandTailoringBench_Blueprint_Install.label>
-  <GL_HandTailoringBench_Frame.label>établi de tissage manuel (construction)</GL_HandTailoringBench_Frame.label>
-  <GL_HandTailoringBench_Frame.description>Un établir permettant de fabriquer des vetements à la main. Fonctionne 50% plus lentement qu'un établi électrique.</GL_HandTailoringBench_Frame.description>
+  <Blueprint_GL_HandTailoringBench.label>établi de tissage manuel (plan)</Blueprint_GL_HandTailoringBench.label>
+  <Blueprint_Install_GL_HandTailoringBench.label>établi de tissage manuel (plan)</Blueprint_Install_GL_HandTailoringBench.label>
+  <Frame_GL_HandTailoringBench.label>établi de tissage manuel (construction)</Frame_GL_HandTailoringBench.label>
+  <Frame_GL_HandTailoringBench.description>Un établir permettant de fabriquer des vetements à la main. Fonctionne 50% plus lentement qu'un établi électrique.</Frame_GL_HandTailoringBench.description>
 
   <GL_ElectricTailoringBench.label>établi de tissage éléctrique</GL_ElectricTailoringBench.label>
   <GL_ElectricTailoringBench.description>Un établi permettant de fabriquer des vetements. Peut fonctionner sans éléctricité mais la confection durera dans ce cas deux fois plus longtemps.</GL_ElectricTailoringBench.description>
-  <GL_ElectricTailoringBench_Blueprint.label>établi de tissage éléctrique (plan)</GL_ElectricTailoringBench_Blueprint.label>
-  <GL_ElectricTailoringBench_Blueprint_Install.label>établi de tissage éléctrique (plan)</GL_ElectricTailoringBench_Blueprint_Install.label>
-  <GL_ElectricTailoringBench_Frame.label>établi de tissage électrique (construction)</GL_ElectricTailoringBench_Frame.label>
-  <GL_ElectricTailoringBench_Frame.description>Un établi permettant de fabriquer des vetements. Peut fonctionner sans éléctricité mais la confection durera dans ce cas deux fois plus longtemps.</GL_ElectricTailoringBench_Frame.description>
+  <Blueprint_GL_ElectricTailoringBench.label>établi de tissage éléctrique (plan)</Blueprint_GL_ElectricTailoringBench.label>
+  <Blueprint_Install_GL_ElectricTailoringBench.label>établi de tissage éléctrique (plan)</Blueprint_Install_GL_ElectricTailoringBench.label>
+  <Frame_GL_ElectricTailoringBench.label>établi de tissage électrique (construction)</Frame_GL_ElectricTailoringBench.label>
+  <Frame_GL_ElectricTailoringBench.description>Un établi permettant de fabriquer des vetements. Peut fonctionner sans éléctricité mais la confection durera dans ce cas deux fois plus longtemps.</Frame_GL_ElectricTailoringBench.description>
 
   <!-- 단조대 -->
 
   <GL_FueledSmithy.label>forge à combustible</GL_FueledSmithy.label>
   <GL_FueledSmithy.description>Un établi qui fonctionne par la combustion de bois pour forger et assembler des armes et des outils sans mécanismes.</GL_FueledSmithy.description>
-  <GL_FueledSmithy_Blueprint.label>forge à combustible (plan)</GL_FueledSmithy_Blueprint.label>
-  <GL_FueledSmithy_Blueprint_Install.label>forge à combustible (plan)</GL_FueledSmithy_Blueprint_Install.label>
-  <GL_FueledSmithy_Frame.label>forge à combustible (construction)</GL_FueledSmithy_Frame.label>
-  <GL_FueledSmithy_Frame.description>Un établi qui fonctionne par la combustion de bois pour forger et assembler des armes et des outils sans mécanismes.</GL_FueledSmithy_Frame.description>
+  <Blueprint_GL_FueledSmithy.label>forge à combustible (plan)</Blueprint_GL_FueledSmithy.label>
+  <Blueprint_Install_GL_FueledSmithy.label>forge à combustible (plan)</Blueprint_Install_GL_FueledSmithy.label>
+  <Frame_GL_FueledSmithy.label>forge à combustible (construction)</Frame_GL_FueledSmithy.label>
+  <Frame_GL_FueledSmithy.description>Un établi qui fonctionne par la combustion de bois pour forger et assembler des armes et des outils sans mécanismes.</Frame_GL_FueledSmithy.description>
 
   <GL_ElectricSmithy.label>forge éléctrique</GL_ElectricSmithy.label>
   <GL_ElectricSmithy.description>Un établi qui fonctionne à l'éléctricité pour forger et assembler des armes et des outils sans mécanismes.</GL_ElectricSmithy.description>
-  <GL_ElectricSmithy_Blueprint.label>forge éléctrique (plan)</GL_ElectricSmithy_Blueprint.label>
-  <GL_ElectricSmithy_Blueprint_Install.label>forge éléctrique (plan)</GL_ElectricSmithy_Blueprint_Install.label>
-  <GL_ElectricSmithy_Frame.label>forge éléctrique (construction)</GL_ElectricSmithy_Frame.label>
-  <GL_ElectricSmithy_Frame.description>Un établi qui fonctionne à l'éléctricité pour forger et assembler des armes et des outils sans mécanismes.</GL_ElectricSmithy_Frame.description>
+  <Blueprint_GL_ElectricSmithy.label>forge éléctrique (plan)</Blueprint_GL_ElectricSmithy.label>
+  <Blueprint_Install_GL_ElectricSmithy.label>forge éléctrique (plan)</Blueprint_Install_GL_ElectricSmithy.label>
+  <Frame_GL_ElectricSmithy.label>forge éléctrique (construction)</Frame_GL_ElectricSmithy.label>
+  <Frame_GL_ElectricSmithy.description>Un établi qui fonctionne à l'éléctricité pour forger et assembler des armes et des outils sans mécanismes.</Frame_GL_ElectricSmithy.description>
 
 </LanguageData>

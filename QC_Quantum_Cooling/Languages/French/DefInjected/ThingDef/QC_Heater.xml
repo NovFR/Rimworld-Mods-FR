@@ -3,16 +3,16 @@
 
 	<QC_QuantumHeater.label>chauffage quantique (petit)</QC_QuantumHeater.label>
 	<QC_QuantumHeater.description>Un petit chauffage quantique.</QC_QuantumHeater.description>
-	<QC_QuantumHeater_Blueprint.label>chauffage quantique (petit) (plan)</QC_QuantumHeater_Blueprint.label>
-	<QC_QuantumHeater_Blueprint_Install.label>chauffage quantique (petit) (plan)</QC_QuantumHeater_Blueprint_Install.label>
-	<QC_QuantumHeater_Frame.label>chauffage quantique (petit) (construction)</QC_QuantumHeater_Frame.label>
-	<QC_QuantumHeater_Frame.description>Un petit chauffage quantique.</QC_QuantumHeater_Frame.description>
+	<Blueprint_QC_QuantumHeater.label>chauffage quantique (petit) (plan)</Blueprint_QC_QuantumHeater.label>
+	<Blueprint_Install_QC_QuantumHeater.label>chauffage quantique (petit) (plan)</Blueprint_Install_QC_QuantumHeater.label>
+	<Frame_QC_QuantumHeater.label>chauffage quantique (petit) (construction)</Frame_QC_QuantumHeater.label>
+	<Frame_QC_QuantumHeater.description>Un petit chauffage quantique.</Frame_QC_QuantumHeater.description>
 
 	<QC_QuantumHeater_Large.label>chauffage quantique (grand)</QC_QuantumHeater_Large.label>
 	<QC_QuantumHeater_Large.description>Un grand chauffage quantique.</QC_QuantumHeater_Large.description>
-	<QC_QuantumHeater_Large_Blueprint.label>chauffage quantique (grand) (plan)</QC_QuantumHeater_Large_Blueprint.label>
-	<QC_QuantumHeater_Large_Blueprint_Install.label>chauffage quantique (grand) (plan)</QC_QuantumHeater_Large_Blueprint_Install.label>
-	<QC_QuantumHeater_Large_Frame.label>chauffage quantique (grand) (construction)</QC_QuantumHeater_Large_Frame.label>
-	<QC_QuantumHeater_Large_Frame.description>Un grand chauffage quantique.</QC_QuantumHeater_Large_Frame.description>
+	<Blueprint_QC_QuantumHeater_Large.label>chauffage quantique (grand) (plan)</Blueprint_QC_QuantumHeater_Large.label>
+	<Blueprint_Install_QC_QuantumHeater_Large.label>chauffage quantique (grand) (plan)</Blueprint_Install_QC_QuantumHeater_Large.label>
+	<Frame_QC_QuantumHeater_Large.label>chauffage quantique (grand) (construction)</Frame_QC_QuantumHeater_Large.label>
+	<Frame_QC_QuantumHeater_Large.description>Un grand chauffage quantique.</Frame_QC_QuantumHeater_Large.description>
 
 </LanguageData>

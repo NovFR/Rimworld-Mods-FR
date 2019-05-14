@@ -5,307 +5,307 @@
 
   <RGK_bedSingle.label>lit</RGK_bedSingle.label>
   <RGK_bedSingle.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</RGK_bedSingle.description>
-  <RGK_bedSingle_Blueprint.label>lit (plan)</RGK_bedSingle_Blueprint.label>
-  <RGK_bedSingle_Blueprint_Install.label>lit (plan)</RGK_bedSingle_Blueprint_Install.label>
-  <RGK_bedSingle_Frame.label>lit (construction)</RGK_bedSingle_Frame.label>
-  <RGK_bedSingle_Frame.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</RGK_bedSingle_Frame.description>
+  <Blueprint_RGK_bedSingle.label>lit (plan)</Blueprint_RGK_bedSingle.label>
+  <Blueprint_Install_RGK_bedSingle.label>lit (plan)</Blueprint_Install_RGK_bedSingle.label>
+  <Frame_RGK_bedSingle.label>lit (construction)</Frame_RGK_bedSingle.label>
+  <Frame_RGK_bedSingle.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</Frame_RGK_bedSingle.description>
 
   <RGK_bedSingleB.label>lit</RGK_bedSingleB.label>
   <RGK_bedSingleB.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</RGK_bedSingleB.description>
-  <RGK_bedSingleB_Blueprint.label>lit (plan)</RGK_bedSingleB_Blueprint.label>
-  <RGK_bedSingleB_Blueprint_Install.label>lit (plan)</RGK_bedSingleB_Blueprint_Install.label>
-  <RGK_bedSingleB_Frame.label>lit (construction)</RGK_bedSingleB_Frame.label>
-  <RGK_bedSingleB_Frame.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</RGK_bedSingleB_Frame.description>
+  <Blueprint_RGK_bedSingleB.label>lit (plan)</Blueprint_RGK_bedSingleB.label>
+  <Blueprint_Install_RGK_bedSingleB.label>lit (plan)</Blueprint_Install_RGK_bedSingleB.label>
+  <Frame_RGK_bedSingleB.label>lit (construction)</Frame_RGK_bedSingleB.label>
+  <Frame_RGK_bedSingleB.description>Un matelat douillet et des draps sur un cadre de lit, pour se reposer.</Frame_RGK_bedSingleB.description>
 
   <RGK_bedDouble.label>lit double</RGK_bedDouble.label>
   <RGK_bedDouble.description>Un lit simple pour deux personnes.</RGK_bedDouble.description>
-  <RGK_bedDouble_Blueprint.label>lit double (plan)</RGK_bedDouble_Blueprint.label>
-  <RGK_bedDouble_Blueprint_Install.label>lit double (plan)</RGK_bedDouble_Blueprint_Install.label>
-  <RGK_bedDouble_Frame.label>lit double (construction)</RGK_bedDouble_Frame.label>
-  <RGK_bedDouble_Frame.description>Un lit simple pour deux personnes.</RGK_bedDouble_Frame.description>
+  <Blueprint_RGK_bedDouble.label>lit double (plan)</Blueprint_RGK_bedDouble.label>
+  <Blueprint_Install_RGK_bedDouble.label>lit double (plan)</Blueprint_Install_RGK_bedDouble.label>
+  <Frame_RGK_bedDouble.label>lit double (construction)</Frame_RGK_bedDouble.label>
+  <Frame_RGK_bedDouble.description>Un lit simple pour deux personnes.</Frame_RGK_bedDouble.description>
 
   <RGK_bedDoubleB.label>lit double celtique</RGK_bedDoubleB.label>
   <RGK_bedDoubleB.description>Un lit simple d'influence celtique pour deux personnes.</RGK_bedDoubleB.description>
-  <RGK_bedDoubleB_Blueprint.label>lit double celtique (plan)</RGK_bedDoubleB_Blueprint.label>
-  <RGK_bedDoubleB_Blueprint_Install.label>lit double celtique (plan)</RGK_bedDoubleB_Blueprint_Install.label>
-  <RGK_bedDoubleB_Frame.label>lit double celtique (construction)</RGK_bedDoubleB_Frame.label>
-  <RGK_bedDoubleB_Frame.description>Un lit simple d'influence celtique pour deux personnes.</RGK_bedDoubleB_Frame.description>
+  <Blueprint_RGK_bedDoubleB.label>lit double celtique (plan)</Blueprint_RGK_bedDoubleB.label>
+  <Blueprint_Install_RGK_bedDoubleB.label>lit double celtique (plan)</Blueprint_Install_RGK_bedDoubleB.label>
+  <Frame_RGK_bedDoubleB.label>lit double celtique (construction)</Frame_RGK_bedDoubleB.label>
+  <Frame_RGK_bedDoubleB.description>Un lit simple d'influence celtique pour deux personnes.</Frame_RGK_bedDoubleB.description>
 
 
   <!-- 레이스 더블 침대 -->
 
   <GL_ClassyDoubleBed.label>lit double luxueux</GL_ClassyDoubleBed.label>
   <GL_ClassyDoubleBed.description>Un lit élégant pour deux personnes.</GL_ClassyDoubleBed.description>
-  <GL_ClassyDoubleBed_Blueprint.label>lit double luxueux (plan)</GL_ClassyDoubleBed_Blueprint.label>
-  <GL_ClassyDoubleBed_Blueprint_Install.label>lit double luxueux (plan)</GL_ClassyDoubleBed_Blueprint_Install.label>
-  <GL_ClassyDoubleBed_Frame.label>lit double luxueux (construction)</GL_ClassyDoubleBed_Frame.label>
-  <GL_ClassyDoubleBed_Frame.description>Un lit élégant pour deux personnes.</GL_ClassyDoubleBed_Frame.description>
+  <Blueprint_GL_ClassyDoubleBed.label>lit double luxueux (plan)</Blueprint_GL_ClassyDoubleBed.label>
+  <Blueprint_Install_GL_ClassyDoubleBed.label>lit double luxueux (plan)</Blueprint_Install_GL_ClassyDoubleBed.label>
+  <Frame_GL_ClassyDoubleBed.label>lit double luxueux (construction)</Frame_GL_ClassyDoubleBed.label>
+  <Frame_GL_ClassyDoubleBed.description>Un lit élégant pour deux personnes.</Frame_GL_ClassyDoubleBed.description>
 
 
   <!-- Table -->
 
   <RGK_Dresser.label>commode</RGK_Dresser.label>
   <RGK_Dresser.description>Donne un petit bonus de confort à tous les lits à proximité. Placer plus d'une commode près d'un même lit n'aura aucun effet.</RGK_Dresser.description>
-  <RGK_Dresser_Blueprint.label>commode (plan)</RGK_Dresser_Blueprint.label>
-  <RGK_Dresser_Blueprint_Install.label>commode (plan)</RGK_Dresser_Blueprint_Install.label>
-  <RGK_Dresser_Frame.label>commode (construction)</RGK_Dresser_Frame.label>
-  <RGK_Dresser_Frame.description>Donne un petit bonus de confort à tous les lits à proximité. Placer plus d'une commode près d'un même lit n'aura aucun effet.</RGK_Dresser_Frame.description>
+  <Blueprint_RGK_Dresser.label>commode (plan)</Blueprint_RGK_Dresser.label>
+  <Blueprint_Install_RGK_Dresser.label>commode (plan)</Blueprint_Install_RGK_Dresser.label>
+  <Frame_RGK_Dresser.label>commode (construction)</Frame_RGK_Dresser.label>
+  <Frame_RGK_Dresser.description>Donne un petit bonus de confort à tous les lits à proximité. Placer plus d'une commode près d'un même lit n'aura aucun effet.</Frame_RGK_Dresser.description>
 
   <RGK_EndTable.label>table de nuit</RGK_EndTable.label>
   <RGK_EndTable.description>Donne un petit bonus de confort à un lit si elle est placée à côté de la tête du lit. Placer plus d'une table près d'un même lit n'aura aucun effet.</RGK_EndTable.description>
-  <RGK_EndTable_Blueprint.label>End table (plan)</RGK_EndTable_Blueprint.label>
-  <RGK_EndTable_Blueprint_Install.label>End table (plan)</RGK_EndTable_Blueprint_Install.label>
-  <RGK_EndTable_Frame.label>End table (construction)</RGK_EndTable_Frame.label>
-  <RGK_EndTable_Frame.description>Donne un petit bonus de confort à un lit si elle est placée à côté de la tête du lit. Placer plus d'une table près d'un même lit n'aura aucun effet.</RGK_EndTable_Frame.description>
+  <Blueprint_RGK_EndTable.label>End table (plan)</Blueprint_RGK_EndTable.label>
+  <Blueprint_Install_RGK_EndTable.label>End table (plan)</Blueprint_Install_RGK_EndTable.label>
+  <Frame_RGK_EndTable.label>End table (construction)</Frame_RGK_EndTable.label>
+  <Frame_RGK_EndTable.description>Donne un petit bonus de confort à un lit si elle est placée à côté de la tête du lit. Placer plus d'une table près d'un même lit n'aura aucun effet.</Frame_RGK_EndTable.description>
 
   <RGK_EndTableWithLamp.label>table de nuit</RGK_EndTableWithLamp.label>
   <RGK_EndTableWithLamp.description>Donne un petit bonus de confort à un lit si elle est placée à côté de la tête du lit. Placer plus d'une table près d'un même lit n'aura aucun effet.</RGK_EndTableWithLamp.description>
-  <RGK_EndTableWithLamp_Blueprint_Install.label>table de nuit (plan)</RGK_EndTableWithLamp_Blueprint_Install.label>
+  <Blueprint_Install_RGK_EndTableWithLamp.label>table de nuit (plan)</Blueprint_Install_RGK_EndTableWithLamp.label>
 
   <RGK_EndTableWithLampE.label>table de nuit</RGK_EndTableWithLampE.label>
   <RGK_EndTableWithLampE.description>Donne un petit bonus de confort à un lit si elle est placée à côté de la tête du lit. Placer plus d'une table près d'un même lit n'aura aucun effet. Nécessite un réseau électrique.</RGK_EndTableWithLampE.description>
-  <RGK_EndTableWithLampE_Blueprint_Install.label>table de nuit (plan)</RGK_EndTableWithLampE_Blueprint_Install.label>
+  <Blueprint_Install_RGK_EndTableWithLampE.label>table de nuit (plan)</Blueprint_Install_RGK_EndTableWithLampE.label>
 
 
   <!-- Chair -->
 
   <RGK_bucketr.label>sceau</RGK_bucketr.label>
   <RGK_bucketr.description>Un simple sceau en bois.</RGK_bucketr.description>
-  <RGK_bucketr_Blueprint.label>sceau (plan)</RGK_bucketr_Blueprint.label>
-  <RGK_bucketr_Blueprint_Install.label>sceau (plan)</RGK_bucketr_Blueprint_Install.label>
-  <RGK_bucketr_Frame.label>sceau (construction)</RGK_bucketr_Frame.label>
-  <RGK_bucketr_Frame.description>Un simple sceau en bois.</RGK_bucketr_Frame.description>
+  <Blueprint_RGK_bucketr.label>sceau (plan)</Blueprint_RGK_bucketr.label>
+  <Blueprint_Install_RGK_bucketr.label>sceau (plan)</Blueprint_Install_RGK_bucketr.label>
+  <Frame_RGK_bucketr.label>sceau (construction)</Frame_RGK_bucketr.label>
+  <Frame_RGK_bucketr.description>Un simple sceau en bois.</Frame_RGK_bucketr.description>
 
   <RGK_orc.label>baril</RGK_orc.label>
   <RGK_orc.description>Un baril en bois.</RGK_orc.description>
-  <RGK_orc_Blueprint.label>baril (plan)</RGK_orc_Blueprint.label>
-  <RGK_orc_Blueprint_Install.label>baril (plan)</RGK_orc_Blueprint_Install.label>
-  <RGK_orc_Frame.label>baril (construction)</RGK_orc_Frame.label>
-  <RGK_orc_Frame.description>Un baril en bois.</RGK_orc_Frame.description>
+  <Blueprint_RGK_orc.label>baril (plan)</Blueprint_RGK_orc.label>
+  <Blueprint_Install_RGK_orc.label>baril (plan)</Blueprint_Install_RGK_orc.label>
+  <Frame_RGK_orc.label>baril (construction)</Frame_RGK_orc.label>
+  <Frame_RGK_orc.description>Un baril en bois.</Frame_RGK_orc.description>
 
   <RGK_SimpleChair.label>tabouret</RGK_SimpleChair.label>
   <RGK_SimpleChair.description>Un objet simple pour s'asseoir.</RGK_SimpleChair.description>
-  <RGK_SimpleChair_Blueprint.label>tabouret (plan)</RGK_SimpleChair_Blueprint.label>
-  <RGK_SimpleChair_Blueprint_Install.label>tabouret (plan)</RGK_SimpleChair_Blueprint_Install.label>
-  <RGK_SimpleChair_Frame.label>tabouret (construction)</RGK_SimpleChair_Frame.label>
-  <RGK_SimpleChair_Frame.description>Un objet simple pour s'asseoir.</RGK_SimpleChair_Frame.description>
+  <Blueprint_RGK_SimpleChair.label>tabouret (plan)</Blueprint_RGK_SimpleChair.label>
+  <Blueprint_Install_RGK_SimpleChair.label>tabouret (plan)</Blueprint_Install_RGK_SimpleChair.label>
+  <Frame_RGK_SimpleChair.label>tabouret (construction)</Frame_RGK_SimpleChair.label>
+  <Frame_RGK_SimpleChair.description>Un objet simple pour s'asseoir.</Frame_RGK_SimpleChair.description>
 
   <RGK_Chair.label>chaise</RGK_Chair.label>
   <RGK_Chair.description>Une chaise confortable pour s'asseoir à une table.</RGK_Chair.description>
-  <RGK_Chair_Blueprint.label>chaise (plan)</RGK_Chair_Blueprint.label>
-  <RGK_Chair_Blueprint_Install.label>chaise (plan)</RGK_Chair_Blueprint_Install.label>
-  <RGK_Chair_Frame.label>chaise (construction)</RGK_Chair_Frame.label>
-  <RGK_Chair_Frame.description>Une chaise confortable pour s'asseoir à une table.</RGK_Chair_Frame.description>
+  <Blueprint_RGK_Chair.label>chaise (plan)</Blueprint_RGK_Chair.label>
+  <Blueprint_Install_RGK_Chair.label>chaise (plan)</Blueprint_Install_RGK_Chair.label>
+  <Frame_RGK_Chair.label>chaise (construction)</Frame_RGK_Chair.label>
+  <Frame_RGK_Chair.description>Une chaise confortable pour s'asseoir à une table.</Frame_RGK_Chair.description>
 
   <RGKDiningChair.label>chaise</RGKDiningChair.label>
   <RGKDiningChair.description>Une chaise confortable et élégante pour s'asseoir à une table.</RGKDiningChair.description>
-  <RGKDiningChair_Blueprint.label>chaise (plan)</RGKDiningChair_Blueprint.label>
-  <RGKDiningChair_Blueprint_Install.label>chaise (plan)</RGKDiningChair_Blueprint_Install.label>
-  <RGKDiningChair_Frame.label>chaise (construction)</RGKDiningChair_Frame.label>
-  <RGKDiningChair_Frame.description>Une chaise confortable et élégante pour s'asseoir à une table.</RGKDiningChair_Frame.description>
+  <Blueprint_RGKDiningChair.label>chaise (plan)</Blueprint_RGKDiningChair.label>
+  <Blueprint_Install_RGKDiningChair.label>chaise (plan)</Blueprint_Install_RGKDiningChair.label>
+  <Frame_RGKDiningChair.label>chaise (construction)</Frame_RGKDiningChair.label>
+  <Frame_RGKDiningChair.description>Une chaise confortable et élégante pour s'asseoir à une table.</Frame_RGKDiningChair.description>
 
 
   <!-- 공원벤치 -->
 
   <GL_Bench.label>banc</GL_Bench.label>
   <GL_Bench.description>Un banc banal.</GL_Bench.description>
-  <GL_Bench_Blueprint.label>banc (plan)</GL_Bench_Blueprint.label>
-  <GL_Bench_Blueprint_Install.label>banc (plan)</GL_Bench_Blueprint_Install.label>
-  <GL_Bench_Frame.label>banc (construction)</GL_Bench_Frame.label>
-  <GL_Bench_Frame.description>Un banc banal.</GL_Bench_Frame.description>
+  <Blueprint_GL_Bench.label>banc (plan)</Blueprint_GL_Bench.label>
+  <Blueprint_Install_GL_Bench.label>banc (plan)</Blueprint_Install_GL_Bench.label>
+  <Frame_GL_Bench.label>banc (construction)</Frame_GL_Bench.label>
+  <Frame_GL_Bench.description>Un banc banal.</Frame_GL_Bench.description>
 
 
   <!-- 테이블들 -->
 
   <RGK_TableA.label>table (2x2)</RGK_TableA.label>
   <RGK_TableA.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableA.description>
-  <RGK_TableA_Blueprint.label>table (2x2) (plan)</RGK_TableA_Blueprint.label>
-  <RGK_TableA_Blueprint_Install.label>table (2x2) (plan)</RGK_TableA_Blueprint_Install.label>
-  <RGK_TableA_Frame.label>table (2x2) (construction)</RGK_TableA_Frame.label>
-  <RGK_TableA_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableA_Frame.description>
+  <Blueprint_RGK_TableA.label>table (2x2) (plan)</Blueprint_RGK_TableA.label>
+  <Blueprint_Install_RGK_TableA.label>table (2x2) (plan)</Blueprint_Install_RGK_TableA.label>
+  <Frame_RGK_TableA.label>table (2x2) (construction)</Frame_RGK_TableA.label>
+  <Frame_RGK_TableA.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableA.description>
 
   <RGK_TableC.label>table (2x2)</RGK_TableC.label>
   <RGK_TableC.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableC.description>
-  <RGK_TableC_Blueprint.label>table (2x2) (plan)</RGK_TableC_Blueprint.label>
-  <RGK_TableC_Blueprint_Install.label>table (2x2) (plan)</RGK_TableC_Blueprint_Install.label>
-  <RGK_TableC_Frame.label>table (2x2) (construction)</RGK_TableC_Frame.label>
-  <RGK_TableC_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableC_Frame.description>
+  <Blueprint_RGK_TableC.label>table (2x2) (plan)</Blueprint_RGK_TableC.label>
+  <Blueprint_Install_RGK_TableC.label>table (2x2) (plan)</Blueprint_Install_RGK_TableC.label>
+  <Frame_RGK_TableC.label>table (2x2) (construction)</Frame_RGK_TableC.label>
+  <Frame_RGK_TableC.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableC.description>
 
   <RGK_TableB.label>table celtique (2x2)</RGK_TableB.label>
   <RGK_TableB.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableB.description>
-  <RGK_TableB_Blueprint.label>table celtique (2x2) (plan)</RGK_TableB_Blueprint.label>
-  <RGK_TableB_Blueprint_Install.label>table celtique (2x2) (plan)</RGK_TableB_Blueprint_Install.label>
-  <RGK_TableB_Frame.label>table celtique (2x2) (construction)</RGK_TableB_Frame.label>
-  <RGK_TableB_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableB_Frame.description>
+  <Blueprint_RGK_TableB.label>table celtique (2x2) (plan)</Blueprint_RGK_TableB.label>
+  <Blueprint_Install_RGK_TableB.label>table celtique (2x2) (plan)</Blueprint_Install_RGK_TableB.label>
+  <Frame_RGK_TableB.label>table celtique (2x2) (construction)</Frame_RGK_TableB.label>
+  <Frame_RGK_TableB.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableB.description>
 
   <RGK_TableD.label>table celtique (2x2)</RGK_TableD.label>
   <RGK_TableD.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableD.description>
-  <RGK_TableD_Blueprint_Install.label>table celtique (2x2) (plan)</RGK_TableD_Blueprint_Install.label>
+  <Blueprint_Install_RGK_TableD.label>table celtique (2x2) (plan)</Blueprint_Install_RGK_TableD.label>
 
   <RGK_TableE.label>table celtique (2x1)</RGK_TableE.label>
   <RGK_TableE.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableE.description>
-  <RGK_TableE_Blueprint.label>table celtique (2x1) (plan)</RGK_TableE_Blueprint.label>
-  <RGK_TableE_Blueprint_Install.label>table celtique (2x1) (plan)</RGK_TableE_Blueprint_Install.label>
-  <RGK_TableE_Frame.label>table celtique (2x1) (construction)</RGK_TableE_Frame.label>
-  <RGK_TableE_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableE_Frame.description>
+  <Blueprint_RGK_TableE.label>table celtique (2x1) (plan)</Blueprint_RGK_TableE.label>
+  <Blueprint_Install_RGK_TableE.label>table celtique (2x1) (plan)</Blueprint_Install_RGK_TableE.label>
+  <Frame_RGK_TableE.label>table celtique (2x1) (construction)</Frame_RGK_TableE.label>
+  <Frame_RGK_TableE.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableE.description>
 
   <RGK_TableF.label>table celtique (3x2)</RGK_TableF.label>
   <RGK_TableF.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableF.description>
-  <RGK_TableF_Blueprint.label>table celtique (3x2) (plan)</RGK_TableF_Blueprint.label>
-  <RGK_TableF_Blueprint_Install.label>table celtique (3x2) (plan)</RGK_TableF_Blueprint_Install.label>
-  <RGK_TableF_Frame.label>table celtique (3x2) (construction)</RGK_TableF_Frame.label>
-  <RGK_TableF_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableF_Frame.description>
+  <Blueprint_RGK_TableF.label>table celtique (3x2) (plan)</Blueprint_RGK_TableF.label>
+  <Blueprint_Install_RGK_TableF.label>table celtique (3x2) (plan)</Blueprint_Install_RGK_TableF.label>
+  <Frame_RGK_TableF.label>table celtique (3x2) (construction)</Frame_RGK_TableF.label>
+  <Frame_RGK_TableF.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableF.description>
 
   <RGK_TableG.label>table celtique (2x2)</RGK_TableG.label>
   <RGK_TableG.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableG.description>
-  <RGK_TableG_Blueprint.label>table celtique (2x2) (plan)</RGK_TableG_Blueprint.label>
-  <RGK_TableG_Blueprint_Install.label>table celtique (2x2) (plan)</RGK_TableG_Blueprint_Install.label>
-  <RGK_TableG_Frame.label>table celtique (2x2) (construction)</RGK_TableG_Frame.label>
-  <RGK_TableG_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableG_Frame.description>
+  <Blueprint_RGK_TableG.label>table celtique (2x2) (plan)</Blueprint_RGK_TableG.label>
+  <Blueprint_Install_RGK_TableG.label>table celtique (2x2) (plan)</Blueprint_Install_RGK_TableG.label>
+  <Frame_RGK_TableG.label>table celtique (2x2) (construction)</Frame_RGK_TableG.label>
+  <Frame_RGK_TableG.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableG.description>
 
   <RGK_TableH.label>table celtique (3x3)</RGK_TableH.label>
   <RGK_TableH.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableH.description>
-  <RGK_TableH_Blueprint.label>table celtique (3x3) (plan)</RGK_TableH_Blueprint.label>
-  <RGK_TableH_Blueprint_Install.label>table celtique (3x3) (plan)</RGK_TableH_Blueprint_Install.label>
-  <RGK_TableH_Frame.label>table celtique (3x3) (construction)</RGK_TableH_Frame.label>
-  <RGK_TableH_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_TableH_Frame.description>
+  <Blueprint_RGK_TableH.label>table celtique (3x3) (plan)</Blueprint_RGK_TableH.label>
+  <Blueprint_Install_RGK_TableH.label>table celtique (3x3) (plan)</Blueprint_Install_RGK_TableH.label>
+  <Frame_RGK_TableH.label>table celtique (3x3) (construction)</Frame_RGK_TableH.label>
+  <Frame_RGK_TableH.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_TableH.description>
 
 
   <!-- 미니 테이블 -->
 
   <RGK_MiniTableA.label>petit table</RGK_MiniTableA.label>
   <RGK_MiniTableA.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_MiniTableA.description>
-  <RGK_MiniTableA_Blueprint.label>petite table (plan)</RGK_MiniTableA_Blueprint.label>
-  <RGK_MiniTableA_Blueprint_Install.label>petit table (plan)</RGK_MiniTableA_Blueprint_Install.label>
-  <RGK_MiniTableA_Frame.label>petite table (construction)</RGK_MiniTableA_Frame.label>
-  <RGK_MiniTableA_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_MiniTableA_Frame.description>
+  <Blueprint_RGK_MiniTableA.label>petite table (plan)</Blueprint_RGK_MiniTableA.label>
+  <Blueprint_Install_RGK_MiniTableA.label>petit table (plan)</Blueprint_Install_RGK_MiniTableA.label>
+  <Frame_RGK_MiniTableA.label>petite table (construction)</Frame_RGK_MiniTableA.label>
+  <Frame_RGK_MiniTableA.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_MiniTableA.description>
 
 
   <!-- 천덮힌 미니 -->
 
   <RGK_MiniTableB.label>table basse</RGK_MiniTableB.label>
   <RGK_MiniTableB.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_MiniTableB.description>
-  <RGK_MiniTableB_Blueprint.label>table basse (plan)</RGK_MiniTableB_Blueprint.label>
-  <RGK_MiniTableB_Blueprint_Install.label>table basse (plan)</RGK_MiniTableB_Blueprint_Install.label>
-  <RGK_MiniTableB_Frame.label>table basse (construction)</RGK_MiniTableB_Frame.label>
-  <RGK_MiniTableB_Frame.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</RGK_MiniTableB_Frame.description>
+  <Blueprint_RGK_MiniTableB.label>table basse (plan)</Blueprint_RGK_MiniTableB.label>
+  <Blueprint_Install_RGK_MiniTableB.label>table basse (plan)</Blueprint_Install_RGK_MiniTableB.label>
+  <Frame_RGK_MiniTableB.label>table basse (construction)</Frame_RGK_MiniTableB.label>
+  <Frame_RGK_MiniTableB.description>Les gens s'en servent pour manger lorsque des chaises sont placées face à la table.</Frame_RGK_MiniTableB.description>
 
 
   <!-- Storage -->
 
   <RKGWineRackB.label>casier à vin</RKGWineRackB.label>
   <RKGWineRackB.description>Une armoire pour stocker des bouteilles.</RKGWineRackB.description>
-  <RKGWineRackB_Blueprint.label>casier à vin (plan)</RKGWineRackB_Blueprint.label>
-  <RKGWineRackB_Blueprint_Install.label>casier à vin (plan)</RKGWineRackB_Blueprint_Install.label>
-  <RKGWineRackB_Frame.label>casier à vin (construction)</RKGWineRackB_Frame.label>
-  <RKGWineRackB_Frame.description>Une armoire pour stocker des bouteilles.</RKGWineRackB_Frame.description>
+  <Blueprint_RKGWineRackB.label>casier à vin (plan)</Blueprint_RKGWineRackB.label>
+  <Blueprint_Install_RKGWineRackB.label>casier à vin (plan)</Blueprint_Install_RKGWineRackB.label>
+  <Frame_RKGWineRackB.label>casier à vin (construction)</Frame_RKGWineRackB.label>
+  <Frame_RKGWineRackB.description>Une armoire pour stocker des bouteilles.</Frame_RKGWineRackB.description>
 
   <WardrobeA.label>garde-robe</WardrobeA.label>
   <WardrobeA.description>Une armoire pour ranger des vetements.</WardrobeA.description>
-  <WardrobeA_Blueprint.label>garde-robe (plan)</WardrobeA_Blueprint.label>
-  <WardrobeA_Blueprint_Install.label>garde-robe (plan)</WardrobeA_Blueprint_Install.label>
-  <WardrobeA_Frame.label>garde-robe (construction)</WardrobeA_Frame.label>
-  <WardrobeA_Frame.description>Une armoire pour ranger des vetements.</WardrobeA_Frame.description>
+  <Blueprint_WardrobeA.label>garde-robe (plan)</Blueprint_WardrobeA.label>
+  <Blueprint_Install_WardrobeA.label>garde-robe (plan)</Blueprint_Install_WardrobeA.label>
+  <Frame_WardrobeA.label>garde-robe (construction)</Frame_WardrobeA.label>
+  <Frame_WardrobeA.description>Une armoire pour ranger des vetements.</Frame_WardrobeA.description>
 
   <WardrobeB.label>garde-robe</WardrobeB.label>
   <WardrobeB.description>Une armoire pour ranger des vetements.</WardrobeB.description>
-  <WardrobeB_Blueprint.label>garde-robe (plan)</WardrobeB_Blueprint.label>
-  <WardrobeB_Blueprint_Install.label>garde-robe (plan)</WardrobeB_Blueprint_Install.label>
-  <WardrobeB_Frame.label>garde-robe (construction)</WardrobeB_Frame.label>
-  <WardrobeB_Frame.description>Une armoire pour ranger des vetements.</WardrobeB_Frame.description>
+  <Blueprint_WardrobeB.label>garde-robe (plan)</Blueprint_WardrobeB.label>
+  <Blueprint_Install_WardrobeB.label>garde-robe (plan)</Blueprint_Install_WardrobeB.label>
+  <Frame_WardrobeB.label>garde-robe (construction)</Frame_WardrobeB.label>
+  <Frame_WardrobeB.description>Une armoire pour ranger des vetements.</Frame_WardrobeB.description>
 
 
   <!-- 책장 -->
 
   <GL_Bookshelf.label>bibliothèque</GL_Bookshelf.label>
   <GL_Bookshelf.description>Donne un bonus de recherche lorsqu'elle est placée à proximité d'un poste de recherche. Un même poste peut bénéficier de deux bibliothèques.</GL_Bookshelf.description>
-  <GL_Bookshelf_Blueprint.label>bibliothèque (plan)</GL_Bookshelf_Blueprint.label>
-  <GL_Bookshelf_Blueprint_Install.label>bibliothèque (plan)</GL_Bookshelf_Blueprint_Install.label>
-  <GL_Bookshelf_Frame.label>bibliothèque (construction)</GL_Bookshelf_Frame.label>
-  <GL_Bookshelf_Frame.description>Donne un bonus de recherche lorsqu'elle est placée à proximité d'un poste de recherche. Un même poste peut bénéficier de deux bibliothèques.</GL_Bookshelf_Frame.description>
+  <Blueprint_GL_Bookshelf.label>bibliothèque (plan)</Blueprint_GL_Bookshelf.label>
+  <Blueprint_Install_GL_Bookshelf.label>bibliothèque (plan)</Blueprint_Install_GL_Bookshelf.label>
+  <Frame_GL_Bookshelf.label>bibliothèque (construction)</Frame_GL_Bookshelf.label>
+  <Frame_GL_Bookshelf.description>Donne un bonus de recherche lorsqu'elle est placée à proximité d'un poste de recherche. Un même poste peut bénéficier de deux bibliothèques.</Frame_GL_Bookshelf.description>
 
 
   <!-- 식기장 -->
 
   <GL_Cupboard.label>placard</GL_Cupboard.label>
   <GL_Cupboard.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</GL_Cupboard.description>
-  <GL_Cupboard_Blueprint.label>placard (plan)</GL_Cupboard_Blueprint.label>
-  <GL_Cupboard_Blueprint_Install.label>placard (plan)</GL_Cupboard_Blueprint_Install.label>
-  <GL_Cupboard_Frame.label>placard (construction)</GL_Cupboard_Frame.label>
-  <GL_Cupboard_Frame.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</GL_Cupboard_Frame.description>
+  <Blueprint_GL_Cupboard.label>placard (plan)</Blueprint_GL_Cupboard.label>
+  <Blueprint_Install_GL_Cupboard.label>placard (plan)</Blueprint_Install_GL_Cupboard.label>
+  <Frame_GL_Cupboard.label>placard (construction)</Frame_GL_Cupboard.label>
+  <Frame_GL_Cupboard.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</Frame_GL_Cupboard.description>
 
 
   <!-- 식기선반 -->
 
   <GL_TablewareShelf.label>placard à vaisselle</GL_TablewareShelf.label>
   <GL_TablewareShelf.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</GL_TablewareShelf.description>
-  <GL_TablewareShelf_Blueprint.label>placard à vaisselle (plan)</GL_TablewareShelf_Blueprint.label>
-  <GL_TablewareShelf_Blueprint_Install.label>placard à vaisselle (plan)</GL_TablewareShelf_Blueprint_Install.label>
-  <GL_TablewareShelf_Frame.label>placard à vaisselle (construction)</GL_TablewareShelf_Frame.label>
-  <GL_TablewareShelf_Frame.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</GL_TablewareShelf_Frame.description>
+  <Blueprint_GL_TablewareShelf.label>placard à vaisselle (plan)</Blueprint_GL_TablewareShelf.label>
+  <Blueprint_Install_GL_TablewareShelf.label>placard à vaisselle (plan)</Blueprint_Install_GL_TablewareShelf.label>
+  <Frame_GL_TablewareShelf.label>placard à vaisselle (construction)</Frame_GL_TablewareShelf.label>
+  <Frame_GL_TablewareShelf.description>Accélère la préparation des plats lorsqu'il est placé à proximité d'une cuisinière.</Frame_GL_TablewareShelf.description>
 
   <RGK_Manger.label>mangeoire</RGK_Manger.label>
   <RGK_Manger.description>Pour les animaux.</RGK_Manger.description>
-  <RGK_Manger_Blueprint.label>mangeoire (plan)</RGK_Manger_Blueprint.label>
-  <RGK_Manger_Blueprint_Install.label>mangeoire (plan)</RGK_Manger_Blueprint_Install.label>
-  <RGK_Manger_Frame.label>mangeoire (construction)</RGK_Manger_Frame.label>
-  <RGK_Manger_Frame.description>Pour les animaux.</RGK_Manger_Frame.description>
+  <Blueprint_RGK_Manger.label>mangeoire (plan)</Blueprint_RGK_Manger.label>
+  <Blueprint_Install_RGK_Manger.label>mangeoire (plan)</Blueprint_Install_RGK_Manger.label>
+  <Frame_RGK_Manger.label>mangeoire (construction)</Frame_RGK_Manger.label>
+  <Frame_RGK_Manger.description>Pour les animaux.</Frame_RGK_Manger.description>
 
 
   <!-- 선반 -->
 
   <GL_Shelf.label>présentoire</GL_Shelf.label>
   <GL_Shelf.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le présentoire se trouve à l'extérieur. Ne conserve pas la nourriture.</GL_Shelf.description>
-  <GL_Shelf_Blueprint.label>présentoire (plan)</GL_Shelf_Blueprint.label>
-  <GL_Shelf_Blueprint_Install.label>présentoire (plan)</GL_Shelf_Blueprint_Install.label>
-  <GL_Shelf_Frame.label>présentoire (construction)</GL_Shelf_Frame.label>
-  <GL_Shelf_Frame.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le présentoire se trouve à l'extérieur. Ne conserve pas la nourriture.</GL_Shelf_Frame.description>
+  <Blueprint_GL_Shelf.label>présentoire (plan)</Blueprint_GL_Shelf.label>
+  <Blueprint_Install_GL_Shelf.label>présentoire (plan)</Blueprint_Install_GL_Shelf.label>
+  <Frame_GL_Shelf.label>présentoire (construction)</Frame_GL_Shelf.label>
+  <Frame_GL_Shelf.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le présentoire se trouve à l'extérieur. Ne conserve pas la nourriture.</Frame_GL_Shelf.description>
 
 
   <!-- 개밥그릇 -->
 
   <RGK_DogBowl.label>gamelle</RGK_DogBowl.label>
   <RGK_DogBowl.description>Pour les animaux.</RGK_DogBowl.description>
-  <RGK_DogBowl_Blueprint.label>gamelle (plan)</RGK_DogBowl_Blueprint.label>
-  <RGK_DogBowl_Blueprint_Install.label>gamelle (plan)</RGK_DogBowl_Blueprint_Install.label>
-  <RGK_DogBowl_Frame.label>gamelle (construction)</RGK_DogBowl_Frame.label>
-  <RGK_DogBowl_Frame.description>Pour les animaux.</RGK_DogBowl_Frame.description>
+  <Blueprint_RGK_DogBowl.label>gamelle (plan)</Blueprint_RGK_DogBowl.label>
+  <Blueprint_Install_RGK_DogBowl.label>gamelle (plan)</Blueprint_Install_RGK_DogBowl.label>
+  <Frame_RGK_DogBowl.label>gamelle (construction)</Frame_RGK_DogBowl.label>
+  <Frame_RGK_DogBowl.description>Pour les animaux.</Frame_RGK_DogBowl.description>
 
 
   <!-- 보관함 -->
 
   <GL_Locker.label>casier</GL_Locker.label>
   <GL_Locker.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le casier est à l'extérieur. Protège également le contenu contre le feu.</GL_Locker.description>
-  <GL_Locker_Blueprint.label>casier (plan)</GL_Locker_Blueprint.label>
-  <GL_Locker_Blueprint_Install.label>casier (plan)</GL_Locker_Blueprint_Install.label>
-  <GL_Locker_Frame.label>casier (construction)</GL_Locker_Frame.label>
-  <GL_Locker_Frame.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le casier est à l'extérieur. Protège également le contenu contre le feu.</GL_Locker_Frame.description>
+  <Blueprint_GL_Locker.label>casier (plan)</Blueprint_GL_Locker.label>
+  <Blueprint_Install_GL_Locker.label>casier (plan)</Blueprint_Install_GL_Locker.label>
+  <Frame_GL_Locker.label>casier (construction)</Frame_GL_Locker.label>
+  <Frame_GL_Locker.description>Permet de stocker divers objets. Les objets ne se déterioreront pas même si le casier est à l'extérieur. Protège également le contenu contre le feu.</Frame_GL_Locker.description>
 
 
   <!-- 모조 화분 -->
 
   <RGK_Flower.label>fausse fleurs</RGK_Flower.label>
   <RGK_Flower.description>Des fleurs en plastique plus vraie que nature.</RGK_Flower.description>
-  <RGK_Flower_Blueprint.label>fausse fleurs (plan)</RGK_Flower_Blueprint.label>
-  <RGK_Flower_Blueprint_Install.label>fausse fleurs (plan)</RGK_Flower_Blueprint_Install.label>
-  <RGK_Flower_Frame.label>fausse fleurs (construction)</RGK_Flower_Frame.label>
-  <RGK_Flower_Frame.description>Des fleurs en plastique plus vraie que nature.</RGK_Flower_Frame.description>
+  <Blueprint_RGK_Flower.label>fausse fleurs (plan)</Blueprint_RGK_Flower.label>
+  <Blueprint_Install_RGK_Flower.label>fausse fleurs (plan)</Blueprint_Install_RGK_Flower.label>
+  <Frame_RGK_Flower.label>fausse fleurs (construction)</Frame_RGK_Flower.label>
+  <Frame_RGK_Flower.description>Des fleurs en plastique plus vraie que nature.</Frame_RGK_Flower.description>
 
   <RGK_Teaset.label>service à thé</RGK_Teaset.label>
   <RGK_Teaset.description>Un service à thé décoratif.</RGK_Teaset.description>
-  <RGK_Teaset_Blueprint.label>service à thé (plan)</RGK_Teaset_Blueprint.label>
-  <RGK_Teaset_Blueprint_Install.label>service à thé (plan)</RGK_Teaset_Blueprint_Install.label>
-  <RGK_Teaset_Frame.label>service à thé (construction)</RGK_Teaset_Frame.label>
-  <RGK_Teaset_Frame.description>Un service à thé décoratif.</RGK_Teaset_Frame.description>
+  <Blueprint_RGK_Teaset.label>service à thé (plan)</Blueprint_RGK_Teaset.label>
+  <Blueprint_Install_RGK_Teaset.label>service à thé (plan)</Blueprint_Install_RGK_Teaset.label>
+  <Frame_RGK_Teaset.label>service à thé (construction)</Frame_RGK_Teaset.label>
+  <Frame_RGK_Teaset.description>Un service à thé décoratif.</Frame_RGK_Teaset.description>
 
 
   <!-- 곰인형 -->
 
   <GL_Teddy.label>ours en peluche</GL_Teddy.label>
   <GL_Teddy.description>Trop mignon.</GL_Teddy.description>
-  <GL_Teddy_Blueprint.label>ours en peluche (plan)</GL_Teddy_Blueprint.label>
-  <GL_Teddy_Blueprint_Install.label>ours en peluche (plan)</GL_Teddy_Blueprint_Install.label>
-  <GL_Teddy_Frame.label>ours en peluche (construction)</GL_Teddy_Frame.label>
-  <GL_Teddy_Frame.description>Trop mignon.</GL_Teddy_Frame.description>
+  <Blueprint_GL_Teddy.label>ours en peluche (plan)</Blueprint_GL_Teddy.label>
+  <Blueprint_Install_GL_Teddy.label>ours en peluche (plan)</Blueprint_Install_GL_Teddy.label>
+  <Frame_GL_Teddy.label>ours en peluche (construction)</Frame_GL_Teddy.label>
+  <Frame_GL_Teddy.description>Trop mignon.</Frame_GL_Teddy.description>
 
 </LanguageData>

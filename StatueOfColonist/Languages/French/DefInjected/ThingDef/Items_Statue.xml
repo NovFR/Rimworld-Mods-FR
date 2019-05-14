@@ -2,15 +2,15 @@
 <LanguageData>
 
 	<TMB_StatueOfColonistK.label>statue</TMB_StatueOfColonistK.label>
-	<TMB_StatueOfColonistK_Blueprint_Install.label>statue (plan)</TMB_StatueOfColonistK_Blueprint_Install.label>
+	<Blueprint_Install_TMB_StatueOfColonistK.label>statue (plan)</Blueprint_Install_TMB_StatueOfColonistK.label>
 	<TMB_StatueOfColonistK.description>Une statue représentant un membre de la colonie.</TMB_StatueOfColonistK.description>
 
 	<TMB_StatueOfColonistKLarge.label>grande statue</TMB_StatueOfColonistKLarge.label>
-	<TMB_StatueOfColonistKLarge_Blueprint_Install.label>grande statue (plan)</TMB_StatueOfColonistKLarge_Blueprint_Install.label>
+	<Blueprint_Install_TMB_StatueOfColonistKLarge.label>grande statue (plan)</Blueprint_Install_TMB_StatueOfColonistKLarge.label>
 	<TMB_StatueOfColonistKLarge.description>Une statue représentant un membre de la colonie.</TMB_StatueOfColonistKLarge.description>
 
 	<TMB_StatueOfColonistKGrand.label>statue monumentale</TMB_StatueOfColonistKGrand.label>
-	<TMB_StatueOfColonistKGrand_Blueprint_Install.label>statue monumentale (plan)</TMB_StatueOfColonistKGrand_Blueprint_Install.label>
+	<Blueprint_Install_TMB_StatueOfColonistKGrand.label>statue monumentale (plan)</Blueprint_Install_TMB_StatueOfColonistKGrand.label>
 	<TMB_StatueOfColonistKGrand.description>Une statue représentant un membre de la colonie.</TMB_StatueOfColonistKGrand.description>
 
 </LanguageData>
