@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<FlashBlindness.label>aveuglement éclair</FlashBlindness.label>
-	<FlashBlindness.labelNoun>un aveuglement éclair</FlashBlindness.labelNoun>
+	<FlashBlindness.label>aveuglement</FlashBlindness.label>
+	<FlashBlindness.labelNoun>un aveuglement</FlashBlindness.labelNoun>
 	<FlashBlindness.battleStateLabel>aveuglement</FlashBlindness.battleStateLabel>
 
 	<RectalCoring.label>fièvre</RectalCoring.label>
@@ -18,6 +18,7 @@
 	<FatalRad.stages.dead.label>mortelle</FatalRad.stages.dead.label>
 
 	<RimatomicsRadiation.label>mal des radiations</RimatomicsRadiation.label>
+	<RimatomicsRadiation.stages.initialhidden.label>initial</RimatomicsRadiation.stages.initialhidden.label>
 	<RimatomicsRadiation.stages.initial.label>initial</RimatomicsRadiation.stages.initial.label>
 	<RimatomicsRadiation.stages.minor.label>mineur</RimatomicsRadiation.stages.minor.label>
 	<RimatomicsRadiation.stages.moderate.label>modéré</RimatomicsRadiation.stages.moderate.label>
@@ -25,6 +26,7 @@
 	<RimatomicsRadiation.stages.extreme.label>extrême</RimatomicsRadiation.stages.extreme.label>
 
 	<RadiationIncurable.label>accumulation de radiations</RadiationIncurable.label>
+	<RadiationIncurable.stages.initialhidden.label>initiale</RadiationIncurable.stages.initialhidden.label>
 	<RadiationIncurable.stages.initial.label>initiale</RadiationIncurable.stages.initial.label>
 	<RadiationIncurable.stages.minor.label>mineure</RadiationIncurable.stages.minor.label>
 	<RadiationIncurable.stages.moderate.label>modérée</RadiationIncurable.stages.moderate.label>
@@ -32,6 +34,7 @@
 	<RadiationIncurable.stages.extreme.label>extrême</RadiationIncurable.stages.extreme.label>
 
 	<RadiationMechanoid.label>dégâts radioactifs</RadiationMechanoid.label>
+	<RadiationMechanoid.stages.initialhidden.label>initiaux</RadiationMechanoid.stages.initialhidden.label>
 	<RadiationMechanoid.stages.initial.label>initiaux</RadiationMechanoid.stages.initial.label>
 	<RadiationMechanoid.stages.minor.label>mineurs</RadiationMechanoid.stages.minor.label>
 	<RadiationMechanoid.stages.moderate.label>modérés</RadiationMechanoid.stages.moderate.label>

@@ -11,7 +11,7 @@
 	<HygieneLevel.stages.Squeaky_Clean.description>Je me sens vraiment propre !</HygieneLevel.stages.Squeaky_Clean.description>
 	<BowelLevel.stages.Bursting.label>a une envie pressante</BowelLevel.stages.Bursting.label>
 	<BowelLevel.stages.Bursting.description>J'ai vraiment besoin d'aller aux toilettes !</BowelLevel.stages.Bursting.description>
-	<BowelLevel.stages.need_the_bathroom.label>a besoin de la salle de bain</BowelLevel.stages.need_the_bathroom.label>
-	<BowelLevel.stages.need_the_bathroom.description>J'ai besoin de la salle de bain !</BowelLevel.stages.need_the_bathroom.description>
+	<BowelLevel.stages.need_the_bathroom.label>a besoin d'une salle de bain</BowelLevel.stages.need_the_bathroom.label>
+	<BowelLevel.stages.need_the_bathroom.description>J'ai besoin d'une salle de bain !</BowelLevel.stages.need_the_bathroom.description>
 
 </LanguageData>
