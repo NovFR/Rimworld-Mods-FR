@@ -26,7 +26,7 @@
 	<Failure_LaserDischarge.description>L'installation laisse échapper un tir laser.</Failure_LaserDischarge.description>
 
 	<Failure_Overvoltage.label>Surtension</Failure_Overvoltage.label>
-	<Failure_Overvoltage.description>L'installation a été victime de surtension et prend feu.</Failure_Overvoltage.description>
+	<Failure_Overvoltage.description>L'installation a été victime de surtension.</Failure_Overvoltage.description>
 
 	<Failure_ShortCircuit.label>Court-circuit</Failure_ShortCircuit.label>
 	<Failure_ShortCircuit.description>L'installation a court-circuité, coupez l'alimentation ou elle risque d'être détruite !</Failure_ShortCircuit.description>
