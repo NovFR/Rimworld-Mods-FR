@@ -4,4 +4,7 @@
 	<PotassiumIodide.label>iodure de potassium</PotassiumIodide.label>
 	<PotassiumIodide.description>Les tablettes de iodure de potassium sont utilisées en cas d'exposition aux radiations.</PotassiumIodide.description>
 
+	<PotassiumIodide.ingestible.ingestCommandString>Prendre du {0}</PotassiumIodide.ingestible.ingestCommandString>
+	<PotassiumIodide.ingestible.ingestReportString>Prend du {0}.</PotassiumIodide.ingestible.ingestReportString>
+
 </LanguageData>

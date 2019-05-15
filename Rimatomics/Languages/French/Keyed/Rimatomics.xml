@@ -172,7 +172,7 @@
 	<critActiveCore>Le coeur est toujours actif</critActiveCore>
 	<critCrackedcore>Le coeur est fissuré</critCrackedcore>
 	<critNoSlotDes>Pas d'emplacement désigné</critNoSlotDes>
-	<critnoFuelRods>(NEED TRANSLATION) No Fuel Assembly Available</critnoFuelRods>
+	<critnoFuelRods>Pas d'assemblage de combustible disponible</critnoFuelRods>
 	<critNoSpace>Pas d'espace</critNoSpace>
 	<critSpentOnly>Placer du combustible usé uniquement, aucun n'est disponible</critSpentOnly>
 	<critNoPool>Aucune piscine de stockage n'est disponible</critNoPool>
