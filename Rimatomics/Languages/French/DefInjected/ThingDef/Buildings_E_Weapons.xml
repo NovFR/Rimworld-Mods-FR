@@ -14,44 +14,44 @@
 	<PPCADS.label>ADS</PPCADS.label>
 	<PPCADS.description>L'Active Denial System RA-22 est une arme non léthale, conçue pour le contrôle de foule. Il émet un faisceau d'onde électromagnétique vers un sujet qui va chauffer les molécules d'eau de la peau, la portant jusqu'à une température d'environ 55°C et causant ainsi une intense sensation de brûlure. L'ADS doit être manipulé par une personne pour fonctionner.</PPCADS.description>
 	<PPCADS.comps.CompUpgradable.upgrades.0.stats.0>Zone d'effet +10.</PPCADS.comps.CompUpgradable.upgrades.0.stats.0>
-	<ADS_Dish.label>Plateau de l'ADS</ADS_Dish.label>
-	<ADS_Dish.description>Plateau de l'ADS.</ADS_Dish.description>
+	<ADS_Dish.label>ADS</ADS_Dish.label>
+	<ADS_Dish.description>Active Denial System.</ADS_Dish.description>
 
-	<PPCTeslaCoil.label>Bobine Tesla</PPCTeslaCoil.label>
+	<PPCTeslaCoil.label>bobine Tesla</PPCTeslaCoil.label>
 	<PPCTeslaCoil.description>La Bobine Tesla RA-42T délivre une puissante décharge sous forme d'arc électrique qui entraîne des sévères brûlures ou la mort de la cible. Efficacité de 100%, portée moyenne. Cible et tir automatiquement grâce à un SCAC. Du personnel est requis sur la SCSA pour effectuer des ciblages manuels, mais pas pour le tir automatique.</PPCTeslaCoil.description>
 	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>Dégâts +15%.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>
 	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>Portée +10.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>
 	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>Taille de l'impulsion +15%.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>
-	<Tesla_Coil_Arc_Discharger.label>Déchargeur d'arc de la bobine Tesla</Tesla_Coil_Arc_Discharger.label>
-	<Tesla_Coil_Arc_Discharger.description>Déchargeur d'arc de la bobine Tesla.</Tesla_Coil_Arc_Discharger.description>
+	<Tesla_Coil_Arc_Discharger.label>bobine Tesla</Tesla_Coil_Arc_Discharger.label>
+	<Tesla_Coil_Arc_Discharger.description>Arc électrique d'une bobine Tesla.</Tesla_Coil_Arc_Discharger.description>
 
 	<PPCHEL.label>LHE</PPCHEL.label>
 	<PPCHEL.description>Le Laser à Haute Énergie RA-702 (LHE) détruit les projectiles aériens ennemis tels que les obus de mortier. Quand un mortier fait feu, le système vérifie si l'obus est susceptible de passer à portée d'un LHE. Si la trajectoire permet un tir, le LHE va suivre la cible jusqu'à ce qu'elle soit à portée. Fonctionne automatiquement, aucun personnel n'est requis sur la SCSA.</PPCHEL.description>
 	<PPCHEL.comps.CompUpgradable.upgrades.0.stats.0>Délai de tir -50%.</PPCHEL.comps.CompUpgradable.upgrades.0.stats.0>
 	<PPCHEL.comps.CompUpgradable.upgrades.0.stats.1>Puissance +50%.</PPCHEL.comps.CompUpgradable.upgrades.0.stats.1>
-	<HEL_Laser.label>Laser LHE</HEL_Laser.label>
-	<HEL_Laser.description>Laser LHE.</HEL_Laser.description>
+	<HEL_Laser.label>LHE</HEL_Laser.label>
+	<HEL_Laser.description>Laser à Haute Énergie.</HEL_Laser.description>
 
 	<PPCRailgun.label>Punisseur</PPCRailgun.label>
 	<PPCRailgun.description>Le Punisseur RA-1802D est un canon électrique à 25 coups, qui utilise des impulsions électromagnétiques pour propulser des munitions sabot à très haute vitesse et à des distances très élevées. Du personnel est requis sur la SCSA pour que l'arme soit opérationnelle.</PPCRailgun.description>
 	<PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>Portée +10 cases.</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>
 	<PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>Taille de l'impulsion +15%.</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>
-	<Railgun_Cannon.label>Canon du Punisseur</Railgun_Cannon.label>
-	<Railgun_Cannon.description>Canon du Punisseur.</Railgun_Cannon.description>
+	<Railgun_Cannon.label>canon d'un Punisseur</Railgun_Cannon.label>
+	<Railgun_Cannon.description>Canon d'un Punisseur.</Railgun_Cannon.description>
 
 	<PPCObelisk.label>Obélisque</PPCObelisk.label>
 	<PPCObelisk.description>L'Obélisque RA-2152-X utilise un laser à solide concentré afin de vaporiser sa cible. Efficace à 100%, grande portée et puissance dévastatrice, mais dispose d'un temps de recharge très long et d'une consommation de puissance élevée. Fonctionne automatiquement. Nécessite du personnel sur la SCSA pour une sélection manuelle des cibles.</PPCObelisk.description>
 	<PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>Dégâts +15%.</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>
 	<PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>Taille de l'impulsion +15%.</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>
-	<Obelisk_Laser.label>Laser de l'Obélisque</Obelisk_Laser.label>
-	<Obelisk_Laser.description>Laser de l'Obélisque</Obelisk_Laser.description>
+	<Obelisk_Laser.label>laser d'un Obélisque</Obelisk_Laser.label>
+	<Obelisk_Laser.description>Laser d'un Obélisque</Obelisk_Laser.description>
 
 	<PPCMarauder.label>Maraudeur</PPCMarauder.label>
 	<PPCMarauder.description>Le Maraudeur RA-3b est une plateforme de canon électrique qui utilise de grandes impulsions électromagnétiques pour propulser des rafales de toroïdes plasma à une vitesse extrêmeme, occasionnant des explosions radioactives à l'impact. Du personnel est requis sur la SCSA pour que l'arme soit opérationnelle.</PPCMarauder.description>
 	<PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>Rafale +10 coups.</PPCMarauder.comps.CompUpgradable.upgrades.0.stats.0>
-	<Marauder_Railgun.label>Canon du Maraudeur</Marauder_Railgun.label>
-	<Marauder_Railgun.description>Canon du Maraudeur.</Marauder_Railgun.description>
-	<Bullet_PlasmaToroid.label>Toroïde de plasma</Bullet_PlasmaToroid.label>
+	<Marauder_Railgun.label>canon d'un Maraudeur</Marauder_Railgun.label>
+	<Marauder_Railgun.description>Canon d'un Maraudeur.</Marauder_Railgun.description>
+	<Bullet_PlasmaToroid.label>toroïde de plasma</Bullet_PlasmaToroid.label>
 
 	<MissileSilo.label>Libérateur</MissileSilo.label>
 	<MissileSilo.description>Le Libérateur RA-1776b est un lanceur de missiles balistiques autonome, capable d'emporter et de lancer 5 missiles. Du personnel est requis dans la SCSA pour que l'arme soit fonctionnelle.</MissileSilo.description>
