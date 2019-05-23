@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Building_RTCircuitBreaker.label>coupe-circuit</Building_RTCircuitBreaker.label>
+	<Building_RTCircuitBreaker.description>Peut absorber jusqu'à 1800 Wj d'une décharge électrique, doit être réactivé après un déclenchement.</Building_RTCircuitBreaker.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<IncidentWorker_RTShortCircuit_PartialMitigation>{0} Wj d'énergie contenue dans les batteries ont été déchargés par une explosion électrique.\n\n{1} Wj d'énergie ont été préservés grâce aux fusibles.</IncidentWorker_RTShortCircuit_PartialMitigation>
+
+	<IncidentWorker_RTShortCircuit_FullMitigation>{0} Wj d'énergie contenue dans les batteries ont été déchargés, mais les fusibles ont évité de sérieux dégâts.</IncidentWorker_RTShortCircuit_FullMitigation>
+
+</LanguageData>

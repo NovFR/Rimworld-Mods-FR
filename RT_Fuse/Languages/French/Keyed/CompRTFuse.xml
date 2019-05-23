@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CompRTFuse_SurgeMitigation>Préserve jusqu'à {0} Wj en cas d'explosion électrique.</CompRTFuse_SurgeMitigation>
+	<CompRTFuse_WillBreakdown>Doit être réparé après un déclenchement.</CompRTFuse_WillBreakdown>
+	<CompRTFuse_WillFlick>Doit être réinitialisé manuellement après un déclenchement.</CompRTFuse_WillFlick>
+
+</LanguageData>

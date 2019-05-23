@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ResearchProject_RTCircuitBreakers.label>coupe-circuits</ResearchProject_RTCircuitBreakers.label>
+	<ResearchProject_RTCircuitBreakers.description>Permet la fabriquation de coupe-circuits; ils peuvent être placés n'importe où dans un réseau électrique contenant des batteries. Chaque coupe-circuit peut préserver jusqu'à 1800 Wj d'énergie (la capacité de trois batteries standards) en cas de décharge, mais ils doivent être réinitialisés manuellement après un déclenchement.</ResearchProject_RTCircuitBreakers.description>
+
+</LanguageData>
