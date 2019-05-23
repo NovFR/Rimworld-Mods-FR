@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GU_RR_NoMountedHunting_Title>Pas de chasse montée</GU_RR_NoMountedHunting_Title>
+	<GU_RR_NoMountedHunting_Description>Interdit la chasse avec des montures. Il est recommandé d'activer cette option si vous utilisez Combat Extended, sinon les animaux risquent d'être blessés lorsque vous jouez.</GU_RR_NoMountedHunting_Description>
+	<GU_RR_MinAutoMountDistance_Title>Distance min. pour la monte auto.</GU_RR_MinAutoMountDistance_Title>
+	<GU_RR_MinAutoMountDistance_Description>Distance minimale pour laquelle un colon va envisager d'utiliser une monture pour se rendre à sa destination. Si la tâche peut être accomplie avec une monture, la distance vers la seconde cible de la tâche est également prise en compte.</GU_RR_MinAutoMountDistance_Description>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Title>Distance min. de l'animal pour la monte auto.</GU_RR_MinAutoMountDistanceFromAnimal_Title>
+	<GU_RR_MinAutoMountDistanceFromAnimal_Description>Distance minimale jusqu'à l'animal pour laquelle un colon va envisager d'utiliser une monture pour effectuer une tâche. Si la tâche peut être accomplie avec une monture, la distance vers la seconde cible de la tâche est également prise en compte.</GU_RR_MinAutoMountDistanceFromAnimal_Description>
+
+	<GU_RR_Designator_GU_DropAnimal_Expand_Label>Placer une zone de monture</GU_RR_Designator_GU_DropAnimal_Expand_Label>
+	<!--Should be short-->
+	<GU_RR_Designator_GU_DropAnimal_Expand_Description>Lorsqu'ils entrent dans une zone d'interdiction, les colons montés vont descendre de leur animal dans la zone de monture la plus proche.</GU_RR_Designator_GU_DropAnimal_Expand_Description>
+	<GU_RR_Designator_GU_DropAnimal_Clear_Label>Retirer une zone de monture</GU_RR_Designator_GU_DropAnimal_Clear_Label>
+	<!--Should be short-->
+	<GU_RR_Designator_GU_DropAnimal_Clear_Description>Supprime une ou plusieurs zones de monture. Faire glisser pour effacer plusieurs zones en même temps.</GU_RR_Designator_GU_DropAnimal_Clear_Description>
+	<GU_RR_Designator_GU_NoMount_Clear_Label>Retirer la zone d'interdiction</GU_RR_Designator_GU_NoMount_Clear_Label>
+	<!--Should be short-->
+	<GU_RR_Designator_GU_NoMount_Clear_Description>Supprime la partie sélectionnée de la zone d'interdiction.</GU_RR_Designator_GU_NoMount_Clear_Description>
+	<GU_RR_Designator_GU_NoMount_Expand_Label>Etendre la zone d'interdiction</GU_RR_Designator_GU_NoMount_Expand_Label>
+	<GU_RR_Designator_GU_NoMount_Expand_Description>Avant d'entrer dans une zone d'interdiction, les colons montés vont descendre de leur animal sur la zone de monture la plus proche. Cela ne se produit que si leur destination est à l'intérieur de la zone d'interdiction.\n\nNOTE IMPORTANTE: Cette zone n'a d'effet que si au moins une zone de monture a été désignée.</GU_RR_Designator_GU_NoMount_Expand_Description>
+	<GU_RR_NoDropAnimal_Label>Pas de zone de monture (Giddy-up!)</GU_RR_NoDropAnimal_Label>
+	<GU_RR_NoDropAnimal_Description>Une zone d'interdiction a été définie mais il n'existe aucune zone de monture. La zone d'interdiction n'a donc aucun effet. Consultez le menu Zones de l'onglet Architecte pour placer une zone de monture.</GU_RR_NoDropAnimal_Description>
+	<GU_RR_NotReachable_DropAnimal_Message>Un colon ne peut pas rejoindre une zone de monture. Assurez-vous que toutes les zones peuvent être atteintes.</GU_RR_NotReachable_DropAnimal_Message>
+
+</LanguageData>

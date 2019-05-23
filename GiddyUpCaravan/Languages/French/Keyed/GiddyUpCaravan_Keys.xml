@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GU_Car_Explanation_Speed>Vitesse avec Giddy-up! Caravan</GU_Car_Explanation_Speed>
+	<GU_Car_Explanation_EveryoneRiding>Tout le monde est sur une monture !</GU_Car_Explanation_EveryoneRiding>
+	<GU_Car_Explanation_Bonus>Bonus</GU_Car_Explanation_Bonus>
+	<GU_Car_Explanation_NotEveryoneRiding>Tout le monde n'a pas de monture</GU_Car_Explanation_NotEveryoneRiding>
+	<GU_Car_Explanation_MaxNotEveryone>Cavaliers nécessaires pour que tout le monde soit monté</GU_Car_Explanation_MaxNotEveryone>
+	<GU_Car_Explanation_OfTotal>du nombre total de voyageurs</GU_Car_Explanation_OfTotal>
+	<!--No capital here -->
+	<GU_Car_Explanation_FractionMax>Fraction du max</GU_Car_Explanation_FractionMax>
+	<GU_Car_Explanation_FinalSpeed>Vitesse finale</GU_Car_Explanation_FinalSpeed>
+	<GU_Car_NotReachable_DropAnimal_NPC_Message>Visitor could not reach Giddy-up! NPC Drop off point. Make sure all NPC drop off points are reachable</GU_Car_NotReachable_DropAnimal_NPC_Message>
+
+	<!-- Options -->
+
+	<GU_Car_CompleteCaravanBonus_Title>Bonus si tous montés (%)</GU_Car_CompleteCaravanBonus_Title>
+	<GU_Car_CompleteCaravanBonus_Description>Bonus de vitesse appliqué à la caravane lorsque tous les membres sont sur une monture.</GU_Car_CompleteCaravanBonus_Description>
+
+	<GU_Car_incompleteCaravanBonusCap_Title>Bonus si partiellement montés (%)</GU_Car_incompleteCaravanBonusCap_Title>
+	<GU_Car_incompleteCaravanBonusCap_Description>Bonus de vitesse appliqué par animal monté, jusqu'au maximum indiqué par ce paramètre. Ce maximum est atteint lorsque tous les membres d'une caravane sont montés sauf un.\n\nCe bonus n'est pas appliqué si tout les membres utilisent une monture.</GU_Car_incompleteCaravanBonusCap_Description>
+
+	<GU_Car_visitorMountChance_Title>PNJ amical sur une monture (%)</GU_Car_visitorMountChance_Title>
+	<GU_Car_visitorMountChance_Description>Probabilité qu'un PNJ amical en visite soit sur une monture.</GU_Car_visitorMountChance_Description>
+
+	<GU_Car_visitorMountChanceTribal_Title>PNJ tribal amical sur une monture (%)</GU_Car_visitorMountChanceTribal_Title>
+	<GU_Car_visitorMountChanceTribal_Description>Probabilité qu'un PNJ tribal amical en visite soit sur une monture</GU_Car_visitorMountChanceTribal_Description>
+
+	<GU_Car_InBiomeWeight_Title>Animal du biome comme monture d'un PNJ amical (%)</GU_Car_InBiomeWeight_Title>
+	<GU_Car_InBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit en adéquation avec le biome de votre colonie.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_InBiomeWeight_Description>
+
+	<GU_Car_OutBiomeWeight_Title>Animal de n'importe quel biome comme monture d'un PNJ amical (%)</GU_Car_OutBiomeWeight_Title>
+	<GU_Car_OutBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit issue de n'importe quel biome.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_OutBiomeWeight_Description>
+
+	<GU_Car_NonWildWeight_Title>Animal domestique comme monture d'un PNJ amical (%)</GU_Car_NonWildWeight_Title>
+	<GU_Car_NonWildWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit un animal qu'on ne peut pas trouver dans la nature.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_NonWildWeight_Description>
+
+	<!-- /Options -->
+
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>Retirer une zone de monture pour PNJ</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>Supprime une ou plusieurs zones de monture pour PNJ.</GU_Car_Designator_GU_DropAnimal_NPC_Clear_Description>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>Placer une zone de monture pour PNJ</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Label>
+	<GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>Lorsque des marchands ou des visiteurs arrivent, ils descenderont temporairement de leur monture sur la zone le plus proche. Les montures resteront à cet endroit jusqu'à leur départ.</GU_Car_Designator_GU_DropAnimal_NPC_Expand_Description>
+	<!-- note for translators: The following items need to be really short to fit -->
+	<GU_Car_No_Rider>Aucun cavalier</GU_Car_No_Rider>
+	<GU_Car_Set_Rider>Choix cavalier</GU_Car_Set_Rider>
+	<GU_Car_NotInModOptions>Pas montable</GU_Car_NotInModOptions>
+	<GU_Car_NotFullyGrown>Trop jeune</GU_Car_NotFullyGrown>
+	<GU_Car_NeedsObedience>Pas obéissant</GU_Car_NeedsObedience>
+	<GU_Car_AnimalNotSelected>Non sélectionné</GU_Car_AnimalNotSelected>
+	<GU_Car_PawnNotSelected>non sélectionné</GU_Car_PawnNotSelected>
+
+</LanguageData>
