@@ -2,52 +2,52 @@
 <LanguageData>
 
 	<Make_Apparel_FSFineShirt.label>fabriquer une belle chemise</Make_Apparel_FSFineShirt.label>
-	<Make_Apparel_FSFineShirt.description>Cosmétique.</Make_Apparel_FSFineShirt.description>
+	<Make_Apparel_FSFineShirt.description>Améliorez vos talents sociaux avec cette chemise.</Make_Apparel_FSFineShirt.description>
 	<Make_Apparel_FSFineShirt.jobString>Fabrique une belle chemise.</Make_Apparel_FSFineShirt.jobString>
 
 	<Make_Apparel_FSFatigues.label>fabriquer un treillis militaire</Make_Apparel_FSFatigues.label>
-	<Make_Apparel_FSFatigues.description>Bonne protection.</Make_Apparel_FSFatigues.description>
+	<Make_Apparel_FSFatigues.description>La tenue idéale pour toute personne combattante.</Make_Apparel_FSFatigues.description>
 	<Make_Apparel_FSFatigues.jobString>Fabrique un treillis militaire.</Make_Apparel_FSFatigues.jobString>
 
 	<Make_Apparel_FSFurCoat.label>fabriquer un manteau de fourrure</Make_Apparel_FSFurCoat.label>
-	<Make_Apparel_FSFurCoat.description>Protège bien du froid.</Make_Apparel_FSFurCoat.description>
+	<Make_Apparel_FSFurCoat.description>Un manteau qui tiend chaud. Protège bien des tempértures hivernales.</Make_Apparel_FSFurCoat.description>
 	<Make_Apparel_FSFurCoat.jobString>Fabrique un manteau de fourrure.</Make_Apparel_FSFurCoat.jobString>
 
 	<Make_Apparel_FSDesertRobe.label>fabriquer une robe du désert</Make_Apparel_FSDesertRobe.label>
-	<Make_Apparel_FSDesertRobe.description>Protège du chaud.</Make_Apparel_FSDesertRobe.description>
+	<Make_Apparel_FSDesertRobe.description>La tenue parfaite pour les journées d'été. Elle est facile à fabriquer et permet de lutter efficacement contre la chaleur.</Make_Apparel_FSDesertRobe.description>
 	<Make_Apparel_FSDesertRobe.jobString>Fabrique une robe du désert.</Make_Apparel_FSDesertRobe.jobString>
 
 	<Make_Apparel_FSGardeningVest.label>fabriquer un gilet de jardinage</Make_Apparel_FSGardeningVest.label>
-	<Make_Apparel_FSGardeningVest.description>Pour jardiner.</Make_Apparel_FSGardeningVest.description>
+	<Make_Apparel_FSGardeningVest.description>Une tenue idéale pour jardiner.</Make_Apparel_FSGardeningVest.description>
 	<Make_Apparel_FSGardeningVest.jobString>Fabrique un gilet de jardinage.</Make_Apparel_FSGardeningVest.jobString>
 
 	<Make_Apparel_FSThermalPants.label>fabriquer un pantalon thermique</Make_Apparel_FSThermalPants.label>
-	<Make_Apparel_FSThermalPants.description>Protège du froid.</Make_Apparel_FSThermalPants.description>
+	<Make_Apparel_FSThermalPants.description>Le summum de l'innovation en matière de lutte contre le froid. Il protège bien le bas du corps contre les basses températures.</Make_Apparel_FSThermalPants.description>
 	<Make_Apparel_FSThermalPants.jobString>Fabrique un pantalon thermique.</Make_Apparel_FSThermalPants.jobString>
 
 	<Make_Apparel_FSCargoShorts.label>fabriquer un short cargo</Make_Apparel_FSCargoShorts.label>
 	<Make_Apparel_FSCargoShorts.description>Sentez la douce brise d'été caresser vos jambes.</Make_Apparel_FSCargoShorts.description>
 	<Make_Apparel_FSCargoShorts.jobString>Fabrique un short cargo.</Make_Apparel_FSCargoShorts.jobString>
 
-	<Make_Apparel_FSOveralls.label>fabriquer une tenue</Make_Apparel_FSOveralls.label>
-	<Make_Apparel_FSOveralls.description>Tenue générique.</Make_Apparel_FSOveralls.description>
-	<Make_Apparel_FSOveralls.jobString>Fabrique une tenue.</Make_Apparel_FSOveralls.jobString>
+	<Make_Apparel_FSOveralls.label>fabriquer une salopette</Make_Apparel_FSOveralls.label>
+	<Make_Apparel_FSOveralls.description>Une tenue conçue pour les techniciens et techniciennes.</Make_Apparel_FSOveralls.description>
+	<Make_Apparel_FSOveralls.jobString>Fabrique une salopette.</Make_Apparel_FSOveralls.jobString>
 
 	<Make_Apparel_FSFurHat.label>fabriquer un chapeau de fourrure</Make_Apparel_FSFurHat.label>
-	<Make_Apparel_FSFurHat.description>Protège la tête du froid.</Make_Apparel_FSFurHat.description>
+	<Make_Apparel_FSFurHat.description>La protection parfaite contre le froid. Garde la tête au chaud tout en restant élégant.</Make_Apparel_FSFurHat.description>
 	<Make_Apparel_FSFurHat.jobString>Fabrique un chapeau de fourrure.</Make_Apparel_FSFurHat.jobString>
 
 	<Make_Apparel_FSDesertWrap.label>fabriquer une cagoule du désert</Make_Apparel_FSDesertWrap.label>
-	<Make_Apparel_FSDesertWrap.description>Efficace contre le sable et la chaleur.</Make_Apparel_FSDesertWrap.description>
+	<Make_Apparel_FSDesertWrap.description>Cette cagoule protège efficacement contre la chaleur, le sable, et les désagréments habituels de l'été. Mais elle n'est pas très adaptée pour les relations sociales.</Make_Apparel_FSDesertWrap.description>
 	<Make_Apparel_FSDesertWrap.jobString>Fabrique une cagoule du désert.</Make_Apparel_FSDesertWrap.jobString>
 
 	<Make_Apparel_FSChefJacket.label>fabriquer une veste de chef</Make_Apparel_FSChefJacket.label>
 	<Make_Apparel_FSChefJacket.description>Pour les as de la cuisine.</Make_Apparel_FSChefJacket.description>
 	<Make_Apparel_FSChefJacket.jobString>Fabrique une veste de chef.</Make_Apparel_FSChefJacket.jobString>
 
-	<Make_Apparel_FSChefsHat.label>fabriquer un chapeau de chef</Make_Apparel_FSChefsHat.label>
+	<Make_Apparel_FSChefsHat.label>fabriquer une toque de chef</Make_Apparel_FSChefsHat.label>
 	<Make_Apparel_FSChefsHat.description>Pour les as de la cuisine.</Make_Apparel_FSChefsHat.description>
-	<Make_Apparel_FSChefsHat.jobString>Fabrique un chapeau de chef.</Make_Apparel_FSChefsHat.jobString>
+	<Make_Apparel_FSChefsHat.jobString>Fabrique une toque de chef.</Make_Apparel_FSChefsHat.jobString>
 
 	<Make_Apparel_FSScrubs.label>fabriquer une blouse médicale</Make_Apparel_FSScrubs.label>
 	<Make_Apparel_FSScrubs.description>Réservé au personnel médical.</Make_Apparel_FSScrubs.description>
