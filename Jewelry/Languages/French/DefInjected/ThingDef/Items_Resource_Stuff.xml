@@ -3,6 +3,7 @@
 
 	<RawDiamond.label>diamant brut</RawDiamond.label>
 	<RawDiamond.description>Un diamant naturel, simple.</RawDiamond.description>
+	<RawDiamond.stuffProps.stuffAdjective>diamant</RawDiamond.stuffProps.stuffAdjective>
 
 	<RawRuby.label>rubis brut</RawRuby.label>
 	<RawRuby.description>Un rubis naturel, simple.</RawRuby.description>
