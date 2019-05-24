@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
 	<Mount.reportString>Monte.</Mount.reportString>
-	<Mounted.reportString>Utilise une monture.</Mounted.reportString>
+	<Mounted.reportString>Sur une monture.</Mounted.reportString>
+
 </LanguageData>

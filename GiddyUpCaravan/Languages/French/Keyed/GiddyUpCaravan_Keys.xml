@@ -20,19 +20,19 @@
 	<GU_Car_incompleteCaravanBonusCap_Title>Bonus si partiellement montés (%)</GU_Car_incompleteCaravanBonusCap_Title>
 	<GU_Car_incompleteCaravanBonusCap_Description>Bonus de vitesse appliqué par animal monté, jusqu'au maximum indiqué par ce paramètre. Ce maximum est atteint lorsque tous les membres d'une caravane sont montés sauf un.\n\nCe bonus n'est pas appliqué si tout les membres utilisent une monture.</GU_Car_incompleteCaravanBonusCap_Description>
 
-	<GU_Car_visitorMountChance_Title>PNJ amical sur une monture (%)</GU_Car_visitorMountChance_Title>
+	<GU_Car_visitorMountChance_Title>Probabilité qu'un PNJ amical ait une monture</GU_Car_visitorMountChance_Title>
 	<GU_Car_visitorMountChance_Description>Probabilité qu'un PNJ amical en visite soit sur une monture.</GU_Car_visitorMountChance_Description>
 
-	<GU_Car_visitorMountChanceTribal_Title>PNJ tribal amical sur une monture (%)</GU_Car_visitorMountChanceTribal_Title>
+	<GU_Car_visitorMountChanceTribal_Title>Probabilité qu'un PNJ tribal amical ait une monture</GU_Car_visitorMountChanceTribal_Title>
 	<GU_Car_visitorMountChanceTribal_Description>Probabilité qu'un PNJ tribal amical en visite soit sur une monture</GU_Car_visitorMountChanceTribal_Description>
 
-	<GU_Car_InBiomeWeight_Title>Animal du biome comme monture d'un PNJ amical (%)</GU_Car_InBiomeWeight_Title>
+	<GU_Car_InBiomeWeight_Title>Probabilité que la monture d'un PNJ soit native du biome local</GU_Car_InBiomeWeight_Title>
 	<GU_Car_InBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit en adéquation avec le biome de votre colonie.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_InBiomeWeight_Description>
 
-	<GU_Car_OutBiomeWeight_Title>Animal de n'importe quel biome comme monture d'un PNJ amical (%)</GU_Car_OutBiomeWeight_Title>
+	<GU_Car_OutBiomeWeight_Title>Probabilité que la monture d'un PNJ soit native de n'importe quel biome</GU_Car_OutBiomeWeight_Title>
 	<GU_Car_OutBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit issue de n'importe quel biome.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_OutBiomeWeight_Description>
 
-	<GU_Car_NonWildWeight_Title>Animal domestique comme monture d'un PNJ amical (%)</GU_Car_NonWildWeight_Title>
+	<GU_Car_NonWildWeight_Title>Probabilité que la monture d'un PNJ ne soit pas un animal sauvage</GU_Car_NonWildWeight_Title>
 	<GU_Car_NonWildWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit un animal qu'on ne peut pas trouver dans la nature.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_NonWildWeight_Description>
 
 	<!-- /Options -->
