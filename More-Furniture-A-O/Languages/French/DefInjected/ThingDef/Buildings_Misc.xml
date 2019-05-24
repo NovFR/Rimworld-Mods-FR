@@ -3,6 +3,7 @@
 
 	<Light_Streetlamp.label>lampadaire</Light_Streetlamp.label>
 	<Light_Streetlamp.description>Permet d'éclairer les zones extérieures. Idéal pour éclairer les chemins. Ne s'allume que la nuit.</Light_Streetlamp.description>
+	<Light_Streetlamp.comps.CompSchedule.offMessage>Éteint durant la journée.</Light_Streetlamp.comps.CompSchedule.offMessage>
 
 	<Misc_FileCabinet.label>classeur</Misc_FileCabinet.label>
 	<Misc_FileCabinet.description>Un meuble permettant de ranger des documents.</Misc_FileCabinet.description>
