@@ -59,7 +59,8 @@
 	<CommandFixtureSetAsMedicalLabel>Médical</CommandFixtureSetAsMedicalLabel>
 	<CommandFixtureSetAsMedicalDesc>Limiter cette installation aux patients.</CommandFixtureSetAsMedicalDesc>
 	<PatientsOnly>Patients uniquement</PatientsOnly>
-	<AttackHelicopter>Attack Helicopter ???</AttackHelicopter>
+	<!-- \/ NDT: WTF? -->
+	<AttackHelicopter>Hélicoptère d'attaque</AttackHelicopter>
 	<Unisex>Unisexe</Unisex>
 	<ConnectFixturesToBed>Lier à un lit</ConnectFixturesToBed>
 	<ConnectFixturesToBedDesc>Connecte cette installation à un lit proche afin de lui attribuer le même propriétaire.</ConnectFixturesToBedDesc>
@@ -76,7 +77,7 @@
 	<HeatingMode>Unités de chaleur/Puissance: {0} U / {1} W</HeatingMode>
 	<CoolingMode>Unités du refroidissement/Puissance: {0} U / {1} W</CoolingMode>
 	<CoolingEfficiencyGood>Efficacité: {0}</CoolingEfficiencyGood>
-	<CoolingEfficiencyBad>Efficacité: {0} Overheating</CoolingEfficiencyBad>
+	<CoolingEfficiencyBad>Efficacité: {0} Surchauffe</CoolingEfficiencyBad>
 	<TargetTemp>Température minimale: {0}</TargetTemp>
 	<LowerPower>Réduire</LowerPower>
 	<LowerPowerDesc>Réduit la puissance de l'appareil.</LowerPowerDesc>
@@ -85,8 +86,8 @@
 	<HotwaterCapacity>Capacité en eau chaude: {0}</HotwaterCapacity>
 	<OverrideThermostat>Pas de thermostat</OverrideThermostat>
 	<OverrideThermostatDesc>Force l'appareil à fonctionner continuellement.</OverrideThermostatDesc>
-	<MustPlaceFreezerWithFreeSpaces>Exhaust vents must be kept clear!</MustPlaceFreezerWithFreeSpaces>
-	<SolarEfficiencyBad>Efficacité: {0} Too cold</SolarEfficiencyBad>
+	<MustPlaceFreezerWithFreeSpaces>Les sorties doivent être dégagées !</MustPlaceFreezerWithFreeSpaces>
+	<SolarEfficiencyBad>Efficacité: {0} Trop froid</SolarEfficiencyBad>
 	<SolarEfficiencyGood>Efficacité: {0}</SolarEfficiencyGood>
 	<RadCurrentCap>Température du radiateur: {0}</RadCurrentCap>
 
