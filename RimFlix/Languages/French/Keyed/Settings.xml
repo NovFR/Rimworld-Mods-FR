@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RimFlix_Title>RimFlix</RimFlix_Title>
+
+	<RimFlix_SecondsBetweenShowsLabel>Délai entre les changements de chaîne :</RimFlix_SecondsBetweenShowsLabel>
+	<RimFlix_SecondsBetweenShowsTooltip>Si la télévision autorise le changement de chaîne, le programme visualisé par un colon sera modifié après ce laps de temps.</RimFlix_SecondsBetweenShowsTooltip>
+	<RimFlix_SecondsBetweenShowsUnits>secondes</RimFlix_SecondsBetweenShowsUnits>
+	<RimFlix_PlayAlwaysLabel>Afficher les programmes quand personne ne regarde</RimFlix_PlayAlwaysLabel>
+	<RimFlix_PlayAlwaysTooltip>Si activé, les télévisions seront allumées et diffuseront les programmes même si aucun colon ne regarde.</RimFlix_PlayAlwaysTooltip>  
+	<RimFlix_PowerConsumptionOnLabel>Énergie consommée par une télé allumée :</RimFlix_PowerConsumptionOnLabel>
+	<RimFlix_PowerConsumptionOnTooltip>Quand une télévision diffuse un programme, l'énergie consommée sera multipliée par cette valeur. 100% est la valeur de base de Rimworld.</RimFlix_PowerConsumptionOnTooltip>
+	<RimFlix_PowerConsumptionOffLabel>Énergie consommée par une télé éteinte :</RimFlix_PowerConsumptionOffLabel>
+	<RimFlix_PowerConsumptionOffTooltip>L'énergie consommée par une télévision qui ne diffuse aucun programme sera multipliée par cette valeur. 100% est la valeur de base de Rimworld.</RimFlix_PowerConsumptionOffTooltip>
+	<RimFlix_DrawTypeLabel>Méthode de redimensionnement :</RimFlix_DrawTypeLabel>
+	<RimFlix_DrawTypeTooltip>Les images affichées sur les écrans de télévision seront redimensionnées en utilisant cette méthode.</RimFlix_DrawTypeTooltip>
+	<RimFlix_DrawTypeStretch>Étirement</RimFlix_DrawTypeStretch>
+	<RimFlix_DrawTypeFit>Fixe</RimFlix_DrawTypeFit>
+	<RimFlix_DrawTypeFill>Remplissage</RimFlix_DrawTypeFill>
+
+	<RimFlix_ShowsLabel>Programme actuel</RimFlix_ShowsLabel>
+	<RimFlix_AddShowButton>Créer</RimFlix_AddShowButton>
+	<RimFlix_EditShowButton>Modifier</RimFlix_EditShowButton>
+	<RimFlix_AddShowTooltip>Créer un nouveau programme en utilisant les images d'un disque local.</RimFlix_AddShowTooltip>
+	<RimFlix_AddShowTooltip2>Créer un nouveau programme en utilisant toutes les images du répertoire actuel.</RimFlix_AddShowTooltip2>
+	<RimFlix_NameHeader>Afficher le nom</RimFlix_NameHeader>
+	<RimFlix_FramesHeader>Images</RimFlix_FramesHeader>
+	<RimFlix_SecFrameHeader>Sec/Img</RimFlix_SecFrameHeader>
+	<RimFlix_ActionsHeader>Actions</RimFlix_ActionsHeader>
+	<RimFlix_SortHeader>Classer par</RimFlix_SortHeader>
+	<RimFlix_EnableButton>Activer</RimFlix_EnableButton>
+	<RimFlix_DisableButton>Désactiver</RimFlix_DisableButton>
+	<RimFlix_EditButton>Éditer</RimFlix_EditButton>
+	<RimFlix_DeleteButton>Suppr.</RimFlix_DeleteButton>
+	<RimFlix_UserShowLabel>Personnalisé</RimFlix_UserShowLabel>
+	<RimFlix_ConfirmDelete>Désirez-vous réellement supprimer {0} ?</RimFlix_ConfirmDelete>
+
+	<RimFlix_CurrentDirectoryLabel>Répertoire actuel :</RimFlix_CurrentDirectoryLabel>
+	<RimFlix_FramesLabel>{0} images dans ce répertoire.</RimFlix_FramesLabel>
+	<RimFlix_FrameLabel>{0} image dans ce répertoire.</RimFlix_FrameLabel>
+	<RimFlix_InfoLabel>Toutes les images seront ajoutées.</RimFlix_InfoLabel><!-- NDT: Need to be short -->
+	<RimFlix_NameLabel>Nom du programme :</RimFlix_NameLabel>
+	<RimFlix_DefaultName>Mon programme</RimFlix_DefaultName>
+	<RimFlix_TimeLabel>Délai entre les images :</RimFlix_TimeLabel>
+	<RimFlix_TimeSeconds>secondes</RimFlix_TimeSeconds>
+	<RimFlix_TimeSecond>seconde</RimFlix_TimeSecond>
+	<RimFlix_TimeTicks>tics</RimFlix_TimeTicks>
+	<RimFlix_PlayLabel>Jouer le programme sur :</RimFlix_PlayLabel>
+	<RimFlix_CustomDescPrefix>Programme personnalisé dans {0}, dernière modification: {1}</RimFlix_CustomDescPrefix>
+	<RimFlix_CancelButton>Annuler</RimFlix_CancelButton>
+	<RimFlix_CancelTooltip>Ferme la fenêtre sans créer de nouveau programme.</RimFlix_CancelTooltip>
+	<RimFlix_FileNotFound>Fichier non trouvé</RimFlix_FileNotFound>
+	<RimFlix_DirNotFound>Répertoire non trouvé: {0}</RimFlix_DirNotFound>
+	<RimFlix_NoShowName>Veuillez saisir un nom pour le programme</RimFlix_NoShowName>
+	<RimFlix_NoTelevisionType>Veuillez saisir au moins un type de télévision</RimFlix_NoTelevisionType>
+	<RimFlix_LoadError>Erreur lors de la création du programme. Visualisez le debug pour de plus amples informations.</RimFlix_LoadError>
+	<RimFlix_Note01>Si vous créez un programme avec beaucoup d'images, le chargement des textures peut être très long.</RimFlix_Note01>
+
+	<RimFlix_PreviewLabel>Prévisualisation pour</RimFlix_PreviewLabel>
+
+	<RimFlix_AdjustSreenTitle>Ajuster la taille de l'écran et sa position</RimFlix_AdjustSreenTitle>
+	<RimFlix_XScale>Échelle X</RimFlix_XScale>
+	<RimFlix_YScale>Échelle Y</RimFlix_YScale>
+	<RimFlix_XOffset>Décalage X</RimFlix_XOffset>
+	<RimFlix_YOffset>Décalage Y</RimFlix_YOffset>
+	<RimFlix_DefaultScreen>Par défaut</RimFlix_DefaultScreen>
+
+	<RimFlix_AllowPawnLabel>Autoriser les colons à changer de chaîne</RimFlix_AllowPawnLabel>
+	<RimFlix_AllowPawnDesc>Autorise les colons à modifier le programme lorsqu'ils regardent la télévision.</RimFlix_AllowPawnDesc>
+
+	<RimFlix_SelectShowLabel>Sélectionner le programme</RimFlix_SelectShowLabel>
+	<RimFlix_SelectShowDesc>Sélectionner le programme à diffuser sur cette télévsion.</RimFlix_SelectShowDesc>
+
+	<RimFlix_NextShowLabel>Programme suivant</RimFlix_NextShowLabel>
+	<RimFlix_NextShowDesc>Passe au programme suivant.</RimFlix_NextShowDesc>
+
+</LanguageData>
