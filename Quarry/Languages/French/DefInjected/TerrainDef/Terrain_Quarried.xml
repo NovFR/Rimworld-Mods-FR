@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+	<QRY_QuarriedGround.label>sol d'une carrière</QRY_QuarriedGround.label>
 	<QRY_QuarriedGroundWall.label>sol d'une carrière</QRY_QuarriedGroundWall.label>
 	<QRY_ReclaimedSoil.label>terre réhabilitée</QRY_ReclaimedSoil.label>
 

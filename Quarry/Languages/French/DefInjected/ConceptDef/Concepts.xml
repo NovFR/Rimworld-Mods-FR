@@ -2,6 +2,6 @@
 <LanguageData>
 
 	<QRY_ReclaimingSoil.label>Réhabilitation du sol</QRY_ReclaimingSoil.label>
-	<QRY_ReclaimingSoil.description>Une fois une carrière démontée, vous pouvez utiliser l'outil Réhabiliter le sol afin de demander à vos colons de couvrir l'ancien emplacement de la carrière avec de la terre cultivable.</QRY_ReclaimingSoil.description>
+	<QRY_ReclaimingSoil.helpText>Une fois une carrière démontée, vous pouvez utiliser l'outil Réhabiliter le sol afin de demander à vos colons de couvrir l'ancien emplacement de la carrière avec de la terre cultivable.</QRY_ReclaimingSoil.helpText>
 
 </LanguageData>
