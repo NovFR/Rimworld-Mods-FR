@@ -6,6 +6,9 @@
 	<Lighting_MURUVWallLight.comps.CompSchedule.offMessage>Éteint pendant la période de repos des plantes</Lighting_MURUVWallLight.comps.CompSchedule.offMessage>
 
 	<Lighting_MURUVWallLight_On.label>lampe horticole murale (allumée)</Lighting_MURUVWallLight_On.label>
-	<Lighting_MURUVWallLight_On.description>(ne devrait pas apparaître)</Lighting_MURUVWallLight_On.description>
+	<Lighting_MURUVWallLight_On.description>Pas de description.</Lighting_MURUVWallLight_On.description>
+
+	<Lighting_MURUVWallLight_Glower.label>lampe horticole murale (lueure)</Lighting_MURUVWallLight_Glower.label>
+	<Lighting_MURUVWallLight_Glower.description>Pas de description.</Lighting_MURUVWallLight_Glower.description>
 
 </LanguageData>
