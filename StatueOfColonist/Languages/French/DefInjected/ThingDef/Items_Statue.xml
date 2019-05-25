@@ -13,4 +13,6 @@
 	<Blueprint_Install_TMB_StatueOfColonistKGrand.label>statue monumentale (plan)</Blueprint_Install_TMB_StatueOfColonistKGrand.label>
 	<TMB_StatueOfColonistKGrand.description>Une statue représentant un membre de la colonie.</TMB_StatueOfColonistKGrand.description>
 
+	<TMB_MinifiedStatueOfColonistK.label>statue de colon</TMB_MinifiedStatueOfColonistK.label>
+
 </LanguageData>

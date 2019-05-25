@@ -7,4 +7,13 @@
 	<GT_SoilTilled.label>terre cultivable</GT_SoilTilled.label>
 	<GT_SoilTilled.description>Une terre travaillée afin d'obtenir les meilleures cultures possibles.</GT_SoilTilled.description>
 
+	<Dirt.tools.dirt.label>terre</Dirt.tools.dirt.label>
+	<GT_SoilTilled.tools.dirt.label>terre</GT_SoilTilled.tools.dirt.label>
+
+	<!-- Deprecated -->
+
+	<SoilTilled.label>terre cultivable</SoilTilled.label>
+	<SoilTilled.description>(obsolète)</SoilTilled.description>
+	<SoilTilled.tools.dirt.label>terre</SoilTilled.tools.dirt.label>
+
 </LanguageData>

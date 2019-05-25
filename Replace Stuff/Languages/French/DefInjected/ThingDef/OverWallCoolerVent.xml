@@ -2,8 +2,12 @@
 <LanguageData>
 
 	<Cooler_Over.label>climatiseur mural</Cooler_Over.label>
+	<Cooler_Over.description>Un climatiseur inséré dans un mur. L'air froid sort d'un côté tandis que l'air chaud sort de l'autre. Peut être utilisé pour rafraichir les pièces durant l'été ou pour créer une pièce réfrigérée.</Cooler_Over.description>
+
 	<Cooler_Over2W.label>climatiseur mural (double mur)</Cooler_Over2W.label>
+	<Cooler_Over2W.description>Un climatiseur inséré dans un mur. L'air froid sort d'un côté tandis que l'air chaud sort de l'autre. Peut être utilisé pour rafraichir les pièces durant l'été ou pour créer une pièce réfrigérée.</Cooler_Over2W.description>
 
 	<Vent_Over.label>ventilation murale</Vent_Over.label>
+	<Vent_Over.description>Une ventilation insérée dans un mur permettant d'harmoniser les températures entre deux pièces.</Vent_Over.description>
 
 </LanguageData>

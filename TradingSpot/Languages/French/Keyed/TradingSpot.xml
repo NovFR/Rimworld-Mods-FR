@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+	<TradingSpot>Lieu d'échange</TradingSpot>
 	<TradingSpot.AlreadyOnMap>Un seul lieu d'échange autorisé par carte. L'ancien lieu a été supprimé.</TradingSpot.AlreadyOnMap>
+	<TradingSpot.VisitorsGoToTradeSpot>Les visiteurs vont sur le lieu d'échange</TradingSpot.VisitorsGoToTradeSpot>
 
 </LanguageData>
