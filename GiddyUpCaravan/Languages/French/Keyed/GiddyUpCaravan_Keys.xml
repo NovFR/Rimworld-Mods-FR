@@ -27,13 +27,13 @@
 	<GU_Car_visitorMountChanceTribal_Description>Probabilité qu'un PNJ tribal amical en visite soit sur une monture</GU_Car_visitorMountChanceTribal_Description>
 
 	<GU_Car_InBiomeWeight_Title>Probabilité que la monture d'un PNJ soit native du biome local</GU_Car_InBiomeWeight_Title>
-	<GU_Car_InBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit en adéquation avec le biome de votre colonie.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_InBiomeWeight_Description>
+	<GU_Car_InBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit en adéquation avec le biome de votre colonie.\n\nLes probabilités seront normalisées à 100%, si la somme n'est pas 100.</GU_Car_InBiomeWeight_Description>
 
 	<GU_Car_OutBiomeWeight_Title>Probabilité que la monture d'un PNJ soit native de n'importe quel biome</GU_Car_OutBiomeWeight_Title>
-	<GU_Car_OutBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit issue de n'importe quel biome.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_OutBiomeWeight_Description>
+	<GU_Car_OutBiomeWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit issue de n'importe quel biome.\n\nLes probabilités seront normalisées à 100%, si la somme n'est pas 100.</GU_Car_OutBiomeWeight_Description>
 
 	<GU_Car_NonWildWeight_Title>Probabilité que la monture d'un PNJ ne soit pas un animal sauvage</GU_Car_NonWildWeight_Title>
-	<GU_Car_NonWildWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit un animal qu'on ne peut pas trouver dans la nature.\n\nLa probabilité est normalisée à 100%, si la somme n'est pas 100.</GU_Car_NonWildWeight_Description>
+	<GU_Car_NonWildWeight_Description>Probabilité que la monture utilisée par un PNJ amical soit un animal qu'on ne peut pas trouver dans la nature.\n\nLes probabilités seront normalisées à 100%, si la somme n'est pas 100.</GU_Car_NonWildWeight_Description>
 
 	<!-- /Options -->
 
