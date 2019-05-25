@@ -242,7 +242,7 @@
 
 	<RimatomicResearchCompleteDialog>{0} - terminé\n\n{1}</RimatomicResearchCompleteDialog>
 
-	<rimatomicsProto> Prototype</rimatomicsProto>
+	<rimatomicsProto> (Prototype)</rimatomicsProto>
 
 	<StartProject>Démarrer</StartProject>
 	<ProjectInitiated>Projet démarré</ProjectInitiated>

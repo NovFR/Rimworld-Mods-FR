@@ -3,7 +3,7 @@
 
 	<ReactorPipeVisibility.label>Visibilité des tuyaux</ReactorPipeVisibility.label>
 	<ReactorPipeVisibility.options.0.label>cachés</ReactorPipeVisibility.options.0.label>
-	<ReactorPipeVisibility.options.1.label>visibles uniquement dehors</ReactorPipeVisibility.options.1.label>
+	<ReactorPipeVisibility.options.1.label>cachés sous les planchers</ReactorPipeVisibility.options.1.label>
 	<ReactorPipeVisibility.options.2.label>toujours visibles</ReactorPipeVisibility.options.2.label>
 	<ReactorPipeVisibility.options.3.label>toujours visibles, connexions dans le sol</ReactorPipeVisibility.options.3.label>
 
