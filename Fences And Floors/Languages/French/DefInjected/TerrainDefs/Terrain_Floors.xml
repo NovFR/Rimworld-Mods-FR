@@ -13,4 +13,7 @@
 	<FAFTechTile.label>panneau de capteurs</FAFTechTile.label>
 	<FAFTechTile.description>Un panneau composé d'un ensemble de capteurs « intelligents » qui communiquent entre eux afin de s'adapter automatiquement à la pression exercée et d'offrir une surface optimale pour les déplacements.</FAFTechTile.description>
 
+	<FAFBurnedWoodTile.label>sol en contre-plaqué brûlé</FAFBurnedWoodTile.label>
+	<FAFBurnedWoodTile.description>Des couches de contre-planqué compressées victimes des flammes.</FAFBurnedWoodTile.description>
+
 </LanguageData>
