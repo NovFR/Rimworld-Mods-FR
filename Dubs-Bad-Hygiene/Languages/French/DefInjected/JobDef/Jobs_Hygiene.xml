@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TriggerFireSprinkler.reportString>active TargetA.</TriggerFireSprinkler.reportString>
+	<TriggerFireSprinkler.reportString>actionne TargetA.</TriggerFireSprinkler.reportString>
 	<emptySeptictank.reportString>vide TargetA.</emptySeptictank.reportString>
 	<emptyLatrine.reportString>vide TargetA.</emptyLatrine.reportString>
 	<LoadFridge.reportString>remplit TargetA.</LoadFridge.reportString>

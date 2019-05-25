@@ -127,7 +127,7 @@
 
 	<CommandSprinkleDown>Diminuer le rayon</CommandSprinkleDown>
 	<CommandSprinkleUp>Augmenter le rayon</CommandSprinkleUp>
-	<UntreatedWater>Qualité: Non traitée - Risque de maladie faible</UntreatedWater>
+	<UntreatedWater>Qualité: Non traitée - Léger risque de maladie</UntreatedWater>
 	<ContaminatedWater>Qualité: Contaminée ! - Risque de malade élevé !</ContaminatedWater>
 	<TreatedWater>Qualité: Traitée - Aucun risque de maladie</TreatedWater>
 

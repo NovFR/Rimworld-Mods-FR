@@ -6,15 +6,19 @@
 
 	<LogBoiler.label>chauffe-eau à bois</LogBoiler.label>
 	<LogBoiler.description>Produit 2000 unité de chaleur pour les radiateurs et ballons d'eau chaude. Doit être alimenté avec du bois.</LogBoiler.description>
+	<LogBoiler.comps.CompBoiler.GizmoLabel>Puissance</LogBoiler.comps.CompBoiler.GizmoLabel>
 
 	<GasBoiler.label>chauffe-eau au gaz</GasBoiler.label>
 	<GasBoiler.description>Produit 2000 unité de chaleur pour les radiateurs et ballons d'eau chaude. Doit être alimenté avec du chemfuel. Peut être contrôlé par thermostat.</GasBoiler.description>
+	<GasBoiler.comps.CompBoiler.GizmoLabel>Puissance</GasBoiler.comps.CompBoiler.GizmoLabel>
 
 	<ElectricBoiler.label>chauffe-eau électrique</ElectricBoiler.label>
 	<ElectricBoiler.description>Produit un nombre d'unité de chaleur variable pour les radiateurs et ballons d'eau chaude. Dispose d'un contrôle de puissance manuel. Peut être contrôlé par thermostat.</ElectricBoiler.description>
+	<ElectricBoiler.comps.CompBoiler.GizmoLabel>Puissance</ElectricBoiler.comps.CompBoiler.GizmoLabel>
 
 	<SolarHeater.label>chauffe-eau solaire</SolarHeater.label>
 	<SolarHeater.description>Produit entre 0 et 2000 unité de chaleur en fonction de la luminosité et de la températeure ambiante pour les radiateurs et ballons d'eau chaude.</SolarHeater.description>
+	<SolarHeater.comps.CompBoilerSolar.GizmoLabel>Puissance</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
 
 	<HotWaterTank.label>ballon d'eau chaude</HotWaterTank.label>
 	<HotWaterTank.description>Stocke l'eau chaude pour les douches et les bains. Connecter à un chauffe-eau pour bénéficier de l'eau chaude.</HotWaterTank.description>

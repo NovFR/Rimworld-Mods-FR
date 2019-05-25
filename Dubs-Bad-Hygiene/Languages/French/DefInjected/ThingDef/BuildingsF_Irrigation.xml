@@ -6,6 +6,7 @@
 
 	<FireSprinkler.label>arroseur anti-incendie</FireSprinkler.label>
 	<FireSprinkler.description>Déclenché par le feu ou de hautes températures. Eteint les flammes avec un jet d'eau.</FireSprinkler.description>
+	<FireSprinkler.comps.CompUsable.useLabel>Actionner l'arroseur</FireSprinkler.comps.CompUsable.useLabel>
 
 	<plumbingValve.label>valve</plumbingValve.label>
 	<plumbingValve.description>Ouvre et ferme les connexions entre des canalisations ou des conduits.</plumbingValve.description>
