@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Make_CFSimpleAniPaw.label>&lt;color=#99BADD&gt;Fabriquer une patte artificielle&lt;/color&gt;</Make_CFSimpleAniPaw.label>
+	<Make_CFSimpleAniPaw.description>Fabriquer une patte animale artificielle.</Make_CFSimpleAniPaw.description>
+	<Make_CFSimpleAniPaw.jobString>Fabrique une patte animale artificielle.</Make_CFSimpleAniPaw.jobString>
+
+	<Make_CFSimpleAniSpine.label>&lt;color=#99BADD&gt;Fabriquer une colonne vertébrale artificielle&lt;/color&gt;</Make_CFSimpleAniSpine.label>
+	<Make_CFSimpleAniSpine.description>Fabriquer une colonne vertébrale animale artificielle.</Make_CFSimpleAniSpine.description>
+	<Make_CFSimpleAniSpine.jobString>Fabrique une colonne vertébrale animale artificielle.</Make_CFSimpleAniSpine.jobString>
+
+	<Make_CFSimpleAniEye.label>&lt;color=#99BADD&gt;Fabriquer un oeil artificiel&lt;/color&gt;</Make_CFSimpleAniEye.label>
+	<Make_CFSimpleAniEye.description>Fabriquer un oeil animal artificiel.</Make_CFSimpleAniEye.description>
+	<Make_CFSimpleAniEye.jobString>Fabrique un oeil animal artificiel.</Make_CFSimpleAniEye.jobString>
+
+	<Make_CFSimpleAniJaw.label>&lt;color=#99BADD&gt;Fabriquer une mâchoire artificielle&lt;/color&gt;</Make_CFSimpleAniJaw.label>
+	<Make_CFSimpleAniJaw.description>Fabriquer une mâchoire animale artificielle.</Make_CFSimpleAniJaw.description>
+	<Make_CFSimpleAniJaw.jobString>Fabrique une mâchoire animale artificielle.</Make_CFSimpleAniJaw.jobString>
+
+	<Make_CFBionicAniPaw.label>&lt;color=#ADB3DB&gt;Fabriquer une patte bionique&lt;/color&gt;</Make_CFBionicAniPaw.label>
+	<Make_CFBionicAniPaw.description>Fabriquer une patte animale bionique.</Make_CFBionicAniPaw.description>
+	<Make_CFBionicAniPaw.jobString>Fabrique une patte animale bionique.</Make_CFBionicAniPaw.jobString>
+
+	<Make_CFBionicAniSpine.label>&lt;color=#ADB3DB&gt;Fabriquer une colonne vertébrale bionique&lt;/color&gt;</Make_CFBionicAniSpine.label>
+	<Make_CFBionicAniSpine.description>Fabriquer une colonne vertébrale animale bionique.</Make_CFBionicAniSpine.description>
+	<Make_CFBionicAniSpine.jobString>Fabrique une colonne vertébrale animale bionique.</Make_CFBionicAniSpine.jobString>
+
+	<Make_CFBionicAniEye.label>&lt;color=#ADB3DB&gt;Fabriquer un oeil bionique&lt;/color&gt;</Make_CFBionicAniEye.label>
+	<Make_CFBionicAniEye.description>Fabriquer un oeil animal bionique.</Make_CFBionicAniEye.description>
+	<Make_CFBionicAniEye.jobString>Fabrique un oeil animal bionique.</Make_CFBionicAniEye.jobString>
+
+	<Make_CFBionicAniJaw.label>&lt;color=#ADB3DB&gt;Fabriquer une mâchoire bionique&lt;/color&gt;</Make_CFBionicAniJaw.label>
+	<Make_CFBionicAniJaw.description>Fabriquer une mâchoire animale bionique.</Make_CFBionicAniJaw.description>
+	<Make_CFBionicAniJaw.jobString>Fabrique une mâchoire animale bionique.</Make_CFBionicAniJaw.jobString>
+
+	<Make_CFBionicAniChip.label>&lt;color=#ADB3DB&gt;Fabriquer un implant cérébral&lt;/color&gt;</Make_CFBionicAniChip.label>
+	<Make_CFBionicAniChip.description>Fabriquer un implant cérébral pour un animal.</Make_CFBionicAniChip.description>
+	<Make_CFBionicAniChip.jobString>Fabriquer un implant cérébral pour un animal.</Make_CFBionicAniChip.jobString>
+
+	<Make_CFBionicAniHeart.label>&lt;color=#C0ADDB&gt;Fabriquer un coeur bionique&lt;/color&gt;</Make_CFBionicAniHeart.label>
+	<Make_CFBionicAniHeart.description>Fabriquer un coeur animal bionique.</Make_CFBionicAniHeart.description>
+	<Make_CFBionicAniHeart.jobString>Fabrique un coeur animal bionique.</Make_CFBionicAniHeart.jobString>
+
+	<Make_CFBionicAniLung.label>&lt;color=#C0ADDB&gt;Fabriquer un poumon bionique&lt;/color&gt;</Make_CFBionicAniLung.label>
+	<Make_CFBionicAniLung.description>Fabriquer un poumon animal bionique.</Make_CFBionicAniLung.description>
+	<Make_CFBionicAniLung.jobString>Fabrique un poumon animal bionique.</Make_CFBionicAniLung.jobString>
+
+	<Make_CFBionicAniKidney.label>&lt;color=#C0ADDB&gt;Fabriquer un rein bionique&lt;/color&gt;</Make_CFBionicAniKidney.label>
+	<Make_CFBionicAniKidney.description>Fabriquer un rein animal bionique.</Make_CFBionicAniKidney.description>
+	<Make_CFBionicAniKidney.jobString>Fabrique un rein animal bionique.</Make_CFBionicAniKidney.jobString>
+
+	<Make_CFBionicAniLiver.label>&lt;color=#C0ADDB&gt;Fabriquer un foie bionique&lt;/color&gt;</Make_CFBionicAniLiver.label>
+	<Make_CFBionicAniLiver.description>Fabriquer un foie animal bionique.</Make_CFBionicAniLiver.description>
+	<Make_CFBionicAniLiver.jobString>Fabrique un foie animal bionique.</Make_CFBionicAniLiver.jobString>
+
+	<Make_CFBionicAniStomach.label>&lt;color=#C0ADDB&gt;Fabriquer un estomac bionique&lt;/color&gt;</Make_CFBionicAniStomach.label>
+	<Make_CFBionicAniStomach.description>Fabriquer un estomac animal bionique.</Make_CFBionicAniStomach.description>
+	<Make_CFBionicAniStomach.jobString>Fabrique un estomac animal bionique.</Make_CFBionicAniStomach.jobString>
+
+	<Make_CFBattleAniBody.label>&lt;color=#D16EA8&gt;Fabriquer une amélioration de combat (corps)&lt;/color&gt;</Make_CFBattleAniBody.label>
+	<Make_CFBattleAniBody.description>Fabriquer une amélioration de combat pour le corps d'un animal.</Make_CFBattleAniBody.description>
+	<Make_CFBattleAniBody.jobString>Fabriquer une amélioration de combat pour le corps d'un animal.</Make_CFBattleAniBody.jobString>
+
+	<Make_CFBattleAniHead.label>&lt;color=#D16EA8&gt;Fabriquer une amélioration de combat (tête)&lt;/color&gt;</Make_CFBattleAniHead.label>
+	<Make_CFBattleAniHead.description>Fabriquer une amélioration de combat pour la tête d'un animal.</Make_CFBattleAniHead.description>
+	<Make_CFBattleAniHead.jobString>Fabriquer une amélioration de combat pour la tête d'un animal.</Make_CFBattleAniHead.jobString>
+
+	<Make_CFBattleAniNeck.label>&lt;color=#D16EA8&gt;Fabriquer une amélioration de combat (cou)&lt;/color&gt;</Make_CFBattleAniNeck.label>
+	<Make_CFBattleAniNeck.description>Fabriquer une amélioration de combat pour le cou d'un animal.</Make_CFBattleAniNeck.description>
+	<Make_CFBattleAniNeck.jobString>Fabriquer une amélioration de combat pour le cou d'un animal.</Make_CFBattleAniNeck.jobString>
+
+</LanguageData>

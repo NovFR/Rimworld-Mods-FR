@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SimpleProtsAnimalsCF.label>&lt;color=#84b0e0&gt;Prothèses animales&lt;/color&gt;</SimpleProtsAnimalsCF.label>
+	<SimpleProtsAnimalsCF.description>Permet la fabrication d'un laboratoire animalier, pour fabriquer des prothèses animales simples.</SimpleProtsAnimalsCF.description>
+
+	<AdvancedProtsAnimalsCF.label>&lt;color=#828ddd&gt;Bionique animale&lt;/color&gt;</AdvancedProtsAnimalsCF.label>
+	<AdvancedProtsAnimalsCF.description>Permet la fabrication d'organes et de parties du corps bioniques dans le laboratoire animalier.</AdvancedProtsAnimalsCF.description>
+
+	<BattleBoostersAnimalsCF.label>&lt;color=#d3308f&gt;Améliorations de combat&lt;/color&gt;</BattleBoostersAnimalsCF.label>
+	<BattleBoostersAnimalsCF.description>Permet de créer des améliorations de combat pour les animaux, qui augmentent leur résistance en renforçant certaines parties de leur corps.</BattleBoostersAnimalsCF.description>
+
+</LanguageData>

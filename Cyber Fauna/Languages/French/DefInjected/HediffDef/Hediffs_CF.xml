@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CFSimpleAniPawHed.label>patte animale artificielle animale</CFSimpleAniPawHed.label>
+	<CFSimpleAniPawHed.labelNoun>une patte animale artificielle</CFSimpleAniPawHed.labelNoun>
+	<CFSimpleAniPawHed.comps.HediffComp_VerbGiver.tools.simple_animal_paw.label>patte</CFSimpleAniPawHed.comps.HediffComp_VerbGiver.tools.simple_animal_paw.label>
+
+	<CFSimpleAniSpineHed.label>colonne vertébrale animale artificielle</CFSimpleAniSpineHed.label>
+	<CFSimpleAniSpineHed.labelNoun>une colonne vertébrale animale artificielle</CFSimpleAniSpineHed.labelNoun>
+
+	<CFSimpleAniEyeHed.label>oeil animal artificiel</CFSimpleAniEyeHed.label>
+	<CFSimpleAniEyeHed.labelNoun>un oeil animal artificiel</CFSimpleAniEyeHed.labelNoun>
+
+	<CFSimpleAniJawHed.label>machoire animale artificielle</CFSimpleAniJawHed.label>
+	<CFSimpleAniJawHed.labelNoun>une machoire animale artificielle</CFSimpleAniJawHed.labelNoun>
+	<CFSimpleAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>croc</CFSimpleAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+
+	<CFBionicAniPawHed.label>patte animale bionique</CFBionicAniPawHed.label>
+	<CFBionicAniPawHed.labelNoun>une patte animale bionique</CFBionicAniPawHed.labelNoun>
+	<CFBionicAniPawHed.comps.HediffComp_VerbGiver.tools.bionic_animal_paw.label>patte bionique</CFBionicAniPawHed.comps.HediffComp_VerbGiver.tools.bionic_animal_paw.label>
+
+	<CFBionicAniSpineHed.label>colonne vertébrale animale bionique</CFBionicAniSpineHed.label>
+	<CFBionicAniSpineHed.labelNoun>une colonne vertébrale animale bionique</CFBionicAniSpineHed.labelNoun>
+
+	<CFBionicAniEyeHed.label>oeil animal bionique</CFBionicAniEyeHed.label>
+	<CFBionicAniEyeHed.labelNoun>un oeil animal bionique</CFBionicAniEyeHed.labelNoun>
+
+	<CFBionicAniJawHed.label>mâchoire animale bionique</CFBionicAniJawHed.label>
+	<CFBionicAniJawHed.labelNoun>une mâchoire animale bionique</CFBionicAniJawHed.labelNoun>
+	<CFBionicAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>croc</CFBionicAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+
+	<CFBionicAniChipHed.label>implant cérébral animal</CFBionicAniChipHed.label>
+	<CFBionicAniChipHed.labelNoun>un implant cérébral animal</CFBionicAniChipHed.labelNoun>
+
+	<CFBionicAniHeartHed.label>coeur animal bionique</CFBionicAniHeartHed.label>
+	<CFBionicAniHeartHed.labelNoun>un coeur animal bionique</CFBionicAniHeartHed.labelNoun>
+
+	<CFBionicAniLungHed.label>poumon animal bionique</CFBionicAniLungHed.label>
+	<CFBionicAniLungHed.labelNoun>un poumon animal bionique</CFBionicAniLungHed.labelNoun>
+
+	<CFBionicAniKidneyHed.label>rein animal bionique</CFBionicAniKidneyHed.label>
+	<CFBionicAniKidneyHed.labelNoun>un rein animal bionique</CFBionicAniKidneyHed.labelNoun>
+
+	<CFBionicAniLiverHed.label>foie animal bionique</CFBionicAniLiverHed.label>
+	<CFBionicAniLiverHed.labelNoun>un foie animal bionique</CFBionicAniLiverHed.labelNoun>
+
+	<CFBionicAniStomachHed.label>estomac animal bionique</CFBionicAniStomachHed.label>
+	<CFBionicAniStomachHed.labelNoun>un estomac animal bionique</CFBionicAniStomachHed.labelNoun>
+
+	<CFArchoAniPawHed.label>patte animale archotech</CFArchoAniPawHed.label>
+	<CFArchoAniPawHed.labelNoun>une patte animale archotech</CFArchoAniPawHed.labelNoun>
+	<CFArchoAniPawHed.comps.HediffComp_VerbGiver.tools.archo_animal_paw.label>patte archotech</CFArchoAniPawHed.comps.HediffComp_VerbGiver.tools.archo_animal_paw.label>
+
+	<CFArchoAniSpineHed.label>colonne vertébrale animale archotech</CFArchoAniSpineHed.label>
+	<CFArchoAniSpineHed.labelNoun>une colonne vertébrale animale archotech</CFArchoAniSpineHed.labelNoun>
+
+	<CFArchoAniEyeHed.label>oeil animal archotech</CFArchoAniEyeHed.label>
+	<CFArchoAniEyeHed.labelNoun>un oeil animal archotech</CFArchoAniEyeHed.labelNoun>
+
+	<CFArchoAniJawHed.label>mâchoire animale archotech</CFArchoAniJawHed.label>
+	<CFArchoAniJawHed.labelNoun>une mâchoire animale archotech</CFArchoAniJawHed.labelNoun>
+	<CFArchoAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>croc</CFArchoAniJawHed.comps.HediffComp_VerbGiver.tools.teeth.label>
+
+	<CFArchoAniChipHed.label>cerveau animal archotech</CFArchoAniChipHed.label>
+	<CFArchoAniChipHed.labelNoun>un cerveau animal archotech</CFArchoAniChipHed.labelNoun>
+
+	<CFBattleAniBodyHed.label>amélioration de combat pour animal (corps)</CFBattleAniBodyHed.label>
+	<CFBattleAniBodyHed.labelNoun>une amélioration de combat pour animal (corps)</CFBattleAniBodyHed.labelNoun>
+
+	<CFBattleAniHeadHed.label>amélioration de combat pour animal (tête)</CFBattleAniHeadHed.label>
+	<CFBattleAniHeadHed.labelNoun>une amélioration de combat pour animal (tête)</CFBattleAniHeadHed.labelNoun>
+
+	<CFBattleAniNeckHed.label>amélioration de combat pour animal (cou)</CFBattleAniNeckHed.label>
+	<CFBattleAniNeckHed.labelNoun>une amélioration de combat pour animal (cou)</CFBattleAniNeckHed.labelNoun>
+
+</LanguageData>

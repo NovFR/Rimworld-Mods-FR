@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RepairBodyPart_CF.label>&lt;color=#80ffd2&gt;Rafistoler une partie du corps&lt;/color&gt;</RepairBodyPart_CF.label>
+	<RepairBodyPart_CF.description>Rafistole une partie du corps en utilisant des médicaments et du synthé.</RepairBodyPart_CF.description>
+	<RepairBodyPart_CF.jobString>Rafistole une partie du corps d'un animal.</RepairBodyPart_CF.jobString>
+
+	<CureBodyPartQ_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartQ_CF.label>
+	<CureBodyPartQ_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartQ_CF.description>
+	<CureBodyPartQ_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartQ_CF.jobString>
+
+	<CureBodyPartW_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartW_CF.label>
+	<CureBodyPartW_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartW_CF.description>
+	<CureBodyPartW_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartW_CF.jobString>
+
+	<CureBodyPartE_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartE_CF.label>
+	<CureBodyPartE_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartE_CF.description>
+	<CureBodyPartE_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartE_CF.jobString>
+
+	<CureBodyPartR_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartR_CF.label>
+	<CureBodyPartR_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartR_CF.description>
+	<CureBodyPartR_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartR_CF.jobString>
+
+	<CureBodyPartT_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartT_CF.label>
+	<CureBodyPartT_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartT_CF.description>
+	<CureBodyPartT_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartT_CF.jobString>
+
+	<CureBodyPartY_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartY_CF.label>
+	<CureBodyPartY_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartY_CF.description>
+	<CureBodyPartY_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartY_CF.jobString>
+
+	<CureBodyPartU_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartU_CF.label>
+	<CureBodyPartU_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartU_CF.description>
+	<CureBodyPartU_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartU_CF.jobString>
+
+	<CureBodyPartI_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartI_CF.label>
+	<CureBodyPartI_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartI_CF.description>
+	<CureBodyPartI_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartI_CF.jobString>
+
+	<CureBodyPartO_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartO_CF.label>
+	<CureBodyPartO_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartO_CF.description>
+	<CureBodyPartO_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartO_CF.jobString>
+
+	<CureBodyPartP_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartP_CF.label>
+	<CureBodyPartP_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartP_CF.description>
+	<CureBodyPartP_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartP_CF.jobString>
+
+	<CureBodyPartA_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartA_CF.label>
+	<CureBodyPartA_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartA_CF.description>
+	<CureBodyPartA_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartA_CF.jobString>
+
+	<CureBodyPartS_CF.label>&lt;color=#d4ffa3&gt;Soigner une partie du corps&lt;/color&gt;</CureBodyPartS_CF.label>
+	<CureBodyPartS_CF.description>Soigne une partie du corps en utilisant des médicaments et du synthé.</CureBodyPartS_CF.description>
+	<CureBodyPartS_CF.jobString>Soigne une partie du corps d'un animal.</CureBodyPartS_CF.jobString>
+
+	<CureIllnessQ_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessQ_CF.label>
+	<CureIllnessQ_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessQ_CF.description>
+	<CureIllnessQ_CF.JobString>Soigne une maladie animale.</CureIllnessQ_CF.JobString>
+
+	<CureIllnessW_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessW_CF.label>
+	<CureIllnessW_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessW_CF.description>
+	<CureIllnessW_CF.JobString>Soigne une maladie animale.</CureIllnessW_CF.JobString>
+
+	<CureIllnessE_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessE_CF.label>
+	<CureIllnessE_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessE_CF.description>
+	<CureIllnessE_CF.JobString>Soigne une maladie animale.</CureIllnessE_CF.JobString>
+
+	<CureIllnessR_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessR_CF.label>
+	<CureIllnessR_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessR_CF.description>
+	<CureIllnessR_CF.JobString>Soigne une maladie animale.</CureIllnessR_CF.JobString>
+
+	<CureIllnessT_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessT_CF.label>
+	<CureIllnessT_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessT_CF.description>
+	<CureIllnessT_CF.JobString>Soigne une maladie animale.</CureIllnessT_CF.JobString>
+
+	<CureIllnessY_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessY_CF.label>
+	<CureIllnessY_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessY_CF.description>
+	<CureIllnessY_CF.JobString>Soigne une maladie animale.</CureIllnessY_CF.JobString>
+
+	<CureIllnessU_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie&lt;/color&gt;</CureIllnessU_CF.label>
+	<CureIllnessU_CF.description>Soigne une maladie en utilisant des médicaments et du synthé.</CureIllnessU_CF.description>
+	<CureIllnessU_CF.JobString>Soigne une maladie animale.</CureIllnessU_CF.JobString>
+
+	<CureSeriousIllnessQ_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie grâve&lt;/color&gt;</CureSeriousIllnessQ_CF.label>
+	<CureSeriousIllnessQ_CF.description>Soigne une maladie grâve en utilisant des médicaments et du synthé.</CureSeriousIllnessQ_CF.description>
+	<CureSeriousIllnessQ_CF.JobString>Soigne une maladie animale grâve.</CureSeriousIllnessQ_CF.JobString>
+
+	<CureSeriousIllnessW_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie grâve&lt;/color&gt;</CureSeriousIllnessW_CF.label>
+	<CureSeriousIllnessW_CF.description>Soigne une maladie grâve en utilisant des médicaments et du synthé.</CureSeriousIllnessW_CF.description>
+	<CureSeriousIllnessW_CF.JobString>Soigne une maladie animale grâve.</CureSeriousIllnessW_CF.JobString>
+
+	<CureSeriousIllnessE_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie grâve&lt;/color&gt;</CureSeriousIllnessE_CF.label>
+	<CureSeriousIllnessE_CF.description>Soigne une maladie grâve en utilisant des médicaments et du synthé.</CureSeriousIllnessE_CF.description>
+	<CureSeriousIllnessE_CF.JobString>Soigne une maladie animale grâve.</CureSeriousIllnessE_CF.JobString>
+
+	<CureSeriousIllnessR_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie grâve&lt;/color&gt;</CureSeriousIllnessR_CF.label>
+	<CureSeriousIllnessR_CF.description>Soigne une maladie grâve en utilisant des médicaments et du synthé.</CureSeriousIllnessR_CF.description>
+	<CureSeriousIllnessR_CF.JobString>Soigne une maladie animale grâve.</CureSeriousIllnessR_CF.JobString>
+
+	<CureSeriousIllnessT_CF.label>&lt;color=#fffa9e&gt;Soigner une maladie grâve&lt;/color&gt;</CureSeriousIllnessT_CF.label>
+	<CureSeriousIllnessT_CF.description>Soigne une maladie grâve en utilisant des médicaments et du synthé.</CureSeriousIllnessT_CF.description>
+	<CureSeriousIllnessT_CF.JobString>Soigne une maladie animale grâve.</CureSeriousIllnessT_CF.JobString>
+
+</LanguageData>

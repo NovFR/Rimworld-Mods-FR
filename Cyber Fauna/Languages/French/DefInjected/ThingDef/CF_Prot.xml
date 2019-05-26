@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Unfinished_CF_AnimalPart.label>partie animale inachevée</Unfinished_CF_AnimalPart.label>
+
+	<CFSimpleAniPaw.label>patte animale artificielle</CFSimpleAniPaw.label>
+	<CFSimpleAniPaw.description>Une prothèse en acier, utilisée pour remplacer une patte. Sa structure modulaire lui permet de s'adapter à n'importe quel animal. Mais n'espérez pas que ça améliore énormémement sa vitesse pour autant.</CFSimpleAniPaw.description>
+
+	<CFSimpleAniSpine.label>colonne vertébrale animale artificielle</CFSimpleAniSpine.label>
+	<CFSimpleAniSpine.description>Mieux que rien, moins fonctionnelle qu'une véritable colonne vertébrale.</CFSimpleAniSpine.description>
+
+	<CFSimpleAniEye.label>oeil animal artificiel</CFSimpleAniEye.label>
+	<CFSimpleAniEye.description>Un dispositif simple, directement relié au nerf optique pour remplacer un oeil perdu. Restaure partiellement la vision.</CFSimpleAniEye.description>
+
+	<CFSimpleAniJaw.label>mâchoire animale artificielle</CFSimpleAniJaw.label>
+	<CFSimpleAniJaw.description>Une mâchoire de remplacement en acier. Permet de mâcher, mais pas aussi efficace qu'une véritable mâchoire.</CFSimpleAniJaw.description>
+
+	<CFBionicAniPaw.label>patte animale bionique</CFBionicAniPaw.label>
+	<CFBionicAniPaw.description>Une prothèse de haute-technologie, utilisée pour remplacer une patte. Sa structure modulaire lui permet de s'adapter à n'importe quel animal. Ses performances surpassent celles des pattes naturelles.</CFBionicAniPaw.description>
+
+	<CFBionicAniSpine.label>colonne vertébrale bionique</CFBionicAniSpine.label>
+	<CFBionicAniSpine.description>Une prothèse de haute-technologie. Surpasse la colonne vertébrale naturelle dans presque tous les domaines.</CFBionicAniSpine.description>
+
+	<CFBionicAniEye.label>oeil animal bionique</CFBionicAniEye.label>
+	<CFBionicAniEye.description>Un condensé de technologie, clair et simple.</CFBionicAniEye.description>
+
+	<CFBionicAniJaw.label>mâchoire animale bionique</CFBionicAniJaw.label>
+	<CFBionicAniJaw.description>Une mâchoire artificielle légère et puissante. Dotée de dents en plastacier.</CFBionicAniJaw.description>
+
+	<CFBionicAniChip.label>implant cérébral animal</CFBionicAniChip.label>
+	<CFBionicAniChip.description>Si votre animal cybernétique à des problèmes de cerveau, cet implant devrait les résoudre. Peut-être même le rendre plus intelligent.</CFBionicAniChip.description>
+
+	<CFBionicAniHeart.label>coeur animal bionique</CFBionicAniHeart.label>
+	<CFBionicAniHeart.description>Une prothèse de coeur avancée. Se substitue à un véritable coeur et le surpasse même dans certains domaines.</CFBionicAniHeart.description>
+
+	<CFBionicAniLung.label>poumon animal bionique</CFBionicAniLung.label>
+	<CFBionicAniLung.description>Un organe respiratoire avancée qui fonctionne encore mieux qu'un véritable poumon.</CFBionicAniLung.description>
+
+	<CFBionicAniKidney.label>rein animal bionique</CFBionicAniKidney.label>
+	<CFBionicAniKidney.description>Grâce à son système de filtration de haute-technologie, il filtre mieux le sang qu'un rein naturel et protège l'animal contre les maladies.</CFBionicAniKidney.description>
+
+	<CFBionicAniLiver.label>foie animal bionique</CFBionicAniLiver.label>
+	<CFBionicAniLiver.description>Un appareil bioélectronique avancé qui filtre mieux le sang qu'un foie naturel, améliorant la réponse immunitaire de l'animal.</CFBionicAniLiver.description>
+
+	<CFBionicAniStomach.label>estomac animal bionique</CFBionicAniStomach.label>
+	<CFBionicAniStomach.description>Un estomac bioélectronique robuste qui permet de mieux digérer la nourriture et de la faire plus rapidement.</CFBionicAniStomach.description>
+
+	<CFArchoAniPaw.label>patte animale ardotech</CFArchoAniPaw.label>
+	<CFArchoAniPaw.description>Une patte artificielle ardotech. Elle s'adapte automatiquement à n'importe quel animal, excepté les humains. Extrêmement résistante et puissante, elle peut transformer vos animaux en véritable machine à tuer, même les écureuils.</CFArchoAniPaw.description>
+
+	<CFArchoAniSpine.label>colonne vertébrale animale ardotech</CFArchoAniSpine.label>
+	<CFArchoAniSpine.description>Une colonne vertébrale artificielle ardotech. Une fois implantée dans le corps de l'animal, elle améliore la productivité de pratiquement chaque cellule.</CFArchoAniSpine.description>
+
+	<CFArchoAniEye.label>oeil animal ardotech</CFArchoAniEye.label>
+	<CFArchoAniEye.description>Un oeil artificiel ardotech. Il s'adapte automatiquement à n'importe quel animal, excepté les humains. Améliore grandement la vision.</CFArchoAniEye.description>
+
+	<CFArchoAniJaw.label>mâchoire animale ardotech</CFArchoAniJaw.label>
+	<CFArchoAniJaw.description>Une mâchoire artificielle ardotech. Modifie le métabolisme animal, lui permettant de survivre avec peu de nourriture. La morsure d'un animal doté de cette mâchoire peut même perforer le plastacier.</CFArchoAniJaw.description>
+
+	<CFArchoAniChip.label>cerveau animal ardotech</CFArchoAniChip.label>
+	<CFArchoAniChip.description>Un cerveau artificiel extrêmement performant.</CFArchoAniChip.description>
+
+	<CFBattleAniBody.label>amélioration de combat pour animal (corps)</CFBattleAniBody.label>
+	<CFBattleAniBody.description>Cette amélioration est un ensemble de microfibres améliorées par des mécanites avancées, elle est conçue pour améliorer les capacités martiales de l'animal. Elle doit être implantée directement dans le corps de ce dernier. Lorsqu'il y a un risque de blessure, les mécanites renforcnent les tissus corporels, réduisant ainsi les dégâts. Cette amélioration est sans danger pour l'animal, c'est garanti.</CFBattleAniBody.description>
+
+	<CFBattleAniHead.label>amélioration de combat pour animal (tête)</CFBattleAniHead.label>
+	<CFBattleAniHead.description>Cette amélioration est un ensemble de microfibres améliorées par des mécanites avancées, elle est conçue pour améliorer les capacités martiales de l'animal. Elle doit être implantée dans la tête de ce dernier. Lorsqu'il y a un risque de blessure, les mécanites renforcnent les tissus corporels, réduisant ainsi les dégâts. Cette amélioration est sans danger pour l'animal, c'est garanti.</CFBattleAniHead.description>
+
+	<CFBattleAniNeck.label>amélioration de combat pour animal (cou)</CFBattleAniNeck.label>
+	<CFBattleAniNeck.description>Cette amélioration est un ensemble de microfibres améliorées par des mécanites avancées, elle est conçue pour améliorer les capacités martiales de l'animal. Elle doit être implantée dans le cou de ce dernier. Lorsqu'il y a un risque de blessure, les mécanites renforcnent les tissus corporels, réduisant ainsi les dégâts. Cette amélioration est sans danger pour l'animal, c'est garanti.</CFBattleAniNeck.description>
+
+</LanguageData>

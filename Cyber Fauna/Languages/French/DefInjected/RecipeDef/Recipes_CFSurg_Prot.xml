@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<InstallCFSimpleAniPaw.label>&lt;color=#99BADD&gt;Installer une patte artificielle&lt;/color&gt;</InstallCFSimpleAniPaw.label>
+	<InstallCFSimpleAniPaw.description>Installe une patte artificielle à l'animal.</InstallCFSimpleAniPaw.description>
+	<InstallCFSimpleAniPaw.jobString>Installe une patte artificielle sur un animal.</InstallCFSimpleAniPaw.jobString>
+
+	<InstallCFSimpleAniSpine.label>&lt;color=#99BADD&gt;Installer une colonne vertébrale artificielle&lt;/color&gt;</InstallCFSimpleAniSpine.label>
+	<InstallCFSimpleAniSpine.description>Installe une colonne vertébrale artificielle à l'animal.</InstallCFSimpleAniSpine.description>
+	<InstallCFSimpleAniSpine.jobString>Installe une colonne vertébrale artificielle à un animal.</InstallCFSimpleAniSpine.jobString>
+
+	<InstallCFSimpleAniEye.label>&lt;color=#99BADD&gt;Installer un oeil artificiel&lt;/color&gt;</InstallCFSimpleAniEye.label>
+	<InstallCFSimpleAniEye.description>Installe un oeil artificiel à l'animal.</InstallCFSimpleAniEye.description>
+	<InstallCFSimpleAniEye.jobString>Installe un oeil artificiel à un animal.</InstallCFSimpleAniEye.jobString>
+
+	<InstallCFSimpleAniJaw.label>&lt;color=#99BADD&gt;Installer une machoire artificielle&lt;/color&gt;</InstallCFSimpleAniJaw.label>
+	<InstallCFSimpleAniJaw.description>Installe une machoire artificielle à l'animal.</InstallCFSimpleAniJaw.description>
+	<InstallCFSimpleAniJaw.jobString>Installe une machoire artificielle à un animal.</InstallCFSimpleAniJaw.jobString>
+
+	<InstallCFBionicAniPaw.label>&lt;color=#ADB3DB&gt;Installer une patte bionique&lt;/color&gt;</InstallCFBionicAniPaw.label>
+	<InstallCFBionicAniPaw.description>Installe une patte bionique à l'animal.</InstallCFBionicAniPaw.description>
+	<InstallCFBionicAniPaw.jobString>Installe une patte bionique à un animal.</InstallCFBionicAniPaw.jobString>
+
+	<InstallCFBionicAniSpine.label>&lt;color=#ADB3DB&gt;Installer une colonne vertébrale bionique&lt;/color&gt;</InstallCFBionicAniSpine.label>
+	<InstallCFBionicAniSpine.description>Installe une colonne vertébrale bionique à l'animal.</InstallCFBionicAniSpine.description>
+	<InstallCFBionicAniSpine.jobString>Installe une colonne vertébrale bionique à un animal.</InstallCFBionicAniSpine.jobString>
+
+	<InstallCFBionicAniEye.label>&lt;color=#ADB3DB&gt;Installer un oeil bionique&lt;/color&gt;</InstallCFBionicAniEye.label>
+	<InstallCFBionicAniEye.description>Installe un oeil bionique à un animal.</InstallCFBionicAniEye.description>
+	<InstallCFBionicAniEye.jobString>Installe un oeil bionique à un animal.</InstallCFBionicAniEye.jobString>
+
+	<InstallCFBionicAniJaw.label>&lt;color=#ADB3DB&gt;Installer une mâchoire bionique&lt;/color&gt;</InstallCFBionicAniJaw.label>
+	<InstallCFBionicAniJaw.description>Installe une mâchoire bionique à l'animal.</InstallCFBionicAniJaw.description>
+	<InstallCFBionicAniJaw.jobString>Installe une mâchoire bionique à un animal.</InstallCFBionicAniJaw.jobString>
+
+	<InstallCFBionicAniChip.label>&lt;color=#ADB3DB&gt;Installer un implant cérébral&lt;/color&gt;</InstallCFBionicAniChip.label>
+	<InstallCFBionicAniChip.description>Installe un implant cérébral à l'animal.</InstallCFBionicAniChip.description>
+	<InstallCFBionicAniChip.jobString>Installe un implant cérébral à un animal.</InstallCFBionicAniChip.jobString>
+
+	<InstallCFBionicAniHeart.label>&lt;color=#C0ADDB&gt;Installer un coeur bionique&lt;/color&gt;</InstallCFBionicAniHeart.label>
+	<InstallCFBionicAniHeart.description>Installe un coeur bionique à l'animal.</InstallCFBionicAniHeart.description>
+	<InstallCFBionicAniHeart.jobString>Installe un coeur bionique à un animal.</InstallCFBionicAniHeart.jobString>
+
+	<InstallCFBionicAniLung.label>&lt;color=#C0ADDB&gt;Installer un poumon bionique&lt;/color&gt;</InstallCFBionicAniLung.label>
+	<InstallCFBionicAniLung.description>Installe un poumon bionique à l'animal.</InstallCFBionicAniLung.description>
+	<InstallCFBionicAniLung.jobString>Installe un poumon bionique à un animal.</InstallCFBionicAniLung.jobString>
+
+	<InstallCFBionicAniKidney.label>&lt;color=#C0ADDB&gt;Installer un rein bionique&lt;/color&gt;</InstallCFBionicAniKidney.label>
+	<InstallCFBionicAniKidney.description>Installe un rein bionique à l'animal.</InstallCFBionicAniKidney.description>
+	<InstallCFBionicAniKidney.jobString>Installe un rein bionique à un animal.</InstallCFBionicAniKidney.jobString>
+
+	<InstallCFBionicAniLiver.label>&lt;color=#C0ADDB&gt;Installer un foie bionique&lt;/color&gt;</InstallCFBionicAniLiver.label>
+	<InstallCFBionicAniLiver.description>Installe un foie bionique à l'animal.</InstallCFBionicAniLiver.description>
+	<InstallCFBionicAniLiver.jobString>Installe un foie bionique à un animal.</InstallCFBionicAniLiver.jobString>
+
+	<InstallCFBionicAniStomach.label>&lt;color=#C0ADDB&gt;Installer un estomac bionique&lt;/color&gt;</InstallCFBionicAniStomach.label>
+	<InstallCFBionicAniStomach.description>Installe un estomac bionique à l'animal.</InstallCFBionicAniStomach.description>
+	<InstallCFBionicAniStomach.jobString>Installe un estomac bionique à un animal.</InstallCFBionicAniStomach.jobString>
+
+	<InstallCFArchoAniPaw.label>&lt;color=#CF9ED8&gt;Installer une patte archotech&lt;/color&gt;</InstallCFArchoAniPaw.label>
+	<InstallCFArchoAniPaw.description>Installe une patte archotech à l'animal.</InstallCFArchoAniPaw.description>
+	<InstallCFArchoAniPaw.jobString>Installe une patte archotech à un animal.</InstallCFArchoAniPaw.jobString>
+
+	<InstallCFArchoAniSpine.label>&lt;color=#CF9ED8&gt;Installer une colonne vertébrale archotech&lt;/color&gt;</InstallCFArchoAniSpine.label>
+	<InstallCFArchoAniSpine.description>Installe une colonne vertébrale archotech à l'animal.</InstallCFArchoAniSpine.description>
+	<InstallCFArchoAniSpine.jobString>Installe une colonne vertébrale archotech à un animal.</InstallCFArchoAniSpine.jobString>
+
+	<InstallCFArchoAniEye.label>&lt;color=#CF9ED8&gt;Installer un oeil archotech&lt;/color&gt;</InstallCFArchoAniEye.label>
+	<InstallCFArchoAniEye.description>Installe un oeil archotech à l'animal.</InstallCFArchoAniEye.description>
+	<InstallCFArchoAniEye.jobString>Installe un oeil archotech à un animal.</InstallCFArchoAniEye.jobString>
+
+	<InstallCFArchoAniJaw.label>&lt;color=#CF9ED8&gt;Installer une mâchoire archotech&lt;/color&gt;</InstallCFArchoAniJaw.label>
+	<InstallCFArchoAniJaw.description>Installe une mâchoire archotech à l'animal.</InstallCFArchoAniJaw.description>
+	<InstallCFArchoAniJaw.jobString>Installe une mâchoire archotech à un animal.</InstallCFArchoAniJaw.jobString>
+
+	<InstallCFArchoAniChip.label>&lt;color=#CF9ED8&gt;Installer un cerveau archotech&lt;/color&gt;</InstallCFArchoAniChip.label>
+	<InstallCFArchoAniChip.description>Installe un cerveau archotech à l'animal.</InstallCFArchoAniChip.description>
+	<InstallCFArchoAniChip.jobString>Installe un cerveau archotech à un animal.</InstallCFArchoAniChip.jobString>
+
+	<InstallCFBattleAniBody.label>&lt;color=#D16EA8&gt;Installer une amélioration de combat&lt;/color&gt;</InstallCFBattleAniBody.label>
+	<InstallCFBattleAniBody.description>Installe une amélioration de combat pour le corps de l'animal.</InstallCFBattleAniBody.description>
+	<InstallCFBattleAniBody.jobString>Installe une amélioration de combat à un animal.</InstallCFBattleAniBody.jobString>
+
+	<InstallCFBattleAniHead.label>&lt;color=#D16EA8&gt;Installer une amélioration de combat&lt;/color&gt;</InstallCFBattleAniHead.label>
+	<InstallCFBattleAniHead.description>Installe une amélioration de combat pour la tête de l'animal.</InstallCFBattleAniHead.description>
+	<InstallCFBattleAniHead.jobString>Installe une amélioration de combat à un animal.</InstallCFBattleAniHead.jobString>
+
+	<InstallCFBattleAniNeck.label>&lt;color=#D16EA8&gt;Installer une amélioration de combat&lt;/color&gt;</InstallCFBattleAniNeck.label>
+	<InstallCFBattleAniNeck.description>Installe une amélioration de combat pour le cou de l'animal.</InstallCFBattleAniNeck.description>
+	<InstallCFBattleAniNeck.jobString>Installe une amélioration de combat à un animal.</InstallCFBattleAniNeck.jobString>
+
+</LanguageData>
