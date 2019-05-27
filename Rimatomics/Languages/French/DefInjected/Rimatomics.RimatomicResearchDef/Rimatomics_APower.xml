@@ -19,16 +19,16 @@
 	<NuclearReactor.ResearchLabel>Énergie nucléaire</NuclearReactor.ResearchLabel>
 	<NuclearReactor.ProjTypeLabel>Alimentation</NuclearReactor.ProjTypeLabel>
 	<NuclearReactor.ResearchDesc>La centrale nucléaire Rimatomics est une conception évolutive capable de gérer plusieurs réacteurs, génératrices à turbine et solutions de refroidissement dans un système unique, chaque réacteur pouvant produire plus de 200 kW de puissance lorsqu'il est entièrement alimenté. Les réacteurs peuvent également être utilisés pour la production de plutonium.</NuclearReactor.ResearchDesc>
-	<NuclearReactor.ResearchDescDisc>Vous pouvez désormais vous développer en ajoutant plus de cœurs, de turbines et de refroidisseurs. Vous pouvez également effectuer des recherches sur le poste de recherche Rimatomics afin d'améliorer la conception.</NuclearReactor.ResearchDescDisc>
+	<NuclearReactor.ResearchDescDisc>Vous pouvez désormais vous développer en ajoutant plus de cœurs, de turbines et de refroidisseurs. Vous pouvez également effectuer davantages de recherches sur le poste de recherche Rimatomics afin d'améliorer la conception des réacteurs.</NuclearReactor.ResearchDescDisc>
 
 	<Plutonium.ResearchLabel>Recyclage du combustible</Plutonium.ResearchLabel>
 	<Plutonium.ProjTypeLabel>Production</Plutonium.ProjTypeLabel>
-	<Plutonium.ResearchDesc>Le plutonium est produit à partir de combustible nucléaire usé pouvant être traité et utilisé pour créer des assemblages de combustible MOX, des générateurs thermoélectriques à radio-isotopes et des armes nucléaires. Le procédé nécessite du chemfuel, il produit également des granulés d'uranium appauvri et des déchets nucléaires.</Plutonium.ResearchDesc>
+	<Plutonium.ResearchDesc>Le plutonium est produit à partir de combustible nucléaire usé pouvant être traité. Il est utilisé pour créer des assemblages de combustible MOX, des générateurs thermoélectriques à radio-isotopes et des armes nucléaires. Le procédé nécessite du chemfuel. Au cours du processus, des granulés d'uranium appauvri et des déchets nucléaires seront également produits.</Plutonium.ResearchDesc>
 	<Plutonium.ResearchDescDisc>Vous pouvez désormais recycler le combustible nucléaire usé.\n\nLa quantité de matière résultant du recyclage est basée sur le taux de conversion du combustible, avec un maximum de 0.6 en utilisant des réacteurs normaux et 1.2 en utilisant des surgénérateurs. Cette statistique peut être visualisée dans la console du réacteur.\n\nLe processus de chargement du combustible usé dans l'installation nécessite des combinaisons de protection contre les radiations et doit être effectué à l'écart de la colonie. Une fois traité, le plutonium sera stocké dans un conteneur protégé qui pourra être manipulé sans risque.</Plutonium.ResearchDescDisc>
 
 	<AdvReactor.ResearchLabel>Énergie nucléaire avancée</AdvReactor.ResearchLabel>
 	<AdvReactor.ProjTypeLabel>Alimentation</AdvReactor.ProjTypeLabel>
-	<AdvReactor.ResearchDesc>Le surgénérateur est un réacteur nucléaire qui produit plus d'isotopes fissibles qu'il n'en consomme, et le générateur de turbine Zeus est capable de fournir une puissance de 1000kW.</AdvReactor.ResearchDesc>
+	<AdvReactor.ResearchDesc>Le surgénérateur est un réacteur nucléaire qui produit plus d'isotopes fissibles qu'il n'en consomme, tandis que la turbine Zeus est capable de fournir une puissance de 1000kW.</AdvReactor.ResearchDesc>
 	<AdvReactor.ResearchDescDisc>Vous pouvez désormais constuire des surgénérateurs et des turbines Zeus.</AdvReactor.ResearchDescDisc>
 
 	<RTG.ResearchLabel>GTR</RTG.ResearchLabel>

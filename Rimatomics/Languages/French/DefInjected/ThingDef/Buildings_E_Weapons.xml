@@ -8,7 +8,7 @@
 	<PPCWeaponsConsole.description>La Station de Commande Semi Automatique est requise pour toutes les armes à énergie Rimatomics. Certaines armes nécessitent que la station soit utilisée par une personne pour être totalement opérationnelles.</PPCWeaponsConsole.description>
 
 	<RadarDish.label>SCAC</RadarDish.label>
-	<RadarDish.description>Le Système de Communication et d'Acquisition de Cibles RA-92 utilise un ensemble de technologies pour suivre des cibles terrestres et aériennes et communiquer avec les systèmes d'armes.</RadarDish.description>
+	<RadarDish.description>Le Système de Communication et d'Acquisition de Cibles RA-92 utilise un ensemble de technologies permettant de suivre des cibles terrestres et aériennes et communiquer avec les systèmes d'armes.</RadarDish.description>
 	<RadarDish.comps.CompUpgradable.upgrades.0.stats.0>Améliore la détection des menaces.</RadarDish.comps.CompUpgradable.upgrades.0.stats.0>
 
 	<PPCADS.label>ADS</PPCADS.label>
@@ -21,7 +21,7 @@
 	<PPCTeslaCoil.description>La Bobine Tesla RA-42T délivre une puissante décharge sous forme d'arc électrique qui entraîne des sévères brûlures ou la mort de la cible. Efficacité de 100%, portée moyenne. Cible et tir automatiquement grâce à un SCAC. Du personnel est requis sur la SCSA pour effectuer des ciblages manuels, mais pas pour le tir automatique.</PPCTeslaCoil.description>
 	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>Dégâts +15%.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.0>
 	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>Portée +10.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.1>
-	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>Taille de l'impulsion +15%.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>
+	<PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>Énergie consommée -15%.</PPCTeslaCoil.comps.CompUpgradable.upgrades.0.stats.2>
 	<Tesla_Coil_Arc_Discharger.label>bobine Tesla</Tesla_Coil_Arc_Discharger.label>
 	<Tesla_Coil_Arc_Discharger.description>Arc électrique d'une bobine Tesla.</Tesla_Coil_Arc_Discharger.description>
 
@@ -35,14 +35,14 @@
 	<PPCRailgun.label>Punisseur</PPCRailgun.label>
 	<PPCRailgun.description>Le Punisseur RA-1802D est un canon électrique à 25 coups, qui utilise des impulsions électromagnétiques pour propulser des munitions sabot à très haute vitesse et à des distances très élevées. Du personnel est requis sur la SCSA pour que l'arme soit opérationnelle.</PPCRailgun.description>
 	<PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>Portée +10 cases.</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.0>
-	<PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>Taille de l'impulsion +15%.</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>
+	<PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>Énergie consommée -15%.</PPCRailgun.comps.CompUpgradable.upgrades.0.stats.1>
 	<Railgun_Cannon.label>canon d'un Punisseur</Railgun_Cannon.label>
 	<Railgun_Cannon.description>Canon d'un Punisseur.</Railgun_Cannon.description>
 
 	<PPCObelisk.label>Obélisque</PPCObelisk.label>
 	<PPCObelisk.description>L'Obélisque RA-2152-X utilise un laser à solide concentré afin de vaporiser sa cible. Efficace à 100%, grande portée et puissance dévastatrice, mais dispose d'un temps de recharge très long et d'une consommation de puissance élevée. Fonctionne automatiquement. Nécessite du personnel sur la SCSA pour une sélection manuelle des cibles.</PPCObelisk.description>
 	<PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>Dégâts +15%.</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.0>
-	<PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>Taille de l'impulsion +15%.</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>
+	<PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>Énergie consommée -15%.</PPCObelisk.comps.CompUpgradable.upgrades.0.stats.1>
 	<Obelisk_Laser.label>laser d'un Obélisque</Obelisk_Laser.label>
 	<Obelisk_Laser.description>Laser d'un Obélisque</Obelisk_Laser.description>
 

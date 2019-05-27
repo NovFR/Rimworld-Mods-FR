@@ -5,13 +5,13 @@
 	<turbineBlade.description>Utilisée dans la construction de générateurs.</turbineBlade.description>
 
 	<UraniumPellets.label>granulés d'uranium</UraniumPellets.label>
-	<UraniumPellets.description>Utilisés dans la construction d'assemblage de combustible.</UraniumPellets.description>
+	<UraniumPellets.description>Utilisés dans la construction d'assemblages de combustible.</UraniumPellets.description>
 
 	<Plutonium.label>plutonium</Plutonium.label>
-	<Plutonium.description>Peut être utilisé pour créer des armes nucléaires ou des assemblage de combustible MOX.</Plutonium.description>
+	<Plutonium.description>Peut être utilisé pour créer des armes nucléaires ou des assemblages de combustible MOX.</Plutonium.description>
 
 	<DepletedUraniumPellets.label>granulés d'uranium appauvri</DepletedUraniumPellets.label>
-	<DepletedUraniumPellets.description>Utilisés dans la construction d'assemblage de combustible MOX.</DepletedUraniumPellets.description>
+	<DepletedUraniumPellets.description>Utilisés dans la construction d'assemblages de combustible MOX.</DepletedUraniumPellets.description>
 
 	<!-- NdT: "assemblage de combustible" est trop long dans la piscine de stockage -->
 	<FuelRods.label>assemblage</FuelRods.label>

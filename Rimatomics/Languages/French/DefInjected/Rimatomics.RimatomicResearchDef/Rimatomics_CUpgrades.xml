@@ -10,11 +10,11 @@
 	<ATOMProject.ResearchLabel>MDMA</ATOMProject.ResearchLabel>
 	<ATOMProject.ProjTypeLabel>Amélioration</ATOMProject.ProjTypeLabel>
 	<ATOMProject.ResearchDesc>Le Module de Détection des Menaces Avancé (MDMA) est une amélioration du SCAC. Une fois installé, il augmente significativement la consommation du système, la portée et la puissance de scanners, ce qui permet de détecter les menaces à une plus grande distance. Bien qu'il soit difficile de détecter les petits groupes et que les attaques aériennes laissent peu de temps pour réagir, les larges groupes seront toutefois faciles à détecter. Des détections erronnées sont possibles.</ATOMProject.ResearchDesc>
-	<ATOMProject.ResearchDescDisc>Vous pouvez désormais produire des MDMA dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un SCAC et cliquez sur le bouton MDMA.\n\nLe MDMA sera installé sur tous les SCAC existants.</ATOMProject.ResearchDescDisc>
+	<ATOMProject.ResearchDescDisc>Vous pouvez désormais produire des MDMA dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un SCAC et cliquez sur le bouton MDMA.\n\nLe MDMA doit être installé sur chaque nouveau SCAC.</ATOMProject.ResearchDescDisc>
 
 	<ResearchGuidenceSystem.ResearchLabel>Système de guidage</ResearchGuidenceSystem.ResearchLabel>
 	<ResearchGuidenceSystem.ProjTypeLabel>Amélioration</ResearchGuidenceSystem.ProjTypeLabel>
-	<ResearchGuidenceSystem.ResearchDesc>Augmente la portée et la sensibilité des missiles stratégiques. Testez le système en envoyant un missile de test sur n'importe quelle cible et collectez des données.</ResearchGuidenceSystem.ResearchDesc>
+	<ResearchGuidenceSystem.ResearchDesc>Augmente la portée et la sensibilité des missiles stratégiques. Testez le système en envoyant un missile sur n'importe quelle cible et collectez des données.</ResearchGuidenceSystem.ResearchDesc>
 	<ResearchGuidenceSystem.ResearchDescDisc>L'amélioration du système de guidage est terminée, tous les missiles stratégiques en seront équippés et leur portée maximum devient illimitée.</ResearchGuidenceSystem.ResearchDescDisc>
 
 	<ResearchMEPS.ResearchLabel>SMAE</ResearchMEPS.ResearchLabel>
@@ -43,27 +43,27 @@
 	<ResearchDriveActuator.ResearchLabel>Moteurs améliorés</ResearchDriveActuator.ResearchLabel>
 	<ResearchDriveActuator.ProjTypeLabel>Amélioration</ResearchDriveActuator.ProjTypeLabel>
 	<ResearchDriveActuator.ResearchDesc>Améliore la stabilité et la vitesse de rotation des tourelles à énergie Rimatomics. Le couple de ce moteur amélioré élimine la nécessite d'une boîte de vitesse et offre ainsi une faible inertie de mouvement pour des performances et une stabilité supérieure.</ResearchDriveActuator.ResearchDesc>
-	<ResearchDriveActuator.ResearchDescDisc>Vous pouvez désormais produire des moteurs améliorés dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une tourelle Rimatomics et cliquer sur le bouton Améliorer le moteur.</ResearchDriveActuator.ResearchDescDisc>
+	<ResearchDriveActuator.ResearchDescDisc>Vous pouvez désormais produire des moteurs améliorés dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner une tourelle Rimatomics et cliquer sur le bouton Moteur amélioré.</ResearchDriveActuator.ResearchDescDisc>
 	<ResearchDriveActuator.stats.0>Vitesse +200%.</ResearchDriveActuator.stats.0>
 
 	<ResearchRailgun_TargetingChip.ResearchLabel>Puce de ciblage</ResearchRailgun_TargetingChip.ResearchLabel>
 	<ResearchRailgun_TargetingChip.ProjTypeLabel>Amélioration</ResearchRailgun_TargetingChip.ProjTypeLabel>
 	<ResearchRailgun_TargetingChip.ResearchDesc>Améliore la précision et la portée d'un canon électrique. Testez le système sur n'importe quelle cible et collectez des données.</ResearchRailgun_TargetingChip.ResearchDesc>
-	<ResearchRailgun_TargetingChip.ResearchDescDisc>Vous pouvez désormais produire des puces de ciblage dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un canon électrique et cliquer sur le bouton Installer une puce de ciblage.</ResearchRailgun_TargetingChip.ResearchDescDisc>
+	<ResearchRailgun_TargetingChip.ResearchDescDisc>Vous pouvez désormais produire des puces de ciblage dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un canon électrique et cliquer sur le bouton Puce de ciblage.</ResearchRailgun_TargetingChip.ResearchDescDisc>
 	<ResearchRailgun_TargetingChip.stats.0>Propagation des tirs -50%.</ResearchRailgun_TargetingChip.stats.0>
 	<ResearchRailgun_TargetingChip.stats.1>Portée +10.</ResearchRailgun_TargetingChip.stats.1>
 
 	<ResearchObelisk_LenseModule.ResearchLabel>Module d'objectif</ResearchObelisk_LenseModule.ResearchLabel>
 	<ResearchObelisk_LenseModule.ProjTypeLabel>Amélioration</ResearchObelisk_LenseModule.ProjTypeLabel>
 	<ResearchObelisk_LenseModule.ResearchDesc>Augmente la portée effective de l'obélisque en améliorant la focalisation et la collimation du faisceau principal.</ResearchObelisk_LenseModule.ResearchDesc>
-	<ResearchObelisk_LenseModule.ResearchDescDisc>Vous pouvez désormais produire des modules d'objectif dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Installer un module.</ResearchObelisk_LenseModule.ResearchDescDisc>
+	<ResearchObelisk_LenseModule.ResearchDescDisc>Vous pouvez désormais produire des modules d'objectif dans l'atelier Rimatomics. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Module d'objectif.</ResearchObelisk_LenseModule.ResearchDescDisc>
 	<ResearchObelisk_LenseModule.stats.0>Portée maximale +10.</ResearchObelisk_LenseModule.stats.0>
 	<ResearchObelisk_LenseModule.stats.1>Portée minimale +10.</ResearchObelisk_LenseModule.stats.1>
 
 	<ResearchObelisk_BeamSplitter.ResearchLabel>Séparateur de faisceau</ResearchObelisk_BeamSplitter.ResearchLabel>
 	<ResearchObelisk_BeamSplitter.ProjTypeLabel>Amélioration</ResearchObelisk_BeamSplitter.ProjTypeLabel>
 	<ResearchObelisk_BeamSplitter.ResearchDesc>Divise le faisceau de l'obélisque. Le faisceau secondaire sera réglé sur une fréquence permettant de désactiver les boucliers ennemis, tantis que le rayon principal sera retardé puis envoyé sur la cible avec une puissance maximale.</ResearchObelisk_BeamSplitter.ResearchDesc>
-	<ResearchObelisk_BeamSplitter.ResearchDescDisc>Vous pouvez désormais produire des séparateurs de faisceau pour obélisque. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Installer un séparateur.</ResearchObelisk_BeamSplitter.ResearchDescDisc>
+	<ResearchObelisk_BeamSplitter.ResearchDescDisc>Vous pouvez désormais produire des séparateurs de faisceau pour obélisque. Pour procéder à l'installation, sélectionner un obélisque et cliquer sur le bouton Séparateur de faisceau.</ResearchObelisk_BeamSplitter.ResearchDescDisc>
 	<ResearchObelisk_BeamSplitter.stats.0>Détruit les boucliers et augmente les dégâts.</ResearchObelisk_BeamSplitter.stats.0>
 
 </LanguageData>

@@ -90,7 +90,7 @@
 	<critCommandFireMissionDesc>Tir d'artillerie à longue portée.</critCommandFireMissionDesc>
 	<critCommandLaunchICBM>Lancer un missile</critCommandLaunchICBM>
 	<critCommandLaunchICBMDesc>Lance un missile balistique sur une cible du monde.</critCommandLaunchICBMDesc>
-	<criticbmAttack>La faction ennemie {0} est prête à lancer un missile balistique depuis une base proche, il vous reste {1} jours avant le lancement.</criticbmAttack>
+	<criticbmAttack>La faction ennemie {0} est prête à lancer un missile balistique depuis une base proche, il vous reste {1} jour(s) avant le lancement.</criticbmAttack>
 	<critMagazine>Chargeur: {0}</critMagazine>
 	<critNoSabotRounds>Pas de munition sabot</critNoSabotRounds>
 	<critBombDet>La bombe a expolsé</critBombDet>
@@ -105,7 +105,7 @@
 	<SiloMagazine>Missiles: {0}/{1}</SiloMagazine>
 	<ICBMReady>Missile balistique prêt</ICBMReady>
 	<TestFireHELSOnOwnShells>Détruit nos propres tirs de mortier afin de collecter des données.</TestFireHELSOnOwnShells>
-	<OpenRadar>Ouvrir le traqueur de cibley</OpenRadar>
+	<OpenRadar>Ouvrir le traqueur de cibles</OpenRadar>
 	<NoSabotToExtract>Aucune munition sabot a extraire</NoSabotToExtract>
 	<CancelICBMLaunch>Annuler lancement</CancelICBMLaunch>
 	<CancelICBMLaunchDesc>Annule le lancement.</CancelICBMLaunchDesc>
@@ -114,7 +114,7 @@
 	<!--REACTOR BUILDINGS-->
 	<ReactorUptime>Durée de fonctionnement: {0}</ReactorUptime>
 	<PuCreated>uP: {0}</PuCreated>
-	<fuelCracked>Fissuré!</fuelCracked>
+	<fuelCracked>Fissuré !</fuelCracked>
 	<Managefuel>Gérer</Managefuel>
 	<RoofedTower>La tour est bloquée par le plafond</RoofedTower>
 	<TurbineRPM>Tours par minute: {0} ({1})</TurbineRPM>
@@ -123,7 +123,7 @@
 	<critCoolingCapShare>Capacité de refroidissement utilisée: {0} avec {1} turbines</critCoolingCapShare>
 
 	<ControlRod>Barres de contrôle</ControlRod>
-	<crackedRemoveNow>\FISSURÉ! Retirer immédiatement</crackedRemoveNow>
+	<crackedRemoveNow>FISSURÉ! Retirer immédiatement</crackedRemoveNow>
 	<critCoreTemp>Température du coeur: {0}C</critCoreTemp>
 	<critCoreEnergy>Énergie: {0}kW</critCoreEnergy>
 	<critCoreCooling>Refroidissement: {0}</critCoreCooling>
@@ -133,7 +133,7 @@
 	<critShutdown>Éteindre</critShutdown>
 	<critStartupDesc>Démarrer le coeur, autorise les températures et les niveaux de flux à augmenter.</critStartupDesc>
 	<critShutdownDesc>Arrête le coeur, il est toujours alimenté mais se refroidit, pour ravitailler ou effectuer des réparations.</critShutdownDesc>
-	<critManageReactor>Gérer le réacteur</critManageReactor>
+	<critManageReactor>Utiliser la console</critManageReactor>
 	<critreactorcritical>Réacteur critique</critreactorcritical>
 	<critreactorleaking>Fuite du réacteur</critreactorleaking>
 	<critreactionstable>Réacteur stable</critreactionstable>

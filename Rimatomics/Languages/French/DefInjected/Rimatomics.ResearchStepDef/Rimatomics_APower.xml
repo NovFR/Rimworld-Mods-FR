@@ -39,14 +39,14 @@
 	<BuildControlComputer.description>Construire une console de contrôle et la connecter au coeur du réacteur nucléaire. Cette console sera utilisée pour contrôler le réacteur. Chaque console peut être associée à des coeurs spécifiques en leur attribuant des identifiants, cela vous permettra de lier les connexions d'un coeur à l'autre. Envoyer un colon à la console pour accéder aux contrôles, plusieurs contrôles peuvent être ouverts en même temps.</BuildControlComputer.description>
 
 	<TestReactor.label>Tester le réacteur nucléaire</TestReactor.label>
-	<TestReactor.description>Construire ou acheter des barres de combustible nucléaire, les charger dans le coeur du réacteur en désignant les emplacements de chargement à l'aide de la console. Charger au moins deux barres de combustible côte-à-côte afin de créer une chaîne et utilisez la console du réacteur pour démarrer le coeur. Élever les barres de commande à 8% ou plus pour collecter des données.</TestReactor.description>
+	<TestReactor.description>Fabriquer ou acheter des assemblages de combustible nucléaire, les charger dans le coeur du réacteur en désignant les emplacements de chargement à l'aide de la console. Charger au moins deux assemblages de combustible côte-à-côte afin de créer une chaîne et utilisez la console du réacteur pour démarrer le coeur. Élever les barres de commande à 8% ou plus pour collecter des données.</TestReactor.description>
 
 	<Plutonium1.label>Traitement du plutonium</Plutonium1.label>
 	<Plutonium1.description>Un chercheur qualifié est nécessaire pour étudier les processus de traitement du plutonium, et finaliser les plans d'un prototype d'installation.</Plutonium1.description>
 	<Plutonium2.label>Construire une installation de traitement de plutonium</Plutonium2.label>
 	<Plutonium2.description>Construire une installation de traitement du plutonium, si possible à proximité d'un réacteur afin de réduire la durée d'exposition aux radiations. Une tenue anti-radiation est requise pour les travailleurs.</Plutonium2.description>
 	<Plutonium3.label>Tester l'installation de traitement de plutonium (Très Risqué)</Plutonium3.label>
-	<Plutonium3.description>Procéder à des expérimentations sur l'installation de traitement du plutonium, et vous assurer qu'il fonctionne correctement.</Plutonium3.description>
+	<Plutonium3.description>Procéder à des expérimentations sur l'installation de traitement du plutonium, et vous assurer qu'elle fonctionne correctement.</Plutonium3.description>
 
 	<AdvReactor1.label>Faire des recherches avec le réacteur experimental (Très Risqué)</AdvReactor1.label>
 	<AdvReactor1.description>Un chercheur qualifié est nécessaire pour procéder aux experimentations sur le réacteur experimental. Cette étape comporte des risques.</AdvReactor1.description>
@@ -73,9 +73,9 @@
 	<ICBM4.label>Construire une Station de Commande Semi Automatique (SCSA)</ICBM4.label>
 	<ICBM4.description>Cette console est un ordinateur d'acquisition requis pour toutes les armes à énergie. Il connecte toutes les armes partageant le même réseau électrique, il détecte et assigne les cibles grâce aux capteurs embarqués de ces armes et grâce au Système de Communication et d'Acquisition de Cibles (SCAC). L'affichage principal offre un suivi en temps réel des cibles terrestres et aériennes, et une jauge indique la capacité énergétique totale des CPP connectés au réseau.</ICBM4.description>
 	<ICBM5.label>Construire un Système de Communication et d'Acquisition de Cibles (SCAC)</ICBM5.label>
-	<ICBM5.description>Le SCAC utilise un ensemble de technologies pour suivre les cibles terrestres et aériennes, ce qui inclue les cibles vivantes ou robotiques, les projectiles tels que les obus de mortier ou les sabots des canons électriques, ou les missiles balistiques.</ICBM5.description>
+	<ICBM5.description>Le SCAC utilise un ensemble de technologies permettant de suivre les cibles terrestres et aériennes, ce qui inclue les cibles vivantes ou robotiques, les projectiles tels que les obus de mortier ou les sabots des canons électriques, ou les missiles balistiques.</ICBM5.description>
 	<ICBM6.label>Construire un Libérateur</ICBM6.label>
-	<ICBM6.description>Le Libérateur doit être connecté au même réseau électrique que la console d'armement afin de pouvoir contrôler les systèmes de lancement.</ICBM6.description>
+	<ICBM6.description>Le Libérateur doit être connecté au même réseau électrique que la SCSA afin de pouvoir contrôler ses systèmes de lancement.</ICBM6.description>
 	<ICBM7.label>Collecter des données</ICBM7.label>
 	<ICBM7.description>Lancer un missile stratégique sur n'importe quelle cible afin de collecter des données. La quantité de données dépend du succès du lancement et de la détonation sur une cible.</ICBM7.description>
 
