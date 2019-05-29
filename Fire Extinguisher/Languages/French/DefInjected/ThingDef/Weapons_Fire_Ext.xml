@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Gun_Fire_Ext.label>extincteur</Gun_Fire_Ext.label>
+	<Gun_Fire_Ext.description>Un extincteur manuel permettant de projeter une mousse capable d'éteindre les flammes.</Gun_Fire_Ext.description>
+
+	<Bullet_Fire_Ext_Foam.label>mousse d'extincteur</Bullet_Fire_Ext_Foam.label>
+	<Filth_FExtFireFoam.label>mousse d'extincteur</Filth_FExtFireFoam.label>
+
+</LanguageData>

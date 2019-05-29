@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Make_Gun_Fire_Ext.label>fabriquer un extincteur</Make_Gun_Fire_Ext.label>
+	<Make_Gun_Fire_Ext.description>Fabrique un extincteur manuel permettant de lutter contre les incendies.</Make_Gun_Fire_Ext.description>
+	<Make_Gun_Fire_Ext.jobString>Fabrique un extincteur.</Make_Gun_Fire_Ext.jobString>
+
+</LanguageData>

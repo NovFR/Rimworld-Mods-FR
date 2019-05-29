@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FExt.Name>Extincteurs</FExt.Name>
+
+	<FExt.WarmUpValue>Délai de tir [Par défault: 1.5]:</FExt.WarmUpValue>
+	<FExt.WarmUpValueTip>Temps nécessaire pour effectuer un tir.\nValeur par défaut: 1.5.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.WarmUpValueTip>
+	
+	<FExt.CoolDownValue>Temps de recharge [Par défaut: 2.0]:</FExt.CoolDownValue>
+	<FExt.CoolDownValueTip>Délai entre chaque tir.\nValeur par défaut: 2.0.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.CoolDownValueTip>
+	
+	<FExt.RangeValue>Portée de l'extincteur [Par défaut: 12]:</FExt.RangeValue>
+	<FExt.RangeValueTip>Portée maximale de l'extincteur.\nValeur par défaut: 12.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.RangeValueTip>
+	
+	<FExt.BurstValue>Projectiles de mousse par tir [Par défaut: 3]:</FExt.BurstValue>
+	<FExt.BurstValueTip>Nombre de projectiles émis par chaque tir.\nValeur par défaut: 3.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.BurstValueTip>
+	
+	<FExt.SpeedValue>Vitesse des projectiles de mousse [Par défaut: 30]:</FExt.SpeedValue>
+	<FExt.SpeedValueTip>Valeur par défaut: 30.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.SpeedValueTip>
+	
+	<FExt.RadiusValue>Rayon des projectiles de mousse [Par défaut: 2.5]:</FExt.RadiusValue>
+	<FExt.RadiusValueTip>Valeur par défaut: 2.5.\n\nLe changement n'aura d'effet qu'après un redémarrage du jeu.</FExt.RadiusValueTip>
+	
+	<FExt.UseCleanFoam>La mousse a des propriétés nettoyantes:</FExt.UseCleanFoam>
+	<FExt.DryOutTime>Délai avant la disparition de la mousse nettoyante (en minutes) [Par défaut: 5]:</FExt.DryOutTime>
+	
+	<FExt.GeneralValueTip>(Les changements n'auront d'effet qu'après un redémarrage du jeu)</FExt.GeneralValueTip>
+
+</LanguageData>
