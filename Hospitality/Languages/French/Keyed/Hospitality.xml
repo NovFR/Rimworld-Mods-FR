@@ -42,8 +42,8 @@
 
 	<VisitorsArrivedTitle>Des visiteurs sont arrivés à {0} ({1})</VisitorsArrivedTitle>
 	<VisitorsArrivedDesc>Ils craignent d'entrer sur votre territoire pour les raisons suivantes:\n{1}\n\nSi vous les renvoyez, ils resteront dans la région et reviendront plus tard.</VisitorsArrivedDesc>
-	<VisitorsArrivedAccept>Accueillir</VisitorsArrivedAccept>
-	<VisitorsArrivedRefuse>Renvoyer</VisitorsArrivedRefuse>
+	<VisitorsArrivedAccept>Les rassurer et les accueillir</VisitorsArrivedAccept>
+	<VisitorsArrivedRefuse>Leur dire de revenir plus tard</VisitorsArrivedRefuse>
 	<VisitorsArrivedRefuseUntilBeds>Refuser les visiteurs jusqu'à ce que des lits soient réservés</VisitorsArrivedRefuseUntilBeds>
 	<VisitorsArrivedReasonNoBeds>Il n'y a pas de lits réservés aux visiteurs</VisitorsArrivedReasonNoBeds>
 
@@ -63,8 +63,8 @@
 	<AreaToStayTooltip>Il s'agit de la zone dans laquelle les visiteurs peuvent dormir et se détendre.</AreaToStayTooltip>
 	<AreaToBuyTooltip>Les visiteurs peuvent acheter des objets dans cette zone. Doit être dans la zone d'hébergement.</AreaToBuyTooltip>
 	<ConvincingLeft>Négociation requise</ConvincingLeft>
-	<FriendsRequirement>Nombre de relations dans la colonie nécessaires pour recruter ({0}/{1})</FriendsRequirement>
-	<RecruitmentPenalty>Les relations avec la faction vont baisser en cas de recrutement.</RecruitmentPenalty>
+	<FriendsRequirement>Nombre d'amis dans la colonie nécessaires pour recruter ({0}/{1})</FriendsRequirement>
+	<RecruitmentPenalty>Baisse de relation si recruté: {0} ({1} si forcé)</RecruitmentPenalty>
 	<ImproveRelationship>Tenter de divertir</ImproveRelationship>
 	<LeaveAlone>Laisser</LeaveAlone>
 	<FactionGoodwill>Bonne volonté de la faction</FactionGoodwill>
@@ -73,19 +73,19 @@
 	<SendAway>Renvoyer</SendAway>
 	<SendAwayQuestion>Désirez-vous réellement renvoyer les visiteurs de {0} ?\nSi vous les renvoyez dès leur arrivée cela n'affectera pas vos relations.</SendAwayQuestion>
 	<ForceRecruit>Recruter</ForceRecruit>
-	<ForceRecruitQuestion>Vous pouvez recruter {PAWN_nameDef} immédiatement.\n\nParce qu'{PAWN_pronoun} n'a pas assez suffisamment de relations ici pour vous rejoindre de son plein gré, cela vous coûtera {0} points de relation avec la faction {PAWN_possessive}. Cela vous coûtera moins si {PAWN_pronoun} se fait davantage de relations.{1}\n\n\nVous désirez réellement forcer le recrutement ?</ForceRecruitQuestion>
+	<ForceRecruitQuestion>Vous pouvez recruter {PAWN_nameDef} immédiatement.\n\nParce qu'{PAWN_pronoun} n'a pas assez suffisamment d'amis ici pour vous rejoindre de son plein gré, cela vous coûtera {0} points de relation avec la faction {PAWN_possessive}. Cela vous coûtera moins si {PAWN_pronoun} se fait davantage d'amis.{1}\n\n\nVous désirez réellement forcer le recrutement ?</ForceRecruitQuestion>
 	<ForceRecruitWarning>\n\nLa faction deviendra immédiatement hostile.</ForceRecruitWarning>
 	<NotEnoughFriends>[PAWN_nameDef] n'apprécie pas suffisamment vos colons (opinion > {0}).</NotEnoughFriends>
 	<CanNowBeRecruited>[PAWN_nameDef] peut être recruté(e).</CanNowBeRecruited>
 	<IsATrader>[PAWN_nameDef] fait partie d'une caravane de marchands et n'est pas un visiteur.</IsATrader>
 	<ImproveTooltip>Vos diplomates vont tenter d'améliorer provisoirement l'humeur des visiteurs et leurs relations personnelles. De bons diplomates sont plus efficaces pour cette tâche. De mauvais diplomates risquent de froisser les visiteurs.</ImproveTooltip>
-	<TryRecruitTooltip>Vos diplomates vont tenter de mettre ce visiteur en relation avec vos colons. De bons diplomates sont plus efficaces pour cette tâche. De mauvais diplomates risquent de froisser les visiteurs. Quand un visiteur a suffisamment de relations au sein de votre colonie, il vous rejoint.</TryRecruitTooltip>
+	<TryRecruitTooltip>Vos diplomates vont tenter de mettre ce visiteur en relation avec vos colons. De bons diplomates sont plus efficaces pour cette tâche. De mauvais diplomates risquent de froisser les visiteurs. Quand un visiteur a suffisamment d'amis au sein de votre colonie, il vous rejoint.</TryRecruitTooltip>
 	<MakeDefaultTooltip>Appliquer les zones et les paramètres aux visiteurs actuels et aux visiteurs futures.</MakeDefaultTooltip>
 	<ForceRecruitTooltip>Au lieu d'attendre que vos diplomates charment cet invité, vous pouvez le forcer à rester. Les relations avec la faction seront néanmoins fortement baissées.</ForceRecruitTooltip>
 	<SendAwayTooltip>Demander au groupe de cet invité de retourner chez eux.</SendAwayTooltip>
 
 	<!-- Infos -->
-	<StatsReport_MissingFriends>Relations manquantes</StatsReport_MissingFriends>
+	<StatsReport_MissingFriends>Amis manquants</StatsReport_MissingFriends>
 
 	<!-- Bed -->
 	<ForGuestUse>Réservé aux visiteurs</ForGuestUse>

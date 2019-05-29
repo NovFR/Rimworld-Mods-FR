@@ -15,7 +15,7 @@
 		<li>opinion->dégoût de [ConceptNegative]</li>
 		<li>opinion->crainte de [ConceptNegative]</li>
 		<li>opinion->opinion à propos de [ConceptAny]</li>
-		<li>opinion->longing for [ConceptPositive]</li>
+		<li>opinion->longing de [ConceptPositive]</li>
 		<li>complimented->vanté</li>
 		<li>complimented->félicité</li>
 		<li>complimented->glorifié</li>
