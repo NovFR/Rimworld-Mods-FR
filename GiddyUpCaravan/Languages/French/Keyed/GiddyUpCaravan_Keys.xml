@@ -10,7 +10,7 @@
 	<!--No capital here -->
 	<GU_Car_Explanation_FractionMax>Fraction du max</GU_Car_Explanation_FractionMax>
 	<GU_Car_Explanation_FinalSpeed>Vitesse finale</GU_Car_Explanation_FinalSpeed>
-	<GU_Car_NotReachable_DropAnimal_NPC_Message>Visitor could not reach Giddy-up! NPC Drop off point. Make sure all NPC drop off points are reachable</GU_Car_NotReachable_DropAnimal_NPC_Message>
+	<GU_Car_NotReachable_DropAnimal_NPC_Message>Les visiteurs ne peuvent pas atteindre une zone de monture. Assurez-vous que toutes les zones de monture peuvent être atteintes.</GU_Car_NotReachable_DropAnimal_NPC_Message>
 
 	<!-- Options -->
 

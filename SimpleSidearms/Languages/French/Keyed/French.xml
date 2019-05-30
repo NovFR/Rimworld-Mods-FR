@@ -18,39 +18,39 @@
 	<ReEquipBest_title>Équiper la meilleure dispo.</ReEquipBest_title>
 
 	<LimitCarryInfo_desc/>
-	<LimitCarryInfo_title>*Toujours limité par la capacité de charge du personnage</LimitCarryInfo_title>
+	<LimitCarryInfo_title>* Limité par la capacité de charge du perso.</LimitCarryInfo_title>
 
 	<CEOverrideInfo_desc/>
 	<CEOverrideInfo_title>Désactivé en faveur du système de CE.</CEOverrideInfo_title>
 
 	<LimitModeAmountMelee_desc>Quelles restrictions sont en place sur le nombre d'armes secondaire de mélée.</LimitModeAmountMelee_desc>
-	<LimitModeAmountMelee_title>Mode limite du total d'arme secondaire de mélée</LimitModeAmountMelee_title>
+	<LimitModeAmountMelee_title>Limite du nombre total (mélée)</LimitModeAmountMelee_title>
 	<LimitModeAmountRanged_desc>Quelles restrictions sont en place sur le nombre d'armes secondaires à distance.</LimitModeAmountRanged_desc>
-	<LimitModeAmountRanged_title>Mode limite du total d'arme secondaire à distance</LimitModeAmountRanged_title>
+	<LimitModeAmountRanged_title>Limite du nombre total (distance)</LimitModeAmountRanged_title>
 	<LimitModeAmount_desc>Quelles restrictions sont en place sur le nombre total d'armes secondaires.</LimitModeAmount_desc>
-	<LimitModeAmount_title>Mode limite du nombre total d'armes secondaires</LimitModeAmount_title>
+	<LimitModeAmount_title>Limite du nombre total d'armes secondaires</LimitModeAmount_title>
 	<LimitModeSingleMelee_desc>Quelles restrictions sont en place sur les armes secondaire de mélée individuelles.</LimitModeSingleMelee_desc>
-	<LimitModeSingleMelee_title>Mode limite une seule arme secondaire de mélée</LimitModeSingleMelee_title>
+	<LimitModeSingleMelee_title>Limite arme unique (mélée)</LimitModeSingleMelee_title>
 	<LimitModeSingleRanged_desc>Quelles restrictions sont en place sur les armes secondaire à distance individuelles.</LimitModeSingleRanged_desc>
-	<LimitModeSingleRanged_title>Mode limite une seule arme secondaire à distance</LimitModeSingleRanged_title>
+	<LimitModeSingleRanged_title>Limite arme unique (distance)</LimitModeSingleRanged_title>
 	<LimitModeSingle_desc>Quelles restrictions sont en place sur les armes secondaires individuelle.</LimitModeSingle_desc>
 	<LimitModeSingle_title>Mode limite une seule arme secondaire</LimitModeSingle_title>
 
-	<LimitModeAmountTotal_title>Total</LimitModeAmountTotal_title>
+	<LimitModeAmountTotal_title>Limite totale</LimitModeAmountTotal_title>
 	<LimitModeAmountTotal_desc>Quelles restrictions sont en place sur l'ensemble des armes secondaires.</LimitModeAmountTotal_desc>
 
 	<MaximumMassAmountAbsolute_desc>La masse totale maximum des armes secondaires qu'un personnage peut porter.</MaximumMassAmountAbsolute_desc>
 	<MaximumMassAmountAbsolute_title>Masse max. des armes secondaires</MaximumMassAmountAbsolute_title>
 	<MaximumMassAmountRelative_desc>Le pourcentage maximum du total de la masse des armes secondaires qu'un personnage peut porter par rapport à sa capacité de charge.</MaximumMassAmountRelative_desc>
-	<MaximumMassAmountRelative_title>Pourcentage max. de la masse des armes secondaires</MaximumMassAmountRelative_title>
+	<MaximumMassAmountRelative_title>% de masse max. des armes secondaires</MaximumMassAmountRelative_title>
 	<MaximumMassSingleAbsolute_desc>Masse maximale d'une seule arme secondaire qu'un personnage peut porter.</MaximumMassSingleAbsolute_desc>
 	<MaximumMassSingleAbsolute_title>Masse max. par arme secondaire</MaximumMassSingleAbsolute_title>
 	<MaximumMassSingleRelative_desc>Le pourcentage maximum de la masse d'une seule arme secondaire qu'un personnage peut porter par rapport à sa capacité de charge.</MaximumMassSingleRelative_desc>
-	<MaximumMassSingleRelative_title>Pourcentage de masse max. par arme secondaire</MaximumMassSingleRelative_title>
+	<MaximumMassSingleRelative_title>% de masse max. par arme secondaire</MaximumMassSingleRelative_title>
 	<MaximumSlots_desc>Combien d'armes secondaire un personnage peut porter.</MaximumSlots_desc>
 	<MaximumSlots_title>Emplacements</MaximumSlots_title>
 	<RangedCombatAutoSwitchMaxWarmup_desc>Quel est le seuil après lequel un personnage refusera d'interrompre son attaque pour passer à une arme secondaire ?</RangedCombatAutoSwitchMaxWarmup_desc>
-	<RangedCombatAutoSwitchMaxWarmup_title>Pourcentage maximal du délai d'échauffement</RangedCombatAutoSwitchMaxWarmup_title>
+	<RangedCombatAutoSwitchMaxWarmup_title>Pourcentage max. du délai d'échauffement</RangedCombatAutoSwitchMaxWarmup_title>
 	<RangedCombatAutoSwitch_desc>Les personnages doivent-ils changer d'arme secondaire en fonction de la distance lorsqu'ils attaquent à distance ?</RangedCombatAutoSwitch_desc>
 	<RangedCombatAutoSwitch_title>Changement auto à distance</RangedCombatAutoSwitch_title>
 	<SeparateModes_desc>Les armes de mélée et à distance doivent-elles avoir des restrictions partagées ou séparées?</SeparateModes_desc>
@@ -58,7 +58,7 @@
 	<SidearmSelection_desc/>
 	<SidearmSelection_title>Sélection d'arme secondaire</SidearmSelection_title>
 	<SidearmSpawnChance_desc>Les chances pour chaque personnage qui spawn avec une arme d'également posséder une arme secondaire.</SidearmSpawnChance_desc>
-	<SidearmSpawnChance_title>Chance de spawn arme secondaire</SidearmSpawnChance_title>
+	<SidearmSpawnChance_title>Chance d'apparition d'armes secondaires</SidearmSpawnChance_title>
 	<SingleshotAutoSwitch_desc>Les personnages doivent-ils automatiquement passer à leur arme secondaire après avoir utilisé une arme à utilisation unique?</SingleshotAutoSwitch_desc>
 	<SingleshotAutoSwitch_title>Changement auto arme unique</SingleshotAutoSwitch_title>
 	<SpeedSelectionBiasMelee_desc>Biais des personnages envers les armes avec des vitesses d'attaque plus rapides.</SpeedSelectionBiasMelee_desc>
@@ -71,33 +71,33 @@
 	<SidearmsEnableNeolithicExtension_desc>Autorisé plus d'armes à être utilisées comme armes secondaires par les tribals.</SidearmsEnableNeolithicExtension_desc>
 	<SidearmsEnableNeolithicExtension_title>Étendre armes secondaires néolithiques</SidearmsEnableNeolithicExtension_title>
 	<SidearmsNeolithicExtension_desc/>
-	<SidearmsNeolithicExtension_title>Armes secondaires considérées néolithiques</SidearmsNeolithicExtension_title>
+	<SidearmsNeolithicExtension_title>Armes secondaires\nconsidérées néolithiques</SidearmsNeolithicExtension_title>
 
-	<LimitModeSingle_option_None>Pas de limite</LimitModeSingle_option_None>
-	<LimitModeSingle_option_RelativeWeight>Fraction de masse</LimitModeSingle_option_RelativeWeight>
-	<LimitModeSingle_option_AbsoluteWeight>Masse absolue</LimitModeSingle_option_AbsoluteWeight>
-	<LimitModeSingle_option_Selection>Armes spécifiques</LimitModeSingle_option_Selection>
+	<LimitModeSingle_option_None>Aucune</LimitModeSingle_option_None>
+	<LimitModeSingle_option_RelativeWeight>Fraction</LimitModeSingle_option_RelativeWeight>
+	<LimitModeSingle_option_AbsoluteWeight>Masse</LimitModeSingle_option_AbsoluteWeight>
+	<LimitModeSingle_option_Selection>Armes</LimitModeSingle_option_Selection>
 
-	<LimitModeAmount_option_MaximumCarryWeightOnly>Pas de limite</LimitModeAmount_option_MaximumCarryWeightOnly>
-	<LimitModeAmount_option_RelativeWeight>Fraction de masse</LimitModeAmount_option_RelativeWeight>
-	<LimitModeAmount_option_AbsoluteWeight>Armes spécifiques</LimitModeAmount_option_AbsoluteWeight>
-	<LimitModeAmount_option_Slots>Emplacements</LimitModeAmount_option_Slots>
+	<LimitModeAmount_option_MaximumCarryWeightOnly>Aucune</LimitModeAmount_option_MaximumCarryWeightOnly>
+	<LimitModeAmount_option_RelativeWeight>Fraction</LimitModeAmount_option_RelativeWeight>
+	<LimitModeAmount_option_AbsoluteWeight>Armes</LimitModeAmount_option_AbsoluteWeight>
+	<LimitModeAmount_option_Slots>Empl.</LimitModeAmount_option_Slots>
 
 	<ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
-	<ActiveTab_option_Presets>Presets</ActiveTab_option_Presets>
-	<ActiveTab_option_Automation>Déclencheurs</ActiveTab_option_Automation>
+	<ActiveTab_option_Presets>Présel.</ActiveTab_option_Presets>
+	<ActiveTab_option_Automation>Déclench.</ActiveTab_option_Automation>
 	<ActiveTab_option_Allowances>Limites</ActiveTab_option_Allowances>
-	<ActiveTab_option_Spawning>Spawning</ActiveTab_option_Spawning>
+	<ActiveTab_option_Spawning>Apparition</ActiveTab_option_Spawning>
 	<ActiveTab_option_Misc>Divers</ActiveTab_option_Misc>
 
 	<DropMode_option_Never>Jamais</DropMode_option_Never>
-	<DropMode_option_Panic>Corps à corps</DropMode_option_Panic>
+	<DropMode_option_Panic>C-à-C</DropMode_option_Panic>
 	<DropMode_option_PanicOrRange>Combat</DropMode_option_PanicOrRange>
 	<DropMode_option_Always>Toujours</DropMode_option_Always>
 
 	<PresetExport_title/>
 	<PresetExport_desc/>
-	<PresetExport_label>Copier la configuration active dans le presse-papier</PresetExport_label>
+	<PresetExport_label>Copier dans le presse-papier</PresetExport_label>
 
 	<PresetCustom_title>Personnalisé</PresetCustom_title>
 	<PresetCustom_desc>Paramètres personnalisés. Séléctionnés automatiquement après changement.</PresetCustom_desc>
@@ -105,7 +105,7 @@
 	<Preset0_title>Désactivé</Preset0_title>
 	<Preset0_desc>Toutes les options sont désactivées. Une bonne base pour les configurations qui n'utilisent qu'une petite portion des fonctionnalités du mod.</Preset0_desc>
 	<Preset0_label/>
-	<Preset1half_title>Lite</Preset1half_title>
+	<Preset1half_title>Léger (par défaut)</Preset1half_title>
 	<Preset1half_desc>N'autorise qu'une seule arme de mélée comme arme secondaire.</Preset1half_desc>
 	<Preset1half_label/>
 	<Preset1_title>Équipement seulement</Preset1_title>
@@ -168,8 +168,7 @@
 	<WeaponSwitchAutolockOff>Off</WeaponSwitchAutolockOff>
 
 	<DrawSidearm_gizmoTitle>Armes</DrawSidearm_gizmoTitle>
-	<DrawSidearm_gizmoTooltip>Click gauche pour dégainer {0}.
-Click droit pour jeter {0}.</DrawSidearm_gizmoTooltip>
+	<DrawSidearm_gizmoTooltip>Click gauche pour dégainer {0}.\nClick droit pour jeter {0}.</DrawSidearm_gizmoTooltip>
 	<DrawSidearm_gizmoTooltipMemory>Click droit pour oublier {0}.</DrawSidearm_gizmoTooltipMemory>
 	<DrawSidearm_gizmoTooltipUnarmed>Click gauche pour passer au combat à main nue.</DrawSidearm_gizmoTooltipUnarmed>
 

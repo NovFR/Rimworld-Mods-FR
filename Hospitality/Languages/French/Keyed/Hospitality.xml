@@ -63,8 +63,8 @@
 	<AreaToStayTooltip>Il s'agit de la zone dans laquelle les visiteurs peuvent dormir et se détendre.</AreaToStayTooltip>
 	<AreaToBuyTooltip>Les visiteurs peuvent acheter des objets dans cette zone. Doit être dans la zone d'hébergement.</AreaToBuyTooltip>
 	<ConvincingLeft>Négociation requise</ConvincingLeft>
-	<FriendsRequirement>Nombre d'amis dans la colonie nécessaires pour recruter ({0}/{1})</FriendsRequirement>
-	<RecruitmentPenalty>Baisse de relation si recruté: {0} ({1} si forcé)</RecruitmentPenalty>
+	<FriendsRequirement>Nombre d'amis nécessaires dans la colonie pour être recruté(e) ({0}/{1})</FriendsRequirement>
+	<RecruitmentPenalty>Baisse de relation si recruté(e): {0} ({1} en cas de recrutement forcé)</RecruitmentPenalty>
 	<ImproveRelationship>Tenter de divertir</ImproveRelationship>
 	<LeaveAlone>Laisser</LeaveAlone>
 	<FactionGoodwill>Bonne volonté de la faction</FactionGoodwill>
@@ -73,7 +73,7 @@
 	<SendAway>Renvoyer</SendAway>
 	<SendAwayQuestion>Désirez-vous réellement renvoyer les visiteurs de {0} ?\nSi vous les renvoyez dès leur arrivée cela n'affectera pas vos relations.</SendAwayQuestion>
 	<ForceRecruit>Recruter</ForceRecruit>
-	<ForceRecruitQuestion>Vous pouvez recruter {PAWN_nameDef} immédiatement.\n\nParce qu'{PAWN_pronoun} n'a pas assez suffisamment d'amis ici pour vous rejoindre de son plein gré, cela vous coûtera {0} points de relation avec la faction {PAWN_possessive}. Cela vous coûtera moins si {PAWN_pronoun} se fait davantage d'amis.{1}\n\n\nVous désirez réellement forcer le recrutement ?</ForceRecruitQuestion>
+	<ForceRecruitQuestion>Vous pouvez recruter {PAWN_nameDef} immédiatement.\n\nParce qu'{PAWN_pronoun} n'a pas assez suffisamment d'amis ici pour vous rejoindre de son plein gré, cela vous coûtera {0} points de relation avec sa faction. Cela vous coûtera moins si {PAWN_pronoun} se fait davantage d'amis.{1}\n\n\nVous désirez réellement forcer le recrutement ?</ForceRecruitQuestion>
 	<ForceRecruitWarning>\n\nLa faction deviendra immédiatement hostile.</ForceRecruitWarning>
 	<NotEnoughFriends>[PAWN_nameDef] n'apprécie pas suffisamment vos colons (opinion > {0}).</NotEnoughFriends>
 	<CanNowBeRecruited>[PAWN_nameDef] peut être recruté(e).</CanNowBeRecruited>

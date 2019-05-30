@@ -16,17 +16,16 @@
 	<GUC_Animalselection_Title>Sélectionner les animaux montables</GUC_Animalselection_Title>
 	<GUC_Animalselection_Description>Utilisez la réglette ci-dessus pour filtrer par taille de corps, ou cliquez sur les noms pour choisir manuellement.</GUC_Animalselection_Description>
 	<GUC_Drawselection_Title>Définir la priorité d'affichage</GUC_Drawselection_Title>
-	<GUC_Drawselection_Description>Configurez les animaux qui doivent être affichés devant les colons, et ceux qui doivent être affichés derrière les colons.
-La plupart des animaux devraient être dessinés derrière les colons, mais certains (surtout les animaux à long cou ou à cornes) ont un meilleur rendu lorsqu'ils sont affichés devant.</GUC_Drawselection_Description>
+	<GUC_Drawselection_Description>Configurez les animaux qui doivent être affichés devant les colons, et ceux qui doivent être affichés derrière les colons.\n\nLa plupart des animaux devraient être dessinés derrière les colons, mais certains (surtout les animaux à long cou ou à cornes) ont un meilleur rendu lorsqu'ils sont affichés devant.</GUC_Drawselection_Description>
 	<GUC_SizeOk>Montable</GUC_SizeOk>
 	<GUC_SizeNotOk>Non Montable</GUC_SizeNotOk>
 	<GUC_DrawFront>Animal devant</GUC_DrawFront>
 	<GUC_DrawBack>Animal derrière</GUC_DrawBack>
 
-	<GUC_NotInModOptions>Impossible de monter, animal interdit dans les options du mod.</GUC_NotInModOptions>
-	<GUC_AnimalBusy>Impossible à monter, animal occupé</GUC_AnimalBusy>
-	<GUC_NotFullyGrown>Ne peut pas monter, animal non adulte</GUC_NotFullyGrown>
-	<GUC_NeedsObedience>Ne peut pas monter, l'animal a besoin de dressage : obéissance</GUC_NeedsObedience>
+	<GUC_NotInModOptions>Ne peut pas monter, l'animal n'est pas une monture.</GUC_NotInModOptions>
+	<GUC_AnimalBusy>Ne peut pas monter, l'animal est occupé.</GUC_AnimalBusy>
+	<GUC_NotFullyGrown>Ne peut pas monter, l'animal n'est pas adulte.</GUC_NotFullyGrown>
+	<GUC_NeedsObedience>Ne peut pas monter, l'animal a besoin du dressage : obéissance.</GUC_NeedsObedience>
 	<GUC_Mount>Monter</GUC_Mount>
 	<GUC_Dismount>Descendre</GUC_Dismount>
 
