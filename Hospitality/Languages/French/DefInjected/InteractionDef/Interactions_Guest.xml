@@ -3,17 +3,17 @@
 
 	<GuestDiplomacy.label>amélioration des relations</GuestDiplomacy.label>
 	<GuestDiplomacy.logRulesInitiator.rulesStrings>
-		<li>r_logentry->[INITIATOR_nameDef] a engagé une conversation diplomatique avec [RECIPIENT_nameDef] à propos de [TalkTopicLight].</li>
+		<li>r_logentry->[INITIATOR_nameDef] a engagé une conversation diplomatique avec [RECIPIENT_nameDef] à propos [TalkTopicLight].</li>
 		<li>r_logentry->[INITIATOR_nameDef] a discuté de la pertinence politique de [subject] avec [RECIPIENT_nameDef].</li>
-		<li>r_logentry->[INITIATOR_nameDef] a [complimented] [PersonalCharacteristic] de [RECIPIENT_nameDef].</li>
+		<li>r_logentry->[INITIATOR_nameDef] a [complimented] la [PersonalCharacteristic] de [RECIPIENT_nameDef].</li>
 		<li>r_logentry->[INITIATOR_nameDef] a [complimented] la faction de [RECIPIENT_nameDef].</li>
 		<li>r_logentry->[INITIATOR_nameDef] a [complimented] sa relation avec [RECIPIENT_factionName].</li>
-		<li>r_logentry->[INITIATOR_nameDef] a présenté ses salutations à [RECIPIENT_nameDef] [PersonFamily].</li>
+		<li>r_logentry->[INITIATOR_nameDef] a présenté ses salutations à [RECIPIENT_nameDef].</li>
 		<li>r_logentry->[INITIATOR_nameDef] a essayé de se lier avec [RECIPIENT_nameDef] en discutant [opinion].</li>
 
 		<li>opinion->de [ConceptPositive]</li>
-		<li>opinion->du dégoût de [ConceptNegative]</li>
-		<li>opinion->de la crainte de [ConceptNegative]</li>
+		<li>opinion->du dégoût de [ConceptBadass]</li>
+		<li>opinion->de la crainte de [ConceptAngsty]</li>
 		<li>opinion->de ses opinions sur [ConceptAny]</li>
 		<li>opinion->du désir de [ConceptPositive]</li>
 		<li>complimented->vanté</li>
