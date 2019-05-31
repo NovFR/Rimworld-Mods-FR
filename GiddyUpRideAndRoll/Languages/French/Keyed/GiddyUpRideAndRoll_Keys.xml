@@ -23,4 +23,7 @@
 	<GU_RR_NoDropAnimal_Description>Une zone d'interdiction a été définie mais il n'existe aucune zone de monture. La zone d'interdiction n'a donc aucun effet. Consultez le menu Zones de l'onglet Architecte pour placer une zone de monture.</GU_RR_NoDropAnimal_Description>
 	<GU_RR_NotReachable_DropAnimal_Message>Un colon ne peut pas rejoindre une zone de monture. Assurez-vous que toutes les zones peuvent être atteintes.</GU_RR_NotReachable_DropAnimal_Message>
 
+	<GU_RR_Gizmo_LeaveRider_Label>Laisser le cavalier</GU_RR_Gizmo_LeaveRider_Label>
+	<GU_RR_Gizmo_LeaveRider_Description>Ordonner à l'animal d'arrêter d'attendre son cavalier.</GU_RR_Gizmo_LeaveRider_Description>
+
 </LanguageData>
