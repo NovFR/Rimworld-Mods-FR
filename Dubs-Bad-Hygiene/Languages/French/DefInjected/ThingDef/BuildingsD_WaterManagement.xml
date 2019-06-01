@@ -2,10 +2,10 @@
 <LanguageData>
 
 	<WaterWellInlet.label>puits d'eau</WaterWellInlet.label>
-	<WaterWellInlet.description>Donne accès aux sources d'eau peu profondes qui peuvent être ensuite acheminée avec des canalisations et des pompes à eau. La présence d'eaux usées ou autre polluant peut dégrader la qualité de l'eau et provoquer sa contamination.</WaterWellInlet.description>
+	<WaterWellInlet.description>Donne accès aux sources d'eaux peu profondes qui peuvent être ensuite acheminées avec des canalisations et des pompes à eau. La présence d'eaux usées ou autre polluant peut dégrader la qualité de l'eau et provoquer sa contamination.</WaterWellInlet.description>
 
 	<DeepWaterWellInlet.label>puits d'eaux souterraines</DeepWaterWellInlet.label>
-	<DeepWaterWellInlet.description>Donne accès aux grandes sources d'eaux souterraines qui peuvent être ensuite acheminée avec des canalisations et des pompes à eau. Ces puits ne sont pas affectés par la pollution du sol.</DeepWaterWellInlet.description>
+	<DeepWaterWellInlet.description>Donne accès aux grandes sources d'eaux souterraines qui peuvent être ensuite acheminées avec des canalisations et des pompes à eau. Ces puits ne sont pas affectés par la pollution du sol.</DeepWaterWellInlet.description>
 
 	<WaterButt.label>citerne</WaterButt.label>
 	<WaterButt.description>Stocke l'eau utilisés par les appareils de plomberie. Le réservoir doit être vidé en cas de contamination de l'eau.</WaterButt.description>
@@ -26,7 +26,7 @@
 	<PumpingStation.description>Pompe l'eau des puits vers les chateaux d'eau. Peut pomper jusqu'à 10000l/jour.</PumpingStation.description>
 
 	<SewageOutlet.label>sortie des eaux usées</SewageOutlet.label>
-	<SewageOutlet.description>Peut être placée n'importe où. Les eaux usées sont répandues dans le sol ou dans l'eau. Les eaux usées sont éliminées avec le temps, la présence d'arbres, de pluie ou d'eau accélère le processus.</SewageOutlet.description>
+	<SewageOutlet.description>Peut être placée n'importe où. Les eaux usées sont répandues dans le sol ou dans l'eau. Les eaux usées sont éliminées avec le temps. La présence d'arbres, de pluie ou d'eau accélère le processus.</SewageOutlet.description>
 
 	<SewageSepticTank.label>fosse sceptique</SewageSepticTank.label>
 	<SewageSepticTank.description>Nettoie progressivement les eaux usées. Elles sont d'abord envoyées dans la fosse sceptique et, lorsque celle-ci est pleine, elles sont rejetées par une sortie des eaux usées.</SewageSepticTank.description>
@@ -35,6 +35,6 @@
 	<SewageTreatment.description>Nettoie progressivement les eaux usées. Si la station reçoit plus d'eaux usées qu'elle ne peut en traiter, l'excèdant est rejeté par une sortie des eaux usées sans être épurée.</SewageTreatment.description>
 
 	<WaterTreatment.label>purificateur d'eau</WaterTreatment.label>
-	<WaterTreatment.description>Détruit 99.9% des germes ! Filtre l'eau des chateaux d'eau, et toute l'eau utilisée par les appareils de plomberie, éliminant ainsi le risque de maladies.</WaterTreatment.description>
+	<WaterTreatment.description>Détruit 99.9% des germes ! Filtre l'eau des chateaux d'eau, et toute l'eau utilisée par les appareils de plomberie, éliminant ainsi les risques de maladies.</WaterTreatment.description>
 
 </LanguageData>

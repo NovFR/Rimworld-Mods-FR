@@ -21,7 +21,7 @@
 	<SolarHeater.comps.CompBoilerSolar.GizmoLabel>Puissance</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
 
 	<HotWaterTank.label>ballon d'eau chaude</HotWaterTank.label>
-	<HotWaterTank.description>Stocke l'eau chaude pour les douches et les bains. Connecter à un chauffe-eau pour bénéficier de l'eau chaude.</HotWaterTank.description>
+	<HotWaterTank.description>Stocke l'eau chaude pour les douches et les bains. Le connecter à un chauffe-eau pour bénéficier de l'eau chaude.</HotWaterTank.description>
 
 	<Radiator.label>radiateur</Radiator.label>
 	<Radiator.description>Chauffe une pièce en utilisant de l'eau chaude. Requiert au moins 100 unités de chaleur.</Radiator.description>
