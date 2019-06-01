@@ -30,8 +30,8 @@
 	<VisitorsLeavingNormal>Leur séjour était correct. (Score: {1})</VisitorsLeavingNormal>
 	<VisitorsLeavingBad>Ils attendaient un peu mieux de vous. (Score: {1})</VisitorsLeavingBad>
 	<VisitorsLeavingAwful>Ils ont été déçus de leur séjour. (Score: {1})</VisitorsLeavingAwful>
-	<VisitorSatisfied>{0} a apprécié {1}. {2} vous offre {3}.</VisitorSatisfied>
-	<VisitorVerySatisfied>{0} a vraiment apprécié {1}. {2} vous offre {3}.</VisitorVerySatisfied>
+	<VisitorSatisfied>{0} a apprécié le séjour. {2} vous offre {3}.</VisitorSatisfied>
+	<VisitorVerySatisfied>{0} a vraiment apprécié le séjour. {2} vous offre {3}.</VisitorVerySatisfied>
 	<MessageVisitorsLeavingCold>Les visiteurs de {0} repartent parce qu'il fait trop froid.</MessageVisitorsLeavingCold>
 	<VisitorsSentAway>Vous les avez renvoyés.</VisitorsSentAway>
 
