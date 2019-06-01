@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Diplomat.labelShort>Négociant</Diplomat.labelShort>
+	<Diplomat.labelShort>Diplomate</Diplomat.labelShort>
 	<Diplomat.pawnLabel>Diplomate</Diplomat.pawnLabel>
-	<Diplomat.gerundLabel>Négociation</Diplomat.gerundLabel>
+	<Diplomat.gerundLabel>diplomatie</Diplomat.gerundLabel>
 	<Diplomat.description>Les diplomates divertissent les visiteurs et recrutent de nouveaux colons.</Diplomat.description>
-	<Diplomat.verb>Négocie</Diplomat.verb>
+	<Diplomat.verb>Faire de la diplomatie</Diplomat.verb>
 
 </LanguageData>
